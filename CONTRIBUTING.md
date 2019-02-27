@@ -26,7 +26,7 @@ Si vous souhaitez faire des corrections vous pouvez suivre la procédure suivant
 * Faites une pull request.
 
 Essayez tant que possible d'être clair dans le message de commit. En fonction de la nature des modifications, ajoutez au début du titre du commit :
-* :globe_with_meridians: `:globe_with_meridians:` pour de nouveaxu articles ;
+* :sparkles: `:sparkles:` pour de nouveaxu articles ;
 * :pencil2: `:pencil2:` pour des corrections orthographiques, grammaticales, syntaxiques ou typographiques ;
 * :art: `:art:` lorsque vous effectuez des améliorations de styles ou visuelles.
 
