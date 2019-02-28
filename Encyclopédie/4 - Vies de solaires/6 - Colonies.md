@@ -1,15 +1,15 @@
 # Colonies
-> « Il n’était pas simple d’y faire vivre 5 spationautes entra&icirc;nés : ce sont des millions de personnes ordinaires qui y habitent désormais. »
+> « Il n’était pas simple d’y faire vivre 5 spationautes entraînés : ce sont des millions de personnes ordinaires qui y habitent désormais. »
 
 ## De véritables cités
 Lorsque HIARTech a établi sa première colonie, vivre dans l’espace était un véritable défi. Depuis, l’établissement de l’Homme dans l’espace s’est considérablement simplifié ; même si le danger existe toujours. Ainsi, les colonies parsèment le système solaire, de Mercure à Triton, et sont autant de refuges pour la vie extraterrestre.
 
 Ce qu’il faut toutefois bien comprendre, c’est que les colonies sont de véritables cités. En fait, le terme « colonie » correspond désormais à « cité extraterrestre » : la notion de tutelle relatif à ce terme n’y a plus cours.
 
-Contrairement à une idée re&ccedil;ue, provenant notamment de la victoire des colonies sur la Terre, les habitants de ces cités ne sont pas si nombreux : la population sentiente recensée des colonies n’excède pas les 7 millions d’individus. Une cité abrite en moyenne 36 000 habitants et près de 180 colonies jalonnent le système solaire.
+Contrairement à une idée reçue, provenant notamment de la victoire des colonies sur la Terre, les habitants de ces cités ne sont pas si nombreux : la population sentiente recensée des colonies n’excède pas les 7 millions d’individus. Une cité abrite en moyenne 36 000 habitants et près de 180 colonies jalonnent le système solaire.
 
 ## Principaux types architecturaux
-Parmi les colonies, il n’existe que peu de copies. Certes, on retrouve de nombreux points communs dans l’architecture des colonies con&ccedil;ues par la même corporation, mais au final, chaque cité, ou presque, reste unique.
+Parmi les colonies, il n’existe que peu de copies. Certes, on retrouve de nombreux points communs dans l’architecture des colonies conçues par la même corporation, mais au final, chaque cité, ou presque, reste unique.
 
 Il existe quand même trois grandes catégories architecturales de colonies :
 * les arcologies : les colonies qui adoptent ce type architectural sont constituées d’une unique structure. Il s’agit de véritables cités à l’intérieur d’un seul et même bâtiment de plus de 300 mètres de haut. Il n’est pas rare que de telles installations soient enterrées.
@@ -25,20 +25,20 @@ Vivre dans un espace clos peut poser un problème pour de nombreuses personnes. 
 
 Si les cités dômes résolvent efficacement le problème, les arcologies ne sont pas en reste. L’intérieur de ces monstres n’est pas constitué d’habitations étriqués reliées par un labyrinthe de coursives insalubres. Ce sont de véritables rues qui découpent l’espace intérieur de ces cités. Hautes de plusieurs étages, suffisamment larges pour accueillir les terrasses des restaurants, ces artères bénéficient souvent d’une architecture recherchée. Pour couronner le tout, les plafonds de ces rues sont souvent équipés d’un ciel holographique.
 
-Restent les installations modulaires. Ces dernières peuvent parfois utiliser les méthodes des arcologies, mais en général, elles ne sont tout simplement pas con&ccedil;ues pour abriter une population à temps plein.
+Restent les installations modulaires. Ces dernières peuvent parfois utiliser les méthodes des arcologies, mais en général, elles ne sont tout simplement pas conçues pour abriter une population à temps plein.
 
 ## Stations et vaisseaux spatiaux
 L’absence de gravité en orbite conditionne grandement l’architecture des installations spatiales. Heureusement, certaines sections en rotation des plus grandes stations permettent de simuler une gravité en utilisant la force centrifuge.
 
 Ainsi, l’architecture urbaine des stations spatiales est profondément modifiée selon que l’on soit ou non dans une section en apesanteur.
 
-Les parties sous influence d’une gravité artificielle sont généralement circulaires, la gravité s’exer&ccedil;ant vers l’extérieur du cercle. Dans ces grands anneaux de souvent plusieurs centaines de mètres de diamètre, on retrouve l’architecture propre des arcologies avec de grandes (et souvent uniques) rues. Il n’est pas rare par ailleurs que le toit, orienté vers le centre de l’installation soit composés d’une grande verrière blindée.
+Les parties sous influence d’une gravité artificielle sont généralement circulaires, la gravité s’exerçant vers l’extérieur du cercle. Dans ces grands anneaux de souvent plusieurs centaines de mètres de diamètre, on retrouve l’architecture propre des arcologies avec de grandes (et souvent uniques) rues. Il n’est pas rare par ailleurs que le toit, orienté vers le centre de l’installation soit composés d’une grande verrière blindée.
 
 Pour rallier ces sections, des ascenseurs permettent de monter vers le centre de la structure en rotation, la gravité diminuant au fur et à mesure que l’on se rapproche du centre. Un système de sas élaboré relie alors la section en rotation avec les autres parties, immobiles, de la station.
 
 Les zones en apesanteurs, que ce soit sur les stations ou les vaisseaux spatiaux, ont une architecture intérieure radicalement différente. Comme il n’existe plus de force pour plaquer les objets au sol, et comme la notion même de sol n’a plus vraiment de sens, ces environnements sont beaucoup plus balisés, un code couleur indique les différentes directions. L’espace est beaucoup moins vaste : les coursives suffisamment petites pour permettre à un humain de toucher au moins une paroi quoi qu’il arrive et des rambardes courent sur toutes les surfaces pour aider à la progression.
 
-Les salles sont à peine plus vastes, mais une direction «haut» est souvent indiquée implicitement par l’architecture, le positionnement de l’éclairage et le mobilier. Dans cet univers sans poids, tout est attaché d’une fa&ccedil;on ou d’une autre et les éventuels sièges ou installations de travail sont équipées de légères sangles pour aider l’utilisateur à rester sur place. Les lits sont même comparables à des sacs de couchages collés sur de fins matelas.
+Les salles sont à peine plus vastes, mais une direction «haut» est souvent indiquée implicitement par l’architecture, le positionnement de l’éclairage et le mobilier. Dans cet univers sans poids, tout est attaché d’une façon ou d’une autre et les éventuels sièges ou installations de travail sont équipées de légères sangles pour aider l’utilisateur à rester sur place. Les lits sont même comparables à des sacs de couchages collés sur de fins matelas.
 
 Notez que les êtres organiques, principalement les biologiques, sont toutefois très vivement encouragés à rester dans des sections avec une gravité artificielle pour limiter les effets de dégénérescence dus à l’apesanteur.
 
@@ -47,7 +47,7 @@ Les colonies sont d’énormes cités disposées sur plusieurs niveaux, et même
 
 Le premier est l’ascenseur. Les cités ayant souvent des structures très verticales, surtout comparées aux cités terrestres, ces dispositifs, souvent importants, occupent véritablement une place de transport en commun. On peut noter que dans certaines colonies des tapis roulants ayant différentes vitesses sont utilisés pour faciliter les déplacements dans les trois dimensions à la vitesse souhaitée par l’utilisateur.
 
-Bien s&ucirc;r, des moyens de transport plus anciens sont encore largement utilisés, comme notamment les lignes de métros dans les plus grandes colonies ou celles de trains qui relient les colonies proches. Ces réseaux sont souvent très denses et leur flux, supervisé en temps réel par des IA spécialisées, s’adapte à la fréquentation.
+Bien sûr, des moyens de transport plus anciens sont encore largement utilisés, comme notamment les lignes de métros dans les plus grandes colonies ou celles de trains qui relient les colonies proches. Ces réseaux sont souvent très denses et leur flux, supervisé en temps réel par des IA spécialisées, s’adapte à la fréquentation.
 
 Pour les trajets plus longs, orbitaux ou suborbitaux, des lignes de navettes assurent la liaison entre les colonies et les installations orbitales. Pour les plus longs trajets, ce sont des vaisseaux lourds qui sont utilisés, parfois même en convois. Ces dernières lignes changent au fil du temps du fait du mouvement des planètes.
 
@@ -73,7 +73,7 @@ Sans surprise l’accès à ces services demandent généralement une autorisati
 En plus de ces services vitaux, il faut noter que les colonies disposent aussi de services tels que des centres de loisir, des maisons d’associations, des centres de formation ou éducatifs, d’une infrastructure réseau ou un système de transport urbain.
 
 ## Organisation politique
-L’organisation politique des colonies est proche de celles de cités-états. Ceci est principalement d&ucirc; au relatif isolement de ces villes.
+L’organisation politique des colonies est proche de celles de cités-états. Ceci est principalement dû au relatif isolement de ces villes.
 
 Toujours est-il que ces cités appartiennent à une corporation qui a potentiellement tout pouvoir dessus, y compris celui de la démanteler. En revanche, la notion de territoire n’existe pas, en dehors de l’exception martienne. Les corporations possèdent les installations mais pas le terrain. Il est donc courant de voir des colonies de deux corporations différentes, voir rivales, se côtoyer.
 
@@ -84,7 +84,7 @@ On retrouve cette dualité civile/militaire dans la plupart des institutions et 
 ## Loi des colonies
 En matière de réglementations et de lois, le système des colonies est simple : les lois spécifiques des colonies prévalent sur les lois de la corporation. Toutefois pour éviter toute mauvaise surprise, les lois qui diffèrent des normes de la corporation doivent être transmises aux visiteurs avant leur arrivée. Le débarquement ne leur est alors autorisé que s’ils acceptent ces lois. Notez que les corporations peuvent, et n’hésitent pas à faire, modifier les lois d’une cité en cas d’abus.
 
-Les lois, toujours formulées de fa&ccedil;on restrictive, sont appliquées par le biais de jugements devant une cour mixte dépendant à la fois de la hiérarchie civile et de la hiérarchie militaire. Cette cour décide donc s’il y a infraction, ou non, ainsi que de l’éventuelle peine. Il reste possible dans certains cas exceptionnels, notamment si les faits impliquent plusieurs colonies, que le jugement soit prononcé directement par une corporation.
+Les lois, toujours formulées de façon restrictive, sont appliquées par le biais de jugements devant une cour mixte dépendant à la fois de la hiérarchie civile et de la hiérarchie militaire. Cette cour décide donc s’il y a infraction, ou non, ainsi que de l’éventuelle peine. Il reste possible dans certains cas exceptionnels, notamment si les faits impliquent plusieurs colonies, que le jugement soit prononcé directement par une corporation.
 
 Après vérification de la validité du jugement, c’est la corporation elle-même qui se charge d’assurer l’exécution de la «peine».
 
@@ -98,15 +98,15 @@ Les peines habituellement prononcées sont :
 * Stase : si le coupable représente un danger et qu’il a refusé la peine de correction, ce qui est son droit, il est alors mis en stase jusqu’à ce qu’une hypothétique solution puisse être trouvé à l’avenir. Cette peine, lorsqu’elle est prononcée, est impérative : le coupable ne possède pas le droit de la refuser.
 
 ## Restrictions militaires
-Parmi les nombreuses lois des colonies, celles concernant les restrictions sur l’équipement militaire et l’armement semblent commune à pratiquement toutes les corporations. Ainsi, de fa&ccedil;on générale tout l’équipement dédié à la sécurité militaire est réservé aux professionnels pourvus d’une licence. De plus l’armement lourd, c’est à dire tout ce qui est susceptible d’endommager une cloison d’isolation standard, est strictement interdit en dehors des mains des agents de sécurité habilités.
+Parmi les nombreuses lois des colonies, celles concernant les restrictions sur l’équipement militaire et l’armement semblent commune à pratiquement toutes les corporations. Ainsi, de façon générale tout l’équipement dédié à la sécurité militaire est réservé aux professionnels pourvus d’une licence. De plus l’armement lourd, c’est à dire tout ce qui est susceptible d’endommager une cloison d’isolation standard, est strictement interdit en dehors des mains des agents de sécurité habilités.
 
 Mars est encore plus stricte sur cette notion : toute arme létale pour un humain «moyen», biologique ou cybernétisé, est strictement interdite aux civils sur le sol de la planète rouge. Seules les forces de sécurités sont habilitées à en posséder. Le reste du matériel de sécurité qu’il soit défensif, offensif ou incapacitant, requiert une licence. Les infractions à cette loi sont considérées comme graves.
 
 Il est important de noter que le matériel entreposé dans un vaisseau, même amarré à la cité, sort du cadre de ces lois. Il reste toutefois interdit de débarquer ce matériel de ces vaisseaux s’il n’est pas conforme à la législation de celles-ci.
 
-De fa&ccedil;on plus générale, ce qui se passe à l’intérieur d’un vaisseau relève de l’autorité de son commandant et de la corporation dont il dépend. Un freelance se doit toutefois de respecter le traité des colonies et le traité des Solaires sous peine de subir les affres d’une enquête indépendante, voir le courroux des Solar Wardners.
+De façon plus générale, ce qui se passe à l’intérieur d’un vaisseau relève de l’autorité de son commandant et de la corporation dont il dépend. Un freelance se doit toutefois de respecter le traité des colonies et le traité des Solaires sous peine de subir les affres d’une enquête indépendante, voir le courroux des Solar Wardners.
 
-Malgré la relative accessibilité de l’armement, il est à noter que seuls les professionnels possèdent ce genre de matériel. Le «commun des mortels» n’en a aucune utilité, surtout quand on conna&icirc;t la volonté des corporations pour ce qui est de protéger ses incorporés.
+Malgré la relative accessibilité de l’armement, il est à noter que seuls les professionnels possèdent ce genre de matériel. Le «commun des mortels» n’en a aucune utilité, surtout quand on connaît la volonté des corporations pour ce qui est de protéger ses incorporés.
 
 ## Permissions, prescriptions et prérequis administratifs
 Que ce soit une accréditation, une licence, un brevet ou autre, les corporations régulent généralement un certain nombre d’activités, de possessions ou de présentations.
@@ -117,7 +117,7 @@ L’architecture et plus généralement la conception de structures destinées �
 
 L’armement est le troisième domaine le plus réglementé. L’usage, la fabrication, la possession ou le transfert font l’objet de lois spécifiques. Ces lois diffèrent grandement d’une corporation à l’autre, voire d’une cité à l’autre. Par exemple, alors que l’accès aux armes est strictement contrôlé sur Mars, certaines cités de Suan et Aesir notamment ont des lois ordonnant aux citoyens de posséder au moins une arme. Les lois les plus restrictives sont contournées quotidiennement, souvent par pure curiosité, comme lorsqu’un Solaire tente de produire un gaz de combat avec un synthétiseur, ou parce que certains Solaires souhaitent prendre une part active à leur sécurité, par exemple en utilisant une imprimante 3D pour créer une arme relativement primitive.
 
-Bien s&ucirc;r, d’autres domaines ont des réglementations et régulations propres.
+Bien sûr, d’autres domaines ont des réglementations et régulations propres.
 
 ## Liberté d’association
 La liberté d’association est fondamentale dans l’univers de Solaires. En effet, sans celle-ci, les Solaires seraient pratiquement esclaves de la corporation les ayants créés.

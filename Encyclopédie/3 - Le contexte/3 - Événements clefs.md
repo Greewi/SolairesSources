@@ -4,7 +4,7 @@
 ## L’affaire Leena
 Aujourd’hui, la plupart des observateurs s’accordent pour dire que l’affaire Leena est à l’origine de l’opposition entre HIARTech et les Nations Unies. Elle est d’ailleurs symptomatique du schisme éthique entre la Terre et les Colonies.
 
-Après la levée du moratoire sur les IA fortes, la corporation a développé Synchro, la première IA forte con&ccedil;ue par l’humanité. Mais, considérant qu’il était possible de faire mieux, HIARTech s’est attelée à concevoir la première IA sentiente. Cette nouvelle forme d’IA fut considérée comme illégale et Leena, qui avait été activée, fut éteinte puis supprimée par les autorités.
+Après la levée du moratoire sur les IA fortes, la corporation a développé Synchro, la première IA forte conçue par l’humanité. Mais, considérant qu’il était possible de faire mieux, HIARTech s’est attelée à concevoir la première IA sentiente. Cette nouvelle forme d’IA fut considérée comme illégale et Leena, qui avait été activée, fut éteinte puis supprimée par les autorités.
 
 Évidemment HIARTech avait conservé des copies de cette IA et en avait envoyé sur Mars, attendant un moment plus propice. L’isolement des colonies et l’absence d’autorité gouvernementale sur place rendait la résurrection de Leena possible. Le déclencheur fut la mise en place de l’infrastructure de SolNet qui permettait de déployer l’IA directement sur le réseau.
 
@@ -13,9 +13,9 @@ Après la levée du moratoire sur les IA fortes, la corporation a développé Sy
 ## L’espionnage du conseil de sécurité
 Depuis la désactivation de Leena, HIARTech était consciente que l’ONU finirait par prendre des mesures contre elle. Après la mise au point des nano-robots autoréplicants, les Nations Unies avaient obtenu le droit d’initier des opérations militaires contre les corporations si cela devenait nécessaire. L’ONU n’avait d’ailleurs pas hésité à menacer ouvertement les corporations sitôt ce droit acquis.
 
-S&ucirc;re de ses capacités à contrer les menaces juridiques, la corporation s’inquiétait plus de cette nouvelle menace. Pour pouvoir anticiper une attaque suffisamment tôt, HIARTech introduisit un espion au sein du Conseil de sécurité.
+Sûre de ses capacités à contrer les menaces juridiques, la corporation s’inquiétait plus de cette nouvelle menace. Pour pouvoir anticiper une attaque suffisamment tôt, HIARTech introduisit un espion au sein du Conseil de sécurité.
 
-Malheureusement pour la corporation, cet agent fut finalement découvert au bout de six mois d’activité. L’Organisation des Nations Unies décida alors qu’il était temps d’en finir avec HIARTech. Elle lan&ccedil;a une opération d’envergure pour balayer la corporation de la surface de la Terre, ce qu’elle fit. La corporations sera officiellement en exil sur Mars, où elle se reconstruira plus puissante encore.
+Malheureusement pour la corporation, cet agent fut finalement découvert au bout de six mois d’activité. L’Organisation des Nations Unies décida alors qu’il était temps d’en finir avec HIARTech. Elle lança une opération d’envergure pour balayer la corporation de la surface de la Terre, ce qu’elle fit. La corporations sera officiellement en exil sur Mars, où elle se reconstruira plus puissante encore.
 
 Durant l’opération, Alfred Johnwen, le PDG visionnaire de HIARTech fut tué et devint un symbole dans les colonies. Depuis ce jour, les corporations se préparent à la guerre.
 
@@ -33,11 +33,11 @@ Le résultat de l’enquête démontra très clairement l’implication de l’O
 ## La guerre des Colonies
 Avec la militarisation accélérée des colonies, l’ONU s’apercevait qu’elle finirait par perdre définitivement le dessus si elle ne frappait pas rapidement. En un sens, c’est toute l’humanité qui s’apercevait qu’elle allait être laissée sur le bord de la route si les colonies continuaient à avancer à ce rythme exponentiel.
 
-Après avoir proféré son ultimatum et tenté vainement de ramener les corporations «à la raison», l’ONU déclara la guerre et lan&ccedil;a l’offensive. Elle initia simultanément deux opérations : Mars et Jupiter.
+Après avoir proféré son ultimatum et tenté vainement de ramener les corporations «à la raison», l’ONU déclara la guerre et lança l’offensive. Elle initia simultanément deux opérations : Mars et Jupiter.
 
-Son premier objectif, la planète rouge, aurait d&ucirc; être rapide à prendre du fait de la proximité relative avec la Terre et des effectifs en fort surnombre de l’ONU. Mais l’organisation se rendit rapidement compte que Mars avait fait de la guerre électronique un art perfectionné et que ses troupes excellaient dans les opérations commandos. Au final, la flotte onusienne fut en grande partie paralysée et ne parvint pratiquement jamais à poser pied sur le sol martien. C’est un siège d’un an qui s’engageait.
+Son premier objectif, la planète rouge, aurait dû être rapide à prendre du fait de la proximité relative avec la Terre et des effectifs en fort surnombre de l’ONU. Mais l’organisation se rendit rapidement compte que Mars avait fait de la guerre électronique un art perfectionné et que ses troupes excellaient dans les opérations commandos. Au final, la flotte onusienne fut en grande partie paralysée et ne parvint pratiquement jamais à poser pied sur le sol martien. C’est un siège d’un an qui s’engageait.
 
-Le déroulement de l’opération sur le second objectif commen&ccedil;ait bien mieux : des batailles plus conventionnelles où l’ONU et les corporations subissaient des pertes en nombre. Là encore, les effectifs terriens donnaient l’avantage aux Nations Unies.
+Le déroulement de l’opération sur le second objectif commençait bien mieux : des batailles plus conventionnelles où l’ONU et les corporations subissaient des pertes en nombre. Là encore, les effectifs terriens donnaient l’avantage aux Nations Unies.
 
 Avec le front martien figé et celui de Jupiter qui progressait, l’ONU décida de se concentrer sur ce dernier. Comme Mars ne semblait pas en mesure d’effectuer une contre-attaque, elle transféra une importante partie de ses forces affectées à la planète rouge vers le front de la géante gazeuse. Si ceci conféra en quelques mois la victoire à HIARTech, l’ONU parvint à prendre un avantage très important dans le système jovien.
 
@@ -45,13 +45,13 @@ Le tournant de la guerre eu lieu avec la destruction de la colonie Leanor par l�
 
 Cet acte eu un effet positif pour l’ONU puisque Suan ne pouvait alors plus compter que sur ses colonies saturniennes. En revanche, elle redynamisa plus fortement les autres corporations qui traitèrent alors cette guerre comme une guerre d’extermination pour l’Organisation des Nations Unies.
 
-Waylanders généralisa l’utilisation des drones et des chasseurs automatiques ; Mars augmenta considérablement le nombre de ses opérations sur Sol6 visant à réduire les approvisionnements de l’ONU ; Vranberg-Lytan congédia son état-major et le rempla&ccedil;a par Marth, une nouvelle IA forte sentiente dédiée à régler la guerre. Pour les colonies, la logique même de la guerre avait changé : déshumanisée.
+Waylanders généralisa l’utilisation des drones et des chasseurs automatiques ; Mars augmenta considérablement le nombre de ses opérations sur Sol6 visant à réduire les approvisionnements de l’ONU ; Vranberg-Lytan congédia son état-major et le remplaça par Marth, une nouvelle IA forte sentiente dédiée à régler la guerre. Pour les colonies, la logique même de la guerre avait changé : déshumanisée.
 
 Les colonies n’hésitaient plus à employer presque tous les moyens à leur disposition contre l’armée onusienne, certains de ses moyens occupaient encore les Solar Wardners à la fin de la guerre. Marth, surnommée «Iron Lady» par les terriens, mis en œuvre de nouvelles procédures et instaura la logistique nécessaire pour permettre une riposte systématique contre les actions de l’ONU. Son but, en grande partie atteint, consistait à amener les Nations Unies à appréhender les conséquences de ses opérations avant même de les réaliser.
 
-Finalement, l’ONU encha&icirc;na une série de défaites et les victoires de plus en plus systématiques des colonies affaiblirent l’ONU au point que l’organisation commen&ccedil;ait à devoir battre en retraite. Les corporations en profitèrent alors pour passer discrètement les points de contrôles de l’ONU et prendre d’assaut la Terre.
+Finalement, l’ONU enchaîna une série de défaites et les victoires de plus en plus systématiques des colonies affaiblirent l’ONU au point que l’organisation commençait à devoir battre en retraite. Les corporations en profitèrent alors pour passer discrètement les points de contrôles de l’ONU et prendre d’assaut la Terre.
 
-Les forces conjuguées des corporations se mirent en orbite autour de la planète bleue et y neutralisèrent les rares défenses. Elles posèrent ensuite un ultimatum aux nations, mena&ccedil;ant de déverser une centaine de bombe à fusion sur les principales villes. La Terre n’eut d’autre choix que de se plier à leurs exigences : la victoire était entre les mains des Colonies.
+Les forces conjuguées des corporations se mirent en orbite autour de la planète bleue et y neutralisèrent les rares défenses. Elles posèrent ensuite un ultimatum aux nations, menaçant de déverser une centaine de bombe à fusion sur les principales villes. La Terre n’eut d’autre choix que de se plier à leurs exigences : la victoire était entre les mains des Colonies.
 
 ## Traité des Colonies
 Rédigé avec la simplicité et la clarté des documents de loi martiens, le traité des colonies est un accord entre les corporations et les nations terriennes au travers de l’ONU. Il régit tout simplement le rapport entre la Terre et les Colonies. Plus particulièrement :

@@ -7,7 +7,7 @@ Tous les porteurs de l’implant n’ont pas accès aux mêmes pouvoirs. Il exis
 
 Ce n’est pas l’implant en lui-même qui détermine quel ensemble de pouvoir le porteur possédera, mais la présence de certains traits psychologiques. Notez qu’il n’est pas nécessaire de posséder tous les traits indiqués, généralement ce n’est pas le cas, et un seul suffit.
 
-Si le porteur change drastiquement de fa&ccedil;on de penser, son implant peut cesser de fonctionner ou changer de pouvoir.
+Si le porteur change drastiquement de façon de penser, son implant peut cesser de fonctionner ou changer de pouvoir.
 
 ## Matière
 Capacités :
@@ -38,7 +38,7 @@ Traits psychologiques : Impulsif, Vif, Téméraire, Agressif
 ## Espace
 Capacités :
 * Percevoir la position des objets et les champs de forces.
-* Déplacer de fa&ccedil;on continu un objet dans l’espace. La portée de déplacement de l’objet est celle de l’implant (~20 m). Durant le déplacement, l’objet n’est plus soumis aux champs de forces. L’objet récupère toutes ses propriétés (y compris son inertie mais évidemment pas sa position initiale) dès lors qu’il est relâché. Seuls des objets de la taille d’un humain (au plus) peuvent être déplacés ainsi.
+* Déplacer de façon continu un objet dans l’espace. La portée de déplacement de l’objet est celle de l’implant (~20 m). Durant le déplacement, l’objet n’est plus soumis aux champs de forces. L’objet récupère toutes ses propriétés (y compris son inertie mais évidemment pas sa position initiale) dès lors qu’il est relâché. Seuls des objets de la taille d’un humain (au plus) peuvent être déplacés ainsi.
 * Relier temporairement deux lieux par un portail. Chaque extrémité du portail doit être projeté sur la surface d’un objet. L’une des deux extrémités doit se trouver à portée de l’implant et l’autre doit se trouver sur un objet dont le psion a déjà eu la perception. De plus, un portail ne peut relier que deux lieux ayant une pression atmosphérique équivalente. La taille d’un tel portail peut aller jusqu’à 2 mètres de rayon. Note : Les bords intérieurs d’un portail sont extrêmement coupants et si quelque chose se trouve dans le passage à la fermeture, il sera instantanément coupé dans le plan du portail.
 
 Modes d’échec :
@@ -59,7 +59,7 @@ Modes d’échec :
 * Empêche temporairement le psion d’interagir avec d’autres êtres.
 * Fait oublier les souvenirs du psion vieux de quelques heures.
 
-Traits psychologiques : Curieux, Observateur, Parano&iuml;aque, Dominateur
+Traits psychologiques : Curieux, Observateur, Paranoïaque, Dominateur
 
 ## Biologie
 Capacités :
@@ -75,7 +75,7 @@ Traits psychologiques : Empathique, Délicat, Sensible, Manipulateur
 
 ## Méta
 Capacités :
-* Percevoir les implants psions et conna&icirc;tre les pouvoirs qui y sont associés.
+* Percevoir les implants psions et connaître les pouvoirs qui y sont associés.
 * Aider considérablement un autre psion à utiliser son implant. (Cette aide compte alors comme un trait important).
 * Bloquer l’utilisation d’un pouvoir d’un autre psion. Le pouvoir échoue alors sans autre conséquence.
 * Copier un effet d’un pouvoir d’un autre psion. Il est nécessaire d’avoir au préalable assisté à l’utilisation de ce pouvoir.

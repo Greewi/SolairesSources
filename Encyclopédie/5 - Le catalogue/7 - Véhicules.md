@@ -9,7 +9,7 @@ Les exosquelettes militaires transportent de l’armement lourd bien plus puissa
 Les mechas ont un fonctionnement légèrement différent des exosquelettes : alors que ces derniers amplifient la force et se portent comme une sorte de sur-armure, les mechas doivent être pilotés comme les autres véhicules. Ainsi, alors que les exosquelettes sont sensiblement limités à une taille humaine, les mechas sont souvent plus grands. En revanche, leur utilisation reste anecdotique en comparaison.
 
 ## Rovers
-Principal type de véhicule au sol, les rovers sont des engins roulants tout terrains équipés de plusieurs grandes roues ou de chenilles, occasionnellement de pieds. Ils sont ainsi con&ccedil;us pour pouvoir se déplacer sur tous les terrains extraterrestres.
+Principal type de véhicule au sol, les rovers sont des engins roulants tout terrains équipés de plusieurs grandes roues ou de chenilles, occasionnellement de pieds. Ils sont ainsi conçus pour pouvoir se déplacer sur tous les terrains extraterrestres.
 
 Il existe une grande variété de rovers, mais leur usage tend à se raréfier. En effet, ils sont de plus en plus souvent remplacés par les nouvelles générations de navettes et autres vaisseaux spatiaux.
 
@@ -26,7 +26,7 @@ Par leur taille, souvent plus de 15 mètres de haut, ils offrent une bonne visio
 ## Trains
 Dans les colonies, le principal transport utilisé reste le train. Tous les corps célestes habités ont un réseau très dense reliant les colonies se trouvant à leur surface. Chaque colonie dispose également de son propre réseau urbain, lui aussi très dense.
 
-Les rames sont constituées d’un seul wagon et sont entièrement pilotées de fa&ccedil;on autonome par une IA supervisée par le gestionnaire du réseau. Le trafic est ainsi entièrement adaptable au nombre d’usagers et ne souffre d’aucune pause.
+Les rames sont constituées d’un seul wagon et sont entièrement pilotées de façon autonome par une IA supervisée par le gestionnaire du réseau. Le trafic est ainsi entièrement adaptable au nombre d’usagers et ne souffre d’aucune pause.
 
 D’un point de vue technique, les rames sont propulsées dans des tubes sous vide d’air par un rail électromagnétique. Cette technologie permet aux trains d’atteindre des vitesses très élevées, de l’ordre du kilomètre par seconde dans les plus longues sections.
 
@@ -35,7 +35,7 @@ Les navettes sont les plus petits engins spatiaux autonomes. D’une capacité l
 
 Ainsi, les navettes font des allers et retours entre les colonies, les stations et les vaisseaux de transport plus lourd. Elles représentent une grande majorité des engins spatiaux employés.
 
-Les militaires les utilisent aussi de fa&ccedil;on intensive. De nombreux modèles possèdent des capacités de furtivité ou de combat, mais elles restent dédiées à un usage logistique. Pour les combats et autres opérations sur le terrain, les vaisseaux de type chasseurs et corvettes leur sont préférés.
+Les militaires les utilisent aussi de façon intensive. De nombreux modèles possèdent des capacités de furtivité ou de combat, mais elles restent dédiées à un usage logistique. Pour les combats et autres opérations sur le terrain, les vaisseaux de type chasseurs et corvettes leur sont préférés.
 
 ## Chasseurs
 Les chasseurs sont les plus petits vaisseaux spatiaux militaires. Un cockpit, un gros réacteur et des armes : voilà qui pourrait décrire un chasseur. Ce sont des engins dédiés à la destruction des vaisseaux adverses et qui sont spécialisés en fonction de leurs cibles : intercepteurs pour les petits vaisseaux, bombardiers pour les plus gros. Il arrive parfois que d’autres rôles leur soit affecté : chasseur/dragueur de mine, aviso (messager)…
@@ -57,7 +57,7 @@ Les frégates restent relativement courantes bien qu’elles soient un peu plus 
 ## Transporteurs lourds
 Les transporteurs lourds portent bien leur nom : ils sont pratiquement responsables de la totalité des grands échanges entre les systèmes planétaires, transportant personnes et biens.
 
-La durée des voyages entrepris par ces vaisseaux dépassant largement la semaine terrestre, ils sont con&ccedil;us dans un but d’autonomie, possédant tous les services qu’il serait possible de trouver à bord d’une station orbitale.
+La durée des voyages entrepris par ces vaisseaux dépassant largement la semaine terrestre, ils sont conçus dans un but d’autonomie, possédant tous les services qu’il serait possible de trouver à bord d’une station orbitale.
 
 Les transporteurs lourds sont peu utilisés par les forces d’assauts qui leur préfèrent les frégates et corvettes.
 

@@ -18,12 +18,12 @@ L’émetteur de liaison est un petit appareil à poser sur l’un des composant
 
 Il existe deux stratégies majoritaires employées par les glaces. La première consiste à rediriger les flux de données douteux sur un serveur leurre, la seconde consiste à détruire le signal hostile et à rechercher sa source sur le réseau pour la neutraliser.
 
-Les glaces employant la seconde, souvent appelée glaces noires, sont les plus craintes car leur riposte peut entra&icirc;ner des dégâts matériels sur la console du pirate. Les secondes peuvent toutefois se révéler beaucoup plus résistantes aux attaques.
+Les glaces employant la seconde, souvent appelée glaces noires, sont les plus craintes car leur riposte peut entraîner des dégâts matériels sur la console du pirate. Les secondes peuvent toutefois se révéler beaucoup plus résistantes aux attaques.
 
 ## Brises glaces
 Les glaces sont présentées comme l’une des solutions les plus efficaces pour protéger les nœuds critiques de SolNet. Mais la guerre électronique rapidement trouvé la parade, les brises glaces, d’autres IA fortes spécialisées dans l’attaque et la désactivation temporaire des glaces. Ces brises glaces sont, heureusement pour les services de sécurité informatique, difficile à concevoir et leur possession est généralement interdite dans les colonies.
 
-Leur utilisation n’est pas instantanée : un brise glace doit étudier la glace entre quelques minutes, pour les systèmes les moins sécurisés, et plusieurs heures, pour les plus robustes, avant pouvoir créer une brèche éphémère. Certains brises glaces sont con&ccedil;us pour un type de glace précis.
+Leur utilisation n’est pas instantanée : un brise glace doit étudier la glace entre quelques minutes, pour les systèmes les moins sécurisés, et plusieurs heures, pour les plus robustes, avant pouvoir créer une brèche éphémère. Certains brises glaces sont conçus pour un type de glace précis.
 
 ## Décodeur
 La quasi-totalité des systèmes de sécurité et des verrous sont contrôlés par des systèmes électroniques. Ces systèmes sécurisés sont généralement cryptés mais restent souvent physiquement accessibles.
@@ -38,14 +38,14 @@ Associés à des genouillères possédant le même revêtement, ils permettent �
 C’est un outil massivement utilisé dans les colonies dès lors qu’il s’agit de travailler en faible gravité ou micro-pesanteur.
 
 ## Lunettes de vision augmentée
-Pour passer inaper&ccedil;u, un espion doit souvent se déplacer dans zones peu ou non éclairées. Évidemment pour mener à bien ses objectifs, il lui est nécessaire de voir ce qu’il fait sans toutefois pouvoir se permettre d’émettre la moindre lumière.
+Pour passer inaperçu, un espion doit souvent se déplacer dans zones peu ou non éclairées. Évidemment pour mener à bien ses objectifs, il lui est nécessaire de voir ce qu’il fait sans toutefois pouvoir se permettre d’émettre la moindre lumière.
 
 Les lunettes de vision augmentée sont des amplificateurs de lumière et permettent à leur porteur de voir, en couleur, même dans des conditions proches de l’obscurité la plus totale bien qu’il soit nécessaire de passer en vision monochrome si l’éclairage existant est vraiment très faible. Cet appareil est souvent intégré aux ordoptiques.
 
 ## Tenue de camouflage thermo-optique
-Parfois l’obscurité n’est pas suffisante et il est nécessaire qu’un espion doive passer dans le champ visuel d’ennemis. La tenue de camouflage thermo-optique a été con&ccedil;ue dans ce but.
+Parfois l’obscurité n’est pas suffisante et il est nécessaire qu’un espion doive passer dans le champ visuel d’ennemis. La tenue de camouflage thermo-optique a été conçue dans ce but.
 
-Il s’agit d’une tenue intégrale sous laquelle l’espion peut dissimuler la totalité de son équipement et qui est capable de reproduire de fa&ccedil;on holographique l’arrière-plan rendant ainsi son porteur invisible. Cette combinaison parvient même à leurrer la plupart des dispositifs de surveillance.
+Il s’agit d’une tenue intégrale sous laquelle l’espion peut dissimuler la totalité de son équipement et qui est capable de reproduire de façon holographique l’arrière-plan rendant ainsi son porteur invisible. Cette combinaison parvient même à leurrer la plupart des dispositifs de surveillance.
 
 ## Microsenseur
 Le microsenseur est un dispositif d’espionnage qui enregistre et film tout ce qui se produit à proximité. Son système de capture vidéo est capable de reproduire une image tridimensionnelle, son système d’enregistrement audio d’identifier la localisation de la source.

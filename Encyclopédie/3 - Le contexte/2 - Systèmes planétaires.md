@@ -79,7 +79,7 @@ Mais l’étoile du berger a eu un destin bien différent et elle possède une a
 
 Ajoutée à la gravité proche de celle de la Terre, cette atmosphère a rendu la planète inintéressante. Seule une poignée de station orbitale de recherche et de transit sont présentes en orbite.
 
-Par ailleurs, seule Sol6 est présente de fa&ccedil;on permanente bien que de nombreux vaisseaux des autres corporations s’y arrêtent souvent.
+Par ailleurs, seule Sol6 est présente de façon permanente bien que de nombreux vaisseaux des autres corporations s’y arrêtent souvent.
 
 ## La Terre, la planète bleue
 <table>
@@ -114,7 +114,7 @@ Par ailleurs, seule Sol6 est présente de fa&ccedil;on permanente bien que de no
 
 D’un point de vue physique, la Terre est une planète tellurique, la plus grande du système solaire. Elle possède actuellement de l’eau et une atmosphère respirable par l’Homme. Mais, c’est surtout la planète mère de l’humanité. La Terre est un patchwork de nations unies par une organisation mondiale : l’ONU. Les nations terriennes ont choisi de conserver leurs modes de vie et accusent un retard technologique de plus en plus significatif par rapport aux colonies.
 
-« Il est notable que la Terre a refusé la transhumanité et la posthumanité. Conservatrice et réactionnaire, elle a lutté pour préserver l’humanité telle qu’elle la connaissait, craignant de la voir dispara&icirc;tre au profit des nouveaux êtres. Ce fut la véritable raison de la guerre des colonies, les derniers cris d’une créature sauvage acculée par les évènements. Elle a perdu cette guerre, mais au lieu de l’extinction prévue, elle n’est plus qu’une image de cette vie passée. »
+« Il est notable que la Terre a refusé la transhumanité et la posthumanité. Conservatrice et réactionnaire, elle a lutté pour préserver l’humanité telle qu’elle la connaissait, craignant de la voir disparaître au profit des nouveaux êtres. Ce fut la véritable raison de la guerre des colonies, les derniers cris d’une créature sauvage acculée par les évènements. Elle a perdu cette guerre, mais au lieu de l’extinction prévue, elle n’est plus qu’une image de cette vie passée. »
 
 ## Mars, la planète rouge
 <table>
@@ -190,7 +190,7 @@ Jupiter est la plus grande planète du système solaire. Cette géante gazeuse �
 
 Évidemment, la géante rouge n’a pas pu être colonisée directement mais ces quatre lunes portent de très nombreuses colonies ce qui en fait le système planétaire possédant le plus d’habitants après celui de la Terre.
 
-Séparée des quatre premières planètes par la ceinture d’astéro&iuml;de, ce fut le théâtre principal de la guerre des colonies. Le système jovien a beaucoup souffert. Nombre de ses colonies ont été très endommagées et on ne compte plus les installations à reconstruire ou abandonnées : bases militaires, stations de recherche, sites miniers et même quelques colonies…
+Séparée des quatre premières planètes par la ceinture d’astéroïde, ce fut le théâtre principal de la guerre des colonies. Le système jovien a beaucoup souffert. Nombre de ses colonies ont été très endommagées et on ne compte plus les installations à reconstruire ou abandonnées : bases militaires, stations de recherche, sites miniers et même quelques colonies…
 
 Jupiter est principalement sous le contrôle de Vranberg-Lytan, Waylanders et Aesir, bien que Suan ait pu récupérer quelques colonies après la guerre. Il n’y a pas de lune affectée à une corporation ni même de frontière nette : une citée peut appartenir à l’une des corporations tandis que sa voisine appartient à une autre. Il existe ainsi un nombre impressionnant d’interconnexions entre les corporations dans le système jovien.
 

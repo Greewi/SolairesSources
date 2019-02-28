@@ -15,7 +15,7 @@ Si les munitions de la plupart d’entre-elles sont assemblées par l’arme ell
 
 Cette arme hybride a remplacé la totalité des armes à feu. La puissance de ces armes est variable et va de l’arme de poing aux canons en passant par les armes d’épaules.
 
-Une classification basique a été établie de fa&ccedil;on universelle : sont considérées comme légères les armes qui ne sont pas capable de faire passer une rafale à travers une cloison standard. Les autres sont classées en lourdes.
+Une classification basique a été établie de façon universelle : sont considérées comme légères les armes qui ne sont pas capable de faire passer une rafale à travers une cloison standard. Les autres sont classées en lourdes.
 
 Les pulseurs légers sont tolérés dans les colonies en dehors de Mars qui les a totalement interdit. Les armes lourdes sont exclusivement réservées aux opérations militaires.
 
@@ -73,7 +73,7 @@ En fait, un utilisateur normalement constitué ne pourrait tout simplement pas a
 
 Beaucoup de ces armures sont naturellement prévues pour les sorties extra-véhiculaires et sont équipées d’un jet-pack ainsi que d’un système de survie autonome.
 
-Ces armures sont principalement vu sur le dos de soldats ou de mercenaires : les professionnels devant faire des sorties extra-véhiculaire se dépla&ccedil;ant le moins possible avec en intérieur.
+Ces armures sont principalement vu sur le dos de soldats ou de mercenaires : les professionnels devant faire des sorties extra-véhiculaire se déplaçant le moins possible avec en intérieur.
 
 ## Blindage intelligent
 La course entre l’armement et les protections avait commencé à prendre un tournant en faveur du premier. La stratégie consistant à essayer d’arrêter le projectile fonctionne de moins en moins bien, à moins d’utiliser de l’équipement bien plus lourd.

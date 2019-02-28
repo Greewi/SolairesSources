@@ -1,5 +1,5 @@
 # Technologie
-> « Joyeux non-anniversaire mon amie. Bon fait quand même gaffe, c’est pas fait pour à la base et si &ccedil;a prend pas feu à un moment, c’est que je me suis franchement ratée. »
+> « Joyeux non-anniversaire mon amie. Bon fait quand même gaffe, c’est pas fait pour à la base et si ça prend pas feu à un moment, c’est que je me suis franchement ratée. »
 
 > Ney
 
@@ -12,7 +12,7 @@ Comme l’a énoncé Clarke, une technologie suffisamment avancée est indiscern
 
 Mais la technologie peut aussi tourner au cauchemar, entre les accidents qui échappent à tout contrôle et les utilisations éthiquement contestables, la technologie est aussi un élément qui peut être source de complication ou d’intrigue. Ces deux faces de la technologie ne sont pas toujours dissociables et confronter les personnages joueurs à des dilemmes est quelque chose d’intéressant.
 
-Aussi avancée que soit la technologie des solaires, elle reste limitée par les lois de la physique. De fa&ccedil;on générale, il n’est pas possible de fabriquer de l’énergie à partir de rien, de communiquer ou voyager plus vite que la lumière, d’inventer de l’information (par exemple d’améliorer une image composée de quelques pixels), de voyager en arrière dans le temps, etc. De la même fa&ccedil;on, certaines applications de la technologie peuvent demander une quantité d’énergie gigantesque ou des capacités de calculs dédiées. Par exemple, tout ce qui se rapporte au voyage interplanétaire requiert un générateur à fusion, tandis que déplier et analyser un esprit demande un super calculateur.
+Aussi avancée que soit la technologie des solaires, elle reste limitée par les lois de la physique. De façon générale, il n’est pas possible de fabriquer de l’énergie à partir de rien, de communiquer ou voyager plus vite que la lumière, d’inventer de l’information (par exemple d’améliorer une image composée de quelques pixels), de voyager en arrière dans le temps, etc. De la même façon, certaines applications de la technologie peuvent demander une quantité d’énergie gigantesque ou des capacités de calculs dédiées. Par exemple, tout ce qui se rapporte au voyage interplanétaire requiert un générateur à fusion, tandis que déplier et analyser un esprit demande un super calculateur.
 
 
 >> Vous noterez que certaines de ces limites sont violées par les psions. Il s’agit là d’une exception qui ne devrait pas être reproductible par d’autres moyens.
@@ -31,7 +31,7 @@ Voici une liste des principaux outils utilisé dans ce domaine :
 
 
 >> ### Technologie – Pirater un appareil
->> Tôt ou tard, un personnage tentera de prendre le contrôle d’un appareil. &Ccedil;a peut être une porte, un sas, un système de climatisation, un robot, une arme interfacée, etc. Bien s&ucirc;r un decker pourrait tenter de s’en emparer via le réseau, mais il est généralement moins risqué de le pirater physiquement.
+>> Tôt ou tard, un personnage tentera de prendre le contrôle d’un appareil. Ça peut être une porte, un sas, un système de climatisation, un robot, une arme interfacée, etc. Bien sûr un decker pourrait tenter de s’en emparer via le réseau, mais il est généralement moins risqué de le pirater physiquement.
 >> 
 >> Nombre de machines sont prévues pour être manipulée directement par le personnel et robots de la maintenance. Pour y accéder, ils utilisent des certificats informatiques : si le personnage possède un tel certificat, il &lsquo;a rien besoin de faire de plus. Falsifier un certificat requiert des capacités de calcul généralement hors de la portée des personnages joueurs. Le voler, ou le demander à des contacts bien placés, est souvent pus envisageable, même s’il s’agit d’une véritable mission en soi. Le temps demandé est rarement compatible avec l’urgence requise dans la plupart des situations : par exemple si vous deviez forcer un sas pour ne pas vous retrouver éjecté à l’extérieur.
 >> 
@@ -42,7 +42,7 @@ Voici une liste des principaux outils utilisé dans ce domaine :
 >> Notez toutefois que le succès du piratage d’un appareil ne donne pas pour autant la connaissance de son fonctionnement et plus d’un désastre ont été le fruit d’opérateurs incompétents. Dans le doute, si l’emploi d’un appareil demande un opérateur spécialisé, son utilisation demande aussi réussir une action d’une difficulté de 0, avec les conséquences appropriées en cas d’échec.
 
 >> ### Technologie – Construire un gadget
->> Pour résoudre certaines situations, les personnages peuvent manquer d’un outil particulier, que ce soit une pièce pour réparer une machine, un sérum contre une toxine, un logiciel pour restaurer un système, etc. Souvent, vous n’aurez pas la possibilité de vous le procurer de fa&ccedil;on régulière, en le demandant à un contact ou en l’achetant à un fournisseur, etc. Heureusement, de nombreux personnages sont capables de concevoir des appareils apportant une solution plus ou moins temporaire à ce genre de problème.
+>> Pour résoudre certaines situations, les personnages peuvent manquer d’un outil particulier, que ce soit une pièce pour réparer une machine, un sérum contre une toxine, un logiciel pour restaurer un système, etc. Souvent, vous n’aurez pas la possibilité de vous le procurer de façon régulière, en le demandant à un contact ou en l’achetant à un fournisseur, etc. Heureusement, de nombreux personnages sont capables de concevoir des appareils apportant une solution plus ou moins temporaire à ce genre de problème.
 >> 
 >> La fabrication d’un gadget s’effectue en plusieurs étapes : conception, préparation et mise en œuvre.
 >> 
@@ -52,6 +52,6 @@ Voici une liste des principaux outils utilisé dans ce domaine :
 >> 
 >> La dernière étape, la mise en œuvre, consiste à fabriquer le gadget ou déployer le logiciel ou procéder à l’administration de l’agent biologique. En fonction du matériel à disposition et de la complexité de l’élément à créer, cette étape demande une action dont la difficulté peut varier de +2 à -2.
 >> 
->> Échouer à l’une des deux premières étapes met fin au processus et co&ucirc;te généralement du temps. Il n’est pas possible de réessayer : le personnage n’a en effet pas trouvé de solution et continuer les recherches ne donnera rien de plus.
+>> Échouer à l’une des deux premières étapes met fin au processus et coûte généralement du temps. Il n’est pas possible de réessayer : le personnage n’a en effet pas trouvé de solution et continuer les recherches ne donnera rien de plus.
 >> 
 >> Échouer à la dernière étape implique généralement des conséquences secondaires en plus de ne pas parvenir au but recherché. Le gadget peut occasionner des dégâts, un agent biologique peut générer des effets secondaires gênants, etc.

@@ -2,24 +2,24 @@
 > « Je me trouvais faible, alors j’ai augmenté mon corps. Aujourd’hui, je me demande si je n’aurais pas aussi du augmenter mon esprit… »
 
 ## Armes intégrées
-Ce sont les mercenaires qui ont utilisé en premier les implants cybernétiques de fa&ccedil;on systématique. Il n’est donc pas extraordinaire de noter qu’un grand nombre de ces implants sont des armes interfacées et intégrées.
+Ce sont les mercenaires qui ont utilisé en premier les implants cybernétiques de façon systématique. Il n’est donc pas extraordinaire de noter qu’un grand nombre de ces implants sont des armes interfacées et intégrées.
 
 Il est ainsi courant de trouver des lames rétractables, des armes pulseurs camouflées…
 
 ## Armure dermique
-Une fois encore, cet implant est issu des développements à destination des mercenaires. Il s’agit d’une amélioration rempla&ccedil;ant la peau de son utilisateur de sorte à lui procurer une protection balistique limitée.
+Une fois encore, cet implant est issu des développements à destination des mercenaires. Il s’agit d’une amélioration remplaçant la peau de son utilisateur de sorte à lui procurer une protection balistique limitée.
 
 Au vu de l’armement actuel, ce dispositif est souvent insuffisant mais il reste utilisé en conjonction avec des plaques de blindages disposées sur les points stratégiques du corps.
 
 ## Bombe corticale
-Dispositif d’autodestruction, la bombe corticale est un dispositif explosif placé dans le cerveau. Sa détonation est suffisamment puissante pour détruire l’ensemble du cerveau et rendre impossible toute tentative d’extraction de données post mortem. L’explosif n’est général pas assez puissant pour provoquer des dégâts en dehors de la bo&icirc;te crânienne.
+Dispositif d’autodestruction, la bombe corticale est un dispositif explosif placé dans le cerveau. Sa détonation est suffisamment puissante pour détruire l’ensemble du cerveau et rendre impossible toute tentative d’extraction de données post mortem. L’explosif n’est général pas assez puissant pour provoquer des dégâts en dehors de la boîte crânienne.
 
 Cet implant a parfois été utilisé sur des sujets non consentants comme un moyen de pression, mais cette pratique est strictement interdite dans les colonies et les Solar Wardners semblent suffisamment dissuasifs pour que cette loi soit respectée.
 
 En revanche, cet implant est très utilisé par les espions et autres personnes qui ne souhaitent pas que leurs données atterrissent au mauvais endroit. Beaucoup de mercenaire considèrent que perdre quelques heures de souvenirs valent mieux que de donner des informations à l’ennemi.
 
 ## Camouflage thermo-optique
-Sous sa forme d’implant, le camouflage thermo-optique est un dispositif rempla&ccedil;ant la peau. Il s’agit d’un ensemble de capteurs et d’émetteurs holographiques capables de reproduire l’arrière-plan et donc de rendre son utilisateur invisible ou presque. La plupart de ces dispositifs fonctionnent dans le domaine du visible et du thermique.
+Sous sa forme d’implant, le camouflage thermo-optique est un dispositif remplaçant la peau. Il s’agit d’un ensemble de capteurs et d’émetteurs holographiques capables de reproduire l’arrière-plan et donc de rendre son utilisateur invisible ou presque. La plupart de ces dispositifs fonctionnent dans le domaine du visible et du thermique.
 
 Évidemment pour être fonctionnel, ce camouflage requiert que l’utilisateur ne porte pas de vêtement ni équipement. Il ne pourra donc compter que sur ses propres ressources, implants et modifications.
 
@@ -41,7 +41,7 @@ Comme de nombreux outils informatiques, il est possible d’intégrer une consol
 Comme vous pouvez vous en douter, cet implant est principalement utilisé par des mercenaires spécialisés dans les opérations spéciales ou l’espionnage.
 
 ## Derme de protection environnemental
-De la même manière que pour l’armure dermique ou le camouflage thermo-optique, cette modification remplace une partie de la peau de son utilisateur. Ici, ce nouveau derme offre une protection contre les agressions environnementales notamment la plupart des br&ucirc;lures chimiques mais aussi de la chaleur, de l’électricité, du rayonnement nucléaire voir des IEM.
+De la même manière que pour l’armure dermique ou le camouflage thermo-optique, cette modification remplace une partie de la peau de son utilisateur. Ici, ce nouveau derme offre une protection contre les agressions environnementales notamment la plupart des brûlures chimiques mais aussi de la chaleur, de l’électricité, du rayonnement nucléaire voir des IEM.
 
 Évidement tout ceci n’est valable que dans des domaines raisonnables et il ne s’agit souvent que d’une atténuation de ces agressions.
 
@@ -51,7 +51,7 @@ L’implant mémoriel est un implant très courant. Il offre à son utilisateur 
 Pour les esprits humains, cette extension de mémoire se révèle encore plus efficace avec l’emploi d’une IA de supervision. En revanche, elle n’est finalement que peu utile pour les IA sur des substrats offrant de hautes performances.
 
 ## Implant sim-stim
-Les implants sim-stim (pour simulation de stimulation) sont des dispositifs destinés à enregistrer et rejouer les informations sensorielles. Ainsi, une personne ayant enregistré de cette fa&ccedil;on ses perceptions pourra les revivre plus tard.
+Les implants sim-stim (pour simulation de stimulation) sont des dispositifs destinés à enregistrer et rejouer les informations sensorielles. Ainsi, une personne ayant enregistré de cette façon ses perceptions pourra les revivre plus tard.
 
 Il est aussi possible de télécharger les sensations d’une autre personne ou issues de simulations. Permettant une réalité virtuelle totale, les applications sont très nombreuses : formation, loisir, adaptation à une nouvelle enveloppe, contrôle à distance, etc.
 
@@ -60,7 +60,7 @@ L’ordoptique était devenu un accessoire indispensable et son intégration com
 
 Évidemment ce sont les IA qui l’exploitent le mieux, mais un esprit humain, surtout s’il est supervisé par une IA, en tire un bénéfice conséquent et il parait de moins en moins envisageable de ne pas en équiper toutes les nouvelles enveloppes.
 
-Une rumeur persistante veut que cet implant puisse servir de backdoor pour pirater le cerveau d’un individu. C’est évidemment faux. En revanche, si cet implant est utilisé au niveau sim-stim, et que l’attaquant est parvenu à percer la glace de l’implant, il reste possible d’altérer les données sensorielles de l’individu. Ceci requiert évidemment des moyens élevés et tout ceci peut devenir rapidement caduque si la victime s’en aper&ccedil;oit et passe en mode autistique, coupant effectivement l’accès du pirate.
+Une rumeur persistante veut que cet implant puisse servir de backdoor pour pirater le cerveau d’un individu. C’est évidemment faux. En revanche, si cet implant est utilisé au niveau sim-stim, et que l’attaquant est parvenu à percer la glace de l’implant, il reste possible d’altérer les données sensorielles de l’individu. Ceci requiert évidemment des moyens élevés et tout ceci peut devenir rapidement caduque si la victime s’en aperçoit et passe en mode autistique, coupant effectivement l’accès du pirate.
 
 ## Muscles en nano-fibres
 L’un des principaux avantages des corps mécaniques par rapports aux corps organiques se résume au rapport de la puissance mécanique et de la puissance musculaire. C’est pourquoi il s’agit de l’un des implants les plus utilisés tant chez les mercenaires que chez les civils.
@@ -82,10 +82,10 @@ Avec une alimentation suffisante, cet implant peut permettre à un humain de res
 ## Squelette renforcé
 Avec une augmentation de la force et l’utilisation d’outils ou d’armes hors normes, les contraintes sur le squelette peuvent rapidement dépasser le point de rupture. Aussi, il est parfois important de remplacer celui d’origine par une version mécanique bien plus résistante.
 
-Généralement, les mercenaires en profitent pour ajouter des plaques de protections sur le torse associé à une armure dermique et, bien s&ucirc;r, ce qu’il faut en muscles augmentés.
+Généralement, les mercenaires en profitent pour ajouter des plaques de protections sur le torse associé à une armure dermique et, bien sûr, ce qu’il faut en muscles augmentés.
 
 ## Système nerveux câblé
-En dépit de ses performances exceptionnelles, le système nerveux humain reste très fortement limité par ses délais de réaction par rapport aux supports électroniques. Il est heureusement possible de modifier le système nerveux en le rempla&ccedil;ant par une version cybernétique beaucoup plus réactive.
+En dépit de ses performances exceptionnelles, le système nerveux humain reste très fortement limité par ses délais de réaction par rapport aux supports électroniques. Il est heureusement possible de modifier le système nerveux en le remplaçant par une version cybernétique beaucoup plus réactive.
 
 Au niveau des performances, les temps de réflexes mécaniques sont divisés par dix tandis que les réflexes conscients bénéficient d’une amélioration de 50 % en moyenne. Notez, que l’utilisation d’un cerveau cybernétique peut améliorer les réflexes conscients d’un facteur 5.
 

@@ -22,7 +22,7 @@ Pour donner quelques correspondances :
 ## Des distances changeantes
 Les astres sont tous en mouvement les uns par rapport aux autres et, par conséquence, les distances sont extrêmement fluctuantes. Il existe donc des périodes favorables et des périodes défavorables pour le voyage. Cela est renforcé par le fait que, lors d’une opposition, la route directe est barrée par l’astre central lui-même (le soleil dans le cas des vols interplanétaires, la planète dans le cas des vols interlunaires).
 
-Par exemple, Jupiter et Mars ne sont distantes que de 1800 sl au plus proche tandis qu’elles sont éloignées de 3400 sl en opposition. Pour conna&icirc;tre ces extrêmes, il suffit d’additionner, ou de soustraire, le rayon orbital des deux planètes. Le pire cas pouvant exister entre les systèmes planétaires est l’opposition d’Uranus et de Neptune qui seraient alors distantes de plus de 24 000 sl, ce qui est presque le cas en 2093.
+Par exemple, Jupiter et Mars ne sont distantes que de 1800 sl au plus proche tandis qu’elles sont éloignées de 3400 sl en opposition. Pour connaître ces extrêmes, il suffit d’additionner, ou de soustraire, le rayon orbital des deux planètes. Le pire cas pouvant exister entre les systèmes planétaires est l’opposition d’Uranus et de Neptune qui seraient alors distantes de plus de 24 000 sl, ce qui est presque le cas en 2093.
 
 ## Communication et latence
 Les solaires communiquent beaucoup. L’un des formats préférés reste la conversation directe par avatar interposé. Le principe est simple : une fois que le destinataire a répondu et accepté l’appel, les deux participants peuvent se voir et se parler grâce à la réalité augmentée ou à la réalité virtuelle. Ce type de conversation en temps réel requiert toutefois que les deux participants soient très proches, généralement à moins de 1sl.
@@ -40,7 +40,7 @@ Une fois réceptionné l’être est injecté dans un nouveau corps ou, pour les
 
 Il est évident que ce mode de transport requiert d’avoir une grande confiance en l’expéditeur, mais surtout envers le récepteur. S’uploader en territoire ennemi peut s’avérer particulièrement dangereux, l’être étant sous une forme inerte tant qu’il n’a pas été réinjecté, il est à la merci de ce qui le réceptionne.
 
-Lors de l’upload, l’original est généralement mis en stase dès l’envoi, sauf pour les infomorphes expédiant un fork. Si aucun message de confirmation n’est re&ccedil;u par l’expéditeur au bout de trois fois le temps de trajet (soit 3 secondes par seconde-lumière de distance), l’original est normalement réveillé et prévenu du problème. Lors du retour du voyageur, son esprit est alors fusionné (merge) avec l’original.
+Lors de l’upload, l’original est généralement mis en stase dès l’envoi, sauf pour les infomorphes expédiant un fork. Si aucun message de confirmation n’est reçu par l’expéditeur au bout de trois fois le temps de trajet (soit 3 secondes par seconde-lumière de distance), l’original est normalement réveillé et prévenu du problème. Lors du retour du voyageur, son esprit est alors fusionné (merge) avec l’original.
 
 Voyager physiquement
 
@@ -50,7 +50,7 @@ Tout d’abord, les colonies sont toutes reliées par un réseau de trains voyag
 
 Dans la plupart des cas, les navettes peuvent assurer les vols interlunaires au sein d’un même système planétaire. Toutefois, ces vols sont de plus en plus souvent assurés par des corvettes, assurant un bien meilleur confort pour des vols pouvant durer plusieurs dizaines d’heures et ce avec une capacité d’emport bien plus élevée. Rallier une lune à une autre demande des temps de vol allant jusqu’à une dizaine d’heure (d’orbite basse à orbite basse).
 
-Enfin, les vols interplanétaires requièrent un autre type de vaisseau spécialisés. Les transporteurs lourds, et certaines frégates, utilisés à cet usage sont équipés pour offrir des conditions de vie confortable à l’équipage et aux passagers sur des durées de plusieurs jours, voir plusieurs semaines. En plus de cette problématique logistique, ces vaisseaux disposent aussi de systèmes de propulsion capables d’accélérer pendant de longues périodes et d’atteindre des vitesses inatteignables par de plus petits engins qui épuiseraient leur carburant trop rapidement. Notez que cette technologie a parfois été installée sur quelques corvettes. Mais ces derniers cas restent peu efficaces et co&ucirc;teux, restreints principalement aux vaisseaux de reconnaissance militaires.
+Enfin, les vols interplanétaires requièrent un autre type de vaisseau spécialisés. Les transporteurs lourds, et certaines frégates, utilisés à cet usage sont équipés pour offrir des conditions de vie confortable à l’équipage et aux passagers sur des durées de plusieurs jours, voir plusieurs semaines. En plus de cette problématique logistique, ces vaisseaux disposent aussi de systèmes de propulsion capables d’accélérer pendant de longues périodes et d’atteindre des vitesses inatteignables par de plus petits engins qui épuiseraient leur carburant trop rapidement. Notez que cette technologie a parfois été installée sur quelques corvettes. Mais ces derniers cas restent peu efficaces et coûteux, restreints principalement aux vaisseaux de reconnaissance militaires.
 
 ## La vitesse de croisière standard actuelle
 Dans l’espace, voyager sur des distances interplanétaires consiste à prendre une impulsion plus ou moins longue puis à se laisser dériver sur sa trajectoire. Cette première impulsion dure généralement entre 20 et 25 heures sous une accélération équivalente à la gravité terrestre. Passé cette accélération, le vaisseau atteint ce qui est appelé la vitesse de croisière. Un jour avant l’arrivée, le vaisseau ralentit en effectuant une nouvelle accélération, mais orienté dans le sens contraire de la marche.
@@ -59,7 +59,7 @@ La vitesse de croisière n’est théoriquement limitée que par le système de 
 
 Cette vitesse n’est pas seulement issue des limitations techniques des propulseurs, mais il s’agit aussi d’une limitation pratique. L’un des autres paramètres considérés est la capacité actuelle des vaisseaux à détecter les débris de taille moyenne et à encaisser les débris plus petits. Évidemment, lorsque ces éléments techniques seront améliorés et déployés à l’échelle du système solaire, la vitesse de croisière standard sera réévaluée. En attendant, tout commandant ne la respectant pas s’expose à une riposte militaire…
 
-Cette dernière sanction s’applique aussi à tout appareil évoluant à des vitesses élevées sur une trajectoire croisant directement un astre. Un projectile de la masse d’un vaisseau à cette vitesse causerait en effet des dégâts extrêmement importants s’il venait à s’écraser au sol : une catastrophe comparable à celle que provoquerait un très gros astéro&iuml;de.
+Cette dernière sanction s’applique aussi à tout appareil évoluant à des vitesses élevées sur une trajectoire croisant directement un astre. Un projectile de la masse d’un vaisseau à cette vitesse causerait en effet des dégâts extrêmement importants s’il venait à s’écraser au sol : une catastrophe comparable à celle que provoquerait un très gros astéroïde.
 
 ## Calculer les temps de trajet
 Calculer le temps d’un trajet dépend principalement de deux paramètres : la distance et la vitesse.
@@ -100,7 +100,7 @@ Nous avons présenté la vitesse de la lumière comme la limite ultime pour les 
 
 En vérité, il existe un moyen de dépasser cette vitesse, même si le processus n’est pas bien compris par la science : les psions qui contrôlent le domaine de l’espace.
 
-Ces derniers peuvent en effet relier deux lieux par un portail, sorte de trou de ver – bien que l’appellation soit remise en question par la communauté scientifique pour ce cas précis – par lequel il est possible de passer, franchissant ainsi l’espace sur des distances hallucinantes de fa&ccedil;on instantanée.
+Ces derniers peuvent en effet relier deux lieux par un portail, sorte de trou de ver – bien que l’appellation soit remise en question par la communauté scientifique pour ce cas précis – par lequel il est possible de passer, franchissant ainsi l’espace sur des distances hallucinantes de façon instantanée.
 
 Ce moyen reste très peu utilisé. D’une part, les psions restent rare et ceux qui contrôlent le domaine de l’espace le sont d’autant plus. De plus, étant donné qu’il est nécessaire que le psion ait déjà visité les lieux connectés, le choix des destinations est drastiquement réduit. Enfin, la taille et la stabilité de ces portails rend pratiquement inutilisable ce moyen de transport à des échelles industrielles.
 

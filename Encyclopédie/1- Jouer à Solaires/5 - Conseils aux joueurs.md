@@ -4,7 +4,7 @@
 Trop souvent, le meneur est vu comme le responsable de la qualité de la partie. Ce n’est pas le cas : même s’il a un rôle important, n’oubliez pas que le jeu de rôles est un jeu coopératif. Tous les participants doivent œuvrer de concert pour passer un bon moment. Voici quelques conseils et astuces pour de meilleures parties.
 
 ## Le rôle du joueur
-La première chose qu’on attendra de vous, c’est de jouer votre personnage, de le faire vivre. Ne le voyez pas seulement comme un ensemble de statistique, donnez-lui une vie, des habitudes, une fa&ccedil;on de penser et de résoudre ses problèmes.
+La première chose qu’on attendra de vous, c’est de jouer votre personnage, de le faire vivre. Ne le voyez pas seulement comme un ensemble de statistique, donnez-lui une vie, des habitudes, une façon de penser et de résoudre ses problèmes.
 
 Vous devrez faire tout ceci dans le cadre d’une histoire commune construite avec les autres joueurs et le meneur. Participez à cette histoire : intéressez-vous à ce qui se passe, y compris à ce que font les autres personnages.
 
@@ -22,9 +22,9 @@ Intéressez-vous aussi aux objectifs des autres joueurs, que vous ayez ou non le
 Prenez toutefois garde à ne pas écraser les autres joueurs, notamment en vous accaparant leurs objectifs ou en essayant à tout pris d’être sous le feu des projecteurs.
 
 ## Soyez des héros
-Votre personnage sera régulièrement confronté à des situations dangereuses et critiques. Vous serez sans doute souvent tenté de laisser les choses se faire, voir de fuir ces « ennuis ». Ne laissez pas ces tentations prendre le dessus : votre personnage est un héros. Il est plus grand que nature : &ccedil;a signifie qu’il a les moyens d’agir.
+Votre personnage sera régulièrement confronté à des situations dangereuses et critiques. Vous serez sans doute souvent tenté de laisser les choses se faire, voir de fuir ces « ennuis ». Ne laissez pas ces tentations prendre le dessus : votre personnage est un héros. Il est plus grand que nature : ça signifie qu’il a les moyens d’agir.
 
-N’ayez pas peur de prendre des risques pour vous. Votre personnage est de toutes fa&ccedil;ons immortel en pratique. L’enjeu est rarement placé sur votre survie, mais sur celle des autres et la résolution de vos affaires.
+N’ayez pas peur de prendre des risques pour vous. Votre personnage est de toutes façons immortel en pratique. L’enjeu est rarement placé sur votre survie, mais sur celle des autres et la résolution de vos affaires.
 
 Mais ne soyez pas stupide pour autant, réfléchissez à votre approche : ce n’est parce qu’on n’a qu’un marteau et que tous les problèmes ressemblent à des clous que ce sont effectivement des clous. Se jeter dans un piège sans aucune préparation ne vous apportera rien.
 
@@ -35,11 +35,11 @@ Une partie de jeu de rôles plutôt courte prend généralement quelques heures.
 
 C’est pourquoi, avant une partie, il est souvent préférable que les joueurs révisent eux aussi. Notamment lors d’une partie en campagne.
 
-Conna&icirc;tre son personnage est le premier élément à conna&icirc;tre. C’est quelque chose qui peut sembler trivial, mais dans Solaires, et les jeux basés sur le système féerie : ce n’est pas le meneur qui vous indiquera les éléments du personnage à utiliser lors des actions. Avoir une idée de ce que peut faire son personnage raccourcira aussi beaucoup les prises de décisions, notamment durant les scènes d’actions où la fluidité du jeu est particulièrement recherchée.
+Connaître son personnage est le premier élément à connaître. C’est quelque chose qui peut sembler trivial, mais dans Solaires, et les jeux basés sur le système féerie : ce n’est pas le meneur qui vous indiquera les éléments du personnage à utiliser lors des actions. Avoir une idée de ce que peut faire son personnage raccourcira aussi beaucoup les prises de décisions, notamment durant les scènes d’actions où la fluidité du jeu est particulièrement recherchée.
 
-Conna&icirc;tre les règles et l’univers est aussi quelque chose d’utile qui évite de perdre beaucoup de temps. Évidemment, on ne demandera pas la même connaissance de l’univers que le MJ qui a pour tache de maintenir la cohérence de l’histoire, mais c’est un point qui est particulièrement utile.
+Connaître les règles et l’univers est aussi quelque chose d’utile qui évite de perdre beaucoup de temps. Évidemment, on ne demandera pas la même connaissance de l’univers que le MJ qui a pour tache de maintenir la cohérence de l’histoire, mais c’est un point qui est particulièrement utile.
 
-Bien s&ucirc;r, nous ne vous suggérons pas de devenirs des avocats des règles du jeu, interrompant la partie à chaque petit écart ou erreur vis-à-vis des règles, ou provoquant d’incessant débats sur ce qui est possible ou ce qui devait se passer. Sur ce dernier point, nous vous rappelons que le meneur à un rôle d’arbitre et que ses décisions sont à considérer comme finales.
+Bien sûr, nous ne vous suggérons pas de devenirs des avocats des règles du jeu, interrompant la partie à chaque petit écart ou erreur vis-à-vis des règles, ou provoquant d’incessant débats sur ce qui est possible ou ce qui devait se passer. Sur ce dernier point, nous vous rappelons que le meneur à un rôle d’arbitre et que ses décisions sont à considérer comme finales.
 
 Nous ne pourrions pas terminer cette sous-section sans parler des joueurs débutants ou en difficulté durant la partie. Certains joueurs auront toujours du mal à intégrer toutes les règles ou tous les détails de l’univers. N’hésitez pas à les aider si vous êtes plus à l’aise qu’eux. Le rythme de la partie n’en sera que meilleur !
 

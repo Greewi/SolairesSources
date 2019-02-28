@@ -4,20 +4,20 @@
 Les colonies jouissent d’une technologie si avancée que des pans entiers de la société ont été remis en causes. Ainsi, en cette fin de siècle, les corporations disposent de moyens dépassant les besoins des colons, et ce, de plusieurs ordres de grandeur. Ceci a inévitablement un impact sur la société et l’organisation du travail.
 
 ## La nouvelle donne
-Les colonies ont rapidement été confrontées à des problèmes d’échelle : leurs besoins en termes de ressources dépassaient les capacités d’envoi depuis la Terre et il était indispensable d’optimiser au maximum toute la cha&icirc;ne de production sur place.
+Les colonies ont rapidement été confrontées à des problèmes d’échelle : leurs besoins en termes de ressources dépassaient les capacités d’envoi depuis la Terre et il était indispensable d’optimiser au maximum toute la chaîne de production sur place.
 
 Dans le même temps, des progrès extraordinaires ont été accomplis du côté de l’intelligence artificielle et de la robotique. Au-delà même de l’IA forte, cette technologie a permis de remplacer l’opérateur humain dans de très nombreux domaines, au point que plus de la moitié des métiers avaient disparus dès la fin des années 2030.
 
-Si sur Terre, l’usage d’IA forte fut strictement interdit (de même que les recherches afférentes), ce ne fut pas le cas dans les colonies. Et, avec l’arrivée des constructeurs universels et la mise en place de l’automatisation de tout ce qui pouvait l’être, les colonies ont vécu une inversion complète de leur paradigme : elles n’étaient plus en manque de main d’œuvre. Elles commen&ccedil;aient même à voir une partie de sa population désœuvrée.
+Si sur Terre, l’usage d’IA forte fut strictement interdit (de même que les recherches afférentes), ce ne fut pas le cas dans les colonies. Et, avec l’arrivée des constructeurs universels et la mise en place de l’automatisation de tout ce qui pouvait l’être, les colonies ont vécu une inversion complète de leur paradigme : elles n’étaient plus en manque de main d’œuvre. Elles commençaient même à voir une partie de sa population désœuvrée.
 
 La situation, que ce soit sur Terre ou dans les colonies, n’est jamais revenue à un état permettant d’avoir un plein emploi, hors chômage structurel. Ainsi dans les colonies le nombre de personnes considérées ni étudiante, ni employée, ni stagiaire a explosé au point qu’en cette fin de siècle, bien plus de 90 % de la population est considérée comme oisive dans les colonies.
 
 Il est important de noter que dans tous les cas où les corporations ont choisi l’automatisation, cette automatisation a toujours été en vue d’une augmentation de quantité mais aussi de qualité, y compris dans des domaines qui étaient considérés au début du siècle comme relevant de l’humain.
 
 ## Métiers notables disparus
-Dès le début du vingt-et-unième siècle, les experts et politiques purent prédire qu’un grand nombre de métiers allaient dispara&icirc;tre dans les années qui allaient suivre. Avec la logique particulière des colonies, le nombre de métier touchés fut bien plus grand qu’espéré ou craint.
+Dès le début du vingt-et-unième siècle, les experts et politiques purent prédire qu’un grand nombre de métiers allaient disparaître dans les années qui allaient suivre. Avec la logique particulière des colonies, le nombre de métier touchés fut bien plus grand qu’espéré ou craint.
 
-Les premiers secteurs touchés furent évidemment les industries primaires et secondaires. Les robots d’assemblage étaient déjà légion dans la seconde moitié du vingtième siècle, mais l’apparition de l’intelligence artificielle, retira définitivement les opérateurs humains de toute la cha&icirc;ne de la production : l’extraction, le raffinage, le transport, la transformation, la fabrication, l’assemblage et même la livraison sont désormais totalement automatisés et là où des milliers de personnes travaillaient, une poignée de Solaires suffisent désormais. Même les bureaux d’études ne laissent plus que certains aspects artistiques aux mains des Solaires.
+Les premiers secteurs touchés furent évidemment les industries primaires et secondaires. Les robots d’assemblage étaient déjà légion dans la seconde moitié du vingtième siècle, mais l’apparition de l’intelligence artificielle, retira définitivement les opérateurs humains de toute la chaîne de la production : l’extraction, le raffinage, le transport, la transformation, la fabrication, l’assemblage et même la livraison sont désormais totalement automatisés et là où des milliers de personnes travaillaient, une poignée de Solaires suffisent désormais. Même les bureaux d’études ne laissent plus que certains aspects artistiques aux mains des Solaires.
 
 Les secteurs tertiaire et quaternaire ont longuement résisté mais dès les années 2010 de plus en plus de ses activités se sont trouvées modifiées par les avancées des TIC. Le travail fantôme a explosé, l’uberisation globalisée. Mais rapidement d’autres technologies amenèrent la conclusion logique : plus de caisse en libre-service, les articles ayant tous une puce RFID, plus de véhicule de tourisme avec chauffeur, les voitures étant devenues autonomes et ainsi de suite. Même sans IA forte, la démonstration automatique de théorème, la veille légale ou technologique, l’art génératif et la créativité artificielle, les assistants personnels, et les découvreurs de médicaments par exemple ont pris une place importante dans les industries de service, de l’information et de la connaissance.
 
@@ -31,7 +31,7 @@ La médecine, pour ce qui est de son application, est une autre « victime » de
 
 Un dernier domaine pour lequel beaucoup d’encre, numérique, a coulé est l’instruction et l’enseignement. Dans les colonies, le métier de professeur a littéralement disparu. Ce métier et ce qui l’accompagnait a entièrement été remplacé par des intelligences artificielles préceptrices. Chaque Solaire est accompagné, durant toute sa vie, par une cohorte d’intelligences artificielles. Elles imprègnent, à travers la couche de réalité augmentée, mais aussi les loisirs et les jeux, leurs élèves, s’assurant de leur apporter et de leur faire apprendre tout ce qui leur sera nécessaire sans jamais avoir besoin de les forcer. Cette méthode obtient de très bons résultats mais a été le sujet de débats très houleux et reste encore régulièrement remise en question.
 
-Bien d’autres métiers ont disparu dans les colonies, cet aper&ccedil;u est en effet loin d’être exhaustif.
+Bien d’autres métiers ont disparu dans les colonies, cet aperçu est en effet loin d’être exhaustif.
 
 ## La situation sur Terre
 Sur la planète bleue, la raréfaction du travail n’a pas été aussi bien vécue que dans les colonies. La « valeur travail » est restée cher au cœur de nombreux terriens et la montée du chômage a provoqué un grand malaise social.
@@ -45,18 +45,18 @@ Ces mesures eurent toutefois quelques effets néfastes, notamment lorsqu’elles
 ## Des limites
 En apparence les capacités des corporations sont sans limites. Toutefois, toutes ont choisi d’en imposer en interne.
 
-La principale limite est une restriction des ressources accessibles aux incorporées. Ceci a été systématiquement mis en place par la création d’une monnaie interne. D’une fa&ccedil;on ou d’une autre, tous les incorporés per&ccedil;oivent une allocation, un salaire, ou une affectation pour leur permettre de vivre convenablement. Toutefois, force est de constater qu’il s’agit d’un mécanisme anti-abus plus qu’une véritable limite pour le commun des colons.
+La principale limite est une restriction des ressources accessibles aux incorporées. Ceci a été systématiquement mis en place par la création d’une monnaie interne. D’une façon ou d’une autre, tous les incorporés perçoivent une allocation, un salaire, ou une affectation pour leur permettre de vivre convenablement. Toutefois, force est de constater qu’il s’agit d’un mécanisme anti-abus plus qu’une véritable limite pour le commun des colons.
 
 En outre, le Traité des Solaires impose à toutes les corporations d’offrir tous les services vitaux, notamment l’habitat, la nourriture, l’éducation, la santé et la communication, et ce sans contrepartie. Toutes les corporations octroient de base des droits plus étendus.
 
-Par ailleurs, en dehors d’Aesir, toutes les corporations ont choisi de permettre à leurs incorporés d’augmenter leur traitement en contribuant de fa&ccedil;on active à la corporation. Il s’agit pour elle de donner une raison pour pourvoir les postes non automatisés et de satisfaire ceux pour lesquels la « valeur travail » est encore importante.
+Par ailleurs, en dehors d’Aesir, toutes les corporations ont choisi de permettre à leurs incorporés d’augmenter leur traitement en contribuant de façon active à la corporation. Il s’agit pour elle de donner une raison pour pourvoir les postes non automatisés et de satisfaire ceux pour lesquels la « valeur travail » est encore importante.
 
 Concernant Aesir, la corporation s’est organisée en appliquant un service obligatoire pourvu de très longues périodes de permissions. L’allocation donnée par la corporation est alors fonction de ce service dont le montant minimum est comparable aux autres corporations.
 
 ## Des Solaires perdus
 Avec autant de temps libre, une fraction de la population, surtout d’anciens terriens, se sentent perdu. N’ayant plus leur vie à « gagner », ils se cherchent souvent des buts, des objectifs : une raison d’être.
 
-Ils savent que quoi qu’ils fassent, y compris rien, la corporation continuera d’organiser leur vie et d’assurer leurs besoins, et même plus. Il appara&icirc;t alors chez ces personnes, un désarroi qui les porte parfois même jusqu’à la dépression.
+Ils savent que quoi qu’ils fassent, y compris rien, la corporation continuera d’organiser leur vie et d’assurer leurs besoins, et même plus. Il apparaît alors chez ces personnes, un désarroi qui les porte parfois même jusqu’à la dépression.
 
 Heureusement, les corporations sont parvenues à trouver des solutions. Certains trouvent un poste actif dans la corporation, qu’il s’agisse de politique ou de tout autre poste pour lequel un être sentient est utile. D’autres s’impliquent dans des associations et enfin d’autres s’épanouissent dans les loisirs.
 
@@ -74,7 +74,7 @@ Enfin, il serait très malhonnête de passer sous silence les occupations « vir
 ## Les indépendants
 Jusqu’ici nous avons surtout traité des incorporés. Pourtant, il existe une partie de la population, une minorité, qui a choisi un mode de vie externe aux corporations, ou plus exactement transverse : les indépendants.
 
-Il s’agit d’une population peu oisive, principalement par leur positionnement. Ces personnes souhaitent, pour la quasi-totalité, avoir un impact dans la société et possède un go&ucirc;t pour l’aventure et le risque.
+Il s’agit d’une population peu oisive, principalement par leur positionnement. Ces personnes souhaitent, pour la quasi-totalité, avoir un impact dans la société et possède un goût pour l’aventure et le risque.
 
 Ces indépendants sont souvent investis par les corporations pour exécuter des missions, bien réelle. On trouve ainsi beaucoup de mercenaires et « d’aventuriers » mais aussi quelques groupes indépendants politiquement mais au service des colonies comme les Solar Wardners.
 

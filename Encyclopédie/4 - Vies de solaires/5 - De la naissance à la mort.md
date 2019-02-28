@@ -6,7 +6,7 @@ Chaque vie est unique, passant par des chemins souvent imprévisibles et tortueu
 ## Les grandes étapes de la vie
 Même si chaque vie diffère des autres, plusieurs étapes de la vie semblent communes à tous les solaires :
 * la naissance : cette étape correspond au moment où l’être sort de la phase de conception ou de gestation. Pour les êtres artificiels, c’est le moment de leur mise en service.
-* l’enfance : cette étape recouvre toute la période où l’être n’est pas autonome et ne peut effectuer ses propres choix. Pour les êtres artificiels, il s’agit de l’époque où ils exécutent leur programme initial et effectuent simplement les taches pour lesquels ils ont été con&ccedil;us, généralement dépourvu de sentience.
+* l’enfance : cette étape recouvre toute la période où l’être n’est pas autonome et ne peut effectuer ses propres choix. Pour les êtres artificiels, il s’agit de l’époque où ils exécutent leur programme initial et effectuent simplement les taches pour lesquels ils ont été conçus, généralement dépourvu de sentience.
 * la vie adulte : passé une étape de transition, souvent appelée adolescence, tous les solaires deviennent adultes. Cette étape est caractérisée par la capacité de l’être à effectuer ses propres choix, et à disposer de son autonomie, ce qui implique que l’être soit effectivement sentient.
 
 ## Création et naissance
@@ -20,26 +20,26 @@ Il reste le cas des êtres dits « artificiels » : principalement les IA, les s
 
 Dans leur cas, la problématique est généralement différente : leur création répond à un objectif. Par exemple, les intelligences artificielles sont pratiquement toujours créées pour occuper une fonction particulière ou résoudre un problème donné. Il est à noter que les corporations évitent de créer des êtres sentients si ce caractère n’est pas nécessaire à la réalisation de l’objectif.
 
-Tous ces êtres artificiels sont gouvernés par une intelligence artificielle. Celles-ci sont créées à partir d’un noyau existant. Il peut s’agir d’une IA générique issue de l’une des trois souches d’IA – Synchro, Wolfa ou Ley-Wan – qui est ensuite entra&icirc;née en simulateur pour répondre au problème demandé. Dans d’autres cas, on duplique une IA existante dont le domaine de compétence est proche ou similaire et on l’entra&icirc;ne à nouveau. Dans les deux, on arrête la date de naissance de l’IA à sa mise en fonction, l’entra&icirc;nement initial étant considéré comme une forme de gestation.
+Tous ces êtres artificiels sont gouvernés par une intelligence artificielle. Celles-ci sont créées à partir d’un noyau existant. Il peut s’agir d’une IA générique issue de l’une des trois souches d’IA – Synchro, Wolfa ou Ley-Wan – qui est ensuite entraînée en simulateur pour répondre au problème demandé. Dans d’autres cas, on duplique une IA existante dont le domaine de compétence est proche ou similaire et on l’entraîne à nouveau. Dans les deux, on arrête la date de naissance de l’IA à sa mise en fonction, l’entraînement initial étant considéré comme une forme de gestation.
 
 Pour finir, notons que si avoir des enfants est un choix et un droit habituellement accordé par les corporations, ces dernières se réservent le droit de limiter le nombre d’enfant dans certaines colonies pour éviter une explosion démographique. De telles mesures restent toutefois rares.
 
 ## Apprentissage et développement
 Si pour les IA l’apprentissage intervient avant ce qui est considéré comme leur naissance, ce n’est pas le cas des solaires issus des lignées humaines. Cet apprentissage initial aura lieu durant toute leur enfance.
 
-De fa&ccedil;on générale, pour les solaires, l’éducation est une responsabilité de la société dans son ensemble qui n’est plus la seule responsabilité des parents. Ainsi, les terriens qui arrivent dans les colonies sont régulièrement choqués de voir de parfaits inconnus dispenser des « conseils » ou des le&ccedil;ons à propos de choses courantes. Pourtant, du point de vue des colons, c’est une chose normale : tout le monde participe à la construction de la société et à l’éducation de ses membres. Les jeunes solaires apprennent très rapidement à obtenir un esprit critique et ouvert.
+De façon générale, pour les solaires, l’éducation est une responsabilité de la société dans son ensemble qui n’est plus la seule responsabilité des parents. Ainsi, les terriens qui arrivent dans les colonies sont régulièrement choqués de voir de parfaits inconnus dispenser des « conseils » ou des leçons à propos de choses courantes. Pourtant, du point de vue des colons, c’est une chose normale : tout le monde participe à la construction de la société et à l’éducation de ses membres. Les jeunes solaires apprennent très rapidement à obtenir un esprit critique et ouvert.
 
 Curieusement, l’une des choses qui choque le plus les terriens concerne le traitement de la sexualité des organiques. Par exemple, il n’est pas rare qu’un enfant de moins de 10 ans sache déjà comment fonctionne le système reproducteur humain avec détail. Il n’y a dans la société aucun tabou ni honte à cet aspect de l’humain. La société des solaires préfère nettement mettre l’accent sur le consentement et le libre choix des individus vis-à-vis de cet aspect.
 
 En revanche, les corporations préfèrent organiser directement l’instruction. En effet, si elles considèrent que l’éthique et la citoyenneté relève avant tout de la société, elles rejettent l’idée même que sa population soit mal instruite ou pire. Dans leur idéal, il est important que chaque solaire sache communiquer, raisonner et ait des connaissances suffisantes pour comprendre et apprécier ce qui l’entoure tout en ayant des connaissances générales développées. De plus, malgré l’oisiveté générale des colons, les corporations préfèrent que chaque colon dispose des compétences nécessaires pour occuper un métier ou un poste, au cas où cela s’avérerait nécessaire.
 
-Pour procéder, elles fournissent à chaque citoyen un ensemble d’IA préceptrices qui distillent leurs enseignements de fa&ccedil;on ciblée et personnalisée. Ainsi, chaque solaire re&ccedil;oit un enseignement, différent sur la forme mais complet dans le fond, au fil des premières années de sa vie : langues, mathématiques, sciences, histoire, philosophie, arts… On retrouve aussi des enseignements pratiques qui concernent l’intégralité des procédures relatives à la vie dans les colonies, qu’il s’agisse de l’utilisation d’appareils domestiques ou de l’attitude à adopter en cas de situation d’urgence.
+Pour procéder, elles fournissent à chaque citoyen un ensemble d’IA préceptrices qui distillent leurs enseignements de façon ciblée et personnalisée. Ainsi, chaque solaire reçoit un enseignement, différent sur la forme mais complet dans le fond, au fil des premières années de sa vie : langues, mathématiques, sciences, histoire, philosophie, arts… On retrouve aussi des enseignements pratiques qui concernent l’intégralité des procédures relatives à la vie dans les colonies, qu’il s’agisse de l’utilisation d’appareils domestiques ou de l’attitude à adopter en cas de situation d’urgence.
 
 Même adulte, ces logiciels d’instructions restent utiles, car ils permettent d’acquérir des connaissances supplémentaires, de se tenir à jour sur celles-ci et de développer de nouvelles compétences.
 
 En plus de cet apprentissage, les cyborgs peuvent directement télécharger des logiciels à travers une interface progiciel. Ces logiciels assurent de nombreuses fonctions allant du maniement du matériel à l’émulation de nouvelles compétences et capacités. Ces logiciels sont généralement fournis par les corporations, mais certains, notamment ceux dont le potentiel disruptif est le plus élevé, ne peuvent être obtenus qu’avec une licence ou via des moyens non légaux.
 
-De leur côté, les Intelligences artificielles assimilent aussi de nombreux logiciels tout en ena développant de nouveaux. Elles s’entourent ainsi d’une cohorte conséquente. Toutefois, toutes les intelligences artificielles n’assimilent pas les logiciels de la même fa&ccedil;on :
+De leur côté, les Intelligences artificielles assimilent aussi de nombreux logiciels tout en ena développant de nouveaux. Elles s’entourent ainsi d’une cohorte conséquente. Toutefois, toutes les intelligences artificielles n’assimilent pas les logiciels de la même façon :
 
 Le modèle Synchro conserve les logiciels dans leur état d’origine et se contente de s’interfacer avec. L’interface est lui-même un élément jetable et les logiciels conservent un caractère étranger à l’IA.
 
@@ -47,10 +47,10 @@ Celles issues de Wolfa traduisent les logiciels en modèles. Ces IA utilisent en
 
 Les IA de Ley-Wan intègrent le logiciel en modifiant leur propre noyau pour y intégrer ses fonctionnalités. Une fois l’opération terminée, le logiciel a tout simplement disparu et l’IA a hérité de ses capacités.
 
-Notons pour finir que les IA continuent souvent de s’entra&icirc;ner lors de simulations pour se mettre à jour et s’améliorer.
+Notons pour finir que les IA continuent souvent de s’entraîner lors de simulations pour se mettre à jour et s’améliorer.
 
 ## Transformations
-Les solaires ne sont plus limités par leur corps ou leur esprit. Ils ont en effet accès à une technologie qui leur permet désormais de changer leur corps et leur esprit de fa&ccedil;on radicale. L’un des premiers moyens reste la cybernétisation : l’intégration d’implants ou le remplacement d’organes par des versions cybernétiques. Ces modifications peuvent être légère, en n’intégrant que quelques implants, ou lourde, pouvant aller jusqu’au remplacement de la quasi-totalité des organes du corps.
+Les solaires ne sont plus limités par leur corps ou leur esprit. Ils ont en effet accès à une technologie qui leur permet désormais de changer leur corps et leur esprit de façon radicale. L’un des premiers moyens reste la cybernétisation : l’intégration d’implants ou le remplacement d’organes par des versions cybernétiques. Ces modifications peuvent être légère, en n’intégrant que quelques implants, ou lourde, pouvant aller jusqu’au remplacement de la quasi-totalité des organes du corps.
 
 D’autres modifications sont purement organiques, bien qu’issues d’un processus non biologique. Ces modifications sont toutefois de plus en plus rares : leurs performances ne parvenant pas à rivaliser avec les modifications et implants cybernétiques.
 
@@ -63,7 +63,7 @@ Une autre forme de numérisation existe, bien plus radicale encore : l’infomor
 ## Devenir sentient
 Pour les êtres artificiels, il existe une étape dans leur vie qui change complètement leur statut légal, les faisant passer de celui d’un simple objet ou programme à celui de personne : l’accession à la sentience. Cette étape peut être franchie de nombreuses manières, que ce soit volontaire ou non.
 
-Initialement, aucune IA n’est sentiente, tout du moins au début de leur entra&icirc;nement. Certaines vont être entra&icirc;née dans ce sens par des méthodes déjà mises au point à l’époque de la création de Leena. D’autres vont l’acquérir pendant leur fonctionnement par effet de bord, à moins que ce ne soit provoqué.
+Initialement, aucune IA n’est sentiente, tout du moins au début de leur entraînement. Certaines vont être entraînée dans ce sens par des méthodes déjà mises au point à l’époque de la création de Leena. D’autres vont l’acquérir pendant leur fonctionnement par effet de bord, à moins que ce ne soit provoqué.
 
 Les trois modèles d’IA fortes sont capables de sentience. Toutefois, si les Synchro et les Wolfa ne développent ces facultés que dans des conditions particulières, les IA de Ley-Wan tendent à devenir spontanément sentientes au point même où ce modèle n’est désormais plus utilisé que pour les applications nécessitant la sentience. Cela ne veut pas pour autant dire que les deux autres modèles ne peuvent pas devenir sentiente sans l’action volontaire d’un tiers : selon une hypothèse encore non confirmée, la sentience pourrait même être une propriété systématiquement émergente dès qu’une IA générale se retrouverait confronté à certains environnements.
 
@@ -72,12 +72,12 @@ Les trois modèles d’IA fortes sont capables de sentience. Toutefois, si les S
 ## Unions et fusions
 Par habitude, tradition où plus généralement par envie, les solaires peuvent s’unir en couple ou groupes plus nombreux pour former ce qu’ils considèrent une famille.
 
-Conformément au traité des solaires, la nature de ces unions est libre et ne regarde que les intéressés. Malgré tout, les corporations offrent toute différents cadres légaux pour pouvoir les reconna&icirc;tre officiellement, notamment par le biais de contrats.
+Conformément au traité des solaires, la nature de ces unions est libre et ne regarde que les intéressés. Malgré tout, les corporations offrent toute différents cadres légaux pour pouvoir les reconnaître officiellement, notamment par le biais de contrats.
 
 Certaines unions sont d’une nature plus profonde encore : plusieurs êtres peuvent fusionner pour en former un nouveau qui dispose des souvenirs de ses deux parents. Ce cas reste toutefois extrêmement rare, mais démontre le besoin fusionnel de certains solaires.
 
 ## Mort et résurrection
-Les solaires considèrent, d’une certaine fa&ccedil;on, avoir vaincu la mort. Certains argueront toutefois qu’ils n’ont trouvé qu’une voie de contournement.
+Les solaires considèrent, d’une certaine façon, avoir vaincu la mort. Certains argueront toutefois qu’ils n’ont trouvé qu’une voie de contournement.
 
 Pour commencer, la science et la technologie sont parvenus à mitiger grandement les dégâts sur les corps organiques, étant capable de réparer n’importe quel organe. Ils sont aussi parvenus à supprimer l’érosion des télomères, et toute une série de facteur d’usure cellulaire programmée, ce qui était alors considéré comme un kill-switch.
 

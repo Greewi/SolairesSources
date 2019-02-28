@@ -8,7 +8,7 @@ Avec l’avènement des constructeurs universels de dernière génération, il e
 
 Deux options sont alors possibles : laisser le sujet dans la cellule de stase ou le stocker ailleurs. Si la seconde solution optimise l’espace de stockage, la première présente l’avantage de ne pas séparer le sujet de la machine capable de le réanimer.
 
-C’est en effet le même appareil qui est capable de réveiller l’être, d’abord en supprimant la matrice solide, puis en relan&ccedil;ant les mécanismes métaboliques qui avaient été arrêtés. L’éveil, maintenant rapide, ne laisse aucune sensation résiduelle.
+C’est en effet le même appareil qui est capable de réveiller l’être, d’abord en supprimant la matrice solide, puis en relançant les mécanismes métaboliques qui avaient été arrêtés. L’éveil, maintenant rapide, ne laisse aucune sensation résiduelle.
 
 Le processus est devenu particulièrement fiable et est beaucoup utilisé. On s’en sert principalement pour le transport et le stockage d’enveloppe mais aussi pour les sauvetages ou même l’application de certaines peines. Quelques autres personnes les utilisent lors des voyages interplanétaires pour ne pas subir le temps du trajet.
 
@@ -18,7 +18,7 @@ Véritable constructeur universel, la station médicale Wolfa est le summum de l
 Comme le disent de nombreux personnels médicaux et paramédicaux de premier front : « Si vous êtes encore en vie quand on vous met là-dedans, vous êtes sauvés ! » C’est bien simple, depuis cette invention, on considère qu’il est possible pour un humain d’accéder à l’immortalité.
 
 ## Gel médical
-Le gel médical est un gel organique con&ccedil;u pour reconstituer rapidement des tissus. Il permet ainsi à un organique blessé de reprendre immédiatement une activité importante. Mieux encore, ce gel est constitué de sorte à favoriser la croissance des tissus et des os proches et permettre ainsi une guérison nettement plus rapide et complète que la guérison naturelle.
+Le gel médical est un gel organique conçu pour reconstituer rapidement des tissus. Il permet ainsi à un organique blessé de reprendre immédiatement une activité importante. Mieux encore, ce gel est constitué de sorte à favoriser la croissance des tissus et des os proches et permettre ainsi une guérison nettement plus rapide et complète que la guérison naturelle.
 
 Le gel médical est un gel inerte. Composé de nano-éléments pouvant être assemblés il peut reproduire n’importe quel organe, mais ce dernier sera pratiquement non fonctionnel. En revanche, il permet de souder des os et de reconstruire le circuit sanguin. Ceci suffit normalement pour tenir jusqu’à l’infirmerie, tant que la blessure n’était pas immédiatement létale.
 
@@ -39,9 +39,9 @@ Une variante de ce vaccin combine en plus des protections contre les agents biol
 ## Respirateur
 Le respirateur est un appareil apportant un appoint d’air dans les milieux où celui-ci se fait rare. Il dispose d’une petite cartouche d’air amélioré à l’état liquide qui permet à un humain de survivre quelques heures dans une atmosphère rare. Ce modèle équipe la plupart des kits médicaux.
 
-Certains appareils disposent aussi d’un recycleur capable de transformer l’air expiré en air respirable et peut augmenter considérablement l’autonomie de cet appareil. Le processus est certes co&ucirc;teux en énergie mais permet à une personne de survivre en attendant les secours dans une atmosphère raréfiée pendant près d’une journée. Pour ces raisons ils sont souvent présent dans le matériel de survie à bord des installations spatiales.
+Certains appareils disposent aussi d’un recycleur capable de transformer l’air expiré en air respirable et peut augmenter considérablement l’autonomie de cet appareil. Le processus est certes coûteux en énergie mais permet à une personne de survivre en attendant les secours dans une atmosphère raréfiée pendant près d’une journée. Pour ces raisons ils sont souvent présent dans le matériel de survie à bord des installations spatiales.
 
 ## Kit médical
 Le kit médical contient de nombreux outils médicaux et permet à un médecin compétent d’opérer sur le terrain. Durant la guerre des colonies, un tel médecin pouvait relever un soldat gravement blessé et le rendre à nouveau apte à combattre en quelques minutes.
 
-Ce kit est constitué de gel médical, de nano-chirurgiens, d’un respirateur, d’un nano-assembleur, d’un scanner portatif et d’une torche plasma ainsi que des IA pour piloter tout &ccedil;a. C’est une véritable salle d’opération portative. Avec la généralisation des cyborgs, on trouve de plus en plus souvent de la nanite dans ces kits.
+Ce kit est constitué de gel médical, de nano-chirurgiens, d’un respirateur, d’un nano-assembleur, d’un scanner portatif et d’une torche plasma ainsi que des IA pour piloter tout ça. C’est une véritable salle d’opération portative. Avec la généralisation des cyborgs, on trouve de plus en plus souvent de la nanite dans ces kits.

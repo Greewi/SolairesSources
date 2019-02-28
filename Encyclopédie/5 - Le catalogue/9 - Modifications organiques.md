@@ -1,7 +1,7 @@
 # Modifications organiques
 > « Pousser les limites du vivant, n’était-ce pas le travail de la nature ? Certains semblent l’avoir trouvée trop lent ! »
 
-En suivant les voies évolutives connues, il est rarement possible de faire mieux que ce que la nature a déjà offert à l’humain sans sortir de ce qui est communément appelé humain. Mais ce n’est pas une préoccupation de beaucoup. Que ce soit en piochant dans les différents organismes connus, en en évoluant de nouveaux ou en améliorant certaines fonctions organiques en les rempla&ccedil;ants par des éléments inaccessibles via les processus évolutifs, les implants organiques sont variés.
+En suivant les voies évolutives connues, il est rarement possible de faire mieux que ce que la nature a déjà offert à l’humain sans sortir de ce qui est communément appelé humain. Mais ce n’est pas une préoccupation de beaucoup. Que ce soit en piochant dans les différents organismes connus, en en évoluant de nouveaux ou en améliorant certaines fonctions organiques en les remplaçants par des éléments inaccessibles via les processus évolutifs, les implants organiques sont variés.
 
 Les implants assemblés en laboratoire sont particulièrement efficaces. Ces implants ont évité toute la partie intermédiaire nécessaire à l’obtention d’une structure exploitable et demandent parfois de passer par des niveaux d’énergies qui provoqueraient une destruction totale de leur environnement proche s’ils n’étaient pas assemblés dans des constructeurs universels.
 
@@ -10,7 +10,7 @@ Malgré tout, la plupart des modifications organiques restent dépassées par le
 ## Cerveau condensé
 L’amélioration du cerveau passe par une augmentation conséquente du nombre de neurones et de leurs connexions. L’ingénierie des colonies a ainsi permis de créer des neurones beaucoup plus fins avec des axones plus nombreux et une meilleure organisation des connexions. À même volume, un individu doué d’un tel cerveau quadruple ses capacités mémorielles mais ne ressentira pratiquement aucune autre différence.
 
-L’intérêt de ce dispositif est mis en valeur chez les chimères non humano&iuml;des dont il permet de réduire significativement la taille.
+L’intérêt de ce dispositif est mis en valeur chez les chimères non humanoïdes dont il permet de réduire significativement la taille.
 
 ## Immortalité
 Historiquement, les organismes ont une durée de vie limitée et ce principalement par des processus internes à ceux-ci. Bien que l’on ne sache pas la cause de ce fait, une piste prometteuse est que la longévité n’étant pas un critère de sélection, d’autres aspects ont été transmis.
@@ -22,7 +22,7 @@ Ces modifications seules ne sont pas suffisantes et ne permettent pas d’invers
 ## Métabolisme optimisé
 Les fonctions du corps humain sont déjà en grande partie optimisées, mais leur paramétrage est adapté à des usages moyens. En visant des conditions particulières et des tâches spécifiques, il est possible d’adapter son métabolisme afin d’augmenter son efficacité. Évidemment cela a un prix puisque ces modifications tendent à réduire l’efficacité dans d’autres situations.
 
-Les gains procurés par cette méthode restent mineurs et les chiffrages indiquent qu’ils ne dépassent pas les 5 à 10 pourcents. En revanche, il permet de compenser complètement les phénomènes tels que la décalcification ou l’affaiblissement musculaire d&ucirc; à l’apesanteur ou aux faibles gravités.
+Les gains procurés par cette méthode restent mineurs et les chiffrages indiquent qu’ils ne dépassent pas les 5 à 10 pourcents. En revanche, il permet de compenser complètement les phénomènes tels que la décalcification ou l’affaiblissement musculaire dû à l’apesanteur ou aux faibles gravités.
 
 ## Muscles améliorés
 S’il est possible d’améliorer sa force en augmentant sa masse musculaire, il est aussi possible de profiter des technologies organiques pour améliorer directement les tissus musculaires. Plusieurs augmentations existent : les micro-fibres de maintient qui évitent les déchirements et élongations et les altérations des fibres musculaires qui augmentent la puissance. L’implantation de ces modifications est souvent accompagnée de l’amélioration des tendons et des os pour équilibrer la solidité de ces derniers avec l’accroissement de la puissance musculaire.

@@ -25,7 +25,7 @@ En plus de cette mécanique simple, le meneur utilise des règles, qui seront d�
 >> 
 >> – Albert : j’essaie de trouver un schéma dans ces fouilles pour essayer de deviner ce qu’ils cherchaient.
 >> 
->> – Sophie (Joue le personnage Razors, une cyber-samoura&iuml;) : mouais. Je vais d’abord voir si on n’a pas encore des intrus sur place. Je dégaine mon katana.
+>> – Sophie (Joue le personnage Razors, une cyber-samouraï) : mouais. Je vais d’abord voir si on n’a pas encore des intrus sur place. Je dégaine mon katana.
 >> 
 >> – Nicolas (Joue le personnage Downlink, un decker) : Pareil, je sors mon pistolet shock et je surveille l’entrée au cas où.
 >> 
@@ -53,7 +53,7 @@ Les rôlistes – les gens qui font du jeu de rôles – ont au fil du temps dé
 * participants : l’ensemble des joueurs plus le meneur ;
 * personnage joueur (PJ) : les personnages contrôlés par les joueurs ;
 * personnage non joueurs (PNJ) : les personnages qui ne sont pas contrôlés par les joueurs et que, donc, le MJ gère ;
-* scénario : la partie préparée de l’histoire qu’habituellement seul le meneur conna&icirc;t ;
+* scénario : la partie préparée de l’histoire qu’habituellement seul le meneur connaît ;
 * D6 : un dé à six face. Cette notation est très employée par les rôlistes qui utilisent des dés qui peuvent sembler exotique (par exemple, des dés à vingt faces par exemple).
 
 ## But du jeu
@@ -86,9 +86,9 @@ Une partie de jeu de rôles demande généralement de la préparation. Cette ét
 
 Le scénario est un document qui contient la plupart des éléments qui serviront à construire l'histoire durant la partie. Il est donc important que le meneur l'ait lu et compris avant la partie. Il peut aussi avoir choisi de l'écrire lui-même. Comme il s'agit d'une étape plutôt longue et qui ne requiert que le meneur, elle est souvent faite un autre jour avant la partie.
 
-De plus, comme le scénario contient des éléments qui composeront l'histoire, les joueurs ne veulent pas le conna&icirc;tre avant la partie, de la même fa&ccedil;on que beaucoup de gens n'aiment pas qu'on leur raconte la fin d'un film qu'ils n'ont pas encore vu. Pour cette raison le meneur effectue cette étape généralement seul.
+De plus, comme le scénario contient des éléments qui composeront l'histoire, les joueurs ne veulent pas le connaître avant la partie, de la même façon que beaucoup de gens n'aiment pas qu'on leur raconte la fin d'un film qu'ils n'ont pas encore vu. Pour cette raison le meneur effectue cette étape généralement seul.
 
-La création des personnages est souvent faite par tous les participants. En suivant les règles de création de personnage, chaque joueur va créer le sien. Le meneur s'assurera que les personnages correspondent à l'univers du jeu et qu'ils cadrent avec le scénario qu'il est habituellement le seul à conna&icirc;tre.
+La création des personnages est souvent faite par tous les participants. En suivant les règles de création de personnage, chaque joueur va créer le sien. Le meneur s'assurera que les personnages correspondent à l'univers du jeu et qu'ils cadrent avec le scénario qu'il est habituellement le seul à connaître.
 
 Il peut arriver que le meneur ait créé à l'avance des personnages spécialement prévus pour son scénario ou que les joueurs décident de prendre des archétypes ou des personnages tout fait dans le manuel du jeu ou une autre source : on parle alors de personnages prétirés ; ces personnages fonctionnent néanmoins exactement comme s'ils avaient été créés par les joueurs.
 
@@ -104,13 +104,13 @@ Certaines actions critiques peuvent ne pas réussir. Lorsque le meneur considèr
 ## Les scènes d'action
 Régulièrement, les personnages se retrouveront dans des situations plus intenses comme des combats, des courses poursuites, et autres scènes d’action. Dans ces scènes, l'ordre des actions peut modifier considérablement les évènements et même l'issue de la scène. Il convient donc d'être un peu plus rigoureux pour ces scènes.
 
-Pour commencer, ces scènes se produisent généralement à l’initiative d’un personnage ou d'un groupe de personnage : &ccedil;a peut être un personnage qui ouvre le feu ou qui tente de s’enfuir… C'est ce personnage qui agit en premier durant la scène. Le joueur, ou le meneur dans le cas d'un personnage non-joueur, explique ce que ce personnage va tenter et l'action sera résolue normalement, avec un test de résolution si le meneur l'estime nécessaire.
+Pour commencer, ces scènes se produisent généralement à l’initiative d’un personnage ou d'un groupe de personnage : ça peut être un personnage qui ouvre le feu ou qui tente de s’enfuir… C'est ce personnage qui agit en premier durant la scène. Le joueur, ou le meneur dans le cas d'un personnage non-joueur, explique ce que ce personnage va tenter et l'action sera résolue normalement, avec un test de résolution si le meneur l'estime nécessaire.
 
 Ensuite, le meneur décidera du prochain personnage pouvant agir, en fonction de ce qui lui semble le plus logique du point de vue de la cohérence de l'histoire. Initialement, le meneur aura pour contrainte de démarrer les actions de l'ensemble des personnages avant de pouvoir faire agir une seconde fois l'un de ceux qui ont déjà été choisis.
 
-La suite se déroule normalement, le meneur choisissant le prochain personnage à agir en fonction de ce qui lui para&icirc;t le plus cohérent. Lorsque la situation se calme enfin, à partir du moment où l'ordre des actions perd son importance, le jeu peut reprendre son fonctionnement habituel.
+La suite se déroule normalement, le meneur choisissant le prochain personnage à agir en fonction de ce qui lui paraît le plus cohérent. Lorsque la situation se calme enfin, à partir du moment où l'ordre des actions perd son importance, le jeu peut reprendre son fonctionnement habituel.
 
 ## Fin d'une partie
 Au fil des actions des personnages et des évènements, les joueurs parviendront à la fin de la partie. Cette fin de partie, qui signe généralement la fin d'une intrigue, correspond à une situation où la problématique du scénario a été résolue, si nécessaire par la victoire des personnages ou leur défaite.
 
-Si cette notion vous semble nébuleuse, repensez à la fin de films ou d'épisodes de séries où cela peut vous para&icirc;tre plus évident : il s'agit exactement de la même chose dans une partie de Solaires.
+Si cette notion vous semble nébuleuse, repensez à la fin de films ou d'épisodes de séries où cela peut vous paraître plus évident : il s'agit exactement de la même chose dans une partie de Solaires.

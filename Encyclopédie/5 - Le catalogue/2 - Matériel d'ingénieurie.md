@@ -4,7 +4,7 @@
 ## Batterie à antimatière
 Une batterie à antimatière est un accumulateur qui stocke de l’énergie sous la forme d’antimatière, généralement de positrons et la libère sous forme d’électricité.
 
-Contrairement aux suppositions que pourrait entra&icirc;ner son nom, cette batterie n’est absolument pas plus dangereuse qu’une batterie d’un autre type. En revanche, elles sont bien plus compactes que la plupart des autres formes de batteries ou de piles et peuvent emmagasiner de très grandes quantités d’énergie.
+Contrairement aux suppositions que pourrait entraîner son nom, cette batterie n’est absolument pas plus dangereuse qu’une batterie d’un autre type. En revanche, elles sont bien plus compactes que la plupart des autres formes de batteries ou de piles et peuvent emmagasiner de très grandes quantités d’énergie.
 
 En revanche, en raison du rendement de la conversion de l’antimatière vers l’électricité, ces accumulateurs produisent une petite quantité de chaleur dont il faut tenir compte, notamment si des puissances élevées sont impliquées. Elles ont aussi un taux de décharge interne relativement élevé et perdent environ 10 % de leur charge en une semaine.
 
@@ -56,7 +56,7 @@ Un générateur à fusion autonome reste toutefois de taille conséquente et ne 
 ## Constructeur universel
 Les constructeurs universels sont des appareils important dans la civilisation solaire. Ils sont capables d’assembler des objets entiers, atomes par atome. La quasi-totalité des objets fabriqués dans les colonies ont été assemblés par un constructeur universel ou à partir d’éléments construits par un tel appareil. C’est aussi le cas de la plupart des êtres artificiels.
 
-Les constructeurs universels sont aussi capables de désassembler n’importe quel objet et permettent donc un recyclage des matériaux parfait, économisant les ressources. L’opération nécessite toutefois un co&ucirc;t énergétique important, mais c’est la seule solution permettant de recycler les objets composés de très nombreux matériaux intimement mélangés.
+Les constructeurs universels sont aussi capables de désassembler n’importe quel objet et permettent donc un recyclage des matériaux parfait, économisant les ressources. L’opération nécessite toutefois un coût énergétique important, mais c’est la seule solution permettant de recycler les objets composés de très nombreux matériaux intimement mélangés.
 
 Les constructeurs universels ont beaucoup gagné en vitesse au fil du temps et peuvent désormais assembler de grandes structures en quelques dizaines de secondes. Il s’agit aussi du moyen le plus économique énergétiquement pour produire des biens dans les colonies avec un rapport proche de l’optimal théorique.
 
@@ -64,7 +64,7 @@ Pour leur fonctionnement, les constructeurs universels emploient des nanorobots 
 
 Il existe historiquement trois générations de constructeurs universels. La première, qui n’utilise pas de nanorobots auto-répliquant, est aujourd’hui tombée en désuétude à cause de ses temps de traitement à la limite de l’utilité. La seconde génération emploie ces fameux robots et est encore très utilisée, principalement sous les formes portatives qui ne peuvent emporter un scanner à effet Wolfa avec une suffisamment bonne précision. La troisième génération embarque donc un scanner à effet Wolfa pour coordonner l’armée de nanorobots, ce sont des appareils massifs restreints aux installations comme les colonies et les stations spatiales.
 
-La plupart des modèles en service sont donc très imposants. En plus des contraintes des scanners à effet Wolfa, ils sont aussi con&ccedil;us pour produire tout ce qui est nécessaire dans les colonies et &ccedil;a va de minuscules molécules aux éléments structurels des colonies ou des vaisseaux. Il existe toutefois des modèles très compacts, très prisés des hackeurs, qui tiennent dans une simple valise.
+La plupart des modèles en service sont donc très imposants. En plus des contraintes des scanners à effet Wolfa, ils sont aussi conçus pour produire tout ce qui est nécessaire dans les colonies et ça va de minuscules molécules aux éléments structurels des colonies ou des vaisseaux. Il existe toutefois des modèles très compacts, très prisés des hackeurs, qui tiennent dans une simple valise.
 
 <table>
     <tr>

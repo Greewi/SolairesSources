@@ -25,12 +25,12 @@ N’importe quel élément est susceptible d’être gagné ou amélioré tant q
 >> 
 >> Pour des éléments plus rares et réglementés, comme une bombe à plasma par exemple, le meneur peut exiger une intrigue.
 ## L’objectif
-Une intrigue doit avoir un objectif et l’accomplissement de celui-ci doit justifier le gain de la récompense. La nature de cet objectif peut être très variée : passer une certification, inventer un nouvel appareil, être formé par un ma&icirc;tre, être reconnu par une organisation, etc.
+Une intrigue doit avoir un objectif et l’accomplissement de celui-ci doit justifier le gain de la récompense. La nature de cet objectif peut être très variée : passer une certification, inventer un nouvel appareil, être formé par un maître, être reconnu par une organisation, etc.
 
 Ici encore, l’objectif est contraint par l’univers et l’histoire de la série et doit donc être approuvé par le meneur.
 
 
->> Les intrigues n’ont pas besoin de nécessiter de grands exploits pour être accomplies, &ccedil;a peut même être un moyen de décrire la vie quotidienne de votre personnage ou pour remplir les creux, pendant un voyage spatial par exemple.
+>> Les intrigues n’ont pas besoin de nécessiter de grands exploits pour être accomplies, ça peut même être un moyen de décrire la vie quotidienne de votre personnage ou pour remplir les creux, pendant un voyage spatial par exemple.
 >> 
 >> De plus, l’objectif peut relever de la volonté de votre personnage ou la « voie tracée par le destin ». Toutefois, Solaires traitant du transhumanisme et plus particulièrement de la transformation des êtres, la première option est sans doute la plus intéressante des deux.
 ## Les étapes
@@ -56,16 +56,16 @@ Si c’est la première méthode qui est choisie, vous essaierez de faire avance
 La seconde méthode permet de ne pas prendre de temps sur la séance. Si la table comporte beaucoup de joueurs ou si vos séances sont courtes, vous n’aurez sans doute pas assez de temps pour traiter les intrigues pendant la partie. Dans ce cas, vous pouvez gérer l’intégralité des intrigues entre les séances. Dans cette situation, le joueur doit, en plus de définir l’étape suivante, indiquer au meneur comment son personnage a procédé. Si le meneur le valide, le personnage passe à l’étape suivante, sinon le joueur peut soumettre une nouvelle proposition. Grâce à cette méthode, vous pouvez continuer à donner vie au personnage entre chaque épisode.
 
 
->> Comme vous pouvez le remarquer, ce système est équivalent à donner un « point de progression » aux personnages à la fin de chaque séance en considérant que le co&ucirc;t des améliorations est équivalent au nombre d’étape. Toutefois, cette méthode donne plus de sens à la progression du personnage et peut aider à lui donner plus de vie.
+>> Comme vous pouvez le remarquer, ce système est équivalent à donner un « point de progression » aux personnages à la fin de chaque séance en considérant que le coût des améliorations est équivalent au nombre d’étape. Toutefois, cette méthode donne plus de sens à la progression du personnage et peut aider à lui donner plus de vie.
 ## Terminer une intrigue
 Pour mettre fin à l’intrigue de votre personnage, vous avez deux possibilités : accomplir la dernière étape et donc l’objectif ou l’abandonner.
 
-Si la dernière étape est franchie et que votre personnage a accompli l’objectif de son intrigue, celle-ci est terminée et le personnage re&ccedil;oit immédiatement sa récompense. Au lieu de planifier la prochaine étape, il devra créer une nouvelle intrigue avec sa récompense, son objectif et sa première étape.
+Si la dernière étape est franchie et que votre personnage a accompli l’objectif de son intrigue, celle-ci est terminée et le personnage reçoit immédiatement sa récompense. Au lieu de planifier la prochaine étape, il devra créer une nouvelle intrigue avec sa récompense, son objectif et sa première étape.
 
-En revanche, il peut arriver que vous ne souhaitiez pas poursuivre l’intrigue de votre personnage. Par exemple, elle vous mène dans une direction qui ne vous pla&icirc;t pas ou la récompense ne vous intéresse plus. Dans ce cas, vous pouvez abandonner l’intrigue actuelle de votre personnage et en commencer une nouvelle. Habituellement, la progression de l’intrigue abandonnée est perdue, mais il peut arriver que votre meneur vous permette de la reprendre plus tard.
+En revanche, il peut arriver que vous ne souhaitiez pas poursuivre l’intrigue de votre personnage. Par exemple, elle vous mène dans une direction qui ne vous plaît pas ou la récompense ne vous intéresse plus. Dans ce cas, vous pouvez abandonner l’intrigue actuelle de votre personnage et en commencer une nouvelle. Habituellement, la progression de l’intrigue abandonnée est perdue, mais il peut arriver que votre meneur vous permette de la reprendre plus tard.
 
 ## Exemples d’intrigues
-Il peut être intimidant pour un joueur de construire une intrigue lui-même. Bien s&ucirc;r, le meneur et les autres joueurs peuvent l’aider et de fa&ccedil;on générale nous conseillons l’entraide à la table. En plus de cette potentielle aide, nous vous présentons quelques idées d’intrigues à titre d’exemple. Évidemment, vous ne devriez pas vous contenter de les reprendre tel quel, et nous vous encourageons à construire des intrigues originales.
+Il peut être intimidant pour un joueur de construire une intrigue lui-même. Bien sûr, le meneur et les autres joueurs peuvent l’aider et de façon générale nous conseillons l’entraide à la table. En plus de cette potentielle aide, nous vous présentons quelques idées d’intrigues à titre d’exemple. Évidemment, vous ne devriez pas vous contenter de les reprendre tel quel, et nous vous encourageons à construire des intrigues originales.
 
 
 >> Chaque exemple commence par son objectif. Nous précisons ensuite les types d’éléments qui pourrait être amélioré/obtenus par ces intrigues, avant de lister les étapes.

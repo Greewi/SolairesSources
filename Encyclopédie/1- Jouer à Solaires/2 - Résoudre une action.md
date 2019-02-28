@@ -33,7 +33,7 @@ Notez, en particulier pour l’échelle de difficulté intrinsèque, que le choi
     </tr>
     <tr>
         <th>Ardue (+2)</th>
-        <td>Mieux vaut s’y conna&icirc;tre un minimum</td>
+        <td>Mieux vaut s’y connaître un minimum</td>
     </tr>
     <tr>
         <th>Complexe (0)</th>
@@ -181,15 +181,15 @@ Pour les effets en faveur des PJ, nous vous proposons ces exemples :
 Notez que le joueur peut utiliser un point de personnage pour décrire lui-même les conséquences directes de l'action, mais cette possibilité est soumise au veto des participants (le joueur récupère son point si un veto est utilisé). Dans cette description, essayez d'impliquer au mieux les éléments que vous avez utilisés et respectez l’échec ou la réussite de l’action. De plus, vous devez conserver les effets de l’altération. Par exemple, vous ne pouvez pas décrire une contrepartie bénéfique si le résultat de la résolution n'en comporte pas.
 
 ## Un exemple
-*Durant un combat sur une plate-forme en mouvement, Razors, cyber-samoura&iuml;, affronte un cyborg à main nue. Sophie, qui joue Razors,annonce que son personnage va tenter une prise pour ma&icirc;triser son adversaire.*
+*Durant un combat sur une plate-forme en mouvement, Razors, cyber-samouraï, affronte un cyborg à main nue. Sophie, qui joue Razors,annonce que son personnage va tenter une prise pour maîtriser son adversaire.*
 
-*Justine, la meneuse, explique que si l’action réussit, Razors arrivera à ma&icirc;triser le cyborg.Si elle ne réussit pas, le cyborg la fera chuter de la plate-forme. Justine ajoute que l’action sera Adoucie : si elleréussit de justesse, le cyborg tombera de la plate-formeet pourra s’enfuir,tandis quesi elle échoue de justesse, Razorsbasculera dans le vide en parvenant àse rattraperau bord. Justine évalue la difficulté à -2 (Démentielle, Neutre).*
+*Justine, la meneuse, explique que si l’action réussit, Razors arrivera à maîtriser le cyborg.Si elle ne réussit pas, le cyborg la fera chuter de la plate-forme. Justine ajoute que l’action sera Adoucie : si elleréussit de justesse, le cyborg tombera de la plate-formeet pourra s’enfuir,tandis quesi elle échoue de justesse, Razorsbasculera dans le vide en parvenant àse rattraperau bord. Justine évalue la difficulté à -2 (Démentielle, Neutre).*
 
 *Sophie choisi d’utiliser l’élément Art martiaux (3). Comme faire une prise est typique pour cette carrière, elle utilise aussi Muscles améliorés (2). Le score à ne pas dépasser est donc de 3 (-2 + 3 + 2).*
 
 *Sophie lance les trois dés et obtient 4, 6 et 2. Elle ne conserve donc qu’un seul dé : c’est un échec avec contrepartie positive.*
 
-*Justine, la meneuse, explique alors que le cyborg repousse la cyber-samoura&iuml; et que Razors tombe de la plateforme. Heureusement, elle parvient à se rattraper d’une main, mais la voici suspendu au-dessus du vide.*
+*Justine, la meneuse, explique alors que le cyborg repousse la cyber-samouraï et que Razors tombe de la plateforme. Heureusement, elle parvient à se rattraper d’une main, mais la voici suspendu au-dessus du vide.*
 
 
 >> ### Règle optionnelle : Jets en opposition

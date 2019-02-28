@@ -71,7 +71,7 @@ Les foglets sont une méthode d’importer l’espace virtuel dans la réalité 
 </table>
 
 ## SolNet
-SolNet est le grand réseau qui relie la totalité du système solaire ou presque. Successeur de l’internet terrien, ce réseau a été spécifiquement con&ccedil;u pour répondre aux problématiques des colonies. Le réseau lui-même est entièrement décentralisé pour permettre à chaque colonie d’organiser son infrastructure et d’assurer leur autonomie. Pour éviter des requêtes interplanétaires inutiles, il contient des nœuds pour dupliquer les informations publiques.
+SolNet est le grand réseau qui relie la totalité du système solaire ou presque. Successeur de l’internet terrien, ce réseau a été spécifiquement conçu pour répondre aux problématiques des colonies. Le réseau lui-même est entièrement décentralisé pour permettre à chaque colonie d’organiser son infrastructure et d’assurer leur autonomie. Pour éviter des requêtes interplanétaires inutiles, il contient des nœuds pour dupliquer les informations publiques.
 
 Sur le réseau les messages sont particulièrement bien protégés, car il implémente aussi plusieurs méthodes de cryptographie quantique qui exploitent les propriétés de la physique pour assurer l’inviolabilité des messages transmis. Si un paquet est intercepté, les seules informations qui peuvent en être extraite sont les informations de routage : d’où le message est parti, où il va, et sa taille.
 
@@ -101,7 +101,7 @@ Dernier aspect intéressant du réseau, il permet aussi le transport d’énergi
 ## Synthétiseur
 Les synthétiseurs sont des appareils domestiques grands comme un four micro-ondes, capable de synthétiser de la nourriture à partir de matière organique partiellement assemblée. La plupart ont une contenance suffisante pour synthétiser un plat pour deux personnes.
 
-Contrairement à ce que peut imaginer un grand nombre de terrien, la nourriture ainsi créée a une structure moléculaire identique à celle d’une nourriture obtenue par des moyens traditionnels. Même go&ucirc;t, même consistance, même qualités nutritives… Seule l’origine est différente et elle n’implique pas de prendre la vie à un autre être.
+Contrairement à ce que peut imaginer un grand nombre de terrien, la nourriture ainsi créée a une structure moléculaire identique à celle d’une nourriture obtenue par des moyens traditionnels. Même goût, même consistance, même qualités nutritives… Seule l’origine est différente et elle n’implique pas de prendre la vie à un autre être.
 
 Cette technologie permet donc de reproduire n’importe quel plat, même ceux considérés comme les plus rares sur Terre. C’est aussi le meilleur moyen pour les êtres qui ont une biologie simplifiée de pouvoir obtenir leur nourriture dans les colonies, l’autre option nécessitant généralement l’accès à un constructeur universel.
 
@@ -129,7 +129,7 @@ Bien que la production des synthétiseurs puisse normalement couvrir pratiquemen
 ## Vêtements mimétiques
 Les vêtements mimétiques sont des vêtements capables de changer de forme et de couleur à la demande. Ils sont composés de millions de micro-robots semblable à de minuscules écailles, que les solaires appellent « silkware ».
 
-L’éventail des possibilités couvre pratiquement tous les vêtements existants, à l’exception des vraies fourrures qui, pour le coup, ne peuvent pas être vraies. Toutefois, en fonction de la nature du tissu à répliquer, on n’emploie pas les mêmes silkware. De la même fa&ccedil;on, la quantité de ces robots n’est pas la même qu’on souhaite une parka ou un bikini. Malgré ces limitations, les solaires ont accès à un choix extraordinairement riche et la nation de garde-robe virtuelle prend tout son sens.
+L’éventail des possibilités couvre pratiquement tous les vêtements existants, à l’exception des vraies fourrures qui, pour le coup, ne peuvent pas être vraies. Toutefois, en fonction de la nature du tissu à répliquer, on n’emploie pas les mêmes silkware. De la même façon, la quantité de ces robots n’est pas la même qu’on souhaite une parka ou un bikini. Malgré ces limitations, les solaires ont accès à un choix extraordinairement riche et la nation de garde-robe virtuelle prend tout son sens.
 
 Ces tissus possèdent également des propriétés étonnantes : certains sont hydrophobes voire autonettoyants, et tous sont capables de se réparer d’eux-mêmes. Les plus récents sont aussi capables d’anticiper les mouvements de leur porteur pour faciliter leurs gestes.
 

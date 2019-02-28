@@ -8,7 +8,7 @@ Dans les colonies, l’aération et le recyclage de l’atmosphère revêt une i
 
 Le moindre module autonome, habitation, voir dans certain cas chaque pièce, comporte son propre système de recyclage de l’atmosphère.
 
-Le principe est assez simple : l’air est pompé puis refroidit jusqu’à le rendre liquide. Ses composants sont alors séparés par centrifugation. Le dioxyde de carbone et d’autres gaz toxiques sont alors extraits pour être retraité. Ce qui reste re&ccedil;oit un complément de dioxygène puis est réchauffé à la température normale et réinjecté dans l’habitation.
+Le principe est assez simple : l’air est pompé puis refroidit jusqu’à le rendre liquide. Ses composants sont alors séparés par centrifugation. Le dioxyde de carbone et d’autres gaz toxiques sont alors extraits pour être retraité. Ce qui reste reçoit un complément de dioxygène puis est réchauffé à la température normale et réinjecté dans l’habitation.
 
 Comme pratiquement tout dans les colonies, le dioxygène est obtenu par le recyclage, celui du dioxyde de carbone principalement. Malgré tout, il existe toujours quelques pertes et les installations possèdent toutes des stocks de dioxygène et de diazote régulièrement ravitaillés.
 
@@ -46,7 +46,7 @@ L’énergie nucléaire est finalement la seule solution. La fission de l’uran
 Pour finir, l’antimatière est aussi très utilisée, mais sous forme transitoire pour stocker temporairement l’énergie : un nouveau type de batterie en somme.
 
 ## Éclairage
-À cinq unités astronomiques du soleil, au niveau de Jupiter, la lumière re&ccedil;ue ne représente que 4 % l’ensoleillement re&ccedil;u sur Terre. Saturne, Uranus et Neptune n’en re&ccedil;oivent pour ainsi dire qu’une portion qui para&icirc;trait négligeable pour un terrien.
+À cinq unités astronomiques du soleil, au niveau de Jupiter, la lumière reçue ne représente que 4 % l’ensoleillement reçu sur Terre. Saturne, Uranus et Neptune n’en reçoivent pour ainsi dire qu’une portion qui paraîtrait négligeable pour un terrien.
 
 Les colonies emploient donc majoritairement un éclairage artificiel. Pour des raisons de sécurité seules des sources lumineuses froides sont utilisées et depuis de nombreuses décennies, les diodes électroluminescentes organiques dominent ce secteur.
 
@@ -70,15 +70,15 @@ Par ailleurs, les colonies produisent beaucoup moins de déchets que les cités 
 
 Les gains du recyclage et de la lutte contre l’obsolescence dépassent le simple traitement des déchets : ces deux facteurs ont aussi permis de réduire considérablement les besoins en matière première et ont augmenté considérablement les capacités de développement des colonies.
 
-Plus concrètement, les déchets sont collectés de multiples fa&ccedil;ons. Sur les plus petites installations, tous les déchets sont apportés « à la main » au centre de production où ils seront recyclés. Dans les plus grandes installations un système de collecte des ordures est mis en place.
+Plus concrètement, les déchets sont collectés de multiples façons. Sur les plus petites installations, tous les déchets sont apportés « à la main » au centre de production où ils seront recyclés. Dans les plus grandes installations un système de collecte des ordures est mis en place.
 
 Dans ce dernier cas, les déchets sont stockés localement dans des containers spécialisés puis transportés par un système automatisé ou des robots au centre de production.
 
-Le recyclage de l’air et de l’eau lui s’effectue localement de fa&ccedil;on décentralisée : chaque habitation possédant généralement son propre système de renouvellement de l’atmosphère et d’un recycleur/purificateur d’eau.
+Le recyclage de l’air et de l’eau lui s’effectue localement de façon décentralisée : chaque habitation possédant généralement son propre système de renouvellement de l’atmosphère et d’un recycleur/purificateur d’eau.
 
 ## Cadre virtuel
-À l’œil nu, les installations des colonies peuvent para&icirc;tre très sobres – encore que l’architecture de plusieurs cités peut faire figure d’œuvre d’art.
+À l’œil nu, les installations des colonies peuvent paraître très sobres – encore que l’architecture de plusieurs cités peut faire figure d’œuvre d’art.
 
-Mais, plongé dans un canal de réalité augmentée, le décor tout entier peut changer, laissant appara&icirc;tre une canopée forestière en place du plafond ou octroyant une architecture gothique aux halles d’un centre de loisir.
+Mais, plongé dans un canal de réalité augmentée, le décor tout entier peut changer, laissant apparaître une canopée forestière en place du plafond ou octroyant une architecture gothique aux halles d’un centre de loisir.
 
 Cette surcouche esthétique de la réalité augmenté est souvent appelée dreamware par les habitants des colonies. Elle est tellement employée que pour la plupart d’entre eux, elle fait réellement partie de leur environnement.
