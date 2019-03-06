@@ -1,5 +1,5 @@
 # Matériel extravéhiculaire
-> « Sortir a toujours été la plus grande crainte des spationautes, même si nos outils et protections ont bien évolué. »
+> « Sortir a toujours été la plus grande crainte des spationautes, même si nos outils et protections ont bien évolué. »
 
 ## Combinaison spatiale
 L’espace est intrinsèquement hostile à la plupart des êtres organiques et une combinaison spatiale leur est indispensable pour effectuer une sortie extra-véhiculaire.

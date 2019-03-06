@@ -1,12 +1,12 @@
 # Véhicules
-> « Dans les colonies, il y a trois types de personnes : les piétons, les rampants et les pilotes. »
+> « Dans les colonies, il y a trois types de personnes : les piétons, les rampants et les pilotes. »
 
 ## Exosquelettes et mechas
 Les exosquelettes et les mechas sont les véhicules individuels les plus utilisés. Pouvant décupler la force et la taille de leur pilote, ces engins sont utilisés dans de très nombreux domaines, du génie des colonies aux forces d’assaut.
 
 Les exosquelettes militaires transportent de l’armement lourd bien plus puissant que celui, déjà considérable, utilisé par les paras. Ils offrent une alternative aux véhicules plus lourds et jouissent d’une polyvalence certaine.
 
-Les mechas ont un fonctionnement légèrement différent des exosquelettes : alors que ces derniers amplifient la force et se portent comme une sorte de sur-armure, les mechas doivent être pilotés comme les autres véhicules. Ainsi, alors que les exosquelettes sont sensiblement limités à une taille humaine, les mechas sont souvent plus grands. En revanche, leur utilisation reste anecdotique en comparaison.
+Les mechas ont un fonctionnement légèrement différent des exosquelettes : alors que ces derniers amplifient la force et se portent comme une sorte de sur-armure, les mechas doivent être pilotés comme les autres véhicules. Ainsi, alors que les exosquelettes sont sensiblement limités à une taille humaine, les mechas sont souvent plus grands. En revanche, leur utilisation reste anecdotique en comparaison.
 
 ## Rovers
 Principal type de véhicule au sol, les rovers sont des engins roulants tout terrains équipés de plusieurs grandes roues ou de chenilles, occasionnellement de pieds. Ils sont ainsi conçus pour pouvoir se déplacer sur tous les terrains extraterrestres.
@@ -38,7 +38,7 @@ Ainsi, les navettes font des allers et retours entre les colonies, les stations 
 Les militaires les utilisent aussi de façon intensive. De nombreux modèles possèdent des capacités de furtivité ou de combat, mais elles restent dédiées à un usage logistique. Pour les combats et autres opérations sur le terrain, les vaisseaux de type chasseurs et corvettes leur sont préférés.
 
 ## Chasseurs
-Les chasseurs sont les plus petits vaisseaux spatiaux militaires. Un cockpit, un gros réacteur et des armes : voilà qui pourrait décrire un chasseur. Ce sont des engins dédiés à la destruction des vaisseaux adverses et qui sont spécialisés en fonction de leurs cibles : intercepteurs pour les petits vaisseaux, bombardiers pour les plus gros. Il arrive parfois que d’autres rôles leur soit affecté : chasseur/dragueur de mine, aviso (messager)…
+Les chasseurs sont les plus petits vaisseaux spatiaux militaires. Un cockpit, un gros réacteur et des armes : voilà qui pourrait décrire un chasseur. Ce sont des engins dédiés à la destruction des vaisseaux adverses et qui sont spécialisés en fonction de leurs cibles : intercepteurs pour les petits vaisseaux, bombardiers pour les plus gros. Il arrive parfois que d’autres rôles leur soit affecté : chasseur/dragueur de mine, aviso (messager)…
 
 Les chasseurs représentent la majeure partie des flottes militaires spatiales et sont au centre de la plupart des opérations. Ce sont en effet des vaisseaux rapides, très maniables et disponibles en grand nombre. De plus, leur armement, pourvu qu’il soit adapté, est largement suffisant pour pouvoir affronter la quasi-totalité des engins spatiaux actuels.
 
@@ -47,15 +47,15 @@ La plupart des flottes en possèdent un très grand nombre qui sont pilotés soi
 ## Corvettes
 Les corvettes sont une grande famille qui regroupe tous les vaisseaux dont la taille ne permet pas l’atterrissage dans le hangar d’un porte nef. Les corvettes ne possèdent généralement pas de hangar elles-mêmes, bien que de nombreux modèles puissent accueillir une navette pour une longue durée.
 
-Les corvettes sont courantes et représentent la majorité des vaisseaux pilotés par des équipages freelance. Elles sont adaptées à de très nombreux rôles : remorquage, transport, récupération… Elles sont aussi courantes dans les forces militaires où elles occupent les rôles civils mais aussi des rôles de soutien telles que les canonnières, bombardiers lourds, ravitailleurs, vaisseaux de reconnaissance…
+Les corvettes sont courantes et représentent la majorité des vaisseaux pilotés par des équipages freelance. Elles sont adaptées à de très nombreux rôles : remorquage, transport, récupération… Elles sont aussi courantes dans les forces militaires où elles occupent les rôles civils mais aussi des rôles de soutien telles que les canonnières, bombardiers lourds, ravitailleurs, vaisseaux de reconnaissance…
 
 ## Frégates
-Les frégates sont les plus petits vaisseaux disposant d’un hangar. Ce sont des vaisseaux souvent autonomes dédiés à des tâches de longue durée : transport interplanétaire, exploration, plate-forme de ravitaillement…
+Les frégates sont les plus petits vaisseaux disposant d’un hangar. Ce sont des vaisseaux souvent autonomes dédiés à des tâches de longue durée : transport interplanétaire, exploration, plate-forme de ravitaillement…
 
 Les frégates restent relativement courantes bien qu’elles soient un peu plus rares que les corvettes. Du fait de leur utilisation dans des missions isolées, elles sont souvent armées et possèdent quelques drones. Les versions militaires étant évidemment bien plus armées.
 
 ## Transporteurs lourds
-Les transporteurs lourds portent bien leur nom : ils sont pratiquement responsables de la totalité des grands échanges entre les systèmes planétaires, transportant personnes et biens.
+Les transporteurs lourds portent bien leur nom : ils sont pratiquement responsables de la totalité des grands échanges entre les systèmes planétaires, transportant personnes et biens.
 
 La durée des voyages entrepris par ces vaisseaux dépassant largement la semaine terrestre, ils sont conçus dans un but d’autonomie, possédant tous les services qu’il serait possible de trouver à bord d’une station orbitale.
 
@@ -71,4 +71,4 @@ Le porte-nefs est une véritable base d’opération spatiale mobile, disposant 
 
 Mais ce qui vaut leur nom à ces vaisseaux c’est l’énorme quantité de chasseurs qu’ils sont capable de déployer, au point que les escadrilles de chasseurs sont souvent nommées essaims. Un porte-nefs peut ainsi déployer quelques centaines de chasseurs, souvent en quelques minutes.
 
-Les portes-nefs sont souvent considérés, à juste titre, comme des objectifs majeurs. Mais ces objectifs, forts de leurs essaims et corvettes, savent bien se défendre !
+Les portes-nefs sont souvent considérés, à juste titre, comme des objectifs majeurs. Mais ces objectifs, forts de leurs essaims et corvettes, savent bien se défendre !

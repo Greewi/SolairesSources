@@ -1,5 +1,5 @@
 # Modifications organiques
-> « Pousser les limites du vivant, n’était-ce pas le travail de la nature ? Certains semblent l’avoir trouvée trop lent ! »
+> « Pousser les limites du vivant, n’était-ce pas le travail de la nature ? Certains semblent l’avoir trouvée trop lent ! »
 
 En suivant les voies évolutives connues, il est rarement possible de faire mieux que ce que la nature a déjà offert à l’humain sans sortir de ce qui est communément appelé humain. Mais ce n’est pas une préoccupation de beaucoup. Que ce soit en piochant dans les différents organismes connus, en en évoluant de nouveaux ou en améliorant certaines fonctions organiques en les remplaçants par des éléments inaccessibles via les processus évolutifs, les implants organiques sont variés.
 
@@ -25,7 +25,7 @@ Les fonctions du corps humain sont déjà en grande partie optimisées, mais leu
 Les gains procurés par cette méthode restent mineurs et les chiffrages indiquent qu’ils ne dépassent pas les 5 à 10 pourcents. En revanche, il permet de compenser complètement les phénomènes tels que la décalcification ou l’affaiblissement musculaire dû à l’apesanteur ou aux faibles gravités.
 
 ## Muscles améliorés
-S’il est possible d’améliorer sa force en augmentant sa masse musculaire, il est aussi possible de profiter des technologies organiques pour améliorer directement les tissus musculaires. Plusieurs augmentations existent : les micro-fibres de maintient qui évitent les déchirements et élongations et les altérations des fibres musculaires qui augmentent la puissance. L’implantation de ces modifications est souvent accompagnée de l’amélioration des tendons et des os pour équilibrer la solidité de ces derniers avec l’accroissement de la puissance musculaire.
+S’il est possible d’améliorer sa force en augmentant sa masse musculaire, il est aussi possible de profiter des technologies organiques pour améliorer directement les tissus musculaires. Plusieurs augmentations existent : les micro-fibres de maintient qui évitent les déchirements et élongations et les altérations des fibres musculaires qui augmentent la puissance. L’implantation de ces modifications est souvent accompagnée de l’amélioration des tendons et des os pour équilibrer la solidité de ces derniers avec l’accroissement de la puissance musculaire.
 
 Ces améliorations permettent une augmentation de la force d’environ 50 % ce qui reste bien en retrait des améliorations cybernétiques correspondantes.
 

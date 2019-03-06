@@ -1,16 +1,16 @@
 # Robots
-> « Admirez nos amis de métal et de carbone : eux qui nous remplacent dans toutes ces tâches ingrates ! »
+> « Admirez nos amis de métal et de carbone : eux qui nous remplacent dans toutes ces tâches ingrates ! »
 
-Les robots sont des agents mécaniques autonomes qui n’ont pas besoin d’être pilotés. Il en existe une très grande variété et chaque robot est adapté à un usage en particulier. Il est à noter que très peu de robots sont sentient : conçus pour des tâches de labeur ou profondément ennuyeuses, il n’aurait en effet pas été judicieux de leur donner cette capacité.
+Les robots sont des agents mécaniques autonomes qui n’ont pas besoin d’être pilotés. Il en existe une très grande variété et chaque robot est adapté à un usage en particulier. Il est à noter que très peu de robots sont sentient : conçus pour des tâches de labeur ou profondément ennuyeuses, il n’aurait en effet pas été judicieux de leur donner cette capacité.
 
-Nous allons vous présenter une liste non exhaustive des différents types de robots. D’une part, il existe bien sûr d’autres types de robots et d’autre part, chaque robot présenté n’existe pas sous un seul et unique modèle : leur production basée sur les constructeurs universels et des IA permet de les produire en masse tout en les déclinant à volonté. En fait, pour certains robots la notion même de modèle n’a tout simplement pas de sens.
+Nous allons vous présenter une liste non exhaustive des différents types de robots. D’une part, il existe bien sûr d’autres types de robots et d’autre part, chaque robot présenté n’existe pas sous un seul et unique modèle : leur production basée sur les constructeurs universels et des IA permet de les produire en masse tout en les déclinant à volonté. En fait, pour certains robots la notion même de modèle n’a tout simplement pas de sens.
 
 ## Spiderbot
 S’il existe un robot emblématique dans toutes les colonies, c’est sans aucun doute le spiderbot. Équipant la totalité des installations et véhicules des Solaires, le spiderbot est un petit robot de maintenance polyvalent travaillant en groupe, les plus petits vaisseaux pouvant en compter des centaines tandis que les colonies en possèdent des millions.
 
 Ressemblant à un arachnide caparaçonné, qui n’aurait que 4 pattes, il s’agit de l’un des plus petits robots en fonction, mesurant un peu moins d’une dizaine de centimètres une fois déployé. Vu de près, ces robots peuvent avoir un air menaçant, notamment avec leurs deux mandibules à lame active ou leur dard injecteur de nanite. Lorsqu’ils se déplacent en nombre, leur démarche accélérée peut donner l’impression d’une nuée grouillante.
 
-Leur équipement est assez complet : une petite réserve de nanites avec un assembleur, deux petites lames actives, un ensemble de senseurs, un scanner à effet Wolfa portatif, des micros plaquettes auto-assemblables pour les avaries plus importantes, des pattes gecko, et un blindage IEM suffisant pour leur permettre de fonctionner sous le rayonnement spatial. La plupart sont aussi capable de se replier pour prendre moins de place pendant le transport, ressemblant alors à un œuf grossier.
+Leur équipement est assez complet : une petite réserve de nanites avec un assembleur, deux petites lames actives, un ensemble de senseurs, un scanner à effet Wolfa portatif, des micros plaquettes auto-assemblables pour les avaries plus importantes, des pattes gecko, et un blindage IEM suffisant pour leur permettre de fonctionner sous le rayonnement spatial. La plupart sont aussi capable de se replier pour prendre moins de place pendant le transport, ressemblant alors à un œuf grossier.
 
 C’est la sentinelle qui veille sur tous. Autonome, il patrouille habituellement les installations à la recherche de toute avarie, dysfonctionnement ou autre anomalie et est équipé du matériel pour effectuer les taches de maintenance les plus courantes. Et dans l’éventualité où ils ne sauraient réparer ou corriger quelque chose, ou s’ils sont dépassés par l’ampleur d’une avarie, ils sont en permanence reliés aux services de maintenances et donc aux personnes capables de le faire. On ne compte plus le nombre d’incidents évités grâce à ces robots, au point même que certains Solaires leur vouent une véritable admiration. C’est d’ailleurs le robot de compagnie le plus répandu, et ce malgré le fait qu’ils n’aient pas été conçus dans ce but initialement.
 
@@ -31,7 +31,7 @@ L’ADB est un robot de combat emblématique sur Mars puisqu’il est la raison 
 ## Robot d’assaut lourd
 Véritable plate-forme d’artillerie anti-véhicule, le robot d’assaut lourd est l’une des plus puissante unité au sol des colonies. Souvent nommé «crabe» en raison de sa capacité à se déplacer dans n’importe quelle direction sans avoir à effectuer de manœuvre, ce robot est par ailleurs très lourdement blindé, pouvant même résister à de nombreuses armes classées malgré tout dans les catégories lourdes.
 
-Disposant d’un canon plasma et de deux pulseurs lourds d’appoints, il peut tenir à lui seul une position, surtout que ses capteurs extrêmement précis et ses logiciels à la pointe de la technologie lui offrent des capacités sensorielles uniques : une vision à 360&deg; de l’UV à l’infrarouge et des senseurs sismiques qui lui permettent même de repérer les véhicules furtifs.
+Disposant d’un canon plasma et de deux pulseurs lourds d’appoints, il peut tenir à lui seul une position, surtout que ses capteurs extrêmement précis et ses logiciels à la pointe de la technologie lui offrent des capacités sensorielles uniques : une vision à 360&deg; de l’UV à l’infrarouge et des senseurs sismiques qui lui permettent même de repérer les véhicules furtifs.
 
 Même si le crabe a été conçu dans l’optique d’anéantir les véhicules adverses, il s’avère aussi particulièrement efficaces contre l’infanterie. Compte tenu de sa puissance, il est équipé de logiciels autonomes et passe en mode dit autistique lors des opérations (centré sur lui-même, il ne reconnaît plus la plupart des signaux non liés à sa tâche en cours).
 
@@ -47,7 +47,7 @@ L’art de l’espionnage n’a cessé de s’améliorer au sein des colonies. D
 
 Malgré son extrême légèreté, il dispose d’une autonomie conséquente, renforcée par sa capacité à utiliser les ondes radios environnantes pour se recharger. Ceci est rendu possible grâce à sa paire d’antennes, qui ponctionne juste ce qu’il lui faut d’énergie sans pour autant s’enregistrer sur le réseau SolNet où il serait immédiatement repéré.
 
-Malheureusement, le moucheron est très fortement impacté par des défauts de taille : très sensible aux champs électrostatiques et électromagnétiques, il ne peut s’approcher du moindre appareil de haute puissance, ni même suivre une ligne d’alimentation. Pire encore, sa faible masse le rend très vulnérable aux courants d’air et nombre de ces petits espions ont terminé leur mission piégés dans un circuit d’aération. Le cloisonnement systématique des installations spécialisées, qu’elles soient militaires ou non, rend la tâche du moucheron terriblement difficile. Ainsi, son utilisation est de plus en plus rare.
+Malheureusement, le moucheron est très fortement impacté par des défauts de taille : très sensible aux champs électrostatiques et électromagnétiques, il ne peut s’approcher du moindre appareil de haute puissance, ni même suivre une ligne d’alimentation. Pire encore, sa faible masse le rend très vulnérable aux courants d’air et nombre de ces petits espions ont terminé leur mission piégés dans un circuit d’aération. Le cloisonnement systématique des installations spécialisées, qu’elles soient militaires ou non, rend la tâche du moucheron terriblement difficile. Ainsi, son utilisation est de plus en plus rare.
 
 Une légende urbaine veut que, durant la guerre, l’ONU ait mis plusieurs mois à se rendre compte que les colonies employaient de tels robots. Ceci est faux et l’ONU disposait d’ailleurs de ses propres drones d’espionnage, même s’ils ne disposaient pas de la même autonomie.
 
@@ -66,7 +66,7 @@ Pour maintenir l’état de propreté des colonies, on utilise principalement le
 On l’épaule généralement par des spiderbots qui explorent le terrain plus rapidement et qui sont aussi capables de lui rapporter les déchets les plus isolés. Si un déchet ne pouvant pas être ramassé par le cleaner bot est trouvé, le service de maintenance de l’installation est appelé pour s’en charger. En condition normale, ceci n’arrive que de façon exceptionnelle.
 
 ## Androïde Syntha
-Était-ce vraiment dans le but de remplacer les métiers d’accueil ? Pour assister ou tenir compagnie à des personnes isolées ? Pour devenir le nouveau jouet sexuel à la mode ? La genèse de l’androïde Syntha, qui reproduit très fidèlement l’apparence des humains, reste sujet de nombreux mythes.
+Était-ce vraiment dans le but de remplacer les métiers d’accueil ? Pour assister ou tenir compagnie à des personnes isolées ? Pour devenir le nouveau jouet sexuel à la mode ? La genèse de l’androïde Syntha, qui reproduit très fidèlement l’apparence des humains, reste sujet de nombreux mythes.
 
 Toujours est-il que ce robot non sentient est désormais principalement utilisé pour les nombreuses missions au contact avec les civils, que ce soit pour rassurer les humains et cyborgs ou pour diverses raisons de tradition. Les principaux employeurs sont les différentes sociétés qui les utilisent pour toute les tâches de secrétariat et d’accueil des visiteurs. Les particuliers en utilisent aussi beaucoup, généralement comme aide ou pour rompre une éventuelle solitude.
 

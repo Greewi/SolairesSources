@@ -1,12 +1,12 @@
 # Matériel médical
-> « Je ne comprendrais jamais comment les Terriens acceptaient ces instruments de tortures pour réparer leurs blessures. »
+> « Je ne comprendrais jamais comment les Terriens acceptaient ces instruments de tortures pour réparer leurs blessures. »
 
 ## Cellule de stase
 Préserver ou mettre en pause un être organique est longtemps resté impossible. La cryogénisation, très destructive, n’est pas parvenue à ce résultat et la plupart des autres méthodes ne donne pas de résultat correct sur le long terme.
 
 Avec l’avènement des constructeurs universels de dernière génération, il est devenu possible de figer au niveau cellulaire un être dans un matériaux neutre et solide qui est souvent appelé «ambre». Il est alors possible de transporter le sujet qui n’aura aucune conscience du temps écoulé.
 
-Deux options sont alors possibles : laisser le sujet dans la cellule de stase ou le stocker ailleurs. Si la seconde solution optimise l’espace de stockage, la première présente l’avantage de ne pas séparer le sujet de la machine capable de le réanimer.
+Deux options sont alors possibles : laisser le sujet dans la cellule de stase ou le stocker ailleurs. Si la seconde solution optimise l’espace de stockage, la première présente l’avantage de ne pas séparer le sujet de la machine capable de le réanimer.
 
 C’est en effet le même appareil qui est capable de réveiller l’être, d’abord en supprimant la matrice solide, puis en relançant les mécanismes métaboliques qui avaient été arrêtés. L’éveil, maintenant rapide, ne laisse aucune sensation résiduelle.
 
@@ -15,7 +15,7 @@ Le processus est devenu particulièrement fiable et est beaucoup utilisé. On s�
 ## Station médicale Wolfa
 Véritable constructeur universel, la station médicale Wolfa est le summum de la médecine de cette fin du XXIe siècle. Combinant un constructeur universel avec une cellule de stase et un scanner à effet Wolfa, il n’y a plus d’opération médicale impossible.
 
-Comme le disent de nombreux personnels médicaux et paramédicaux de premier front : « Si vous êtes encore en vie quand on vous met là-dedans, vous êtes sauvés ! » C’est bien simple, depuis cette invention, on considère qu’il est possible pour un humain d’accéder à l’immortalité.
+Comme le disent de nombreux personnels médicaux et paramédicaux de premier front : « Si vous êtes encore en vie quand on vous met là-dedans, vous êtes sauvés ! » C’est bien simple, depuis cette invention, on considère qu’il est possible pour un humain d’accéder à l’immortalité.
 
 ## Gel médical
 Le gel médical est un gel organique conçu pour reconstituer rapidement des tissus. Il permet ainsi à un organique blessé de reprendre immédiatement une activité importante. Mieux encore, ce gel est constitué de sorte à favoriser la croissance des tissus et des os proches et permettre ainsi une guérison nettement plus rapide et complète que la guérison naturelle.

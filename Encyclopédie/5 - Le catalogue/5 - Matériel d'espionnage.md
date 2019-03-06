@@ -1,5 +1,5 @@
 # Matériel d’espionnage
-> « Si certains ont des secrets et cherchent à les cacher, c’est uniquement pour me donner du travail. »
+> « Si certains ont des secrets et cherchent à les cacher, c’est uniquement pour me donner du travail. »
 
 ## Console de décryptage
 La matrice est le réseau SolNet vu sans la couche d’abstraction qui le rend si commode aux utilisateurs. Pour y naviguer, il est nécessaire de disposer d’un outil capable d’explorer le réseau et capable de s’introduire dans les différents nœuds.
@@ -23,7 +23,7 @@ Les glaces employant la seconde, souvent appelée glaces noires, sont les plus c
 ## Brises glaces
 Les glaces sont présentées comme l’une des solutions les plus efficaces pour protéger les nœuds critiques de SolNet. Mais la guerre électronique rapidement trouvé la parade, les brises glaces, d’autres IA fortes spécialisées dans l’attaque et la désactivation temporaire des glaces. Ces brises glaces sont, heureusement pour les services de sécurité informatique, difficile à concevoir et leur possession est généralement interdite dans les colonies.
 
-Leur utilisation n’est pas instantanée : un brise glace doit étudier la glace entre quelques minutes, pour les systèmes les moins sécurisés, et plusieurs heures, pour les plus robustes, avant pouvoir créer une brèche éphémère. Certains brises glaces sont conçus pour un type de glace précis.
+Leur utilisation n’est pas instantanée : un brise glace doit étudier la glace entre quelques minutes, pour les systèmes les moins sécurisés, et plusieurs heures, pour les plus robustes, avant pouvoir créer une brèche éphémère. Certains brises glaces sont conçus pour un type de glace précis.
 
 ## Décodeur
 La quasi-totalité des systèmes de sécurité et des verrous sont contrôlés par des systèmes électroniques. Ces systèmes sécurisés sont généralement cryptés mais restent souvent physiquement accessibles.

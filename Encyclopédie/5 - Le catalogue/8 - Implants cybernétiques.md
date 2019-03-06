@@ -1,5 +1,5 @@
 # Implants cybernétiques
-> « Je me trouvais faible, alors j’ai augmenté mon corps. Aujourd’hui, je me demande si je n’aurais pas aussi du augmenter mon esprit… »
+> « Je me trouvais faible, alors j’ai augmenté mon corps. Aujourd’hui, je me demande si je n’aurais pas aussi du augmenter mon esprit… »
 
 ## Armes intégrées
 Ce sont les mercenaires qui ont utilisé en premier les implants cybernétiques de façon systématique. Il n’est donc pas extraordinaire de noter qu’un grand nombre de ces implants sont des armes interfacées et intégrées.
@@ -53,7 +53,7 @@ Pour les esprits humains, cette extension de mémoire se révèle encore plus ef
 ## Implant sim-stim
 Les implants sim-stim (pour simulation de stimulation) sont des dispositifs destinés à enregistrer et rejouer les informations sensorielles. Ainsi, une personne ayant enregistré de cette façon ses perceptions pourra les revivre plus tard.
 
-Il est aussi possible de télécharger les sensations d’une autre personne ou issues de simulations. Permettant une réalité virtuelle totale, les applications sont très nombreuses : formation, loisir, adaptation à une nouvelle enveloppe, contrôle à distance, etc.
+Il est aussi possible de télécharger les sensations d’une autre personne ou issues de simulations. Permettant une réalité virtuelle totale, les applications sont très nombreuses : formation, loisir, adaptation à une nouvelle enveloppe, contrôle à distance, etc.
 
 ## Interface SolNet intégrée
 L’ordoptique était devenu un accessoire indispensable et son intégration comme implant était la suite logique de son évolution. Sous sa version la plus aboutie, cet outil est greffé directement au niveau cérébral, fonctionnant comme une extension de l’être.

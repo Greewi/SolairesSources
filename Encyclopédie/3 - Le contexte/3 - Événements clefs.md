@@ -1,5 +1,5 @@
 # Événements clefs
-> « Beaucoup de mauvaises histoires peuvent se résumer en quelques chapitres. Celle de notre monde n’y fait pas exception. »
+> « Beaucoup de mauvaises histoires peuvent se résumer en quelques chapitres. Celle de notre monde n’y fait pas exception. »
 
 ## L’affaire Leena
 Aujourd’hui, la plupart des observateurs s’accordent pour dire que l’affaire Leena est à l’origine de l’opposition entre HIARTech et les Nations Unies. Elle est d’ailleurs symptomatique du schisme éthique entre la Terre et les Colonies.
@@ -33,11 +33,11 @@ Le résultat de l’enquête démontra très clairement l’implication de l’O
 ## La guerre des Colonies
 Avec la militarisation accélérée des colonies, l’ONU s’apercevait qu’elle finirait par perdre définitivement le dessus si elle ne frappait pas rapidement. En un sens, c’est toute l’humanité qui s’apercevait qu’elle allait être laissée sur le bord de la route si les colonies continuaient à avancer à ce rythme exponentiel.
 
-Après avoir proféré son ultimatum et tenté vainement de ramener les corporations «à la raison», l’ONU déclara la guerre et lança l’offensive. Elle initia simultanément deux opérations : Mars et Jupiter.
+Après avoir proféré son ultimatum et tenté vainement de ramener les corporations «à la raison», l’ONU déclara la guerre et lança l’offensive. Elle initia simultanément deux opérations : Mars et Jupiter.
 
 Son premier objectif, la planète rouge, aurait dû être rapide à prendre du fait de la proximité relative avec la Terre et des effectifs en fort surnombre de l’ONU. Mais l’organisation se rendit rapidement compte que Mars avait fait de la guerre électronique un art perfectionné et que ses troupes excellaient dans les opérations commandos. Au final, la flotte onusienne fut en grande partie paralysée et ne parvint pratiquement jamais à poser pied sur le sol martien. C’est un siège d’un an qui s’engageait.
 
-Le déroulement de l’opération sur le second objectif commençait bien mieux : des batailles plus conventionnelles où l’ONU et les corporations subissaient des pertes en nombre. Là encore, les effectifs terriens donnaient l’avantage aux Nations Unies.
+Le déroulement de l’opération sur le second objectif commençait bien mieux : des batailles plus conventionnelles où l’ONU et les corporations subissaient des pertes en nombre. Là encore, les effectifs terriens donnaient l’avantage aux Nations Unies.
 
 Avec le front martien figé et celui de Jupiter qui progressait, l’ONU décida de se concentrer sur ce dernier. Comme Mars ne semblait pas en mesure d’effectuer une contre-attaque, elle transféra une importante partie de ses forces affectées à la planète rouge vers le front de la géante gazeuse. Si ceci conféra en quelques mois la victoire à HIARTech, l’ONU parvint à prendre un avantage très important dans le système jovien.
 
@@ -45,16 +45,16 @@ Le tournant de la guerre eu lieu avec la destruction de la colonie Leanor par l�
 
 Cet acte eu un effet positif pour l’ONU puisque Suan ne pouvait alors plus compter que sur ses colonies saturniennes. En revanche, elle redynamisa plus fortement les autres corporations qui traitèrent alors cette guerre comme une guerre d’extermination pour l’Organisation des Nations Unies.
 
-Waylanders généralisa l’utilisation des drones et des chasseurs automatiques ; Mars augmenta considérablement le nombre de ses opérations sur Sol6 visant à réduire les approvisionnements de l’ONU ; Vranberg-Lytan congédia son état-major et le remplaça par Marth, une nouvelle IA forte sentiente dédiée à régler la guerre. Pour les colonies, la logique même de la guerre avait changé : déshumanisée.
+Waylanders généralisa l’utilisation des drones et des chasseurs automatiques ; Mars augmenta considérablement le nombre de ses opérations sur Sol6 visant à réduire les approvisionnements de l’ONU ; Vranberg-Lytan congédia son état-major et le remplaça par Marth, une nouvelle IA forte sentiente dédiée à régler la guerre. Pour les colonies, la logique même de la guerre avait changé : déshumanisée.
 
 Les colonies n’hésitaient plus à employer presque tous les moyens à leur disposition contre l’armée onusienne, certains de ses moyens occupaient encore les Solar Wardners à la fin de la guerre. Marth, surnommée «Iron Lady» par les terriens, mis en œuvre de nouvelles procédures et instaura la logistique nécessaire pour permettre une riposte systématique contre les actions de l’ONU. Son but, en grande partie atteint, consistait à amener les Nations Unies à appréhender les conséquences de ses opérations avant même de les réaliser.
 
 Finalement, l’ONU enchaîna une série de défaites et les victoires de plus en plus systématiques des colonies affaiblirent l’ONU au point que l’organisation commençait à devoir battre en retraite. Les corporations en profitèrent alors pour passer discrètement les points de contrôles de l’ONU et prendre d’assaut la Terre.
 
-Les forces conjuguées des corporations se mirent en orbite autour de la planète bleue et y neutralisèrent les rares défenses. Elles posèrent ensuite un ultimatum aux nations, menaçant de déverser une centaine de bombe à fusion sur les principales villes. La Terre n’eut d’autre choix que de se plier à leurs exigences : la victoire était entre les mains des Colonies.
+Les forces conjuguées des corporations se mirent en orbite autour de la planète bleue et y neutralisèrent les rares défenses. Elles posèrent ensuite un ultimatum aux nations, menaçant de déverser une centaine de bombe à fusion sur les principales villes. La Terre n’eut d’autre choix que de se plier à leurs exigences : la victoire était entre les mains des Colonies.
 
 ## Traité des Colonies
-Rédigé avec la simplicité et la clarté des documents de loi martiens, le traité des colonies est un accord entre les corporations et les nations terriennes au travers de l’ONU. Il régit tout simplement le rapport entre la Terre et les Colonies. Plus particulièrement :
+Rédigé avec la simplicité et la clarté des documents de loi martiens, le traité des colonies est un accord entre les corporations et les nations terriennes au travers de l’ONU. Il régit tout simplement le rapport entre la Terre et les Colonies. Plus particulièrement :
 * Les corporations qui ont signé le traité sont reconnues comme nation par l’ONU.
 * L’ONU et les nations terriennes n’ont pas le droit d’envoyer de forces armées vers une colonie.
 * Les corporations n’ont pas le droit d’envoyer de forces armées vers la Terre.
@@ -65,10 +65,10 @@ Ce traité, imposé par les Colonies alors que les combats avaient atteint la Te
 ## La dislocation de Vranberg-Lytan
 Après la fin de la guerre, des dissensions sur le désarmement de Vranberg-Lytan éclatèrent. Un camp souhaitait la démilitarisation de la corporation tandis que l’autre considérait que la Terre restait une menace et que les Colonies avaient encore besoin d’une force militaire importante.
 
-Ce désaccord s’envenima et conduisit Marth « Iron Lady » à quitter la corporation pour fonder Aesir. Cette nouvelle corporation regroupa rapidement les insatisfaits de la paix et les interventionnistes des autres corporations.
+Ce désaccord s’envenima et conduisit Marth « Iron Lady » à quitter la corporation pour fonder Aesir. Cette nouvelle corporation regroupa rapidement les insatisfaits de la paix et les interventionnistes des autres corporations.
 
 Aesir tire ainsi sa mauvaise réputation de cet afflux de personnes qui souhaitent «apporter une solution permanente au problème terrien». Pour l’heure, Aesir a signé le traité des Colonies et la corporation se contente de surveiller les activités de la Terre, tout en se tenant prête au cas où quelqu’un viendrait menacer les Colonies.
 
-La fondation d’Aesir montra l’une des faiblesses de Vranberg-Lytan et un second désaccord emporta un autre morceau de la corporation. Cette fois-ci, les partisans de l’extension de la colonisation aux lunes des systèmes les plus externes s’opposèrent à ceux qui considéraient que la corporation devait se restreindre dans un premier temps aux systèmes déjà sous contrôle. Un nouveau départ et une nouvelle corporation vit le jour : Urania qui s’attela, avec le soutien de Mars, à commencer la colonisation des lunes majeures d’Uranus et de Neptune.
+La fondation d’Aesir montra l’une des faiblesses de Vranberg-Lytan et un second désaccord emporta un autre morceau de la corporation. Cette fois-ci, les partisans de l’extension de la colonisation aux lunes des systèmes les plus externes s’opposèrent à ceux qui considéraient que la corporation devait se restreindre dans un premier temps aux systèmes déjà sous contrôle. Un nouveau départ et une nouvelle corporation vit le jour : Urania qui s’attela, avec le soutien de Mars, à commencer la colonisation des lunes majeures d’Uranus et de Neptune.
 
 Ces deux divisions ont laissé Vranberg-Lytan affaiblie. Mais la corporation s’en est déjà remise et reste une puissante corporation. Malgré le désaccord ayant mené à la création d’Aesir, Vranberg-Lytan a décidé de conserver une force militaire significative.

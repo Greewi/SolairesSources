@@ -1,12 +1,12 @@
 # Outils du quotidien
-> « Omniprésente, la technologie nous sert tous les jours. Quelle bande d’assistés que nous formons ! »
+> « Omniprésente, la technologie nous sert tous les jours. Quelle bande d’assistés que nous formons ! »
 
 ## Link
-La réalité augmentée est une surcouche sensorielle qui est ajouté par-dessus les perceptions de son utilisateur. On y trouve de très nombreuses applications : interfaces utilisateur, tracés indiquant le chemin à prendre, étiquettes attachées à des objets de l’environnement, fiches publiques des personnes croisées, etc. Il est aussi possible d’ajouter de nouveaux éléments à l’environnement lui-même, par exemple l’avatar d’un interlocuteur distant ou celui d’une IA.
+La réalité augmentée est une surcouche sensorielle qui est ajouté par-dessus les perceptions de son utilisateur. On y trouve de très nombreuses applications : interfaces utilisateur, tracés indiquant le chemin à prendre, étiquettes attachées à des objets de l’environnement, fiches publiques des personnes croisées, etc. Il est aussi possible d’ajouter de nouveaux éléments à l’environnement lui-même, par exemple l’avatar d’un interlocuteur distant ou celui d’une IA.
 
-Certaines modifications peuvent être encore plus radicales : afficher l’avatar des personnes à la place de leur véritable enveloppe ou même modifier l’apparence compète des lieux où se trouve l’utilisateur. Ainsi, à la place d’une coursive aseptisée, l’environnement peut présenter un couloir vitré traversant une jungle peuplée de créatures fantastiques.
+Certaines modifications peuvent être encore plus radicales : afficher l’avatar des personnes à la place de leur véritable enveloppe ou même modifier l’apparence compète des lieux où se trouve l’utilisateur. Ainsi, à la place d’une coursive aseptisée, l’environnement peut présenter un couloir vitré traversant une jungle peuplée de créatures fantastiques.
 
-Pour accéder à la réalité augmentée, il est nécessaire de disposer d’un dispositif directement branché au système nerveux où, à défaut, une paire de lunette équipée d’un dispositif d’affichage et audio. Il existe aussi des lentilles de contacts qui peuvent être associées à des écouteurs. La grande majorité des solaires disposent directement d’un implant branché sur le système visuel et auditif et connecté au réseau. Tous ces dispositifs sont généralement appelés « Interface de réalité augmentée », « Interface SolNet », « Lien SolNet » ou plus simplement « Link ».
+Pour accéder à la réalité augmentée, il est nécessaire de disposer d’un dispositif directement branché au système nerveux où, à défaut, une paire de lunette équipée d’un dispositif d’affichage et audio. Il existe aussi des lentilles de contacts qui peuvent être associées à des écouteurs. La grande majorité des solaires disposent directement d’un implant branché sur le système visuel et auditif et connecté au réseau. Tous ces dispositifs sont généralement appelés « Interface de réalité augmentée », « Interface SolNet », « Lien SolNet » ou plus simplement « Link ».
 
 <table>
     <tr>
@@ -31,7 +31,7 @@ L’ajout d’information dans l’environnement n’est pas uniquement fait via
 
 Les surfaces holographiques ont complètement remplacé les écrans. Elles permettent en effet d’afficher de l’information en trois dimensions, tant que ce qui est affiché ne sort par du cadre. Souvent accompagnés d’émetteurs à ultrasons pour fournir un retour haptique, ce sont, après la réalité augmentée, les dispositifs d’interface les plus utilisés. Si les surfaces holographiques ont remplacé les anciens écrans, on les utilise aussi massivement pour servir de décoration dynamique, sur les plafonds, murs et parfois même les portes et sols.
 
-Les foglets sont une méthode d’importer l’espace virtuel dans la réalité plus récente. Les solaires utilisent ce terme pour parler des brouillards utilitaires, mais il désigne en réalité ses composants : des micro-robots qui s’assemblent et absorbant et émettant de la lumière pour produire des sortes d’hologrammes physiques. Bien qu’ils soient constitués de matière, la densité d’un brouillard utilitaire est tellement faible qu’il ne peut pas produire de retour haptique perceptible. On les utilise pour matérialiser des éléments purement virtuels dans l’espace physique : projection d’avatar, présentation de données au public, etc. Mais comme ils sont en directe compétition avec la réalité augmentée, ils restent assez peu utilisés.
+Les foglets sont une méthode d’importer l’espace virtuel dans la réalité plus récente. Les solaires utilisent ce terme pour parler des brouillards utilitaires, mais il désigne en réalité ses composants : des micro-robots qui s’assemblent et absorbant et émettant de la lumière pour produire des sortes d’hologrammes physiques. Bien qu’ils soient constitués de matière, la densité d’un brouillard utilitaire est tellement faible qu’il ne peut pas produire de retour haptique perceptible. On les utilise pour matérialiser des éléments purement virtuels dans l’espace physique : projection d’avatar, présentation de données au public, etc. Mais comme ils sont en directe compétition avec la réalité augmentée, ils restent assez peu utilisés.
 
 <table>
     <tr>
@@ -73,7 +73,7 @@ Les foglets sont une méthode d’importer l’espace virtuel dans la réalité 
 ## SolNet
 SolNet est le grand réseau qui relie la totalité du système solaire ou presque. Successeur de l’internet terrien, ce réseau a été spécifiquement conçu pour répondre aux problématiques des colonies. Le réseau lui-même est entièrement décentralisé pour permettre à chaque colonie d’organiser son infrastructure et d’assurer leur autonomie. Pour éviter des requêtes interplanétaires inutiles, il contient des nœuds pour dupliquer les informations publiques.
 
-Sur le réseau les messages sont particulièrement bien protégés, car il implémente aussi plusieurs méthodes de cryptographie quantique qui exploitent les propriétés de la physique pour assurer l’inviolabilité des messages transmis. Si un paquet est intercepté, les seules informations qui peuvent en être extraite sont les informations de routage : d’où le message est parti, où il va, et sa taille.
+Sur le réseau les messages sont particulièrement bien protégés, car il implémente aussi plusieurs méthodes de cryptographie quantique qui exploitent les propriétés de la physique pour assurer l’inviolabilité des messages transmis. Si un paquet est intercepté, les seules informations qui peuvent en être extraite sont les informations de routage : d’où le message est parti, où il va, et sa taille.
 
 En plus des nœuds de réplication, SolNet propose aussi des nœuds où les IA et éthérés peuvent s’exécuter qui leur donne la capacité de voyager sur le réseau sans être contraint sur un serveur particulier. Ces nœuds possèdent aussi des zones de stockages où ces infomorphes rangent leurs sauvegardes. Cet aspect du réseau est vu comme leurs espaces de vie, leurs zones pressurisées d’une certaine manière.
 
@@ -127,11 +127,11 @@ Bien que la production des synthétiseurs puisse normalement couvrir pratiquemen
 </table>
 
 ## Vêtements mimétiques
-Les vêtements mimétiques sont des vêtements capables de changer de forme et de couleur à la demande. Ils sont composés de millions de micro-robots semblable à de minuscules écailles, que les solaires appellent « silkware ».
+Les vêtements mimétiques sont des vêtements capables de changer de forme et de couleur à la demande. Ils sont composés de millions de micro-robots semblable à de minuscules écailles, que les solaires appellent « silkware ».
 
 L’éventail des possibilités couvre pratiquement tous les vêtements existants, à l’exception des vraies fourrures qui, pour le coup, ne peuvent pas être vraies. Toutefois, en fonction de la nature du tissu à répliquer, on n’emploie pas les mêmes silkware. De la même façon, la quantité de ces robots n’est pas la même qu’on souhaite une parka ou un bikini. Malgré ces limitations, les solaires ont accès à un choix extraordinairement riche et la nation de garde-robe virtuelle prend tout son sens.
 
-Ces tissus possèdent également des propriétés étonnantes : certains sont hydrophobes voire autonettoyants, et tous sont capables de se réparer d’eux-mêmes. Les plus récents sont aussi capables d’anticiper les mouvements de leur porteur pour faciliter leurs gestes.
+Ces tissus possèdent également des propriétés étonnantes : certains sont hydrophobes voire autonettoyants, et tous sont capables de se réparer d’eux-mêmes. Les plus récents sont aussi capables d’anticiper les mouvements de leur porteur pour faciliter leurs gestes.
 
 ## 
 <table>

@@ -1,5 +1,5 @@
 # Habitat
-> « Nos habitations représentent bien plus qu’un refuge dans cet univers inhospitalier : c’est là que nous vivons. »
+> « Nos habitations représentent bien plus qu’un refuge dans cet univers inhospitalier : c’est là que nous vivons. »
 
 Même en 2093, l’espace reste un environnement intrinsèquement dangereux imposant des contraintes sans commune mesure avec celles présentes à la surface de la planète bleue. Ainsi l’habitat des colonies diffère sur de nombreux points avec celui que connaissent les terriens.
 
@@ -8,7 +8,7 @@ Dans les colonies, l’aération et le recyclage de l’atmosphère revêt une i
 
 Le moindre module autonome, habitation, voir dans certain cas chaque pièce, comporte son propre système de recyclage de l’atmosphère.
 
-Le principe est assez simple : l’air est pompé puis refroidit jusqu’à le rendre liquide. Ses composants sont alors séparés par centrifugation. Le dioxyde de carbone et d’autres gaz toxiques sont alors extraits pour être retraité. Ce qui reste reçoit un complément de dioxygène puis est réchauffé à la température normale et réinjecté dans l’habitation.
+Le principe est assez simple : l’air est pompé puis refroidit jusqu’à le rendre liquide. Ses composants sont alors séparés par centrifugation. Le dioxyde de carbone et d’autres gaz toxiques sont alors extraits pour être retraité. Ce qui reste reçoit un complément de dioxygène puis est réchauffé à la température normale et réinjecté dans l’habitation.
 
 Comme pratiquement tout dans les colonies, le dioxygène est obtenu par le recyclage, celui du dioxyde de carbone principalement. Malgré tout, il existe toujours quelques pertes et les installations possèdent toutes des stocks de dioxygène et de diazote régulièrement ravitaillés.
 
@@ -30,20 +30,20 @@ La plupart des colonies sont installées bien au-delà de l’orbite terrestre. 
 
 Premier rempart contre ce danger, l’isolation des installations coloniales est particulièrement soignée et surveillée. Aérogel et pièges thermiques, dont le principe peut faire penser aux serres, sont donc lourdement mis à contribution.
 
-Malgré tout, ce n’est pas suffisant et toutes les installations et vaisseaux sont donc lourdement pourvus en chauffages. Notez que les générateurs d’énergies produisent « naturellement » de la chaleur et que sur certains vaisseaux, cette production est suffisante.
+Malgré tout, ce n’est pas suffisant et toutes les installations et vaisseaux sont donc lourdement pourvus en chauffages. Notez que les générateurs d’énergies produisent « naturellement » de la chaleur et que sur certains vaisseaux, cette production est suffisante.
 
 À l’intérieur de l’orbite terrestre, le problème devient inversé pour les habitats et vaisseaux exposés au rayonnement solaire. L’isolation reste ici aussi déterminante mais aussi insuffisante. De puissantes pompes à chaleurs et de grands panneaux rayonnant sont alors utilisés.
 
 ## Énergie et alimentation
-Dans la société hyper-technologique des colonies, les besoins en énergie sont particulièrement élevés. Rien que les systèmes de survie requièrent une alimentation puissante et stable : recyclage de l’atmosphère, chauffage, éclairage, etc.
+Dans la société hyper-technologique des colonies, les besoins en énergie sont particulièrement élevés. Rien que les systèmes de survie requièrent une alimentation puissante et stable : recyclage de l’atmosphère, chauffage, éclairage, etc.
 
-La consommation énergétique due à l’activité des colons n’est pas non plus en reste : rien que les constructeurs universels requièrent une quantité d’énergie colossale.
+La consommation énergétique due à l’activité des colons n’est pas non plus en reste : rien que les constructeurs universels requièrent une quantité d’énergie colossale.
 
 L’emploi de panneau solaire ou de générateur à radio-isotope ne suffit pas, et ce de plusieurs ordres de grandeur. Inutile de penser aux combustibles chimiques, comme le pétrole ou le charbon, qui, en l’absence d’une atmosphère riche en dioxygène, ne sont simplement pas utilisable.
 
 L’énergie nucléaire est finalement la seule solution. La fission de l’uranium ou du thorium ont toutefois été écartées et c’est finalement la fusion de l’hydrogène en hélium qui alimente la quasi-totalité des colonies et bâtiments spatiaux.
 
-Pour finir, l’antimatière est aussi très utilisée, mais sous forme transitoire pour stocker temporairement l’énergie : un nouveau type de batterie en somme.
+Pour finir, l’antimatière est aussi très utilisée, mais sous forme transitoire pour stocker temporairement l’énergie : un nouveau type de batterie en somme.
 
 ## Éclairage
 À cinq unités astronomiques du soleil, au niveau de Jupiter, la lumière reçue ne représente que 4 % l’ensoleillement reçu sur Terre. Saturne, Uranus et Neptune n’en reçoivent pour ainsi dire qu’une portion qui paraîtrait négligeable pour un terrien.
@@ -66,15 +66,15 @@ Pourtant les immenses décharges à ciel ouvert et nuages de débris orbitaux te
 
 Dans l’espace, il n’est pas possible de détruire ces déchets, tout au mieux est-il possible de les transformer et quitte à le faire autant les recycler. Et c’est justement cette dernière solution que les corporations ont retenue. Grâce à la technologie des constructeurs universels, pratiquement tout ce qui est imaginable peut être construit et recyclé.
 
-Par ailleurs, les colonies produisent beaucoup moins de déchets que les cités terriennes : les corporations ont beaucoup investi pour se débarrasser des habitudes de la société de consommation, et, comme pour tous leurs projets majeurs, avec un succès certain.
+Par ailleurs, les colonies produisent beaucoup moins de déchets que les cités terriennes : les corporations ont beaucoup investi pour se débarrasser des habitudes de la société de consommation, et, comme pour tous leurs projets majeurs, avec un succès certain.
 
-Les gains du recyclage et de la lutte contre l’obsolescence dépassent le simple traitement des déchets : ces deux facteurs ont aussi permis de réduire considérablement les besoins en matière première et ont augmenté considérablement les capacités de développement des colonies.
+Les gains du recyclage et de la lutte contre l’obsolescence dépassent le simple traitement des déchets : ces deux facteurs ont aussi permis de réduire considérablement les besoins en matière première et ont augmenté considérablement les capacités de développement des colonies.
 
-Plus concrètement, les déchets sont collectés de multiples façons. Sur les plus petites installations, tous les déchets sont apportés « à la main » au centre de production où ils seront recyclés. Dans les plus grandes installations un système de collecte des ordures est mis en place.
+Plus concrètement, les déchets sont collectés de multiples façons. Sur les plus petites installations, tous les déchets sont apportés « à la main » au centre de production où ils seront recyclés. Dans les plus grandes installations un système de collecte des ordures est mis en place.
 
 Dans ce dernier cas, les déchets sont stockés localement dans des containers spécialisés puis transportés par un système automatisé ou des robots au centre de production.
 
-Le recyclage de l’air et de l’eau lui s’effectue localement de façon décentralisée : chaque habitation possédant généralement son propre système de renouvellement de l’atmosphère et d’un recycleur/purificateur d’eau.
+Le recyclage de l’air et de l’eau lui s’effectue localement de façon décentralisée : chaque habitation possédant généralement son propre système de renouvellement de l’atmosphère et d’un recycleur/purificateur d’eau.
 
 ## Cadre virtuel
 À l’œil nu, les installations des colonies peuvent paraître très sobres – encore que l’architecture de plusieurs cités peut faire figure d’œuvre d’art.

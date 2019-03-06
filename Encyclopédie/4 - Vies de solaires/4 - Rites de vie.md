@@ -1,14 +1,14 @@
 # Rites de vie
-> « Métro, boulot, dodo ? C’est quoi un boulot au juste ? Un arbre ? »
+> « Métro, boulot, dodo ? C’est quoi un boulot au juste ? Un arbre ? »
 
 Vivre dans les colonies est difficilement comparable aux habitudes terriennes et des activités simples sur Terre peuvent requérir du matériel ou des pratiques plus complexes dans les colonies. Heureusement, une grande partie des problèmes soulevés dans cet environnement sont atténués par de nombreuses avancées technologiques.
 
 ## Manger et cuisiner
-Dans les premiers temps de la colonisation spatiale, la nourriture lyophilisée dominait le monde culinaire extra-terrestre. Le principe était simple : la nourriture était produite dans un grand centre de production et asséchée à basse pression. Pour la manger, elle était ensuite réhydratée.
+Dans les premiers temps de la colonisation spatiale, la nourriture lyophilisée dominait le monde culinaire extra-terrestre. Le principe était simple : la nourriture était produite dans un grand centre de production et asséchée à basse pression. Pour la manger, elle était ensuite réhydratée.
 
 Bien que les premiers astronautes s’en accommodaient, ils préféraient toutefois la nourriture fraîche, plus lourde et plus encombrante à transporter.
 
-L’invention des constructeurs universels a changé la donne en permettant de produire pratiquement tout ce qui est imaginable. Inévitablement, les Solaires appliquèrent le procédé à la nourriture et des versions spécialisées de ces systèmes de production ont vu le jour : les synthétiseurs domestiques.
+L’invention des constructeurs universels a changé la donne en permettant de produire pratiquement tout ce qui est imaginable. Inévitablement, les Solaires appliquèrent le procédé à la nourriture et des versions spécialisées de ces systèmes de production ont vu le jour : les synthétiseurs domestiques.
 
 Utilisant des composés organiques partiellement assemblés et, inévitablement, de l’eau, ces appareils ressemblent aux fours domestiques du début du siècle, la vitre transparente en moins. Les synthétiseurs procèdent en assemblant les composés et l’eau pour reproduite la structure moléculaire du plat demandé en employant des milliards de nanorobots.
 
@@ -17,22 +17,22 @@ La nourriture ainsi produite est indistinguable de la version fraîche qu’elle
 ## Se recharger
 Beaucoup de Solaires embarquent des accessoires cybernétiques et ceux-ci nécessitent un approvisionnement en électricité pour fonctionner.
 
-Pour recharger leurs batteries, les Solaires disposent de plusieurs sources d’alimentation : ils peuvent évidemment se brancher au réseau électrique de l’installation, utiliser le glucose et l’oxygène présent dans le sang, voir même se servir de SolNet.
+Pour recharger leurs batteries, les Solaires disposent de plusieurs sources d’alimentation : ils peuvent évidemment se brancher au réseau électrique de l’installation, utiliser le glucose et l’oxygène présent dans le sang, voir même se servir de SolNet.
 
 La première solution est sans doute la plus traditionnelle et aussi celle qui permet de transférer le plus d’énergie. Elle reste la seule option pour les implants ou accessoires demandant le plus puissance. Dans les colonies, les prises, telles qu’elles étaient connues au début du siècle, ont été progressivement remplacées par des systèmes à induction sans contact.
 
-L’emploie du glucose et de l’oxygène est idéal pour les appareils les plus économes : employer cette méthode sur des appareils plus puissant provoquerait un appauvrissement rapide du sang du porteur et augmenterait dangereusement le taux sanguin de dioxyde de carbone.
+L’emploie du glucose et de l’oxygène est idéal pour les appareils les plus économes : employer cette méthode sur des appareils plus puissant provoquerait un appauvrissement rapide du sang du porteur et augmenterait dangereusement le taux sanguin de dioxyde de carbone.
 
 Pour finir, le réseau en point à point de SolNet transporte en effet de l’énergie qu’il est possible de récupérer en utilisant une antenne appropriée. Évidemment, la quantité d’énergie fournie par ce moyen est très faible, mais elle suffit pour les implants les moins gourmands.
 
 ## Dormir
 Le sommeil est un aspect de la vie quotidienne très impacté par la présence ou l’absence de gravité. Soumis à la pesanteur, les personnes dorment sur des lits pourvus d’un matelas. Une couverture non attachée et un oreiller apportent un confort supplémentaire. C’est ce que connaissent les terriens depuis d’innombrables années.
 
-En revanche, en apesanteur, deux différences majeures se posent : l’utilisation d’un matelas ou d’un oreiller n’est plus nécessaire et le dormeur doit s’attacher sous peine de dériver pendant la nuit. Malgré ces apparentes contraintes, le sommeil en apesanteur n’est pas moins reposant. Les lits spécialisés pour dormir en apesanteur sont souvent surnommés « hamacs » car ils sont souvent simplement accrochés à quelques câbles tendus.
+En revanche, en apesanteur, deux différences majeures se posent : l’utilisation d’un matelas ou d’un oreiller n’est plus nécessaire et le dormeur doit s’attacher sous peine de dériver pendant la nuit. Malgré ces apparentes contraintes, le sommeil en apesanteur n’est pas moins reposant. Les lits spécialisés pour dormir en apesanteur sont souvent surnommés « hamacs » car ils sont souvent simplement accrochés à quelques câbles tendus.
 
 Notez que les installations possèdent un cycle de vie, et si ces cycles ne peuvent être synchronisés à l’échelle du système solaire, c’est le cas au sein d’un même système planétaire. Ainsi, toutes les colonies des lunes de Jupiter utilisent le même cycle horaire de 24 h. Il en est de même pour les lunes de Saturne bien qu’elles utilisent un autre cycle, lui aussi de 24 h.
 
-Durant la phase de « nuit », la plupart des canaux de réalité augmentée présentent une version nocturne de l’environnement, avec une lumière moins forte et un contexte audio plus calme. Les zones de repos elle-même sont évidemment conçues pour être plongées dans une pénombre voire l’obscurité, et complètement isolée du bruit de l’installation.
+Durant la phase de « nuit », la plupart des canaux de réalité augmentée présentent une version nocturne de l’environnement, avec une lumière moins forte et un contexte audio plus calme. Les zones de repos elle-même sont évidemment conçues pour être plongées dans une pénombre voire l’obscurité, et complètement isolée du bruit de l’installation.
 
 ## Se laver
 Comme pour l’habitat, il est inconcevable de se laver à grande eau en apesanteur ou en faible pesanteur. En dehors de Mars et quelques établissements orbitaux en rotation rapide, les douches ont pour ainsi dire disparu dans les colonies.
@@ -45,7 +45,7 @@ Faire ses besoins
 
 Les toilettes dans les colonies sont très différentes des toilettes terriennes. Au lieu de faire ses besoins dans une cuvette remplie d’eau – potable dans de trop nombreux cas – les Solaires ont conservé les habitudes des premiers astronautes avec des toilettes à vide.
 
-Le principe de ces toilettes reste simple : une pompe aspire tous les déchets et les sépare par centrifugation – comme certains aspirateurs du début du siècle le faisaient déjà. Les liquides sont envoyés dans système de recyclage de l’eau où ils seront traités tandis que les déchets solides sont asséchés. Contrairement aux idées reçues ces dispositifs n’éjectent pas les déchets dans l’espace. Au lieu de ça, ils sont tous expédiés au centre de recyclage – parfois dans de simples containers apportés à la main – où ils serviront de matière première pour les constructeurs universels.
+Le principe de ces toilettes reste simple : une pompe aspire tous les déchets et les sépare par centrifugation – comme certains aspirateurs du début du siècle le faisaient déjà. Les liquides sont envoyés dans système de recyclage de l’eau où ils seront traités tandis que les déchets solides sont asséchés. Contrairement aux idées reçues ces dispositifs n’éjectent pas les déchets dans l’espace. Au lieu de ça, ils sont tous expédiés au centre de recyclage – parfois dans de simples containers apportés à la main – où ils serviront de matière première pour les constructeurs universels.
 
 ## Vêtements et lavage
 L’emploi de la nanotechnologie dans le domaine du textile a considérablement modifié le rapport des habitants vis-à-vis de la mode.

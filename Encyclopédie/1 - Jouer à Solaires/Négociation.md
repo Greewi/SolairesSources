@@ -1,5 +1,5 @@
 # Négociation
-> «  »
+> «  »
 
 > 
 
@@ -9,17 +9,17 @@ Pour résoudre de nombreux problèmes, les personnages arriveront plus facilemen
 ## Conseils et ambiance
 ## Outils
 
->> ### Exemple de situation : Mener un interrogatoire
+>> ### Exemple de situation : Mener un interrogatoire
 >>  <p class="encart__texte">
 
 >>  </p>
 
->> ### Exemple de situation : Faire de l’ingénierie sociale
+>> ### Exemple de situation : Faire de l’ingénierie sociale
 >>  <p class="encart__texte">
 
 >>  </p>
 
->> ### Exemple de situation : Mener des négociations
+>> ### Exemple de situation : Mener des négociations
 >>  <p class="encart__texte">
 
 >>  </p>

@@ -1,5 +1,5 @@
 # Matériel d’ingénierie
-> « Nous avons bâti des vaisseaux d’une taille prodigieuse et même des villes à la surface d’autres mondes. Mais avec quels outils ? »
+> « Nous avons bâti des vaisseaux d’une taille prodigieuse et même des villes à la surface d’autres mondes. Mais avec quels outils ? »
 
 ## Batterie à antimatière
 Une batterie à antimatière est un accumulateur qui stocke de l’énergie sous la forme d’antimatière, généralement de positrons et la libère sous forme d’électricité.
@@ -60,7 +60,7 @@ Les constructeurs universels sont aussi capables de désassembler n’importe qu
 
 Les constructeurs universels ont beaucoup gagné en vitesse au fil du temps et peuvent désormais assembler de grandes structures en quelques dizaines de secondes. Il s’agit aussi du moyen le plus économique énergétiquement pour produire des biens dans les colonies avec un rapport proche de l’optimal théorique.
 
-Pour leur fonctionnement, les constructeurs universels emploient des nanorobots auto-répliquant produits ou décomposés pour adapter leurs effectifs en fonction de ce qui est à produire. Contrairement aux rumeurs terriennes, les nanorobots de ces appareils ne représentent pas de réel danger : sortis de l’enceinte protectrice du constructeur, ils tendent à réagir avec l’oxygène des atmosphères qui les détruit rapidement. De plus sans l’alimentation continue fournie par l’appareil, ces robots sont inactifs.
+Pour leur fonctionnement, les constructeurs universels emploient des nanorobots auto-répliquant produits ou décomposés pour adapter leurs effectifs en fonction de ce qui est à produire. Contrairement aux rumeurs terriennes, les nanorobots de ces appareils ne représentent pas de réel danger : sortis de l’enceinte protectrice du constructeur, ils tendent à réagir avec l’oxygène des atmosphères qui les détruit rapidement. De plus sans l’alimentation continue fournie par l’appareil, ces robots sont inactifs.
 
 Il existe historiquement trois générations de constructeurs universels. La première, qui n’utilise pas de nanorobots auto-répliquant, est aujourd’hui tombée en désuétude à cause de ses temps de traitement à la limite de l’utilité. La seconde génération emploie ces fameux robots et est encore très utilisée, principalement sous les formes portatives qui ne peuvent emporter un scanner à effet Wolfa avec une suffisamment bonne précision. La troisième génération embarque donc un scanner à effet Wolfa pour coordonner l’armée de nanorobots, ce sont des appareils massifs restreints aux installations comme les colonies et les stations spatiales.
 
@@ -145,9 +145,9 @@ Les nanites sont des micro-robots utilisés pour assembler rapidement des struct
 
 Contrairement aux nanorobots des constructeurs universels, les nanites ne transforment pas la matière, mais s’assemblent entre eux. Une fois assemblé, ils deviennent inertes et ne peuvent plus être réutilisée. En revanche, la résistance mécanique de l’assemblage obtenu est très importante et ils s’assemblent sans dégager de chaleur significative ce qui permet d’effectuer des soudures à froid.
 
-À l’usage, les nanites sont stockés sous forme d’un gel : ce serait sinon une poudre si fine qu’elle prendrait très facilement feu dans une atmosphère ordinaire. C’est sous cette forme que les nanites sont employés. Le gel est alimenté et commandé par un contrôleur de micro-robots. Une fois les robots assemblés, la partie liquide s’évapore avec le temps, laissant une fine couche protectrice autour des structures. Les nanites assemblés forment des structures avec une surface suffisamment lisse pour limiter son éventuelle oxydation et éviter toute possibilité d’embrasement.
+À l’usage, les nanites sont stockés sous forme d’un gel : ce serait sinon une poudre si fine qu’elle prendrait très facilement feu dans une atmosphère ordinaire. C’est sous cette forme que les nanites sont employés. Le gel est alimenté et commandé par un contrôleur de micro-robots. Une fois les robots assemblés, la partie liquide s’évapore avec le temps, laissant une fine couche protectrice autour des structures. Les nanites assemblés forment des structures avec une surface suffisamment lisse pour limiter son éventuelle oxydation et éviter toute possibilité d’embrasement.
 
-Il existait de nombreuses variantes de nanites, toutes incompatibles les unes avec les autres. Sur l’impulsion des corporations, une variante a été sélectionnée et est presque universellement utilisée : c’est que la plupart des techniciens appellent les nanites standards. Même les armes pulseurs l’utilisent pour assembler leurs munitions.
+Il existait de nombreuses variantes de nanites, toutes incompatibles les unes avec les autres. Sur l’impulsion des corporations, une variante a été sélectionnée et est presque universellement utilisée : c’est que la plupart des techniciens appellent les nanites standards. Même les armes pulseurs l’utilisent pour assembler leurs munitions.
 
 <table>
     <tr>
@@ -186,9 +186,9 @@ Il existait de nombreuses variantes de nanites, toutes incompatibles les unes av
 </table>
 
 ## Scanner à effet Wolfa
-Les scanners à effet Wolfa servent à numériser la matière sans l’altérer significativement. Capables de « voir » à travers la matière, ils permettent d’obtenir le modèle complet d’un objet, sa composition interne incluse, en temps réel. Le fonctionnement de ces scanners repose sur l’effet Wolfa, découvert par l’IA de recherche du même nom. La résolution de ces scanners s’est considérablement améliorée et pourrait théoriquement descendre en dessous de l’échelle atomique bien que les échelles de temps et les propriétés de la mécanique quantique rendent impossible toute interprétation de ces mesures.
+Les scanners à effet Wolfa servent à numériser la matière sans l’altérer significativement. Capables de « voir » à travers la matière, ils permettent d’obtenir le modèle complet d’un objet, sa composition interne incluse, en temps réel. Le fonctionnement de ces scanners repose sur l’effet Wolfa, découvert par l’IA de recherche du même nom. La résolution de ces scanners s’est considérablement améliorée et pourrait théoriquement descendre en dessous de l’échelle atomique bien que les échelles de temps et les propriétés de la mécanique quantique rendent impossible toute interprétation de ces mesures.
 
-Deux modèles sont principalement employés : ceux dits « à volume fermé » et ceux dits « ouverts ».
+Deux modèles sont principalement employés : ceux dits « à volume fermé » et ceux dits « ouverts ».
 
 Comme leur nom l’indique, les premiers délimitent un volume de mesure compris dans le réseau de capteur. Utilisant des masses de plusieurs tonnes, ils permettent de numériser ce qui se trouve dans le volume de mesure avec une précision pouvant aller à l’échelle atomique. Très utilisés dans l’ingénierie des colonies, ils équipent notamment les constructeurs universels, mais aussi les stations médicales et les portiques de sécurité.
 
@@ -256,7 +256,7 @@ Ces drones forment la base de tous les outils destinés à réparer les circuits
 ## Torche à plasma
 La torche à plasma est un outil de découpe très utilisé dans les colonies. Elle produit un fin faisceau de plasma capable de découper n’importe quel matériau. Son principal avantage est de pouvoir fonctionner dans le vide et de ne pas dégager de gaz nocifs ni de fumée, le rendant parfaitement utilisable dans les colonies.
 
-Cet outil est utilisé pour effectuer des découpes de précision dans l’industrie mais pour les opérations de minage. C’est aussi un outil qu’on retrouve systématiquement dans l’outillage des techniciens spatiaux, notamment pour les cas d’urgence : lorsqu’il faut ouvrir une porte de force, par exemple, cet outil peut se révéler indispensable.
+Cet outil est utilisé pour effectuer des découpes de précision dans l’industrie mais pour les opérations de minage. C’est aussi un outil qu’on retrouve systématiquement dans l’outillage des techniciens spatiaux, notamment pour les cas d’urgence : lorsqu’il faut ouvrir une porte de force, par exemple, cet outil peut se révéler indispensable.
 
 <table>
     <tr>

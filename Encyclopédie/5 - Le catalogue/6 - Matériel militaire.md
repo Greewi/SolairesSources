@@ -1,5 +1,5 @@
 # Matériel militaire
-> « Même sans la guerre des colonies, on aurait trouvé de quoi faire usage de tout cet arsenal : on ne l’a pas construit pour rien ! »
+> « Même sans la guerre des colonies, on aurait trouvé de quoi faire usage de tout cet arsenal : on ne l’a pas construit pour rien ! »
 
 ## Armes shock
 Neutraliser sans tuer est longtemps resté un enjeu pour les forces de l’ordre. Les armes shock ont été la solution apportée au cours de ce siècle.
@@ -15,7 +15,7 @@ Si les munitions de la plupart d’entre-elles sont assemblées par l’arme ell
 
 Cette arme hybride a remplacé la totalité des armes à feu. La puissance de ces armes est variable et va de l’arme de poing aux canons en passant par les armes d’épaules.
 
-Une classification basique a été établie de façon universelle : sont considérées comme légères les armes qui ne sont pas capable de faire passer une rafale à travers une cloison standard. Les autres sont classées en lourdes.
+Une classification basique a été établie de façon universelle : sont considérées comme légères les armes qui ne sont pas capable de faire passer une rafale à travers une cloison standard. Les autres sont classées en lourdes.
 
 Les pulseurs légers sont tolérés dans les colonies en dehors de Mars qui les a totalement interdit. Les armes lourdes sont exclusivement réservées aux opérations militaires.
 
@@ -24,7 +24,7 @@ Les armes plasma sont des armes lourdes extrêmement destructrices. Elles projet
 
 À l’impact, cette arme provoque la fusion de nombreux matériaux et la charge électrique est capable de désactiver totalement la plupart des véhicules de guerre.
 
-En revanche cette arme n’est véritablement fonctionnelle que dans le vide : en atmosphère sa portée ne dépasse pas la dizaine de mètre avec un éparpillement tel qu’il peut représenter un danger pour le tireur même.
+En revanche cette arme n’est véritablement fonctionnelle que dans le vide : en atmosphère sa portée ne dépasse pas la dizaine de mètre avec un éparpillement tel qu’il peut représenter un danger pour le tireur même.
 
 Les armes plasma sont exclusivement réservées à un usage militaire.
 
@@ -48,7 +48,7 @@ Interdite dans la plupart des colonies, cette arme est exclusivement réservée 
 ## Grenade plasma
 La grenade plasma repose sur une technologie proche des armes plasma. L’explosion de cette grenade est déclenchée par l’ionisation d’un gaz fortement compressé qui se transforme instantanément en un plasma chaud.
 
-L’explosion détruit tout ce qui se trouve dans son périmètre d’action, généralement quelques mètres de diamètre. La zone de destruction totale est nette : un champ magnétique résiduel limite la propagation du plasma. Le souffle et la chaleur eux peuvent produire des dégâts sur quelques dizaines de mètres.
+L’explosion détruit tout ce qui se trouve dans son périmètre d’action, généralement quelques mètres de diamètre. La zone de destruction totale est nette : un champ magnétique résiduel limite la propagation du plasma. Le souffle et la chaleur eux peuvent produire des dégâts sur quelques dizaines de mètres.
 
 Durant le processus, tous les appareils électroniques touchés par l’explosion sont généralement désactivés ce qui donne à cette grenade des capacités disruptives importantes.
 
@@ -73,7 +73,7 @@ En fait, un utilisateur normalement constitué ne pourrait tout simplement pas a
 
 Beaucoup de ces armures sont naturellement prévues pour les sorties extra-véhiculaires et sont équipées d’un jet-pack ainsi que d’un système de survie autonome.
 
-Ces armures sont principalement vu sur le dos de soldats ou de mercenaires : les professionnels devant faire des sorties extra-véhiculaire se déplaçant le moins possible avec en intérieur.
+Ces armures sont principalement vu sur le dos de soldats ou de mercenaires : les professionnels devant faire des sorties extra-véhiculaire se déplaçant le moins possible avec en intérieur.
 
 ## Blindage intelligent
 La course entre l’armement et les protections avait commencé à prendre un tournant en faveur du premier. La stratégie consistant à essayer d’arrêter le projectile fonctionne de moins en moins bien, à moins d’utiliser de l’équipement bien plus lourd.
@@ -83,8 +83,8 @@ Pourtant, les blindages intelligents ont très fortement atténué le phénomèn
 Ainsi, les blindages intelligents augmentent significativement les chances de survie d’une enveloppe organique et sont utilisée dans la plupart des armures qu’elles soient légères ou lourdes. Les blindages des vaisseaux spatiaux utilisent le même procédé pour réduire l’impact d’une micro-météorite ou de tout autre projectile.
 
 ## Bouclier cinétique
-Le bouclier cinétique est un dispositif de protection à double tranchant : il génère un puissant champ électromagnétique qui vaporise la plupart des projectiles à haute vélocité passant dans son champ à moins d’un mètre. Le courant de Foucault affecte aussi ceux tirés depuis l’intérieur du bouclier.
+Le bouclier cinétique est un dispositif de protection à double tranchant : il génère un puissant champ électromagnétique qui vaporise la plupart des projectiles à haute vélocité passant dans son champ à moins d’un mètre. Le courant de Foucault affecte aussi ceux tirés depuis l’intérieur du bouclier.
 
 Pour cette raison, les forces militaires des colonies ont presque totalement abandonné cette technologie, certain personnels médicaux en étant encore équipés. Seuls les Solar Wardners et quelques mercenaires adepte du combat de mêlée en ont encore l’usage en les associant avec des armes blanches.
 
-Seules les personnes travaillant dans la sécurité sont autorisées à posséder de tels appareils même si les autorités tendent à en déconseiller l’usage : les armes shock et certaines munitions spéciales sont capables de traverser ce champ sans être affectée.
+Seules les personnes travaillant dans la sécurité sont autorisées à posséder de tels appareils même si les autorités tendent à en déconseiller l’usage : les armes shock et certaines munitions spéciales sont capables de traverser ce champ sans être affectée.

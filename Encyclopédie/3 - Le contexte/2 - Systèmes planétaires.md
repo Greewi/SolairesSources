@@ -1,5 +1,5 @@
 # Systèmes planétaires
-> « Une étoile, huit planètes majeures et des centaines de lunes… Ceux qui prétendent en avoir fini avec ce système se trompent ! »
+> « Une étoile, huit planètes majeures et des centaines de lunes… Ceux qui prétendent en avoir fini avec ce système se trompent ! »
 
 ## Mercure, la première planète
 <table>
@@ -73,7 +73,7 @@ Proche du soleil, la première planète est aussi un endroit de transit importan
     </tr>
 </table>
 
-Vénus est l’astre le plus brillant dans le ciel de la Terre après le Soleil et la Lune. Cette planète est aussi la plus proche de la Terre sur de nombreux points : diamètre, masse, gravité… Au point qu’elle a souvent été considérée comme la « petite sœur » de la planète bleue.
+Vénus est l’astre le plus brillant dans le ciel de la Terre après le Soleil et la Lune. Cette planète est aussi la plus proche de la Terre sur de nombreux points : diamètre, masse, gravité… Au point qu’elle a souvent été considérée comme la « petite sœur » de la planète bleue.
 
 Mais l’étoile du berger a eu un destin bien différent et elle possède une atmosphère extrêmement dense. Si dense que la température et la pression ont empêché de construire la moindre installation au sol.
 
@@ -112,9 +112,9 @@ Par ailleurs, seule Sol6 est présente de façon permanente bien que de nombreux
     </tr>
 </table>
 
-D’un point de vue physique, la Terre est une planète tellurique, la plus grande du système solaire. Elle possède actuellement de l’eau et une atmosphère respirable par l’Homme. Mais, c’est surtout la planète mère de l’humanité. La Terre est un patchwork de nations unies par une organisation mondiale : l’ONU. Les nations terriennes ont choisi de conserver leurs modes de vie et accusent un retard technologique de plus en plus significatif par rapport aux colonies.
+D’un point de vue physique, la Terre est une planète tellurique, la plus grande du système solaire. Elle possède actuellement de l’eau et une atmosphère respirable par l’Homme. Mais, c’est surtout la planète mère de l’humanité. La Terre est un patchwork de nations unies par une organisation mondiale : l’ONU. Les nations terriennes ont choisi de conserver leurs modes de vie et accusent un retard technologique de plus en plus significatif par rapport aux colonies.
 
-« Il est notable que la Terre a refusé la transhumanité et la posthumanité. Conservatrice et réactionnaire, elle a lutté pour préserver l’humanité telle qu’elle la connaissait, craignant de la voir disparaître au profit des nouveaux êtres. Ce fut la véritable raison de la guerre des colonies, les derniers cris d’une créature sauvage acculée par les évènements. Elle a perdu cette guerre, mais au lieu de l’extinction prévue, elle n’est plus qu’une image de cette vie passée. »
+« Il est notable que la Terre a refusé la transhumanité et la posthumanité. Conservatrice et réactionnaire, elle a lutté pour préserver l’humanité telle qu’elle la connaissait, craignant de la voir disparaître au profit des nouveaux êtres. Ce fut la véritable raison de la guerre des colonies, les derniers cris d’une créature sauvage acculée par les évènements. Elle a perdu cette guerre, mais au lieu de l’extinction prévue, elle n’est plus qu’une image de cette vie passée. »
 
 ## Mars, la planète rouge
 <table>
@@ -186,13 +186,13 @@ Depuis le traité des colonies, HIARTech est devenu Mars, traduisant une volont�
     </tr>
 </table>
 
-Jupiter est la plus grande planète du système solaire. Cette géante gazeuse à très rapidement intéressé les corporations car ce système planétaire comporte quatre grandes lunes parmi son impressionnante cohorte : Io, Europe, Ganymède et Callisto.
+Jupiter est la plus grande planète du système solaire. Cette géante gazeuse à très rapidement intéressé les corporations car ce système planétaire comporte quatre grandes lunes parmi son impressionnante cohorte : Io, Europe, Ganymède et Callisto.
 
 Évidemment, la géante rouge n’a pas pu être colonisée directement mais ces quatre lunes portent de très nombreuses colonies ce qui en fait le système planétaire possédant le plus d’habitants après celui de la Terre.
 
-Séparée des quatre premières planètes par la ceinture d’astéroïde, ce fut le théâtre principal de la guerre des colonies. Le système jovien a beaucoup souffert. Nombre de ses colonies ont été très endommagées et on ne compte plus les installations à reconstruire ou abandonnées : bases militaires, stations de recherche, sites miniers et même quelques colonies…
+Séparée des quatre premières planètes par la ceinture d’astéroïde, ce fut le théâtre principal de la guerre des colonies. Le système jovien a beaucoup souffert. Nombre de ses colonies ont été très endommagées et on ne compte plus les installations à reconstruire ou abandonnées : bases militaires, stations de recherche, sites miniers et même quelques colonies…
 
-Jupiter est principalement sous le contrôle de Vranberg-Lytan, Waylanders et Aesir, bien que Suan ait pu récupérer quelques colonies après la guerre. Il n’y a pas de lune affectée à une corporation ni même de frontière nette : une citée peut appartenir à l’une des corporations tandis que sa voisine appartient à une autre. Il existe ainsi un nombre impressionnant d’interconnexions entre les corporations dans le système jovien.
+Jupiter est principalement sous le contrôle de Vranberg-Lytan, Waylanders et Aesir, bien que Suan ait pu récupérer quelques colonies après la guerre. Il n’y a pas de lune affectée à une corporation ni même de frontière nette : une citée peut appartenir à l’une des corporations tandis que sa voisine appartient à une autre. Il existe ainsi un nombre impressionnant d’interconnexions entre les corporations dans le système jovien.
 
 ## Saturne, la planète aux anneaux
 <table>
@@ -229,7 +229,7 @@ Saturne est la dernière planète visible à l’œil nu depuis la Terre. Comme 
 
 Mais ce qui la rend exceptionnelle sont ses grands anneaux. Certes, toutes les géantes gazeuses en possèdent, mais ceux de Saturne sont immenses et extrêmement denses. Ils sont composés de particules de glace et, dans une moindre mesure, de roches qui mesurent entre un centimètre et une dizaine de mètres de diamètre. Les anneaux sont fins et ne mesurent qu’un kilomètre d’épaisseur environ.
 
-Le système saturnien est lui aussi colonisé depuis longtemps et possède une population proche de celle de Mars. En revanche, la population y est concentrée aux deux tiers sur une même lune : Titan. Le reste est dispersé sur les quatre autres lunes majeures du système.
+Le système saturnien est lui aussi colonisé depuis longtemps et possède une population proche de celle de Mars. En revanche, la population y est concentrée aux deux tiers sur une même lune : Titan. Le reste est dispersé sur les quatre autres lunes majeures du système.
 
 Seules les corporations Vranberg-Lyan, Suan, Aesir et Urania sont présentes dans ce système planétaire. De plus, Urania n’y est présente que marginalement, uniquement sur Titan.
 
@@ -303,7 +303,7 @@ Bien que sous le contrôle d’Urania, de nombreuses installations et vaisseaux 
 
 Le système neptunien est le système planétaire du système solaire le plus éloigné du soleil. Il marque aussi la fin de la tranche des systèmes externes et le début de la ceinture de Kuiper.
 
-Contrairement aux autres géantes gazeuses, Neptune ne possède qu’une seule lune de grandes dimensions : Triton. Cette lune est d’ailleurs d’une taille équivalente à celle des lunes galiléennes de Jupiter. Comme pour Uranus, la colonisation du système est très récente et Urania n’y a construit qu’une seule colonie opérationnelle.
+Contrairement aux autres géantes gazeuses, Neptune ne possède qu’une seule lune de grandes dimensions : Triton. Cette lune est d’ailleurs d’une taille équivalente à celle des lunes galiléennes de Jupiter. Comme pour Uranus, la colonisation du système est très récente et Urania n’y a construit qu’une seule colonie opérationnelle.
 
 Le système est contrôlé par Urania, épaulée par Mars. Du fait de l’éloignement, la colonisation est difficile et pose de nombreux problèmes logistiques. Beaucoup considèrent que la colonisation du système uranien est prématurée, mais Mars et Urania redoublent malgré tout d’efforts.
 
@@ -389,7 +389,7 @@ Le système est contrôlé par Urania, épaulée par Mars. Du fait de l’éloig
     </tr>
 </table>
 
-Notes :
+Notes :
 * La gravité à la surface est ici présentée sous la forme d’un multiple de la gravité à la surface de la Terre. Si on prend le cas de Mars, qui possède une gravité à la surface de 0.38 g, un objet de 100 kg y pèse aussi lourd qu’un objet de 38 kg sur Terre.
 * Le jour solaire est la durée moyenne d’une journée à la surface de l’astre. C’est ce qui correspond à la durée du jour tel qu’on l’emploi communément. Il existe une notion de jour stellaire, mais elle ne nous intéresse pas ici.
 * Le rayon orbital est la distance moyenne entre l’astre et le soleil. L’appellation exacte de ce terme est demi-grand axe de l’orbite.
@@ -433,7 +433,7 @@ Obéron 762 km 0.0353 g 583 500 km 13 j 11 h
 
 Neptune Triton 1 350 km 0.08 g 354 800 km 5 j 21 h
 
-Notes :
+Notes :
 * Ici le rayon orbital correspond à la distance moyenne entre la lune et la planète autour de laquelle elle tourne (de centre à centre)
 * Les lunes du système solaire sont toutes en orbite synchrone, c’est à dire qu’elles présentent toujours la même face à leur planète. De ce fait, leur période orbitale est égale à leur jour sidéral.
 

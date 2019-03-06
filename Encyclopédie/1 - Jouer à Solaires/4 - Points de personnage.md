@@ -1,10 +1,10 @@
 # Points de personnages
-> « En ce temps de chaos, ceux qui le peuvent doivent se lever et faire bouclier aux autres, n’oublions pas que nous sommes martiens ! »
-> Mourad « Eclipse », leader des Soleils
+> « En ce temps de chaos, ceux qui le peuvent doivent se lever et faire bouclier aux autres, n’oublions pas que nous sommes martiens ! »
+> Mourad « Eclipse », leader des Soleils
 
 Les points de personnage sont des points attribués au joueur qui vont servir à altérer l'histoire de différentes manières. Ils n'ont aucune existence dans l'univers de jeu et ne sont attachés au personnage que par commodité.
 
-Le but de ces points est de donner plus de contrôle sur l'histoire aux joueurs, leur permettant notamment d'en décrire ou modifier certains éléments. De façon générale, l'utilisation de ces points ne peut être faite sans l'accord des autres participants, meneur comme joueurs : chacun dispose d'un droit de veto sur les utilisations de ces points.
+Le but de ces points est de donner plus de contrôle sur l'histoire aux joueurs, leur permettant notamment d'en décrire ou modifier certains éléments. De façon générale, l'utilisation de ces points ne peut être faite sans l'accord des autres participants, meneur comme joueurs : chacun dispose d'un droit de veto sur les utilisations de ces points.
 
 ## Acquisition et récupération
 Au début de toute partie, chaque joueur se voit attribuer trois points de personnage. Durant la partie, il ne pourra en avoir plus de trois.
@@ -19,7 +19,7 @@ Les joueurs peuvent mettre en communs leurs points de personnage, mais celui qui
 De plus, chaque participant, aussi bien le meneur que les joueurs, dispose d'un droit de veto pour s'opposer à une utilisation de ces points, notamment si cela donne un tournant à l'histoire qu'ils n'apprécient pas, ou s'il s'agit d'un abus manifeste.
 
 ## Utilisations
-Voici la liste des utilisations possibles des points de personnage :
+Voici la liste des utilisations possibles des points de personnage :
 * **Description des conséquences d'une action **: pour un point de personnage, un joueur peut décrire les conséquences directes d'une action de son personnage. Cette description reste sujette au veto du meneur. Le joueur devrait essayer d'impliquer au mieux les éléments qu'il a utilisés. De plus, la qualité de réussite et d'échec doit être conservée. *Par exemple, il n'est pas permis de décrire une contrepartie bénéfique en cas d'échec s'il ne s'agissait pas d'un échec de justesse.*
 * **Modification cosmétique **: pour un point de personnage, il est possible de modifier un élément lié à son personnage ou lui faire faire quelque chose sans que cela ne lui procure un avantage mais serve à le typer. *Par exemple, ne pas avoir les cheveux ébouriffés après une explosion ou pouvoir faire un monologue ininterrompu sont de telles utilisations.*
 * **Écarter ou conserver un dé **: pour trois points de personnages, un joueur peut choisir d'écarter ou de conserver un dé. Il est possible d'appliquer cette utilisation aux autres dés en payant à nouveaux les points demandés.

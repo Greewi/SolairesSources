@@ -1,5 +1,5 @@
 # Technologie
-> « Joyeux non-anniversaire mon amie. Bon fait quand même gaffe, c’est pas fait pour à la base et si ça prend pas feu à un moment, c’est que je me suis franchement ratée. »
+> « Joyeux non-anniversaire mon amie. Bon fait quand même gaffe, c’est pas fait pour à la base et si ça prend pas feu à un moment, c’est que je me suis franchement ratée. »
 
 > Ney
 
@@ -19,21 +19,21 @@ Aussi avancée que soit la technologie des solaires, elle reste limitée par les
 ## Outils
 Pour manipuler la technologie, les solaires disposent d’un vaste panel d’outils. Que ce soit pour réparer ou modifier un appareil que pour en fabriquer de tout nouveaux.
 
-Voici une liste des principaux outils utilisé dans ce domaine :
-* Constructeur universel : pivot de toute l’industrie des colonies, ces appareils sont à la base de tout ce qui est fabriqué dans les colonies. À l’intérieur de l’enceinte protectrice de cet appareil, une armée de plusieurs milliards de nanorobots assemblent la matière atome par atome. Des variantes de ces appareils servent à recycler les objets obsolètes et les déchets.
-* Scanner à effet Wolfa : ces scanners de matière sont capables de numériser la matière en volume à l’échelle des atomes. Il existe une variante transportable qui dispose d’une résolution variant autour du micron et qui permet d’inspecter la matière sur quelques centimètres de profondeur.
-* Nanite : les nanites sont des micro-robots capables de s’assembler pour former des structures solides. On s’en sert beaucoup pour fabriquer des pièces mécaniques, effectuer des soudures ou sceller des brèches. Une fois assemblé, les nanites sont inertes et ne peuvent pas être réutilisée.
-* Torche à plasma : outils de découpe, la torche à plasma est très utilisée dans les colonies. Capable de découper l’importe quoi, elle ne dégage pas de gaz nocifs ni de fumée et fonctionne dans le vide.
-* Multi-tool : cet outil polyvalent et modulaire comporte de nombreux outils : torche plasma, injecteur de micro-drones, scanner wolfa portable, outil de soudure à nanite et un ensemble de pinces et viseuses.
-* Micro-drones : ces robots microscopiques servent à effectuer des opérations de réparations et de modification à des échelles microscopiques. Ils sont très utilisés en électronique mais aussi en médecine.
-* Décodeur : cet appareil spécialisé n’est rien d’autre qu’un injecteur de micro-drones dont la fonction principale est de pirater des appareils électroniques pour, par exemple, en prendre le contrôle.
-* Robots : il existe une multitude de robots tous plus ou moins spécialisés. Parmi les plus courants, notons la famille des spider-bots qui patrouillent les installations et préviennent les dysfonctionnements ou les monkey-bots qui sont des agents de réparation et d’entretien polyvalents.
+Voici une liste des principaux outils utilisé dans ce domaine :
+* Constructeur universel : pivot de toute l’industrie des colonies, ces appareils sont à la base de tout ce qui est fabriqué dans les colonies. À l’intérieur de l’enceinte protectrice de cet appareil, une armée de plusieurs milliards de nanorobots assemblent la matière atome par atome. Des variantes de ces appareils servent à recycler les objets obsolètes et les déchets.
+* Scanner à effet Wolfa : ces scanners de matière sont capables de numériser la matière en volume à l’échelle des atomes. Il existe une variante transportable qui dispose d’une résolution variant autour du micron et qui permet d’inspecter la matière sur quelques centimètres de profondeur.
+* Nanite : les nanites sont des micro-robots capables de s’assembler pour former des structures solides. On s’en sert beaucoup pour fabriquer des pièces mécaniques, effectuer des soudures ou sceller des brèches. Une fois assemblé, les nanites sont inertes et ne peuvent pas être réutilisée.
+* Torche à plasma : outils de découpe, la torche à plasma est très utilisée dans les colonies. Capable de découper l’importe quoi, elle ne dégage pas de gaz nocifs ni de fumée et fonctionne dans le vide.
+* Multi-tool : cet outil polyvalent et modulaire comporte de nombreux outils : torche plasma, injecteur de micro-drones, scanner wolfa portable, outil de soudure à nanite et un ensemble de pinces et viseuses.
+* Micro-drones : ces robots microscopiques servent à effectuer des opérations de réparations et de modification à des échelles microscopiques. Ils sont très utilisés en électronique mais aussi en médecine.
+* Décodeur : cet appareil spécialisé n’est rien d’autre qu’un injecteur de micro-drones dont la fonction principale est de pirater des appareils électroniques pour, par exemple, en prendre le contrôle.
+* Robots : il existe une multitude de robots tous plus ou moins spécialisés. Parmi les plus courants, notons la famille des spider-bots qui patrouillent les installations et préviennent les dysfonctionnements ou les monkey-bots qui sont des agents de réparation et d’entretien polyvalents.
 
 
 >> ### Technologie – Pirater un appareil
 >> Tôt ou tard, un personnage tentera de prendre le contrôle d’un appareil. Ça peut être une porte, un sas, un système de climatisation, un robot, une arme interfacée, etc. Bien sûr un decker pourrait tenter de s’en emparer via le réseau, mais il est généralement moins risqué de le pirater physiquement.
 >> 
->> Nombre de machines sont prévues pour être manipulée directement par le personnel et robots de la maintenance. Pour y accéder, ils utilisent des certificats informatiques : si le personnage possède un tel certificat, il &lsquo;a rien besoin de faire de plus. Falsifier un certificat requiert des capacités de calcul généralement hors de la portée des personnages joueurs. Le voler, ou le demander à des contacts bien placés, est souvent pus envisageable, même s’il s’agit d’une véritable mission en soi. Le temps demandé est rarement compatible avec l’urgence requise dans la plupart des situations : par exemple si vous deviez forcer un sas pour ne pas vous retrouver éjecté à l’extérieur.
+>> Nombre de machines sont prévues pour être manipulée directement par le personnel et robots de la maintenance. Pour y accéder, ils utilisent des certificats informatiques : si le personnage possède un tel certificat, il &lsquo;a rien besoin de faire de plus. Falsifier un certificat requiert des capacités de calcul généralement hors de la portée des personnages joueurs. Le voler, ou le demander à des contacts bien placés, est souvent pus envisageable, même s’il s’agit d’une véritable mission en soi. Le temps demandé est rarement compatible avec l’urgence requise dans la plupart des situations : par exemple si vous deviez forcer un sas pour ne pas vous retrouver éjecté à l’extérieur.
 >> 
 >> Sans certificat, il reste la solution du détournement physique, que ce soit à l’aide d’un décodeur, pour les systèmes les plus simples, ou en ouvrant l’appareil et en effectuant les déviations nécessaires. Dans les deux cas, la tentative de piratage demande une action d’une difficulté pouvant aller de 0 à -2. Mais si la première option ne requiert qu’une ou deux dizaines de secondes, la seconde option peut prendre plusieurs minutes.
 >> 
@@ -44,14 +44,14 @@ Voici une liste des principaux outils utilisé dans ce domaine :
 >> ### Technologie – Construire un gadget
 >> Pour résoudre certaines situations, les personnages peuvent manquer d’un outil particulier, que ce soit une pièce pour réparer une machine, un sérum contre une toxine, un logiciel pour restaurer un système, etc. Souvent, vous n’aurez pas la possibilité de vous le procurer de façon régulière, en le demandant à un contact ou en l’achetant à un fournisseur, etc. Heureusement, de nombreux personnages sont capables de concevoir des appareils apportant une solution plus ou moins temporaire à ce genre de problème.
 >> 
->> La fabrication d’un gadget s’effectue en plusieurs étapes : conception, préparation et mise en œuvre.
+>> La fabrication d’un gadget s’effectue en plusieurs étapes : conception, préparation et mise en œuvre.
 >> 
 >> La première étape, la conception, consiste préparer les plans, la formule ou le programme du gadget. C’est une opération qui peut prendre de quelques minutes à plusieurs heures en fonction de l’ampleur du projet. La difficulté de cette étape varie de +2 à -2 en fonction de la spécialisation et la complexité de l’appareil. Pour un logiciel, cette étape seule peut suffire, sauf si elle a besoin de données spécifiques pour fonctionner.
 >> 
->> La seconde étape consiste à réunir le matériel, les outils, et autres données, pour travailler. Généralement, les personnages manipulant la technologie possèdent le matériel suffisant pour effectuer leurs travaux, mais dans le cas où ce n’est pas le cas, il est nécessaire de se procurer ou de détourner le matériel nécessaire. Cette action peut demander une difficulté allant de +2 à 0. Dans les pires situations, trouver le matériel peut consister à créer d’autres gadgets, mais tant que possible évitez les récursions !
+>> La seconde étape consiste à réunir le matériel, les outils, et autres données, pour travailler. Généralement, les personnages manipulant la technologie possèdent le matériel suffisant pour effectuer leurs travaux, mais dans le cas où ce n’est pas le cas, il est nécessaire de se procurer ou de détourner le matériel nécessaire. Cette action peut demander une difficulté allant de +2 à 0. Dans les pires situations, trouver le matériel peut consister à créer d’autres gadgets, mais tant que possible évitez les récursions !
 >> 
 >> La dernière étape, la mise en œuvre, consiste à fabriquer le gadget ou déployer le logiciel ou procéder à l’administration de l’agent biologique. En fonction du matériel à disposition et de la complexité de l’élément à créer, cette étape demande une action dont la difficulté peut varier de +2 à -2.
 >> 
->> Échouer à l’une des deux premières étapes met fin au processus et coûte généralement du temps. Il n’est pas possible de réessayer : le personnage n’a en effet pas trouvé de solution et continuer les recherches ne donnera rien de plus.
+>> Échouer à l’une des deux premières étapes met fin au processus et coûte généralement du temps. Il n’est pas possible de réessayer : le personnage n’a en effet pas trouvé de solution et continuer les recherches ne donnera rien de plus.
 >> 
 >> Échouer à la dernière étape implique généralement des conséquences secondaires en plus de ne pas parvenir au but recherché. Le gadget peut occasionner des dégâts, un agent biologique peut générer des effets secondaires gênants, etc.

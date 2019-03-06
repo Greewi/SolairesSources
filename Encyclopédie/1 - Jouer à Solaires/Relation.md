@@ -1,5 +1,5 @@
 # Relations
-> «  »
+> «  »
 
 > 
 
@@ -9,17 +9,17 @@ Quand un personnage n’est pas en mesure de résoudre un problème, il fait gé
 ## Conseils et ambiance
 ## Outils
 
->> ### Exemple de situation : Obtenir des informations
+>> ### Exemple de situation : Obtenir des informations
 >>  <p class="encart__texte">
 
 >>  </p>
 
->> ### Exemple de situation : Obtenir une faveur
+>> ### Exemple de situation : Obtenir une faveur
 >>  <p class="encart__texte">
 
 >>  </p>
 
->> ### Exemple de situation : Fabriquer une couverture
+>> ### Exemple de situation : Fabriquer une couverture
 >>  <p class="encart__texte">
 
 >>  </p>
