@@ -29,11 +29,11 @@ En plus de cette mécanique simple, le meneur utilise des règles, qui seront d�
 >> 
 >> – Nicolas (Joue le personnage Downlink, un decker) : Pareil, je sors mon pistolet shock et je surveille l’entrée au cas où.
 >> 
->> – Justine : ok. L’appartement semble bien vide. Albert, fais mois un jet pour tes recherches, difficulté zéro.
+>> – Justine : OK. L’appartement semble bien vide. Albert, fais mois un jet pour tes recherches, difficulté zéro.
 >> 
 >> – Albert : J’utilise mon Logiciel de reconstitution à 2 et ma carrière de Privé à 3.
 >> 
->> – Justine : Ok.
+>> – Justine : OK.
 >> 
 >> Albert, lance les trois dés, qui font 6, 2 et 3.
 >> 
@@ -52,9 +52,9 @@ Les rôlistes – les gens qui font du jeu de rôles – ont au fil du temps dé
 * joueurs : les participants qui contrôlent un personnage ;
 * participants : l’ensemble des joueurs plus le meneur ;
 * personnage joueur (PJ) : les personnages contrôlés par les joueurs ;
-* personnage non joueurs (PNJ) : les personnages qui ne sont pas contrôlés par les joueurs et que, donc, le MJ gère ;
+* personnage non-joueur (PNJ) : les personnages qui ne sont pas contrôlés par les joueurs et que, donc, le MJ gère ;
 * scénario : la partie préparée de l’histoire qu’habituellement seul le meneur connaît ;
-* D6 : un dé à six face. Cette notation est très employée par les rôlistes qui utilisent des dés qui peuvent sembler exotique (par exemple, des dés à vingt faces par exemple).
+* D6 : un dé à six faces. Cette notation est très employée par les rôlistes qui utilisent des dés qui peuvent sembler exotique (par exemple, des dés à vingt faces par exemple).
 
 ## But du jeu
 Pour les joueurs, le but du jeu est de résoudre, par l’intermédiaire de leur personnage, les situations dans lesquels ces derniers seront pris. Ils construiront ainsi une histoire. Suivant la partie, il peut s'agir d'une histoire d'aventure, une histoire policière, une histoire d'horreur…

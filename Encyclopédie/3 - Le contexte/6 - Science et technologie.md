@@ -1,5 +1,7 @@
 # Science et technologie
 > « Nous avons accompli le rêve des informaticiens : programmer la matière. »
+>
+> Wallis, ingénieur de Vranberg-Lytan
 
 La recherche scientifique et l’ingénierie ont franchi de grandes étapes au cours du XXIe siècle. Les solaires jouissent d’un grand nombre de technologies qui accomplissent des exploits encore considérés comme impossible un siècle auparavant.
 
@@ -19,7 +21,7 @@ Une autre technologie, de stockage temporaire d’énergie de haute densité, a 
 Ces deux technologies cumulées, la fusion nucléaire et l’antimatière, ont totalement remplacé toutes les autres formes de production et de stockage d’énergie. Même dans les régions proches du soleil, le duo a remplacé les capteurs solaires.
 
 ## Constructeur universel
-Pouvoir agencer la matière atome par atome est longtemps resté un rêve. Heureusement, la nanotechnologie, et plus particulièrement la nano-robotique, ont changé la donne vers la fin des années 2060. L’avènement des constructeurs universels a accéléré le développement des colonies de façon inimaginable. D’un seul coup, tout – ou presque – est devenu réalisable avec la même machine.
+Pouvoir agencer la matière atome par atome est longtemps resté un rêve. Heureusement, la nanotechnologie, et plus particulièrement la nanorobotique, ont changé la donne vers la fin des années 2060. L’avènement des constructeurs universels a accéléré le développement des colonies de façon inimaginable. D’un seul coup, tout – ou presque – est devenu réalisable avec la même machine.
 
 Utilisant des armées de nanorobots qui façonnent les objets atomes par atomes, ces constructeurs sont initialement d’une lenteur extrême, à la limite de l’utilité. Mais quelques années plus tard, la mise au point de nanorobots auto-répliquant a complètement remis ce fait en question et désormais, les constructeurs universels parviennent presque à rivaliser avec les usines spécialisées.
 
@@ -56,15 +58,15 @@ La propulsion spatiale repose sur le principe de réaction : si vous appliquez 
 
 Un problème apparaît rapidement : avec une quantité de carburant finie, un vaisseau ne peut pas accélérer indéfiniment et est donc confronté à une vitesse maximale qu’on appelle « delta-v maximum ». Pour augmenter ce budget, il existe deux moyens : emporter plus de carburant ou l’éjecter a de plus grande vitesse.
 
-Le premier moyen est très inefficace : la quantité de carburant requise suit une loi exponentielle. Ceci est dû au fait qu’ajouter du carburant alourdit le vaisseau et qu’il lui faut alors encore plus de carburant et ainsi de suite. Pour cette raison, on évoque parfois la tyrannie de l’équation de la propulsion spatiale (The Rocket Equation Tyranny).
+Le premier moyen est très inefficace : la quantité de carburant requise suit une loi exponentielle. Ceci est dû au fait qu’ajouter du carburant alourdit le vaisseau et qu’il lui faut alors encore plus de carburant et ainsi de suite. Pour cette raison, on évoque parfois la tyrannie de l’équation de la propulsion spatiale (*The Rocket Equation Tyranny*).
 
 Le second moyen est bien plus efficace, bien que plus difficile à mettre en œuvre puisqu’il requiert de nouvelles technologies. Concrètement, ce sont les avancées dans ce domaine qui ont permis à la civilisation solaire de s’établir sur les mondes du système.
 
 Durant la première moitié du XXIe siècle, la propulsion interplanétaire était encore principalement assurée par la propulsion chimique et ionique. Vers les années 30, la propulsion VASIMIR, amélioration de la propulsion ionique, a pris le relais. De nombreuses fois améliorée, elle est supplantée durant les années 70 par les mass drivers. Il s’agit ni plus ni moins que d’accélérateur de particules à très fort rendement dont les plus puissants sont capables d’accélérer plusieurs dizaines de kilogramme de matière par secondes à des vitesses avoisinant 0,5 % de la vitesse de la lumière.
 
-Évidemment, ceci demande un approvisionnement en énergie conséquent et seuls les vaisseaux directement équipés d’imposants générateur à fusion peuvent en bénéficier. Ces vaisseaux sont en outre équipés de nombreux radiateurs destinés à évacuer la chaleur excédentaire.
+Évidemment, ceci demande un approvisionnement en énergie conséquent et seuls les vaisseaux directement équipés d’imposants générateurs à fusion peuvent en bénéficier. Ces vaisseaux sont en outre équipés de nombreux radiateurs destinés à évacuer la chaleur excédentaire.
 
-Notons pour finir que la première loi continue d’avoir court. Aussi la masse du carburant de propulsion, représente au départ près de 60 % de celle du vaisseau. Une fois le poids de la structure et de l’appareillage du vaisseau retirés, il ne reste guère plus de 15 % de charge utile, qu’il s’agisse de passagers ou de fret.
+Notons pour finir que la première loi continue d’avoir cours. Aussi la masse du carburant de propulsion, représente au départ près de 60 % de celle du vaisseau. Une fois le poids de la structure et de l’appareillage du vaisseau retirés, il ne reste guère plus de 15 % de charge utile, qu’il s’agisse de passagers ou de fret.
 
 ## Magnétosphères artificielles
 L’espace est un environnement particulièrement dangereux sur de nombreux points, mais l’un d’eux est longtemps resté difficile à mitiger : les radiations.
@@ -104,7 +106,7 @@ Il existe aussi des procédés pour stocker des informations sur des supports sp
 La cryptographie est essentielle pour la société des solaires : l’identité et les privilèges des personnes est vérifiée par des certificats, les communications sont toutes cryptées à bas niveau et les données personnes, notamment les sauvegardes et les exomémoires, sont considérées comme extrêmement sensibles par les corporations qui ont investi des moyens presque disproportionnés.
 
 ## Intelligence artificielle
-Dès le début du vingt-et-unième siècle, les recherches sur l’automatisation commençaient à emprunter la voie de l’intelligence artificielle. Les premiers systèmes qui puissent réellement être appelée intelligence artificielle furent des réseaux de neurones capables d’apprendre à effectuer des taches complexes dans des cadres spécifiques. Ces premières intelligences artificielles ont révolutionné la production industrielle et les services. Un à un, les exploits autrefois réservé à l’humain sont tombés, provoquant sur Terre une explosion du chômage et des inégalités. Associée à la crise énergétique du milieu du siècle, l’IA fut décrite par les médias comme fléau.
+Dès le début du vingt-et-unième siècle, les recherches sur l’automatisation commençaient à emprunter la voie de l’intelligence artificielle. Les premiers systèmes qui puissent réellement être appelée intelligence artificielle furent des réseaux de neurones capables d’apprendre à effectuer des tâches complexes dans des cadres spécifiques. Ces premières intelligences artificielles ont révolutionné la production industrielle et les services. Un à un, les exploits autrefois réservé à l’humain sont tombés, provoquant sur Terre une explosion du chômage et des inégalités. Associée à la crise énergétique du milieu du siècle, l’IA fut décrite par les médias comme fléau.
 
 Les recherches concernant l’intelligence artificielle forte, où plus exactement l’intelligence générale, firent l’objet d’un moratoire international. À la fin du moratoire, HIARTech s’est empressé de mettre en service la toute première intelligence artificielle générale : Synchro. Non sentiente, elle était destinée à appuyer la gestion de la société, mais il apparaît désormais qu’elle était à l’initiative d’un très grand nombre des décisions importantes, au point que certains pensent aujourd’hui que le directeur de la société était devenu une simple marionnette. Quelques années plus tard, la société développa Leena, la première intelligence artificielle considérée comme sentiente. Malheureusement, la justice Européenne ordonna son extinction et l’arrêt des recherches concernant les IA fortes. Curieusement, Synchro, sous-estimée à l’époque, fut épargnée.
 
@@ -116,7 +118,7 @@ Enfin, dernier type d’IA mise au point par les humains, la création des IA de
 
 L’intelligence artificielle reste un domaine de recherche ouvert, même si l’humain semble maintenant hors course dans ce domaine. Les applications imprègnent la totalité des colonies et les intelligences artificielles sont devenues indispensables.
 
-L’intelligence artificielle générale et la sentience ont longtemps été pensés comme indissociables. Toutefois, dès la mise en service de Synchro, il est clairement apparu que la sentience, et plus particulièrement la conscience, n’était pas nécessaire pour de telles IA. Cela n’empêche pas les IA Wolfa et Ley-Wan de dériver naturellement vers une sentience émergente si elles ne sont pas régulièrement élaguées. Sur ce point les secondes sont beaucoup plus sensibles et il est illusoire d’espérer pouvoir maintenir non sentiente une IA de Ley-Wan, surtout sur wetware.
+L’intelligence artificielle générale et la sentience ont longtemps été pensés comme indissociables. Toutefois, dès la mise en service de Synchro, il est clairement apparu que la sentience, et plus particulièrement la conscience, n’était pas nécessaire pour de telles IA. Cela n’empêche pas les IA Wolfa et Ley-Wan de dériver naturellement vers une sentience émergente si elles ne sont pas régulièrement élaguées. Sur ce point les secondes sont beaucoup plus sensibles et il est illusoire d’espérer pouvoir maintenir sur le long terme une IA de Ley-Wan non sentiente , surtout sur wetware.
 
 Concernant ces IA sentientes, les corporations ont déjà tranché leur cas à travers le traité des solaires : tout être sentient étant de facto une personne, les corporations les traitent comme telle. Ainsi, à l’image de Leena, de très nombreuses IA sont considérées comme des citoyennes des colonies, parfaitement intégrées à la société.
 

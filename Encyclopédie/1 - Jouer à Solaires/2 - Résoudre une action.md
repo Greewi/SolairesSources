@@ -1,8 +1,9 @@
 # Résoudre une action
 > « À l’avenir, ils craindront les répercussions de leurs actions avant même de les mettre en œuvre. »
+>
 > Marth, IA militaire de Vranberg-Lytan
 
-Inévitablement, vous finirez par vous poser la question « Est-ce que cette action doit réussir ou échouer ? ». Certaines actions critiques peuvent altérer drastiquement la suite de la partie selon qu’elles réussissent ou échouent et c’est là qu’interviennent les règles de résolution des actions.
+Inévitablement, vous finirez par vous poser la question « Est-ce que cette action doit réussir ou échouer ? ». Certaines actions critiques peuvent altérer considérablement la suite de la partie selon qu’elles réussissent ou échouent et c’est là qu’interviennent les règles de résolution des actions.
 
 Évidemment, il ne faut pas non plus utiliser ces règles pour toutes les actions. Par exemple, pour certaines l’issue est triviale, comme grimper un escalier dans des conditions normales. C’est au meneur d’estimer si une action doit être résolue avec ces règles ou non.
 
@@ -19,7 +20,7 @@ Notez que nous déconseillons fortement un résultat maintenant le statu quo de 
 De plus, tant que le joueur n’a pas lancé les dés, il est libre de revenir sur son choix.
 
 ## Difficulté
-Le meneur évalue ensuite la difficulté de l’action. Pour y parvenir, il peut se servir de deux échelles de difficulté, l’une évaluant la difficulté intrinsèque de l’action, l’autre son intérêt pour l’histoire. Pour obtenir la difficulté finale il peut simplement faire la somme de ses choix sur ces deux échelles.
+Le meneur évalue ensuite la difficulté de l’action. Pour y parvenir, il peut se servir de deux échelles de difficulté, l’une évaluant la difficulté intrinsèque de l’action, l’autre son intérêt pour l’histoire. Pour obtenir la difficulté finale, il peut simplement faire la somme de ses choix sur ces deux échelles.
 
 Notez, en particulier pour l’échelle de difficulté intrinsèque, que le choix du meneur ne doit pas reposer sur les éléments du personnage mais sur la nature de l’action en elle-même. De plus si le meneur juge une action impossible (ou triviale), il ne fait pas faire un jet de dés : elle échoue (ou réussit) automatiquement sans Effet secondaire.
 
@@ -78,7 +79,7 @@ Notez, en particulier pour l’échelle de difficulté intrinsèque, que le choi
 ## Choix des éléments
 Une fois la difficulté établie, ainsi que l’éventuelle altération, le joueur doit choisir un élément de son personnage. Les éléments sont tout ce qui possède un score sur sa fiche de personnage, que ce soit des traits, du matériel, etc. L’élément choisi doit avoir, en toute logique, un impact sur l'action.
 
-Si l’action est typique pour cet élément – par exemple soigner quelqu'un avec la carrière «Médecin» ou pirater une porte avec un «décodeur» – le joueur peut choisir un second trait. Il n’a pas besoin d’être typique, mais doit quand même avoir un impact sur l’action. Même si ce second est typique, vous ne pouvez jamais utiliser plus de deux éléments pour une même action.
+Si l’action est typique pour cet élément – par exemple soigner quelqu'un avec la carrière *« Médecin »* ou pirater une porte avec un *« décodeur »* – le joueur peut choisir un second trait. Il n’a pas besoin d’être typique, mais doit quand même avoir un impact sur l’action. Même si ce second est typique, vous ne pouvez jamais utiliser plus de deux éléments pour une même action.
 
 Il est tout à fait permis de se servir d’éléments qui ne sont pas directement possédés par le personnage, tant qu’il est impliqué dans l’action. Ce sont des éléments de situation et sauf mention contraire, ils ont un score de 1.
 
@@ -89,7 +90,7 @@ Pour commencer le jet de résolution, ajoutez la difficulté avec les éléments
 
 S’il est de 0 ou moins, l’action échoue automatiquement. S’il est de 6 ou plus, l’action réussie automatiquement. Dans ces deux cas, il n’est pas nécessaire de lancer les dés et on applique l’altération comme si tous les dés ont été, respectivement, écartés ou conservés.
 
-Sinon, le joueur lance trois dés à six face. Il ne conserve que ceux qui ont un résultat inférieur ou égal au score à battre. L’action réussie si le joueur en conserve au moins deux, sinon elle échoue.
+Sinon, le joueur lance trois dés à six faces. Il ne conserve que ceux qui ont un résultat inférieur ou égal au score à battre. L’action réussie si le joueur en conserve au moins deux, sinon elle échoue.
 
 <table>
     <tr>
@@ -163,7 +164,7 @@ Les attitudes disponibles sont :
 
 Le meneur peut donner une indication sur la nature des effets secondaires, mais n’y est pas obligé.
 
-Par exemple, Skyline, l’enquêteur, tente d’abattre un suspect qui s’enfuit à travers la foule. En plus de la difficulté, le meneur annonce une altération Adoucie. Il explique que si l’action réussit, le personnage parviendra à abattre l’adversaire, sinon il arrivera à s’enfuir. Il précise en revanche que si le jet réussit de justesse un passant sera aussi touché. S’il échoue de justesse, le fugitif parviendra bien à s’enfuir, mais il sera quand même blessé par le tir.
+*Par exemple, Skyline, l’enquêteur, tente d’abattre un suspect qui s’enfuit à travers la foule. En plus de la difficulté, le meneur annonce une altération Adoucie. Il explique que si l’action réussit, le personnage parviendra à abattre l’adversaire, sinon il arrivera à s’enfuir. Il précise en revanche que si le jet réussit de justesse un passant sera aussi touché. S’il échoue de justesse, le fugitif parviendra bien à s’enfuir, mais il sera quand même blessé par le tir.*
 
 ## Conséquences de l'action
 Une fois l’action résolue, le meneur peut décrire les conséquences de l’action. Généralement, cela consiste à acter ce qui avait été déterminé au moment de déclarer l’action.
@@ -181,16 +182,15 @@ Pour les effets en faveur des PJ, nous vous proposons ces exemples :
 Notez que le joueur peut utiliser un point de personnage pour décrire lui-même les conséquences directes de l'action, mais cette possibilité est soumise au veto des participants (le joueur récupère son point si un veto est utilisé). Dans cette description, essayez d'impliquer au mieux les éléments que vous avez utilisés et respectez l’échec ou la réussite de l’action. De plus, vous devez conserver les effets de l’altération. Par exemple, vous ne pouvez pas décrire une contrepartie bénéfique si le résultat de la résolution n'en comporte pas.
 
 ## Un exemple
-*Durant un combat sur une plate-forme en mouvement, Razors, cyber-samouraï, affronte un cyborg à main nue. Sophie, qui joue Razors,annonce que son personnage va tenter une prise pour maîtriser son adversaire.*
+*Durant un combat sur une plate-forme en mouvement, Razors, cyber-samouraï, affronte un cyborg à main nue. Sophie, qui joue Razors, annonce que son personnage va tenter une prise pour maîtriser son adversaire.*
 
-*Justine, la meneuse, explique que si l’action réussit, Razors arrivera à maîtriser le cyborg.Si elle ne réussit pas, le cyborg la fera chuter de la plate-forme. Justine ajoute que l’action sera Adoucie : si elleréussit de justesse, le cyborg tombera de la plate-formeet pourra s’enfuir,tandis quesi elle échoue de justesse, Razorsbasculera dans le vide en parvenant àse rattraperau bord. Justine évalue la difficulté à -2 (Démentielle, Neutre).*
+*Justine, la meneuse, explique que si l’action réussit, Razors arrivera à maîtriser le cyborg. Si elle ne réussit pas, le cyborg la fera chuter de la plate-forme. Justine ajoute que l’action sera Adoucie : si elle réussit de justesse, le cyborg tombera de la plate-forme et pourra s’enfuir, tandis que si elle échoue de justesse, Razors basculera dans le vide en parvenant à se rattraper au bord. Justine évalue la difficulté à -2 (Démentielle, Neutre).*
 
-*Sophie choisi d’utiliser l’élément Art martiaux (3). Comme faire une prise est typique pour cette carrière, elle utilise aussi Muscles améliorés (2). Le score à ne pas dépasser est donc de 3 (-2 + 3 + 2).*
+*Sophie choisi d’utiliser l’élément Arts martiaux (3). Comme faire une prise est typique pour cette carrière, elle utilise aussi Muscles améliorés (2). Le score à ne pas dépasser est donc de 3 (-2 + 3 + 2).*
 
 *Sophie lance les trois dés et obtient 4, 6 et 2. Elle ne conserve donc qu’un seul dé : c’est un échec avec contrepartie positive.*
 
 *Justine, la meneuse, explique alors que le cyborg repousse la cyber-samouraï et que Razors tombe de la plateforme. Heureusement, elle parvient à se rattraper d’une main, mais la voici suspendu au-dessus du vide.*
-
 
 >> ### Règle optionnelle : Jets en opposition
 >> Normalement, le meneur n'a jamais besoin de lancer les dés. Que ce soit pour négocier, se battre ou même pirater, l'action est toujours à l'initiative des joueurs. Si un personnage joueur attaque un PNJ, la riposte du PNJ se trouve dans l'échec de l'action. Si un personnage joueur est attaqué, son action sera probablement de se mettre à couvert ou de se défendre, mais aussi de riposter. Il est aussi possible d'associer la riposte ou la survie d'un personnage aux effets secondaires d'une action.

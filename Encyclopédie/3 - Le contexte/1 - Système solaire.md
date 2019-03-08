@@ -1,8 +1,10 @@
 # Système solaire
 > « Il est difficile de croire que du chaos de la nébuleuse primordiale est née une mécanique céleste aussi bien rodée. »
+>
+> Sœur Maxence, ancienne méthodique
 
 ## Formation du système solaire
-À l’échelle de l’humanité, le système solaire a toujours existé. Nous ne sommes qu’un point dans son histoire et nous aurons très probablement disparu bien avant lui. On estime son âge à 7 milliards d’années et les plus vieilles traces hominidé datent seulement de quelques millions d’année.
+À l’échelle de l’humanité, le système solaire a toujours existé. Nous ne sommes qu’un point dans son histoire et nous aurons très probablement disparu bien avant lui. On estime son âge à 7 milliards d’années : pour comparaison, les plus vieilles traces d'hominidés datent seulement de quelques millions d’années.
 
 On suppose qu’il s’est formé à partir d’un nuage de gaz et de poussières résultant d’une supernova. Ce nuage entraîné par la force de gravité se serait ensuite aplati et mis en rotation.
 
@@ -14,16 +16,18 @@ Pendant une longue période, nombre de ces corps en orbite s’écrasèrent les 
 
 Le grand bombardement ne cessa toutefois pas et les planètes continuèrent à recevoir comètes, astéroïdes et météorites.
 
-De la même manière, des lunes se formèrent par agrégation, même si nombre de lunes furent plus simplement d’autres objets capturés par la force de gravité des planètes. Quelques autres sont le résultat de collisions apocalyptiques comme notre Lune par exemple.
+De la même manière, des lunes se formèrent par agrégation, même si nombre de lunes furent plus simplement d’autres objets capturés par la force de gravité des planètes. Quelques autres sont le résultat de collisions apocalyptiques, comme celle de la Terre.
 
-Les marques de cette époque sont encore visibles à travers les nombreux cratères d’impacts présents à la surface de certaines planètes et lunes.
+Les marques de cette époque sont encore visibles à travers les nombreux cratères d’impacts présents à la surface de la plupart des planètes et lunes.
 
 Depuis, le grand bombardement s’est ralenti jusqu’à atteindre la fréquence paisible que nous connaissons désormais. Le système solaire, sans être figé, a atteint sa maturité et nous présumons que notre soleil a atteint la moitié de sa vie. Mais la suite est une autre histoire que nous ne vivrons probablement pas.
 
 ## Corps du système solaire
-Ainsi de nombreux corps naturels circulent autour du Soleil : planètes, planètes naines, lunes, astéroïdes et comètes.
+Orbitant autour de Sol, notre étoile et soleil, de nombreux corps naturels circulent : planètes, planètes naines, lunes, astéroïdes et comètes.
 
 Les plus intéressants de ces corps sont les planètes qui représentent près de 99 % de la masse des astres du système solaire, une fois le Soleil exclu. Beaucoup possèdent par ailleurs des lunes, des satellites naturels. Une planète et ses lunes forment ce que nous allons appeler un système planétaire. Il existe ainsi huit systèmes planétaires même si Mercure et Vénus, ne disposent pas de lunes.
+
+>> Au début du XXIe siècle, un système planétaire désignait l'ensemble des planètes circulant autour d'une même étoile. Ce n'est pas le cas dans Solaires, où ce terme désigne une planète et l'ensemble des lunes qui l'orbitent. Pour désigner l'étoile et ses planètes, nous emploieront le terme système solaire ou système stellaire.
 
 Malgré cela, ces systèmes planétaires ne représentent pas la majorité des corps. La plupart sont en effet des astéroïdes. Il s’agit de « petits » corps ne dépassant pas les 400 kilomètres de diamètre, principalement regroupés dans la ceinture principale d’astéroïde et dans la ceinture de Kuiper.
 
@@ -33,11 +37,10 @@ En plus de tous ces corps naturels, l’humanité et ses enfants ont bâti un gr
 
 ## Organisation du système solaire
 Par commodité, nous découpons le système solaire en quatre régions concentriques :
-* la région des systèmes intérieurs : cette région est composée des planètes telluriques, Mercure, Vénus, Terre et Mars. Seules la Terre et Mars sont pourvues de lunes. Cette division se termine avec la ceinture principale d’astéroïde.
-* la région des systèmes extérieurs : elle comporte les quatre planètes géantes gazeuses, Jupiter, Saturne, Uranus et Neptune. Toutes ces planètes comportent de nombreuses lunes et des anneaux. L’orbite de Neptune est utilisée pour terminer cette division.
-* la région de la ceinture de Kuiper : il n’y existe aucun grand astre en dehors de planètes naines telles que la célèbre Pluton.
-* la région du nuage d’Oort : à près d’une année-lumière de la terre, c’est le lieu de formation des comètes. Il s’agit de la zone la plus externe du système solaire.
-
+* **La région des systèmes intérieurs** : cette région est composée des planètes telluriques, Mercure, Vénus, Terre et Mars. Seules la Terre et Mars sont pourvues de lunes. Cette division se termine avec la ceinture principale d’astéroïde.
+* **La région des systèmes extérieurs** : elle comporte les quatre planètes géantes gazeuses, Jupiter, Saturne, Uranus et Neptune. Toutes ces planètes comportent de nombreuses lunes et des anneaux. L’orbite de Neptune est utilisée pour terminer cette division.
+* **La région de la ceinture de Kuiper** : il n’y existe aucun grand astre en dehors de planètes naines telles que la célèbre Pluton.
+* **La région du nuage d’Oort** : à près d’une année-lumière de la terre, c’est le lieu de formation des comètes. Il s’agit de la zone la plus externe du système solaire.
 
 >> ### Les échelles et l’imagination
 >> Le système solaire n’est qu’un point dans la galaxie, elle-même un point dans le groupe local, lui-même un point dans le superamas de la Vierge, lui-même un point de Laniakea, lui-même un point dans l’univers observable. Pourtant ses dimensions sont tellement gigantesques qu’il nous est impossible d’en apprécier les dimensions.
