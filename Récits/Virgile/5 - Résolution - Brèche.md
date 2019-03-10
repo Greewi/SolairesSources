@@ -1,4 +1,4 @@
-# 5 : Résolution : Brèche
+# Résolution : Brèche
 
 Le robot de transport l’attend au milieu de la complexité du mobilier de la section de maintenance, principalement composé de tuyaux, câbles et réservoirs, accompagnés de témoins et lampes. La caisse de transport que l’échassier métallique a déposé au sol se déverrouille à l’approche de Skyline. Le modèle est conforme. Parfait. L’enquêteur charge les logiciels appropriés et lance l’immersion. Il active ensuite les deux aérobots de soutien qui se positionnent en formation d’escorte.
 

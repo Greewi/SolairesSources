@@ -1,5 +1,7 @@
 # Rites de vie
-> « Métro, boulot, dodo ? C’est quoi un boulot au juste ? Un arbre ? »
+> *« Beaucoup sont perdus, sans aucun but, recherchant désespérément un sens à leur vie. Je leur offre une occupation. »*
+>
+> Zuko, fondatrice des Cercles de jeux
 
 Vivre dans les colonies est difficilement comparable aux habitudes terriennes et des activités simples sur Terre peuvent requérir du matériel ou des pratiques plus complexes dans les colonies. Heureusement, une grande partie des problèmes soulevés dans cet environnement sont atténués par de nombreuses avancées technologiques.
 

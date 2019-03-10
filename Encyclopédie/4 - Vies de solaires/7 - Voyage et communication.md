@@ -1,5 +1,7 @@
 # Voyage et communication
-> « Ce matin, je me suis réveillée sur Titan et ce soir je vais à l’opéra d’Elysium. Ah ? Vous ne pouvez pas vous téléporter ? »
+> *« Ce matin, je me suis réveillée sur Titan et ce soir je vais à l’opéra d’Elysium. Ah ? Vous ne pouvez pas vous téléporter ? »*
+>
+> Greenstar, psion
 
 Voyager et communiquer dans le système solaire pose des problématiques d’échelle sans communes mesures avec celles rencontrées sur Terre.
 
@@ -10,19 +12,19 @@ Pour mesurer des distances, il existe de nombreuses unités, certaines étant pl
 
 Pour les distances interplanétaires nous emploieront principalement la seconde lumière (abrégé par « sl »). Une seconde lumière est la distance que parcourt, dans le vide, la lumière en une seconde (soit une distance de 299 792 km).
 
-Cette unité est intéressante à de nombreux égards. Pour commencer, les distances entre les planètes du système solaire s’étalent entre 100 sl et 25 000 sl et celles entre les lunes majeures d’un même système sont comprises entre 0,5 sl et 10 sl, ce qui en fait une unité utilisable pour ces deux échelles. Mais surtout, cette unité donne directement le temps de transmission d’un message.
+Cette unité est intéressante à de nombreux égards. Pour commencer, les distances entre les planètes du système solaire s’étalent entre 100 sl et 25 000 sl et celles entre les lunes majeures d’un même système sont comprises entre 0,5 sl et 10 sl, ce qui en fait une unité utilisable pour ces deux échelles. Mais surtout, cette unité donne directement le temps de transmission d’un message.
 
 Pour donner quelques correspondances :
-* 1 sl = 299 792 km ;
-* la distance Terre-Lune : 1,28 sl ;
-* la distance Soleil-Terre (1 ua) : 499 sl ;
-* la distance Soleil-Mercure :193 sl ;
-* la distance Soleil-Neptune :15 000 sl.
+* 1 sl = 299 792 km ;
+* la distance Terre-Lune : 1,28 sl ;
+* la distance Soleil-Terre (1 ua) : 499 sl ;
+* la distance Soleil-Mercure : 193 sl ;
+* la distance Soleil-Neptune : 15 000 sl.
 
 ## Des distances changeantes
 Les astres sont tous en mouvement les uns par rapport aux autres et, par conséquence, les distances sont extrêmement fluctuantes. Il existe donc des périodes favorables et des périodes défavorables pour le voyage. Cela est renforcé par le fait que, lors d’une opposition, la route directe est barrée par l’astre central lui-même (le soleil dans le cas des vols interplanétaires, la planète dans le cas des vols interlunaires).
 
-Par exemple, Jupiter et Mars ne sont distantes que de 1800 sl au plus proche tandis qu’elles sont éloignées de 3400 sl en opposition. Pour connaître ces extrêmes, il suffit d’additionner, ou de soustraire, le rayon orbital des deux planètes. Le pire cas pouvant exister entre les systèmes planétaires est l’opposition d’Uranus et de Neptune qui seraient alors distantes de plus de 24 000 sl, ce qui est presque le cas en 2093.
+Par exemple, Jupiter et Mars ne sont distantes que de 1800 sl au plus proche tandis qu’elles sont éloignées de 3400 sl en opposition. Pour connaître ces extrêmes, il suffit d’additionner, ou de soustraire, le rayon orbital des deux planètes. Le pire cas pouvant exister entre les systèmes planétaires est l’opposition d’Uranus et de Neptune qui seraient alors distantes de plus de 24 000 sl, ce qui est presque le cas en 2093.
 
 ## Communication et latence
 Les solaires communiquent beaucoup. L’un des formats préférés reste la conversation directe par avatar interposé. Le principe est simple : une fois que le destinataire a répondu et accepté l’appel, les deux participants peuvent se voir et se parler grâce à la réalité augmentée ou à la réalité virtuelle. Ce type de conversation en temps réel requiert toutefois que les deux participants soient très proches, généralement à moins de 1sl.
@@ -55,7 +57,7 @@ Enfin, les vols interplanétaires requièrent un autre type de vaisseau spécial
 ## La vitesse de croisière standard actuelle
 Dans l’espace, voyager sur des distances interplanétaires consiste à prendre une impulsion plus ou moins longue puis à se laisser dériver sur sa trajectoire. Cette première impulsion dure généralement entre 20 et 25 heures sous une accélération équivalente à la gravité terrestre. Passé cette accélération, le vaisseau atteint ce qui est appelé la vitesse de croisière. Un jour avant l’arrivée, le vaisseau ralentit en effectuant une nouvelle accélération, mais orienté dans le sens contraire de la marche.
 
-La vitesse de croisière n’est théoriquement limitée que par le système de propulsion (et la vitesse de la lumière). Toutefois, il existe une vitesse considérée comme limite : la vitesse croisière standard, qui vaut 870 km par secondes, soit presque 250 sl par jour.
+La vitesse de croisière n’est théoriquement limitée que par le système de propulsion (et la vitesse de la lumière). Toutefois, il existe une vitesse considérée comme limite : la vitesse croisière standard, qui vaut 870 km par secondes, soit presque 250 sl par jour.
 
 Cette vitesse n’est pas seulement issue des limitations techniques des propulseurs, mais il s’agit aussi d’une limitation pratique. L’un des autres paramètres considérés est la capacité actuelle des vaisseaux à détecter les débris de taille moyenne et à encaisser les débris plus petits. Évidemment, lorsque ces éléments techniques seront améliorés et déployés à l’échelle du système solaire, la vitesse de croisière standard sera réévaluée. En attendant, tout commandant ne la respectant pas s’expose à une riposte militaire…
 
@@ -73,14 +75,14 @@ Pour les vols suborbitaux ou orbitaux :
 * pour effectuer le trajet depuis sol vers l’orbite basse ou l’inverse, compter 2 heures, 3 pour Mars et la Terre.
 
 Pour les vols interlunaires :
-* 1 heure et demie pour un vol de 1 sl ;
-* 2 heures pour un vol de 2 sl ;
-* 3 heures pour un vol de 4 sl ;
-* 5 heures pour un vol de 10 sl.
+* 1 heure et demie pour un vol de 1 sl ;
+* 2 heures pour un vol de 2 sl ;
+* 3 heures pour un vol de 4 sl ;
+* 5 heures pour un vol de 10 sl.
 
 Pour les vols interplanétaires :
-* 2 jours pour les premiers 250 sl ;
-* 1 jour pour parcourir 250 sl ensuite.
+* 2 jours pour les premiers 250 sl ;
+* 1 jour pour parcourir 250 sl ensuite.
 
 ## Dangers de l’espace
 Puisqu’il est question de voyage spatiaux, abordons rapidement les dangers que représente l’environnement spatial, en dehors des dangers liés aux opérations des Solaires en elles-mêmes (guerre, piraterie…).

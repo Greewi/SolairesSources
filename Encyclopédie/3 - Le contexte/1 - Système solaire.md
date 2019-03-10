@@ -1,5 +1,5 @@
 # Système solaire
-> « Il est difficile de croire que du chaos de la nébuleuse primordiale est née une mécanique céleste aussi bien rodée. »
+> *« Il est difficile de croire que du chaos de la nébuleuse primordiale est née une mécanique céleste aussi bien rodée. »*
 >
 > Sœur Maxence, ancienne méthodique
 
@@ -22,6 +22,7 @@ Les marques de cette époque sont encore visibles à travers les nombreux cratè
 
 Depuis, le grand bombardement s’est ralenti jusqu’à atteindre la fréquence paisible que nous connaissons désormais. Le système solaire, sans être figé, a atteint sa maturité et nous présumons que notre soleil a atteint la moitié de sa vie. Mais la suite est une autre histoire que nous ne vivrons probablement pas.
 
+----
 ## Corps du système solaire
 Orbitant autour de Sol, notre étoile et soleil, de nombreux corps naturels circulent : planètes, planètes naines, lunes, astéroïdes et comètes.
 

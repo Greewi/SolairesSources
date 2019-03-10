@@ -1,5 +1,5 @@
 # Science et technologie
-> « Nous avons accompli le rêve des informaticiens : programmer la matière. »
+> *« Nous avons accompli le rêve des informaticiens : programmer la matière. »*
 >
 > Wallis, ingénieur de Vranberg-Lytan
 
@@ -105,6 +105,7 @@ Il existe aussi des procédés pour stocker des informations sur des supports sp
 
 La cryptographie est essentielle pour la société des solaires : l’identité et les privilèges des personnes est vérifiée par des certificats, les communications sont toutes cryptées à bas niveau et les données personnes, notamment les sauvegardes et les exomémoires, sont considérées comme extrêmement sensibles par les corporations qui ont investi des moyens presque disproportionnés.
 
+----
 ## Intelligence artificielle
 Dès le début du vingt-et-unième siècle, les recherches sur l’automatisation commençaient à emprunter la voie de l’intelligence artificielle. Les premiers systèmes qui puissent réellement être appelée intelligence artificielle furent des réseaux de neurones capables d’apprendre à effectuer des tâches complexes dans des cadres spécifiques. Ces premières intelligences artificielles ont révolutionné la production industrielle et les services. Un à un, les exploits autrefois réservé à l’humain sont tombés, provoquant sur Terre une explosion du chômage et des inégalités. Associée à la crise énergétique du milieu du siècle, l’IA fut décrite par les médias comme fléau.
 

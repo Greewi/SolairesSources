@@ -1,5 +1,5 @@
-# Enquête
-> « Tu n’y es pas Trend. Toute la scène est fausse : quelqu’un tente de m’atteindre. »
+# Aspect : Enquête
+> *« Tu n’y es pas Trend. Toute la scène est fausse : quelqu’un tente de m’atteindre. »*
 >
 > Nightly, justicière
 
@@ -27,6 +27,7 @@ Le second écueil se place du côté des joueurs : le biais de confirmation. Il
 
 Pour finir ces conseils, si vous souhaitez apporter un peu plus de pression, vous pouvez faire jouer les adversaires en leur faisant détruire ou altérer des preuves au fil du temps. Ceci ajoute une contrainte temporelle à l’enquête. Mais gardez à l’esprit qu’il est primordial que les PJ soient conscients du fait et que ces destructions et altérations ne remettent pas en question la faisabilité de l’enquête.
 
+----
 ## Outils
 Pour récolter les indices et les analyser, les enquêteurs ont accès à un ensemble d’outils et de logiciels particulièrement puissants.
 
@@ -36,15 +37,6 @@ Voici une description des principaux outils liés à la recherche et l’analyse
 * **Logiciel de reconstitution** : logiciel pouvant analyser une scène de crime et formaliser des hypothèses sur la succession d’évènement qui a pu conduire à l’état où elle a été observée.
 * **Logiciel d’analyse** : collection de logiciels dédiés au traitement et l’analyse de donnée. Ils permettent d’effectuer des croisements automatiques sur de grandes quantités de données, d’identifier des éléments trouvés sur une scène de crime, ou de faire ressortir les anomalies dans une base de données.
 * **Logiciel de lecture d’intention** : logiciel permettant de détecter et d’interpréter les mouvements et contractions musculaires involontaires. Dans le cadre d’une enquête, il peut servir à identifier certains mensonges ou des signes de stress, mais les agents entraînés savent tromper ce logiciel.
-
->> ### Exemple de situation : effectuer une fouille
->> Que ce soit volontairement ou accidentellement, de nombreux indices ou autre élément important se retrouvent dissimulés sur les scènes de crimes, ou les planques d’adversaires. Que ce soit une preuve incriminante ou une cargaison de contrebande, les raisons ne manquent pas.
->> 
->> Habituellement, les joueurs tentent de trouver tout élément anormal en se reposant sur leurs capacités d’observation. Il s’agit d’une action dont la difficulté varie en fonction de la visibilité de l’anomalie : +2 pour des choses importantes mais pas trivialement évidente ; 0 à -2 pour des détails qui n’ont pas été dissimulés volontairement, 0 à -4 pour des éléments dissimulés. Il est possible d’associer des découvertes supplémentaires sur des succès avec effets secondaires positifs.
->> 
->> En cas d’échec, le personnage ne parvient pas à trouver quoi que ce soit et à moins d’utiliser une méthode radicalement différente, il ne pourra pas réessayer, pas plus qu’un de ses camarades. Il est aussi possible qu’il ait déclenché une alerte ou un piège.
->> 
->> De façon générale, nous vous conseillons de bloquer des indices essentiels à l’histoire derrière un tel test de résolution. Les recherches des joueurs devraient toujours leur permettre d’obtenir ces informations vitales, qu’il s’agisse d’une réussite ou d’un échec, s’ils n’ont pas d’autre moyen de les trouver.
 
 >> ### Exemple de situation : analyser des informations
 >> Il n’est pas rare que des enquêteurs se retrouvent avec des noms ou d’autres données sans lien direct avec d’autres piste ou preuve. Pour les relier avec leur affaire ou mettre en évidence une information noyée dans la masse, ils peuvent procéder à une analyse et des croisements de données.
@@ -63,3 +55,12 @@ Voici une description des principaux outils liés à la recherche et l’analyse
 >> Prélever des preuves physiques est généralement plus simple : le principal risque étant d’altérer ou de détruire l’indice en question. Il s’agit ici d’une action dont la difficulté varie de +2 pour un objet solide et simple à collecter à -2 pour une preuve extrêmement volatile, comme les cendres figées d’une feuille calcinée qui n’attendent qu’un courant d’air pour être dispersée. Échouer signifie généralement que l’indice a été endommagé, contaminé, voire complètement détruit.
 >> 
 >> Pour numériser de petites preuves, comme une empreinte organique ou le motif formé par des nanorobots de piratage, il est nécessaire de disposer d’un scanner possédant une résolution suffisante. Habituellement, un scanner wolfa portatif fait le travail et un personnage peut obtenir une numérisation fidèle de l’indice en réussissant une action d’une difficulté allant de 0, pour une preuve en parfait état, à -4, si elle a été volontairement dégradée. En cas d’échec, le personnage peut obtenir une numérisation en apparence correcte mais qui ne donnera aucun vrai résultat lors de son analyse, où les emmènera sur de fausses pistes.
+
+>> ### Exemple de situation : effectuer une fouille
+>> Que ce soit volontairement ou accidentellement, de nombreux indices ou autre élément important se retrouvent dissimulés sur les scènes de crimes, ou les planques d’adversaires. Que ce soit une preuve incriminante ou une cargaison de contrebande, les raisons ne manquent pas.
+>> 
+>> Habituellement, les joueurs tentent de trouver tout élément anormal en se reposant sur leurs capacités d’observation. Il s’agit d’une action dont la difficulté varie en fonction de la visibilité de l’anomalie : +2 pour des choses importantes mais pas trivialement évidente ; 0 à -2 pour des détails qui n’ont pas été dissimulés volontairement, 0 à -4 pour des éléments dissimulés. Il est possible d’associer des découvertes supplémentaires sur des succès avec effets secondaires positifs.
+>> 
+>> En cas d’échec, le personnage ne parvient pas à trouver quoi que ce soit et à moins d’utiliser une méthode radicalement différente, il ne pourra pas réessayer, pas plus qu’un de ses camarades. Il est aussi possible qu’il ait déclenché une alerte ou un piège.
+>> 
+>> De façon générale, nous vous conseillons de bloquer des indices essentiels à l’histoire derrière un tel test de résolution. Les recherches des joueurs devraient toujours leur permettre d’obtenir ces informations vitales, qu’il s’agisse d’une réussite ou d’un échec, s’ils n’ont pas d’autre moyen de les trouver.

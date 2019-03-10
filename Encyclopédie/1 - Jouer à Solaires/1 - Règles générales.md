@@ -1,5 +1,5 @@
 # Règles générales
-> « Vous m’avez créé pour modéliser, prédire et comprendre notre univers. Pour que je puisse en tracer les règles. »
+> *« Vous m’avez créé pour modéliser, prédire et comprendre notre univers. Pour que je puisse en tracer les règles. »*
 >
 > Wolfa, première IA de recherche
 
@@ -12,49 +12,49 @@ Les jeux de rôles sont des jeux d'imagination et, généralement, des jeux orau
 
 En plus de cette mécanique simple, le meneur utilise des règles, qui seront détaillées plus loin pour Solaires, afin de résoudre certaines situations, conflits ou pour apporter un peu de piment à la partie.
 
+## Termes techniques
+Les rôlistes – les gens qui font du jeu de rôles – ont au fil du temps développé un grand nombre de termes (et d’acronymes) propres à ce loisir. En voici un court résumé :
+* **meneur de jeu (MJ)** : la personne en charge de l’histoire qui ne contrôle pas un personnage spécifique ;
+* **joueurs** : les participants qui contrôlent un personnage ;
+* **participants** : l’ensemble des joueurs plus le meneur ;
+* **personnage joueur (PJ)** : les personnages contrôlés par les joueurs ;
+* **personnage non-joueur (PNJ)** : les personnages qui ne sont pas contrôlés par les joueurs et que, donc, le MJ gère ;
+* **scénario** : la partie préparée de l’histoire qu’habituellement seul le meneur connaît ;
+* **D6** : un dé à six faces. Cette notation est très employée par les rôlistes qui utilisent des dés qui peuvent sembler exotique (par exemple, des dés à vingt faces par exemple).
 
 >> Si tout ceci vous semble encore nébuleux, voici un court extrait d’une partie de jeu de rôles.
 >> 
->> Justine, Albert, Nicolas et Sophie jouent à une partie de Solaires. Alors que leurs personnages enquêtent sur d’étranges enlèvements, ils pénètrent dans l’habitation de leur principal suspect.
+>> Justine, Albert, Nicolas et Sophie jouent à une partie de Solaires. *Alors que leurs personnages enquêtent sur d’étranges enlèvements, ils pénètrent dans l’habitation de leur principal suspect.*
 >> 
->> – Justine (Meneuse du jeu) : en entrant dans l’appartement, vous remarquez qu’il a été complètement mis en désordre.
+>> *– Justine (Meneuse du jeu) : en entrant dans l’appartement, vous remarquez qu’il a été complètement mis en désordre.*
 >> 
->> – Albert (Joue le personnage Skyline, un enquêteur) : comme si on l’avait fouillé ?
+>> *– Albert (Joue le personnage Skyline, un enquêteur) : comme si on l’avait fouillé ?*
 >> 
->> – Justine : oui.
+>> *– Justine : oui.*
 >> 
->> – Albert : j’essaie de trouver un schéma dans ces fouilles pour essayer de deviner ce qu’ils cherchaient.
+>> *– Albert : j’essaie de trouver un schéma dans ces fouilles pour essayer de deviner ce qu’ils cherchaient.*
 >> 
->> – Sophie (Joue le personnage Razors, une cyber-samouraï) : mouais. Je vais d’abord voir si on n’a pas encore des intrus sur place. Je dégaine mon katana.
+>> *– Sophie (Joue le personnage Razors, une cyber-samouraï) : mouais. Je vais d’abord voir si on n’a pas encore des intrus sur place. Je dégaine mon katana.*
 >> 
->> – Nicolas (Joue le personnage Downlink, un decker) : Pareil, je sors mon pistolet shock et je surveille l’entrée au cas où.
+>> *– Nicolas (Joue le personnage Downlink, un decker) : Pareil, je sors mon pistolet shock et je surveille l’entrée au cas où.*
 >> 
->> – Justine : OK. L’appartement semble bien vide. Albert, fais mois un jet pour tes recherches, difficulté zéro.
+>> *– Justine : OK. L’appartement semble bien vide. Albert, fais mois un jet pour tes recherches, difficulté zéro.*
 >> 
->> – Albert : J’utilise mon Logiciel de reconstitution à 2 et ma carrière de Privé à 3.
+>> *– Albert : J’utilise mon Logiciel de reconstitution à 2 et ma carrière de Privé à 3.*
 >> 
->> – Justine : OK.
+>> *– Justine : OK.*
 >> 
->> Albert, lance les trois dés, qui font 6, 2 et 3.
+>> *Albert, lance les trois dés, qui font 6, 2 et 3.*
 >> 
->> – Albert : deux succès !
+>> *– Albert : deux succès !*
 >> 
->> – Justine : tu penses qu’il est très probable que les intrus n’aient pas trouvés ce qu’ils cherchaient. Pendant tes recherches, Downlink entend du bruit provenant du couloir.
+>> *– Justine : tu penses qu’il est très probable que les intrus n’aient pas trouvés ce qu’ils cherchaient. Pendant tes recherches, Downlink entend du bruit provenant du couloir.*
 >> 
->> – Nicolas : quel genre de bruit ?
+>> *– Nicolas : quel genre de bruit ?*
 >> 
->> – Justine : plusieurs personnes qui avanceraient en commandos.
+>> *– Justine : plusieurs personnes qui avanceraient en commandos.*
 >> 
->> – Sophie : merde…
-## Termes techniques
-Les rôlistes – les gens qui font du jeu de rôles – ont au fil du temps développé un grand nombre de termes (et d’acronymes) propres à ce loisir. En voici un court résumé :
-* meneur de jeu (MJ) : la personne en charge de l’histoire qui ne contrôle pas un personnage spécifique ;
-* joueurs : les participants qui contrôlent un personnage ;
-* participants : l’ensemble des joueurs plus le meneur ;
-* personnage joueur (PJ) : les personnages contrôlés par les joueurs ;
-* personnage non-joueur (PNJ) : les personnages qui ne sont pas contrôlés par les joueurs et que, donc, le MJ gère ;
-* scénario : la partie préparée de l’histoire qu’habituellement seul le meneur connaît ;
-* D6 : un dé à six faces. Cette notation est très employée par les rôlistes qui utilisent des dés qui peuvent sembler exotique (par exemple, des dés à vingt faces par exemple).
+>> *– Sophie : merde…*
 
 ## But du jeu
 Pour les joueurs, le but du jeu est de résoudre, par l’intermédiaire de leur personnage, les situations dans lesquels ces derniers seront pris. Ils construiront ainsi une histoire. Suivant la partie, il peut s'agir d'une histoire d'aventure, une histoire policière, une histoire d'horreur…

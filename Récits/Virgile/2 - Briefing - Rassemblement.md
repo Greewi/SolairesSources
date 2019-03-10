@@ -1,4 +1,4 @@
-# 2. Briefing : Rassemblement
+# Briefing : Rassemblement
 
 Le syntha de la cafeteria dépose la tasse de café avec précision. Noir, sans sucre, exactement comme Skyline l’adore. La vue est majestueuse : entourée par plusieurs massifs tombants, la terrasse offre un panorama de Marineris sans pareil. Les tours d’or jaillissent des lacs forestiers, entourés des bulles formées par les dômes transparents. Une merveille de l’ingénierie coloniale, la fierté de Mars. Au loin les deux falaises titanesques disparaissent sous l’horizon et la poussière.
 

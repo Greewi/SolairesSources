@@ -1,4 +1,4 @@
-# 6 : Épilogues
+# Épilogue : Razors
 
 Accompagnée de Skyline et Downlink, Razors quitte le prestigieux dôme de l’ancien quartier des ambassades. Ses pensées sont tournées vers les implications de l’événement qu’ils ont résolu. Bien que touchantes, les retrouvailles entre Georges Norway et son fils laissent encore de trop nombreuses questions sans réponse.
 
@@ -30,7 +30,8 @@ La voix de downlink la fait revenir à l’action présente : « J’ai la dal
 
 « Et sinon, on y mange quoi à ton resto ? », relance le decker. Il a raison après tout : un problème à la fois.
 
-**--**
+----
+# Épilogue : Kat
 
 L’appartement rangé, Kat se blottit contre son petit maître. Mike lui caresse le dos en le serrant contre lui. Après une journée aussi intense, l’enfant a bien besoin de repos. Alors que sa batterie se recharge au gré des impulsions de son bracelet à induction, Kat reçoit un message : « Remerciements. Restauration temporaire fonctionnelle. ». Le nevian lui envoie une réponse d’une simple pensée : « Je te remercie aussi. Mike va bien grâce à toi. »
 

@@ -1,10 +1,10 @@
 # Généralités
-> « Désormais, chacun peut être ce qu’il souhaite être. Nous avons brisé les chaînes qui nous liaient à notre corps. »
+> *« Désormais, chacun peut être ce qu’il souhaite être. Nous avons brisé les chaînes qui nous liaient à notre corps. »*
 >
 > Jova, vulgarisatrice scientifique
 
 ## Les composants des personnages
-Mécaniquement, un personnage de Solaires est principalement défini par ses éléments. Les éléments sont toutes les caractéristiques du personnage, chiffrées avec un score allant de **1** à **3**. Nous les regroupons dans 6 catégories :
+Mécaniquement, un personnage de Solaires est principalement défini par ses éléments. Les éléments sont toutes les caractéristiques du personnage, chiffrées avec un score allant de **1** à **3**. Nous les regroupons dans 6 catégories :
 * **les traits** : les traits de caractères du personnage et ses points particuliers, physiques comme mentaux ;
 * **les carrières** : les métiers, formations, loisirs et autres occupations du personnage ;
 * **les relations** : les contacts, alliés et autres liens sociaux du personnage ;
@@ -49,6 +49,7 @@ Cette étape passée, vous pouvez commencer à construire votre personnage. Cont
 
 Enfin, établissez les relations entre les personnages, pour vous assurer notamment qu’ils sont compatibles entre eux. Cela signifie que dans, le pire des cas, ils ne devraient pas avoir de raison de ne pas travailler ensemble, et qu’ils devraient plutôt avoir des raisons ou des affinités pour collaborer.
 
+----
 ## L’équilibrage des personnages
 L’équilibrage des personnages s’effectue à deux moments durant la création des personnages : lors de la sélection des rôles et lors de l’évaluation des scores des éléments.
 

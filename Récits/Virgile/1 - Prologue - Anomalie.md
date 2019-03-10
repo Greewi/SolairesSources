@@ -1,4 +1,4 @@
-# 1. Prologue : Anomalie
+# Prologue : Anomalie
 
 Kat se relève. Ses processus ont terminé leur initialisation et son corps semble intègre. L’appartement qui donne sur les falaises nord du canyon ne trahit aucune trace de l’incident. La moquette verte est impeccable et tous les meubles richement décorés sont encore à leur exacte place. Par automatisme, il se dirige vers la chambre de la luxueuse suite à la recherche de Mike. Mais l’enfant n’y est pas.
 

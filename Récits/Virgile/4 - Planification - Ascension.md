@@ -1,4 +1,4 @@
-# 4. Planification : Ascension
+# Planification : Ascension
 
 La capsule file à toute allure. À travers les grandes vitres de carbonates les montants du tube transparent défilent. Le véhicule, propulsé sur ses rails électromagnétiques, quitte les derniers dômes et s’avance vers l’impressionnante muraille naturelle du canyon. Razors affalée dans son siège, prépare un message pour les autorités spatiales de Marineris : il ne faudrait pas qu’ils laissent le vaisseau des ravisseurs de Mikael décoller. Une fois l’ordre envoyé, elle demande : « Downlink, tu peux nous assurer un peu de confidentialité ?
 

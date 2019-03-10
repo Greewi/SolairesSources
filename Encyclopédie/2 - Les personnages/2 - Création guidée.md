@@ -1,9 +1,9 @@
 # Création guidée
-> « Qu’est-ce que c’est ? »
+> *« Qu’est-ce que c’est ? »*
 >
 > Nevi, nevian intrépide
 >
-> « Les schématiques de nos corps. »
+> *« Les schématiques de nos corps. »*
 >
 > Ney, nevian technophile
 
@@ -64,6 +64,7 @@ Voici la liste de ces natures d’esprit, aussi appelées intelligences (les dat
 * **Supervision (Modificateur)** *(Depuis 2083)* : les IA de supervision sont des logiciels associés à des intelligences naturelles, ou provoluées, qui octroient des capacités mentales surhumaine et une intégration parfaite aux couches virtuelles. Nécessite une enveloppe Biomodifiée (avec un système de calcul sur wetware), Cyborg ou Cybernétique. *Variantes : Intelligence naturelle supervisée, Intelligence provoluée supervisée*.
 * **Infomorphisation (Modificateur)** *(Depuis 2081)* : l’infomorphisation consiste à prendre une intelligence naturelle ou provoluée et à la transformer en une intelligence infomorphe. Ce processus reste exceptionnellement rare. Naturellement infomorphes, elles peuvent toutefois être instanciées sur des enveloppes cybernétiques ou hyper-hybrides. *Variantes : Intelligence naturelle infomorphisée, Intelligence provoluée infomorphisée.*
 
+----
 Après la nature de l’esprit du personnage, voyons les différents types d’enveloppes (nous avons précisé la date du premier exemplaire ou prototype quand cela était pertinent) :
 * **Biologique** : parfois appelées « naturelles », ces enveloppes sont les premières historiquement. Dépassées sur de nombreux points, ces enveloppes n’existent plus dans les colonies que sous des formes modifiées (voir. biomodifié et cyborgs). Elles restent toutefois majoritaires sur Terre. *Modèles : humain.*
 * **Provolué** *(Depuis 2084)* : fruit de l’évolution artificielle du corps d’un animal, les enveloppes provoluées ont les mêmes défauts que les enveloppes biologiques et n’existent que dans le cadre d’expérimentations. *Modèles : provolué de singe, provolué de pieuvre, provolué d’humain.*
@@ -72,8 +73,8 @@ Après la nature de l’esprit du personnage, voyons les différents types d’e
 * **Cybernétique** *(Depuis 2061)* : les enveloppes cybernétiques sont des enveloppes entièrement robotiques. Ceux intégrant une émulation d’une intelligence naturelle sont aussi souvent appelés cyborgs absolus. Ces enveloppes sont considérées comme des enveloppes universelles, car il est possible d’y instancier ou d’y émuler n’importe quel esprit. *Modèles : syntha (ressemble à un humain), androïde, spiderbot (robot de maintenance), monkeybot (robot de maintenance), dogbot (robot d’assaut) etc.*
 * **Hyper-hybride** *(Depuis 2090)* : considéré comme une nouvelle forme de vie, les enveloppes hyper-hybrides sont un mélange des technologies organiques et cybernétique au niveau cellulaire. Très récentes et encore assez peu déployées, ces enveloppes sont considérées comme le futur. *Modèles : furry, androide hyper-hybride, assistant domestique, etc.*
 * **Infomorphe** : ce type d’enveloppe n’en est pas vraiment un. Les infomorphes sont des êtres de pure information qui vivent sur le réseau solnet. La plupart se limitent à projeter un avatar sur la réalité augmentée, mais certain n’hésitent pas à s’injecter dans d’autres types d’enveloppe au gré de leurs besoins. *Modèles : Éthérés, Intelligence artificielle, etc.*
-* **Biomodification (Modificateur)** *(Depuis 2050)* : la biomodification d’une enveloppe biologique ou provoluée permet d’y ajouter des améliorations ou de les spécialiser à travers des modifications organiques comme la reprogrammation génétique, la greffe ou le remplacement d’organes améliorés, etc. *Variantes : Biologique biomodifié, Provolué biomodifié.Modèles : humain bio-modifié, provolué bio-modifié.*
-* **Cybernétisation (Modificateur)** *(Depuis 2035)* : les cyborgs sont des enveloppes originellement organiques dans lesquelles on a intégré des implants cybernétiques pour en améliorer les capacités. La grande majorité des solaires utilisent des enveloppes cyborg. *Variantes : Cyborg (biologique), Provolué cyborg.Modèles : cyborg, provolué cyborg.*
+* **Biomodification (Modificateur)** *(Depuis 2050)* : la biomodification d’une enveloppe biologique ou provoluée permet d’y ajouter des améliorations ou de les spécialiser à travers des modifications organiques comme la reprogrammation génétique, la greffe ou le remplacement d’organes améliorés, etc. *Variantes : Biologique biomodifié, Provolué biomodifié. Modèles : humain bio-modifié, provolué bio-modifié.*
+* **Cybernétisation (Modificateur)** *(Depuis 2035)* : les cyborgs sont des enveloppes originellement organiques dans lesquelles on a intégré des implants cybernétiques pour en améliorer les capacités. La grande majorité des solaires utilisent des enveloppes cyborg. *Variantes : Cyborg (biologique), Provolué cyborg. Modèles : cyborg, provolué cyborg.*
 
 
 >> ### Psions
@@ -85,7 +86,7 @@ Après la nature de l’esprit du personnage, voyons les différents types d’e
 >> 
 >> Voici une description de ces domaines, avec les traits associés :
 >> * **Matière** *(Créatif, Expansif, Orgueilleux, Charismatique)* : perçoit les objets et la matière. Déforme les objets et change leur matière ou les dématérialise temporairement.
->> * **Énergie** *(Impulsif, Vif, Téméraire, Agressif)***** : perçoit les énergies. Crée, détruit et déplace l’énergie ou rend des objets « transparents » aux énergies.
+>> * **Énergie** *(Impulsif, Vif, Téméraire, Agressif)* : perçoit les énergies. Crée, détruit et déplace l’énergie ou rend des objets « transparents » aux énergies.
 >> * **Espace** *(Rigoureux, Précis, Réfléchi, Rigide)* : perçoit la position des objets. Déplace les objets et relie des lieux par des portails.
 >> * **Information** *(Curieux, Observateur, Paranoïaque, Dominateur)* : lit l’information ou les pensées superficielles d’un simple regard. Occulte temporairement la présence d’un objet à l’univers entier ou altère complètement la perception que l’univers en a. Envoie des messages sur les sens d’autre êtres. Dispose d’une mémoire infinie et de capacités de calcul mental équivalente à un super calculateur.
 >> * **Biologie** *(Empathique, Délicat, Sensible, Manipulateur)* : perçoit les formes de vie organiques et hyper-hybrides et lit leurs variables vitales. Améliore les capacités physiques et mentales d’organiques ou hyper-hybrides. Régénère une enveloppe organique ou hyper-hybride en moins d’une heure.
@@ -132,6 +133,7 @@ Voici donc cette liste :
 * **Soldat d’infanterie** *(Combat)* : ces combattants forment le gros des forces sentientes lors des affrontements de surface. Formés au maniement de nombreuses armes, ils ne délaissent pas pour autant le corps à corps. *Matériel : Armure lourde, fusil pulseur, armes blanches, etc.*
 * **Technophile** *(Technologie)* : ces passionnés de technologie passent leur temps à découvrir, disséquer et inventer de nouveaux appareils. Ils sont persuadés que la maîtrise de la technologie leur permettra de résoudre les problèmes qu’ils rencontreront. *Matériel : multi-tool, scanner Wolfa portatif, constructeur universel, foglets, des tas de gadgets fait sur mesure, etc.*
 
+----
 ## Relations
 Les relations sont les contacts et alliés dont dispose votre personnage au sein des différentes factions du jeu. Une relation peut désigner une faction, indiquant que votre personnage connaît des gens à l’intérieur susceptible de l’aider, ou directement une personne.
 
@@ -205,6 +207,7 @@ Voici une liste, elle aussi non exhaustive, des modifications organiques les plu
 * **Système sensoriel amélioré** : amélioration qui modifie certains organes sensoriels pour leur donner de bien meilleures performances dans certaines applications.
 * **Poumons améliorés** : poumons améliorés disposant d'une meilleure capacité et acceptant des taux de dioxyde de carbone plus élevé. Permet à un humain modifié de rester actif en apnée une demi-heure. Ne procure aucun bénéfice dans le vide.
 
+----
 ## Équipement
 L'équipement est le matériel que transporte et utilise votre personnage régulièrement. Il est probable qu'il n'emporte pas tout ce matériel : un astronaute en vacance ne se balade pas en combinaison spatiale. Là encore choisissez l’équipement en rapport avec les carrières de votre personnage : par exemple, un technophile devrait toujours prendre un *Multi-tool*, mais probablement pas une *Grenade shock*.
 

@@ -1,5 +1,5 @@
 # Conseils aux meneurs
-> « Il y aura des conséquences ! »
+> *« Il y aura des conséquences ! »*
 
 Contrairement à d’autres systèmes de jeu, le Système Féerie laisse beaucoup d’aspects entre les mains des participants. Cette liberté peut toutefois intimider des meneurs de jeu moins habitués. Vous trouverez ici quelques conseils pour mener vos parties.
 
@@ -76,7 +76,7 @@ S’il est peut-être intéressant d’avoir une idée des occupations de chacun
 Pensez aussi que l’ellipse est aussi un bon moyen d’offrir des moments de vide qui pourront servir à des flashbacks déclenchés via les points de personnage. C’est même une solution envisageable pour réduire le temps passé à la préparation d’une mission en vol.
 
 ## Espace
-Nous le répéterons jamais assez : l’espace est un endroit dangereux. Le moindre incident peut provoquer la mort de nombreuses personnes et toute sortie représente un risque qui ne doit pas être négligé.
+Nous ne le répéterons jamais assez : l’espace est un endroit dangereux. Le moindre incident peut provoquer la mort de nombreuses personnes et toute sortie représente un risque qui ne doit pas être négligé.
 
 Au point même, que vous ne devriez pas hésiter à déclencher des péripéties lors de toute EVA (Activité Extra-Véhiculaire) qui n’aurait pas été convenablement préparée. On ne sort pas de l’enceinte d’une station, ou d’un vaisseau, en s’équipant à la va-vite sans conséquence.
 

@@ -1,5 +1,7 @@
 # Habitat
-> « Nos habitations représentent bien plus qu’un refuge dans cet univers inhospitalier : c’est là que nous vivons. »
+> *« Nos habitations représentent bien plus qu’un refuge dans cet univers inhospitalier : c’est là que nous vivons. »*
+>
+> Œuria, membre du conseil d'Urania
 
 Même en 2093, l’espace reste un environnement intrinsèquement dangereux imposant des contraintes sans commune mesure avec celles présentes à la surface de la planète bleue. Ainsi l’habitat des colonies diffère sur de nombreux points avec celui que connaissent les terriens.
 
@@ -45,6 +47,7 @@ L’énergie nucléaire est finalement la seule solution. La fission de l’uran
 
 Pour finir, l’antimatière est aussi très utilisée, mais sous forme transitoire pour stocker temporairement l’énergie : un nouveau type de batterie en somme.
 
+----
 ## Éclairage
 À cinq unités astronomiques du soleil, au niveau de Jupiter, la lumière reçue ne représente que 4 % l’ensoleillement reçu sur Terre. Saturne, Uranus et Neptune n’en reçoivent pour ainsi dire qu’une portion qui paraîtrait négligeable pour un terrien.
 

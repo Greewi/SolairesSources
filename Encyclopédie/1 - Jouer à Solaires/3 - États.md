@@ -1,5 +1,5 @@
 # États des personnages
-> « Tu te penses invincible avec ton armure et tes armes ? Que feras-tu une fois coincé ici après avoir fait un trou dans ce mur et que notre air se sera enfui ? »
+> *« Tu te penses invincible avec ton armure et tes armes ? Que feras-tu une fois coincé ici après avoir fait un trou dans ce mur et que notre air se sera enfui ? »*
 > 
 > Émergence, apprentie astronaute
 
@@ -25,6 +25,8 @@ Un personnage perd un état lorsque ce dernier devient caduque. Vous pouvez auss
 *En continuant l'exemple, Feyn veut effectuer une action pour laquelle il a besoin de ses deux mains. Thoss peut tenter une action pour rattraper son lien et raccrocher la ligne de vie de son compagnon. S'il réussit son action, Feyn sera à nouveau assuré par son lien et perdra l'état « Décroché ». S'il échoue en revanche…*
 
 Pour les états les plus graves, il peut même être intéressant de dédier une scène complète pour s'en débarrasser en en faisant une péripétie.
+
+----
 
 ## Effets des états
 Les états ne sont pas seulement des mots clés décrivant la situation d'un personnage. À chaque fois qu'un personnage en obtient un, le joueur doit choisir un élément de son personnage encore actif et le désactiver. L'élément choisi doit obligatoirement posséder un score supérieur ou égal à l'état. Cet élément ne peut plus être utilisé tant que l'état n'est pas perdu.

@@ -1,7 +1,7 @@
 # Points de personnages
-> « En ce temps de chaos, ceux qui le peuvent doivent se lever et faire bouclier aux autres, n’oublions pas que nous sommes martiens ! »
+> *« En ce temps de chaos, ceux qui le peuvent doivent se lever et faire bouclier aux autres, n’oublions pas que nous sommes martiens ! »*
 >
-> Mourad « Eclipse », leader des Soleils
+> Hito « Blades » Hirotomi, leader des Soleils
 
 Les points de personnage sont des points attribués au joueur qui vont servir à altérer l'histoire de différentes manières. Ils n'ont aucune existence dans l'univers de jeu et ne sont attachés au personnage que par commodité.
 
@@ -35,4 +35,4 @@ Voici la liste des utilisations possibles des points de personnage :
 >>
 >> Si le meneur de jeu l’autorise, vous pouvez ajouter de nouveaux éléments ayant un score de 1. Dans certains cas particuliers, le meneur peut autoriser des éléments plus important à condition qu’ils ne soient conservés que la durée de la scène ou de l’épisode. L’exemple typique concerne du matériel spécialisé.
 >>
->>Si vous souhaitez améliorer votre personnage, en particulier durant une série, utilisez plutôt les règles des intrigues de personnages, décrites dans le chapitre *Personnages*.
+>> Si vous souhaitez améliorer votre personnage, en particulier durant une série, utilisez plutôt les règles des intrigues de personnages, décrites dans le chapitre *Personnages*.

@@ -1,16 +1,18 @@
-# Espace
-> « C’est dangereux dehors ? »
+# Aspect : Espace
+> *« C’est dangereux dehors ? »*
 >
 > Idle, enfant hyper hybride
 >
-> « Toujours Idle, c’est toujours dangereux. »
+> *« Toujours Idle, c’est toujours dangereux. »*
 >
 > Feyn, astronaute
 
 Dans les colonies, l’espace et les environnements extraterrestres sont omniprésents. Plus d’une aventure mènera les personnages hors de l’enceinte protectrice des colonies que ce soit à la surface d’une lune glacée ou dans le vide interplanétaire.
 
 ## Conseils et ambiance
-Dans Solaires l’espace se manifeste à deux moments : lorsque les personnages s’aventurent hors de l’enceinte des colonies, stations et vaisseaux et lorsque l’espace s’invite à l’intérieur de ces installations. 
+Dans Solaires l’espace se manifeste à deux moments : lorsque les personnages s’aventurent hors de l’enceinte des colonies, stations et vaisseaux et lorsque l’espace s’invite à l’intérieur de ces installations.
+
+>> Lorqu'un personnage effectue une sortie hors de l'enceinte d'une colonie, d'une station ou d'un véhicule, nous appelons l'opération une **activité extra-véhiculaire*, généralement abrégé par EVA.
 
 L’espace est un environnement intrinsèquement dangereux. S’aventurer hors de la sécurité relative des installations des corporations représente toujours risque. Ce n’est jamais un acte que les personnages doivent prendre à la légère. Sortir sans préparation, fera toujours intervenir une complication : un sas qui se bloque, une combinaison qui se dépressurise, du matériel qui dérive hors de portée, un personnage qui dévisse, etc.
 

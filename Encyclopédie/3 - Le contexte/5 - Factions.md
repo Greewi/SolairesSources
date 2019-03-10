@@ -1,5 +1,5 @@
 # Factions principales
-> « Dès qu’un homme versé dans la politique arrive quelque part, il se renseigne pour connaître ses alliés et ses ennemis. »
+> *« Dès qu’un homme versé dans la politique arrive quelque part, il se renseigne pour connaître ses alliés et ses ennemis. »*
 >
 > Nora « Pelican », Présidente de Suan
 
@@ -54,6 +54,7 @@ Depuis la signature du Traité des Colonies, le seul territoire spatial que cont
 
 L’ONU, défaite, est remise en cause sur Terre. L’issue de la guerre, mais aussi son coût, aussi bien en terme matériel qu’humain, remettent en question les pouvoirs qui ont été conférés aux nations unies. De nombreuses voix souhaitent un remaniement complet de l’organisation, mais nombreux craignent que son affaiblissement provoque de nouvelle guerre à la surface de la planète bleue.
 
+----
 ## Mars (HIARTech)
 Mars, anciennement HIARTech (High Intelligence And Rocket Technology), est la seule corporation disposant d’un territoire clairement définit : Mars. Historiquement la première corporation au sens moderne, HIARTech est aussi l’initiateur de la colonisation du système solaire. À cet égard, il est naturel que la corporation soit, encore aujourd’hui, considérée comme l’avant-garde de la technologie spatiale et de la colonisation.
 
@@ -128,6 +129,7 @@ Quand la guerre est finalement gagnée par les corporations, Mars intervient et 
 
 Désormais, Mars est vue comme la grande sœur des corporations, sage et avancée. En vérité, si elle possède toujours une certaine avance technologique, la corporation travaille surtout son image de médiateur et organise la diplomatie des colonies. Avec l’aide d’Aesir, elle a même commencé à renouer avec la Terre, installant une ambassade commune sur Terre, en plein Manhattan, à quelques rues du siège de l’organisation des nations unies.
 
+----
 ## Waylanders
 Waylanders est sur certains aspects une corporation de taille moyenne : si elle ne possède pas autant de colonie que HIARTech ou Suan, son industrie et sa force militaire sont parmi les plus importantes du système solaire.
 

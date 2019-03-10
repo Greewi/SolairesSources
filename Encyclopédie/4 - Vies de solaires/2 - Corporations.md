@@ -1,5 +1,7 @@
 # Corporations
-> « Ces Terriens nous plaignent lorsqu’ils apprennent que nous vivons sous la coupe d’une entreprise. Ah ! S’ils savaient… »
+> *« Ces Terriens nous plaignent lorsqu’ils apprennent que nous vivons sous la coupe d’une entreprise. Ah ! S’ils savaient… »*
+>
+> Mika, « Récupérateur et pourvoyeur d'objets d'intérêt »
 
 ## Les nations extraterrestres
 Si, à l’exception d’Urania et Aesir, elles furent toutes des sociétés multinationales de la Terre, les corporations ne sont plus des entreprises. Depuis le traité des colonies, elles sont devenues des nations à part entière, autonomes politiquement, économiquement et militairement. Ainsi de nos jours, l’appellation corporation désigne les nations extraterrestres.
@@ -57,6 +59,7 @@ Déjà que leurs systèmes économiques ne se ressemblent pas, les corporations 
 * Mars est la seule corporation dont on ne connaît pas l’identité de ses dirigeants. Cet état persiste depuis les attentats perpétrés par l’ONU. Officiellement, le renouvellement de ce conseil se fait par cooptation mais étant donné le secret qui l’entoure, rien n’est sûr. Les postes importants sont attribués sur la base du volontariat, le conseil n’ayant que rarement à trancher. Mars est l’une des moins productives des corporations et il arrive que certains postes restent non pourvus pendant des durées importantes. Lorsque cela arrive, le conseil désigne lui-même un citoyen pour assurer l’intendance.
 * Urania marche dans les pas de Mars mais a refusé le principe d’un conseil secret. La désignation des trois hauts conseillers s’effectue en deux phases. La première est un vote au suffrage universel pour élire les maires qui éliront à leur tour les conseillers. Il faut noter que, depuis la formation d’Urania, les seules élections du conseil ayant eu lieu ont simplement reconduit les dirigeants d’alors : Evan «Thighstone», Louise Verdner et Œuria.
 
+----
 ## Le cas des indépendants
 Il existe de nombreux Solaires vivant en marge des corporations : les indépendants ou freelances. Les plus connus sont certainement les Soleils, une flotte de mercenaire, et les prestigieux Solar Wardners. Cette évocation coupe généralement court aux idées reçues décrivant les indépendants comme des marginaux pouilleux.
 

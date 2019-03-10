@@ -1,18 +1,20 @@
 # De la naissance à la mort
-> « La vie ? Tout un programme. »
+> *« La vie ? Tout un programme. »*
+>
+> Nodeus, commandant du Meteora
 
 Chaque vie est unique, passant par des chemins souvent imprévisibles et tortueux. Tous les solaires ne sont pas passés par les mêmes étapes et la vie n’a pas le même sens pour ceux issus des lignées humaines que pour les êtres produits par la technologie. Nous vous présentons ici les principales étapes de la vie que peuvent rencontrer les solaires.
 
 ## Les grandes étapes de la vie
 Même si chaque vie diffère des autres, plusieurs étapes de la vie semblent communes à tous les solaires :
-* la naissance : cette étape correspond au moment où l’être sort de la phase de conception ou de gestation. Pour les êtres artificiels, c’est le moment de leur mise en service.
-* l’enfance : cette étape recouvre toute la période où l’être n’est pas autonome et ne peut effectuer ses propres choix. Pour les êtres artificiels, il s’agit de l’époque où ils exécutent leur programme initial et effectuent simplement les taches pour lesquels ils ont été conçus, généralement dépourvu de sentience.
-* la vie adulte : passé une étape de transition, souvent appelée adolescence, tous les solaires deviennent adultes. Cette étape est caractérisée par la capacité de l’être à effectuer ses propres choix, et à disposer de son autonomie, ce qui implique que l’être soit effectivement sentient.
+* **La naissance** : cette étape correspond au moment où l’être sort de la phase de conception ou de gestation. Pour les êtres artificiels, c’est le moment de leur mise en service.
+* **L’enfance** : cette étape recouvre toute la période où l’être n’est pas autonome et ne peut effectuer ses propres choix. Pour les êtres artificiels, il s’agit de l’époque où ils exécutent leur programme initial et effectuent simplement les tâches pour lesquels ils ont été conçus, généralement dépourvu de sentience.
+* **La vie adulte** : passé une étape de transition, souvent appelée adolescence, tous les solaires deviennent adultes. Cette étape est caractérisée par la capacité de l’être à effectuer ses propres choix, et à disposer de son autonomie, ce qui implique que l’être soit effectivement sentient.
 
 ## Création et naissance
 Au fil des progrès de la médecine et de la science, il est devenu de plus en plus simple de donner la vie, mais aussi de contrôler la venue de cet événement. Avec les dernières avancées, il est même devenu possible d’aller beaucoup plus loin. Tout d’abord l’embryon fait systématiquement l’objet de plusieurs tests pour détecter toute anomalie ou maladie génétique et les corriger. En plus de ces correctifs, les parents disposent de la possibilité de choisir les traits de l’enfant, son sexe, et tout autre facteur dérivant de la génétique.
 
-Dans les cas les plus extrême, cela peut conduire à la création d’un réplicant voir d’une chimère. Heureusement, les lois des colonies encadrent ces pratiques en prenant en compte les intérêts du futur enfant. Elles interdisent aussi toute forme de discrimination envers ces « modifiés » et globalement, la société des solaires ne porte que peu de jugement sur ces critères.
+Dans les cas les plus extrêmes, cela peut conduire à la création d’un réplicant voir d’une chimère. Heureusement, les lois des colonies encadrent ces pratiques en prenant en compte les intérêts du futur enfant. Elles interdisent aussi toute forme de discrimination envers ces « modifiés » et globalement, la société des solaires ne porte que peu de jugement sur ces critères.
 
 Notons toutefois que la reproduction dite « naturelle » est une pratique déclinante. D’ailleurs, la plupart des solaires ne portent plus leurs enfants. Ces derniers se développent de plus en plus souvent dans des utérus artificiels.
 
@@ -69,6 +71,7 @@ Les trois modèles d’IA fortes sont capables de sentience. Toutefois, si les S
 
 À partir du moment où un être artificiel déclare sa sentience, il est traité comme n’importe quel citoyen des colonies et se voit attribuer l’intégralité de ses droits par les corporations, conformément au traité des solaires.
 
+----
 ## Unions et fusions
 Par habitude, tradition où plus généralement par envie, les solaires peuvent s’unir en couple ou groupes plus nombreux pour former ce qu’ils considèrent une famille.
 

@@ -1,4 +1,4 @@
-# 3. Enquête : Visite inopinée
+# Enquête : Visite inopinée
 
 L’entrée de l’appartement ressemble à celle de tous les autres de l’immeuble, même interphone, même panneau de technique, même façon de les pirater. Mais aujourd’hui, avec le certificat donné par leur mystérieux commanditaire, ce ne sera pas nécessaire. Dommage.
 

@@ -1,10 +1,9 @@
-# Combat
-> « Je n’avais pas envie de tuer. »
+# Aspect : Combat
+> *« Je n’avais pas envie de tuer. »*
 >
 > Tsadir, cyber-samouraï
 
 Parfois, pour parvenir à leur fin, ou parce qu’un adversaire aura décidé d’essayer de les gêner, les PJ vont se retrouver confronter à des situations de combat. Résoudre les problèmes est parfois la meilleure ou la seule possibilité.
-
 
 >> Bien que les combats soient un aspect important de nombreux autres jeux de rôles, ce n’est pas le cas dans Solaires. Si l’aspect combat est en premier dans de nombreuses liste, ce n’est uniquement qu’une question d’ordre alphabétique.
 
@@ -17,6 +16,7 @@ Pour conserver le focus sur les actions des PJ, nous vous recommandons de ne pas
 
 Un dernier aspect important pour les combats sont leurs effets de bords : impliquez l’environnement, les civils, la structure des lieux où le combat se déroule. Les balles perdues dans une fusillade vont quelque part et à la fin d’un affrontement important, les PJ devraient avoir à en gérer les conséquences. Ne les laissez pas sous-estimez la gravité d’une balle qui aurait terminé sa course dans un réservoir, ou pire, perforé l’enceinte de l’installation…
 
+----
 ## Outils
 Les principaux outils utilisés en combat sont les armes et les protections.
 

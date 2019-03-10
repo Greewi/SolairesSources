@@ -1,7 +1,7 @@
 # Événements clefs
-> « Beaucoup de mauvaises histoires peuvent se résumer en quelques chapitres. Celle de notre monde n’y fait pas exception. »
+> *« Beaucoup de mauvaises histoires peuvent se résumer en quelques chapitres. Celle de notre monde n’y fait pas exception. »*
 >
-> Grégoire De-Montergny, 
+> Grégoire De-Montergny, directeur régional de l'ONU
 
 ## L’affaire Leena
 Aujourd’hui, la plupart des observateurs s’accordent pour dire que l’affaire Leena est à l’origine de l’opposition entre HIARTech et les Nations Unies. Elle est d’ailleurs symptomatique du schisme éthique entre la Terre et les Colonies.

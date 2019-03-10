@@ -1,5 +1,5 @@
 # Évolution des personnages
-> « Qui aurait cru que je marcherais un jour sur le sol de Titan, moi qui suis né à une époque ou même la lune redevenait inaccessible. »
+> *« Qui aurait cru que je marcherais un jour sur le sol de Titan, moi qui suis né à une époque ou même la lune redevenait inaccessible. »*
 > 
 > Feyn, récupérateur spatial
 

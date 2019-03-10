@@ -1,5 +1,5 @@
 # Résoudre une action
-> « À l’avenir, ils craindront les répercussions de leurs actions avant même de les mettre en œuvre. »
+> *« À l’avenir, ils craindront les répercussions de leurs actions avant même de les mettre en œuvre. »*
 >
 > Marth, IA militaire de Vranberg-Lytan
 
@@ -124,6 +124,10 @@ Les attitudes disponibles sont :
 * Amplifiée : des effets secondaires amplifieront la réussite ou l’échec si le jet est extrême ;
 * Instable : il y aura toujours un effet secondaire, comme si les altérations Adoucie et Amplifiée étaient actives en même temps.
 
+Le meneur peut donner une indication sur la nature des effets secondaires, mais n’y est pas obligé.
+
+*Par exemple, Skyline, l’enquêteur, tente d’abattre un suspect qui s’enfuit à travers la foule. En plus de la difficulté, le meneur annonce une altération Adoucie. Il explique que si l’action réussit, le personnage parviendra à abattre l’adversaire, sinon il arrivera à s’enfuir. Il précise en revanche que si le jet réussit de justesse un passant sera aussi touché. S’il échoue de justesse, le fugitif parviendra bien à s’enfuir, mais il sera quand même blessé par le tir.*
+
 <table>
     <tr>
         <th>Dés conservés</th>
@@ -161,10 +165,6 @@ Les attitudes disponibles sont :
         <td>Échec avec effet secondaire négatif</td>
     </tr>
 </table>
-
-Le meneur peut donner une indication sur la nature des effets secondaires, mais n’y est pas obligé.
-
-*Par exemple, Skyline, l’enquêteur, tente d’abattre un suspect qui s’enfuit à travers la foule. En plus de la difficulté, le meneur annonce une altération Adoucie. Il explique que si l’action réussit, le personnage parviendra à abattre l’adversaire, sinon il arrivera à s’enfuir. Il précise en revanche que si le jet réussit de justesse un passant sera aussi touché. S’il échoue de justesse, le fugitif parviendra bien à s’enfuir, mais il sera quand même blessé par le tir.*
 
 ## Conséquences de l'action
 Une fois l’action résolue, le meneur peut décrire les conséquences de l’action. Généralement, cela consiste à acter ce qui avait été déterminé au moment de déclarer l’action.

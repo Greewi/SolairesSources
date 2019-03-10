@@ -1,5 +1,7 @@
 # Chronologie
-> « Qui aurait cru que les puissantes nations se feraient voler la vedette par de simples multinationales ? »
+> *« Qui aurait cru que les puissantes nations se feraient voler la vedette par de simples multinationales ? »*
+>
+> Robert Teadrill, président du conseil de Waylanders
 
 
 >> ### Organisation de la chronologie
@@ -159,6 +161,7 @@
 * **2089 (G) – Fin de la guerre** : finalement, les nations unies se rendent et acceptent les négociations. Une délégation représentant les nations de la Terre est envoyée pour rencontrer la délégation des colonies. Les négociations ont lieues à bord du porte-nefs martien Aurian. La Terre se voit proposer un traité qu’elle accepte résignée. La paix est ainsi signée et la Terre, épargnée.
 * **2089 (C) – Traité des colonies** : ce traité proposé par Mars lors des délibérations met fin à la guerre. Mais il implique bien d’autres choses. Premièrement, l’ONU reconnaît les corporations ayant signé le traité comme des nations, sans toutefois les inclure dans ses propres conseils et commissions. Ensuite, ce traité acte la scission entre la Terre et les colonies. Ainsi, la terre accepte les choix éthiques des colonies et ces dernières acceptent ceux de cette première. Les deux parties s’engagent aussi à ne plus jamais envoyer de forces armées vers les systèmes de l’autre. Le traité définis aussi quelques frontières : le domaine de la Terre comporte l’intégralité du système terrien ainsi que toutes les colonies de Sol6. Et, si les colonies s’engagent à ne pas empiéter sur ce domaine, la Terre n’a de fait plus le droit de s’étendre.
 
+----
 ## L’ère des Solaires
 
 * **2089 (N) – Renforcement des Solar Wardners** : la fin de la guerre relance les questions éthiques et certaines frontières dépassées les années passées sont remises en question au sein de la société solaire. Dans ce climat post-guerre, le système solaire a plus que jamais besoin des Solar Wardners pour rétablir la confiance et assurer la survie de tous. Ils obtiennent le droit de réquisition dans toutes les installations des corporations ayant signé le traité des colonies et jouissent d’une très grande réputation.

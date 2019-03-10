@@ -1,5 +1,5 @@
 # Conseils aux joueurs
-> « Faites des choses ! »
+> *« Faites des choses ! »*
 
 Trop souvent, le meneur est vu comme le responsable de la qualité de la partie. Ce n’est pas le cas : même s’il a un rôle important, n’oubliez pas que le jeu de rôles est un jeu coopératif. Tous les participants doivent œuvrer de concert pour passer un bon moment. Voici quelques conseils et astuces pour de meilleures parties.
 
@@ -21,6 +21,7 @@ Intéressez-vous aussi aux objectifs des autres joueurs, que vous ayez ou non le
 
 Prenez toutefois garde à ne pas écraser les autres joueurs, notamment en vous accaparant leurs objectifs ou en essayant à tout pris d’être sous le feu des projecteurs.
 
+----
 ## Soyez des héros
 Votre personnage sera régulièrement confronté à des situations dangereuses et critiques. Vous serez sans doute souvent tenté de laisser les choses se faire, voir de fuir ces « ennuis ». Ne laissez pas ces tentations prendre le dessus : votre personnage est un héros. Il est plus grand que nature : ça signifie qu’il a les moyens d’agir.
 

@@ -1,5 +1,7 @@
 # Civilisation de l’abondance
-> « Lorsque tout devient possible et disponible, est-ce que tout ne perd pas finalement sa valeur ? »
+> *« Lorsque tout devient possible et disponible, est-ce que tout ne perd pas finalement sa valeur ? »*
+>
+> Zuko, fondatrice des Cercles de jeux
 
 Les colonies jouissent d’une technologie si avancée que des pans entiers de la société ont été remis en causes. Ainsi, en cette fin de siècle, les corporations disposent de moyens dépassant les besoins des colons, et ce, de plusieurs ordres de grandeur. Ceci a inévitablement un impact sur la société et l’organisation du travail.
 

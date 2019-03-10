@@ -1,5 +1,7 @@
 # Systèmes planétaires
-> « Une étoile, huit planètes majeures et des centaines de lunes… Ceux qui prétendent en avoir fini avec ce système se trompent ! »
+> *« Une étoile, huit planètes majeures et des centaines de lunes… Ceux qui prétendent en avoir fini avec ce système se trompent ! »*
+>
+> Feyn, astronaute
 
 ## Mercure, la première planète
 <table>
@@ -42,6 +44,7 @@ En effet, Sol6 ne porte qu’un intérêt purement pratique à ses colonies et M
 
 Proche du soleil, la première planète est aussi un endroit de transit important. Elle est donc entourée d’un grand nombre de stations orbitales.
 
+----
 ## Vénus, l’étoile du berger
 <table>
     <tr>
@@ -81,6 +84,7 @@ Ajoutée à la gravité proche de celle de la Terre, cette atmosphère a rendu l
 
 Par ailleurs, seule Sol6 est présente de façon permanente bien que de nombreux vaisseaux des autres corporations s’y arrêtent souvent.
 
+----
 ## La Terre, la planète bleue
 <table>
     <tr>
@@ -116,6 +120,7 @@ D’un point de vue physique, la Terre est une planète tellurique, la plus gran
 
 « Il est notable que la Terre a refusé la transhumanité et la posthumanité. Conservatrice et réactionnaire, elle a lutté pour préserver l’humanité telle qu’elle la connaissait, craignant de la voir disparaître au profit des nouveaux êtres. Ce fut la véritable raison de la guerre des colonies, les derniers cris d’une créature sauvage acculée par les évènements. Elle a perdu cette guerre, mais au lieu de l’extinction prévue, elle n’est plus qu’une image de cette vie passée. »
 
+----
 ## Mars, la planète rouge
 <table>
     <tr>
@@ -155,6 +160,7 @@ Il en ressort que les conditions de vies sur Mars sont exemplaires, notamment gr
 
 Depuis le traité des colonies, HIARTech est devenu Mars, traduisant une volonté de s’établir en nation. Malgré la revendication d’un territoire, Mars poursuit ses développements technologiques dans le domaine de la colonisation spatiale et continue d’aider les autres corporations dans leurs efforts d’exploration et de colonisation.
 
+----
 ## Jupiter, la planète géante
 <table>
     <tr>
@@ -194,6 +200,7 @@ Séparée des quatre premières planètes par la ceinture d’astéroïde, ce fu
 
 Jupiter est principalement sous le contrôle de Vranberg-Lytan, Waylanders et Aesir, bien que Suan ait pu récupérer quelques colonies après la guerre. Il n’y a pas de lune affectée à une corporation ni même de frontière nette : une citée peut appartenir à l’une des corporations tandis que sa voisine appartient à une autre. Il existe ainsi un nombre impressionnant d’interconnexions entre les corporations dans le système jovien.
 
+----
 ## Saturne, la planète aux anneaux
 <table>
     <tr>
@@ -233,6 +240,7 @@ Le système saturnien est lui aussi colonisé depuis longtemps et possède une p
 
 Seules les corporations Vranberg-Lyan, Suan, Aesir et Urania sont présentes dans ce système planétaire. De plus, Urania n’y est présente que marginalement, uniquement sur Titan.
 
+----
 ## Uranus, la géante bleue
 <table>
     <tr>
@@ -270,6 +278,7 @@ La colonisation de ce système ne fait que commencer. Seule une colonie a été 
 
 Bien que sous le contrôle d’Urania, de nombreuses installations et vaisseaux martiens sont présents dans le système. En effet, Mars a toujours fourni son aide aux efforts de colonisation et s’est beaucoup impliquée pour compenser la jeunesse d’Urania et ses relativement faibles moyens logistiques.
 
+----
 ## Neptune, la profonde
 <table>
     <tr>

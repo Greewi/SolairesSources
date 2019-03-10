@@ -1,8 +1,7 @@
-# Infiltration
-> «  »
-
+# Aspect : Infiltration
+> *«  »*
 > 
-
+> 
 
 Les personnages ne pourront pas toujours agir au grand jour pour accomplir leurs missions. Que ce soit pour fouiller un lieu privé, prendre l’avantage sur un adversaire ou éviter d’attirer l’attention des forces de sécurité, ils devront parfois se montrer particulièrement discrets.
 
@@ -19,16 +18,10 @@ Voici une description des principaux outils utilisés dans cette guerre invisibl
 
 
 >> ### Exemple de situation : S’introduire dans un lieu
->>  <p class="encart__texte">
-
->>  </p>
+>>  
 
 >> ### Exemple de situation : Prendre en filature
->>  <p class="encart__texte">
-
->>  </p>
+>>  
 
 >> ### Exemple de situation : Neutraliser quelqu’un
->>  <p class="encart__texte">
-
->>  </p>
+>>  

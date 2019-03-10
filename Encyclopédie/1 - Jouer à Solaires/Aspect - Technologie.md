@@ -1,5 +1,5 @@
-# Technologie
-> « Joyeux non-anniversaire mon amie. Bon fait quand même gaffe, c’est pas fait pour à la base et si ça prend pas feu à un moment, c’est que je me suis franchement ratée. »
+# Aspect : Technologie
+> *« Joyeux non-anniversaire mon amie. Bon fait quand même gaffe, c’est pas fait pour à la base et si ça prend pas feu à un moment, c’est que je me suis franchement ratée. »*
 >
 > Ney
 
@@ -15,6 +15,8 @@ Mais la technologie peut aussi tourner au cauchemar, entre les accidents qui éc
 Aussi avancée que soit la technologie des solaires, elle reste limitée par les lois de la physique. De façon générale, il n’est pas possible de fabriquer de l’énergie à partir de rien, de communiquer ou voyager plus vite que la lumière, d’inventer de l’information (par exemple d’améliorer une image composée de quelques pixels), de voyager en arrière dans le temps, etc. De la même façon, certaines applications de la technologie peuvent demander une quantité d’énergie gigantesque ou des capacités de calculs dédiées. Par exemple, tout ce qui se rapporte au voyage interplanétaire requiert un générateur à fusion, tandis que déplier et analyser un esprit demande un super calculateur.
 
 >> Vous noterez que certaines de ces limites sont violées par les psions. Il s’agit là d’une exception qui ne devrait pas être reproductible par d’autres moyens.
+
+----
 
 ## Outils
 Pour manipuler la technologie, les solaires disposent d’une vaste palette d’outils. Que ce soit pour réparer ou modifier un appareil que pour en fabriquer de tout nouveaux.
