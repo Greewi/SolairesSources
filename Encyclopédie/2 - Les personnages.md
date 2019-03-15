@@ -1,10 +1,2 @@
 # Les personnages
-Les Solaires sont les êtres sentients qui vivent dans le système solaire.
-
-Autrefois, il était courant de parler d'humains et d'humanité.
-
-Mais l'évolution technologique et scientifique a permis l'existence des transhumains et posthumains.
-
-Redéfinir « humanité » est difficile.
-
-C'est pourquoi nous utilisons désormais le terme « Solaires ».
+Ce chapitre vous présente les personnages joueurs et la façon de les construire. Comme les autres règles, celles de la création de personnage mettent l'accent sur la définition de vos personnage et non sur les mécaniques. Vous y trouverez aussi les règles pour les faire évoluer d'une partie à l'autre.

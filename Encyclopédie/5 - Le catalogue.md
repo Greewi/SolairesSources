@@ -1,4 +1,2 @@
 # Le catalogue
-Les avancées de la technologie nous ont apporté de nouveaux outils que ce soit pour des buts pacifistes ou plus belliqueux.
-
-Ce catalogue présente les outils les plus courants ou les plus marquants de notre époque : aussi bien le matériel militaire que celui des sorties extravéhiculaires, en passant par les modifications et autres implants.
+Ce chapitre, comme son nom l'indique, est un catalogue des principaux outils, modifications, véhicules et logiciels que vous pourrez trouver dans les colonies. Les solaires jouissent d'une technologie avancée mise en œuvre à tous les niveaux : des objets du quotidien au matériel d'opération et militaire.

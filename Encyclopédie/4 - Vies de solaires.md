@@ -1,4 +1,2 @@
 # Vies de solaires
-De la même manière qu'un dictionnaire ne vous explique pas comment fonctionnent les choses qu'il définit, ce ne sont pas des cartes ou des informations politiques qui suffiront pour comprendre comment vivent les Solaires.
-
-Cette section apportera des informations bien utiles à ceux qui souhaitent comprendre la civilisation des solaires.
+Ce chapitre vous propose de plonger plus profondément dans l'univers du jeu et de découvrir la vie dans les colonies et de comprendre le fonctionnement de cette civilisation. Découvrez les implications de l'abondance dans les colonies, le fonctionnement des puissantes corporations et des colonies, leurs lois principales. Vous trouverez aussi des informations sur les particularités des habitats, les rites quotidiens des solaires et les principales étapes de leurs vies.
