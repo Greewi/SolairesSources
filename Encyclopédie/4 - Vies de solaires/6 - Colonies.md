@@ -65,7 +65,7 @@ Quelques installations particulièrement isolées, comme les stations en orbite 
 ## Services principaux
 Pour pouvoir être autonome, les cités disposent toutes de services essentiels :
 * **Infirmeries** : éléments vitaux, au sens propre, des colonies. Ces installations disposent de l’équipement nécessaire pour maintenir la population en bonne santé. Il est utile de noter qu’elles sont aussi équipées pour s’occuper des Solaires non organiques. Ces services sont parfois mis en relation directe avec les services d’ingénierie et de maintenance de la colonie.
-* **Centres de production** : avec l’isolement relatif des cités, il est impératifs que toutes soient capables de produire leur énergie et les matériaux nécessaire à leur entretient et à la vie des citoyens. Ceci a été considérablement été rendu plus aisé avec les constructeurs universels et les générateurs à fusions.
+* **Centres de production** : avec l’isolement relatif des cités, il est impératif que toutes soient capables de produire leur énergie et les matériaux nécessaire à leur entretient et à la vie des citoyens. Ceci a été considérablement été rendu plus aisé avec les constructeurs universels et les générateurs à fusions.
 * **Spatioports** : cet élément clef pour les échanges est la principale zone d’échange avec l’extérieur mais aussi du point d’évacuation le plus approprié. On trouve généralement des rampes de lancement pour envoyer des navettes en orbite ou rallier d’autres colonies via un vol suborbital, mais aussi des catapultes électromagnétiques servant à envoyer du matériel ou des ressources en orbite.
 * **Nœuds de communication** : la communication est l’un des piliers de la société des Solaires. Ces centres occupent donc une place importante dans la vie des colonies en étant le nœud principal de toutes les communications à longue portée. Ce sont par ailleurs ces mêmes centres qui sont chargés de la transmission des données lors de toute téléportation par l’upload.
 * **Centre de sécurité** : regroupant les différents services d’urgence qui peuvent exister sur une colonie, ils disposent du matériel nécessaire pour faire face à tout type de crise, que ce soit un incendie, une dépressurisation, une épidémie, un accident, une attaque militaire, etc. Évidemment ces services sont dirigés par la hiérarchie «militaire» de la cité.
@@ -128,4 +128,4 @@ Au sein des corporations, la liberté d’association peut jouer un grand rôle,
 
 L’appartenance à une association doit être publique, les associations de fait étant obligées de s’enregistrer si elles sont découvertes.
 
-Certaines associations font l’objet d’une surveillance renforcée. Les associations politiques et culturelles en font partie.
+Certaines associations font l’objet d’une surveillance renforcée. Les associations politiques et cultuelles en font partie.

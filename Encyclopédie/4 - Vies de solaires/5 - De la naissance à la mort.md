@@ -41,7 +41,7 @@ Même adulte, ces logiciels d’instructions restent utiles, car ils permettent 
 
 En plus de cet apprentissage, les cyborgs peuvent directement télécharger des logiciels à travers une interface progiciel. Ces logiciels assurent de nombreuses fonctions allant du maniement du matériel à l’émulation de nouvelles compétences et capacités. Ces logiciels sont généralement fournis par les corporations, mais certains, notamment ceux dont le potentiel disruptif est le plus élevé, ne peuvent être obtenus qu’avec une licence ou via des moyens non légaux.
 
-De leur côté, les Intelligences artificielles assimilent aussi de nombreux logiciels tout en ena développant de nouveaux. Elles s’entourent ainsi d’une cohorte conséquente. Toutefois, toutes les intelligences artificielles n’assimilent pas les logiciels de la même façon :
+De leur côté, les Intelligences artificielles assimilent aussi de nombreux logiciels tout en en développant de nouveaux. Elles s’entourent ainsi d’une cohorte conséquente. Toutefois, toutes les intelligences artificielles n’assimilent pas les logiciels de la même façon :
 
 Le modèle Synchro conserve les logiciels dans leur état d’origine et se contente de s’interfacer avec. L’interface est lui-même un élément jetable et les logiciels conservent un caractère étranger à l’IA.
 
@@ -92,7 +92,7 @@ Il existe de nombreux moyen pour construire ces sauvegardes. Les plus courants s
 
 Légalement, il ne s’agit pas exactement de la même personne, mais les lois des solaires permettent l’héritage de l’identité et des privilèges qui y sont attachés. La question fondamentale sur ce point est laissée aux philosophes, les corporations préférant une approche permissive sur ce point.
 
-Notons que cette particularité légale a été originellement mise en place pour les intelligences artificielles qui créent et détruisent des instances à chaque déplacement dans le réseau. Par ailleurs, les IA gèrent habituellement elles-mêmes leurs sauvegardes qu’elles rangent dans les nœuds solnet en leur associant des agents réseau surveillant les signaux de vie de l’IA. S’ils viennent à ne pas avoir de nouvelles de l’IA pendant une certaine durée, la sauvegarde sera décryptée et réveillée par l’agent.
+Notons que cette particularité légale a été originellement mise en place pour les intelligences artificielles qui créent et détruisent des instances à chaque déplacement dans le réseau. Par ailleurs, les IA gèrent habituellement elles-mêmes leurs sauvegardes qu’elles rangent dans les nœuds SolNet en leur associant des agents réseau surveillant les signaux de vie de l’IA. S’ils viennent à ne pas avoir de nouvelles de l’IA pendant une certaine durée, la sauvegarde sera décryptée et réveillée par l’agent.
 
 Pour finir, il n’est pas obligatoire de disposer d’une sauvegarde et ce malgré la volonté des corporations de protéger le maximum de ses citoyens. Ainsi, nombre d’anciens terriens refusent encore ce dispositif, considérant que la mort donne son sens à leur vie, ou que cette forme de renaissance n’est pas véritablement l’immortalité.
 
