@@ -84,4 +84,4 @@ Le recyclage de l’air et de l’eau lui s’effectue localement de façon déc
 
 Mais, plongé dans un canal de réalité augmentée, le décor tout entier peut changer, laissant apparaître une canopée forestière en place du plafond ou octroyant une architecture gothique aux halles d’un centre de loisir.
 
-Cette surcouche esthétique de la réalité augmenté est souvent appelée dreamware par les habitants des colonies. Elle est tellement employée que pour la plupart d’entre eux, elle fait réellement partie de leur environnement.
+Cette surcouche esthétique de la réalité augmentée est souvent appelée dreamware par les habitants des colonies. Elle est tellement employée que pour la plupart d’entre eux, elle fait réellement partie de leur environnement.

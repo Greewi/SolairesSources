@@ -4,7 +4,7 @@
 > Nora « Pelican », Présidente de Suan
 
 >> ### À propos de la puissance des factions
->> Les différentes factions présentée dans ce chapitre ne sont pas d’égale puissance. Pour simplifier leurs relations de puissance, nous les avons classés en trois catégories :
+>> Les différentes factions présentées dans ce chapitre ne sont pas d’égale puissance. Pour simplifier leurs relations de puissance, nous les avons classés en trois catégories :
 >> * Grandes Puissances, celles capables de prendre seule le leadership dans le système solaire ;
 >> * Moyennes puissances, celles qui peuvent faire plier les grandes puissances en s’alliant ;
 >> * Petites puissances, celles qui ne peuvent que suivre le mouvement général.
@@ -202,7 +202,7 @@ Par la suite, son déploiement s’est effectué avec méthode. Des corporations
 
 Malheureusement, la faiblesse relative de son infrastructure terrienne ne lui permet pas d’assurer le même flot d’immigration que les autres corporations. Pour se développer, Waylander mise sur l’automatisation à outrance : des usines et des centres de traitement entièrement automatisés voient le jour. Certains mesureront presque un kilomètre carré, une échelle que même Vranberg-Lytan ne parviendra pas à égaler.
 
-Mais cet âge d’insouciance se termine avec les déclarations hostiles de l’ONU de 2072. Initialement, Waylanders considère les exigences des nations unies et se prépare même à s’y plier. Mais la résistance de ses alliés et voisins placent la corporation dans une situation délicate. Dans un premier temps la corporation décide de temporiser, profitant de la diversion de HIARTech.
+Mais cet âge d’insouciance se termine avec les déclarations hostiles de l’ONU de 2072. Initialement, Waylanders considère les exigences des nations unies et se prépare même à s’y plier. Mais la résistance de ses alliés et voisins place la corporation dans une situation délicate. Dans un premier temps la corporation décide de temporiser, profitant de la diversion de HIARTech.
 
 Mais lorsque cette dernière est balayée de la Terre, il semble évident que le conflit entre les corporations et les nations unies a atteint un point de non-retour. Pour autant Waylanders hésite à choisir ouvertement un camp, préférant se préparer à devoir reposer sur ses colonies. C’est la trahison de Sol6 lors de l’affaire des chasseurs de Vranberg-Lytan qui met fin à ses hésitations. Jusqu’ici, aucune corporation n’avait nuit à une autre et Waylanders à désormais le sentiment que l’ONU est en train de mettre en péril la colonisation spatiale en instaurant un climat de peur.
 
@@ -210,7 +210,7 @@ Ainsi, le conflit se polarise encore plus et Waylanders se rapproche des autres 
 
 Alors que Vranberg-Lytan et Suan s’intéressent aussi au système saturnien, la corporation se concentre sur Jupiter et ses lunes. Sa stratégie s’avère mitigée : les deux autres corporations joviennes disposent déjà du double de colonie. Toutefois, ses super-usines remplissent leur fonction et Waylanders est la première corporation à disposer d’un excédent significatif.
 
-Vient alors la guerre des colonies, annoncée par le terrible attentat qui a dévasté le conseil de Mars. Waylanders ne peut plus ignorer ces signes et commence à produire une flotte militaire importante, échangeant une partie de ses ressources excessives contre le savoir faire de Vranberg-Lytan. La défense est rapidement mise en place et la corporation s’attend au moment dit.
+Vient alors la guerre des colonies, annoncée par le terrible attentat qui a dévasté le conseil de Mars. Waylanders ne peut plus ignorer ces signes et commence à produire une flotte militaire importante, échangeant une partie de ses ressources excessives contre le savoir-faire de Vranberg-Lytan. La défense est rapidement mise en place et la corporation s’attend au moment dit.
 
 Quand l’ONU passe à l’attaque sur Terre, elle ne se saisit que d’entrepôts vides, de laboratoires abandonnés et d’immeubles désertés : de toutes les corporations, Waylander est celle qui a le moins perdu ce jour-là, tant l’accent a été mis sur l’autonomie de ses colonies.
 
@@ -306,7 +306,7 @@ Fondée durant la seconde vague, Suan vise immédiatement deux fronts : Jupiter
 
 Lors de l’inauguration d’Ombrenade sur Titan, Suan se conforte dans l’idée que le système saturnien est sans doute sa meilleure opportunité et concentre alors la majorité de ses efforts de colonisation sur ce système. Cette stratégie paie et la croissance de Suan talonne celles de Mars et Vranberg-Lytan.
 
-Quand la situation diplomatique se tend entre HIARTech et l’ONU, Suan prend le parti de la corporation : l’avance technologique de Mars lui semble offrir bien plus d’opportunités que les nations unies et leurs menaces. Pour autant, Suan reste lucide vis-à-vis de la puissance de l’organisation mondiale et considère que HIARTech joue à un jeu dangereux. Ses relations avec la corporation restent relativement discrète, ne prenant jamais sa défense publiquement. En revanche, en échange de technologies la corporation affecte plusieurs de ses vaisseaux au transport de futur colon à destination de la planète rouge.
+Quand la situation diplomatique se tend entre HIARTech et l’ONU, Suan prend le parti de la corporation : l’avance technologique de Mars lui semble offrir bien plus d’opportunités que les nations unies et leurs menaces. Pour autant, Suan reste lucide vis-à-vis de la puissance de l’organisation mondiale et considère que HIARTech joue à un jeu dangereux. Ses relations avec la corporation restent relativement discrètes, ne prenant jamais sa défense publiquement. En revanche, en échange de technologies la corporation affecte plusieurs de ses vaisseaux au transport de futur colon à destination de la planète rouge.
 
 Cette apparente neutralité envers l’ONU se rompt lors l’assaut contre HIARTech et plus particulièrement lors du meurtre d’Alfred Johnwen. Ce coup de force des nations unies risque, en effet, de ralentir voir de compromettre les plans de colonisation des corporations et Suan le fait ouvertement savoir. Dans le même temps, la corporation de Titan décide de constituer un conseil directoire secondaire directement dans les colonies au cas où.
 
@@ -325,7 +325,7 @@ Après la guerre, Suan récupère ses colonies perdues, sauf Leanor. Un projet d
 Malgré la distance et les événements, Suan a conservé d’excellents rapports avec Mars. La corporation a aussi une affection particulière pour Aesir, principalement supporté par sa haine des nations unies.
 
 ## Vranberg-Lytan
-Vranberg-Lytan est l’une corporation externes et possède de nombreuses colonies dans le système jovien et le système saturnien. Elle a longtemps eu une vision intéressée de la colonisation et occupe principalement des sites riches en ressources.
+Vranberg-Lytan est l’une des corporation externe et possède de nombreuses colonies dans le système jovien et le système saturnien. Elle a longtemps eu une vision intéressée de la colonisation et occupe principalement des sites riches en ressources.
 
 <table>
     <tr>
@@ -395,7 +395,7 @@ Vranberg-Lytan est l’une corporation externes et possède de nombreuses coloni
     </tr>
 </table>
 
-Seconde corporation à s’être formée, en 2062, Vranberg-Lytan marche initialement dans les pas de HIARTech. Proposé à l’origine comme un objectif de prestige, Vranberg-Lytan vise le système jovien. Le succès des missions vers Mars indiquent très clairement la viabilité et la maturité des technologies de colonisation et le conseil de direction est persuadé qu’une civilisation spatiale est sur le point d’émerger. Or, Vranberg-Lytan veut faire partie des premiers, car ils auront un avantage indéniable.
+Seconde corporation à s’être formée, en 2062, Vranberg-Lytan marche initialement dans les pas de HIARTech. Proposé à l’origine comme un objectif de prestige, Vranberg-Lytan vise le système jovien. Le succès des missions vers Mars indique très clairement la viabilité et la maturité des technologies de colonisation et le conseil de direction est persuadé qu’une civilisation spatiale est sur le point d’émerger. Or, Vranberg-Lytan veut faire partie des premiers, car ils auront un avantage indéniable.
 
 Rapidement, la corporation achète le moteur d’IA Synchro et se lance dans une politique industrielle massive. La reconsolidation terminée, Vranberg-Lytan lance son programme spatial et se rapproche de la première corporation pour tenter de rattraper son retard. C’est une bonne chose car HIARTech décide de louer, à un tarif raisonnable, son chantier spatial aux autres corporations et Vranberg-Lytan en profite immédiatement.
 
@@ -409,7 +409,7 @@ Lors de l’attaque sur le conseil directoire martien, Vranberg-Lytan se retrouv
 
 La guerre des colonies arrive finalement et comme prévu, l’ONU lance l’assaut sur les installations terrestres. La corporation finalise alors le grand exode commencé plusieurs années avant. Lorsque la guerre atteint Jupiter, Vranberg-Lytan se lance dans la guerre à bras le corps. La guerre est beaucoup plus difficile que prévu : l’ONU dispose de l’industrie terrienne et peut se permettre de bien plus lourdes pertes que les corporations.
 
-À la destruction de Leanor, le conseil militaire de la corporation décide de lancer le projet Marth, remplaçant son état-major par une nouvelle IA militaire sentiente. Cette nouvelle stratégie inquiète initialement les alliés de la corporation, mais Marth dissipe tout doute dés ses premières batailles. Coordonnant les flottes alliées, l’IA emploie des stratégies atypiques et novatrices. Les premiers temps, l’ONU encaisse, fort de ses effectifs. Mais au fil des batailles, les corporations commencent à l’emporter et finissent par envoyer leurs forces vers la Terre pour mettre fin à la guerre.
+À la destruction de Leanor, le conseil militaire de la corporation décide de lancer le projet Marth, remplaçant son état-major par une nouvelle IA militaire sentiente. Cette nouvelle stratégie inquiète initialement les alliés de la corporation, mais Marth dissipe tout doute dès ses premières batailles. Coordonnant les flottes alliées, l’IA emploie des stratégies atypiques et novatrices. Les premiers temps, l’ONU encaisse, fort de ses effectifs. Mais au fil des batailles, les corporations commencent à l’emporter et finissent par envoyer leurs forces vers la Terre pour mettre fin à la guerre.
 
 Curieusement, Vranberg-Lytan reste en retrait lors des échanges diplomatiques : la machine de guerre a englouti toute l’administration de la corporation et Marth préfère laisser les diplomates alliés gérer cette dernière bataille. Toutefois pour donner plus de poids aux corporations lors des négociations, Vranberg-Lytan s’est associé avec Suan pour préparer au déploiement de plus d’une centaine de bombes à fusion et s’en servir comme une menace. La stratégie paie et la reddition de la Terre est intégrale. Mars apporte un traité qui met la Terre de côté et les corporations retournent dans leurs colonies.
 
@@ -621,7 +621,7 @@ Première corporation de la seconde vague, Sol6 lance rapidement son propre prog
 
 Dans son idée, exploiter Mercure sera rapidement rentable, surtout que les moyens de propulsion spatial continuent de progresser. Mais en attendant ce moment, la corporation prépare et installe des colonies dans les cratères du pôle nord et sud, exploitant au passage un petit nombre d’astéroïdes riches en métaux pour son approvisionnement immédiat.
 
-Son approche intéressée de la colonisation l’isoleront vis-à-vis des autres corporations et si elle bénéficie notamment des publications de HIARTech, elle ne contribue finalement que peu au développement scientifique et technique en dehors de certains aspects liés aux environnements des systèmes les plus internes.
+Son approche intéressée de la colonisation l’isolera vis-à-vis des autres corporations et si elle bénéficie notamment des publications de HIARTech, elle ne contribue finalement que peu au développement scientifique et technique en dehors de certains aspects liés aux environnements des systèmes les plus internes.
 
 Visant des bénéfices à long terme, la corporation fait d’impressionnants efforts de communication auprès de ses actionnaires et lorsque le conflit éclate entre HIARTech et l’ONU, la corporation fait profil bas, se gardant bien de prendre un parti. Surtout qu’elle a d’autres problèmes par ailleurs.
 
@@ -668,9 +668,9 @@ L’enquête prend presque deux ans pour se résoudre. Vranberg-Lytan est rapide
 
 Alors que l’amirauté martienne exige les extractions mémorielles, les Solar Wardners refusent, indiquant que rendre publique la mémoire d’un être sentient est contraire aux règles éthiques les plus élémentaires. Curieusement le conseil martien appuie la position des enquêteurs. Ce statu quo dure un peu moins d’une semaine avant que l’un des prisonniers accepte de faire ses aveux. L’affaire débloquée, elle est renvoyée au niveau diplomatique avec pour conséquences de polariser encore plus le conflit entre les colonies et l’ONU.
 
-Mais les Solar Wardners ne tardent pas à refaire parler d’eux. Concernant les terroristes, plusieurs membres influents des forces de sécurités prônent la peine de suppression. Mais les wardners émettent, à nouveau, un avis contraire, faisant campagne pour une justice non irréversible. Dans un premier temps le rapport de force semblent très largement en faveur des militaires. Mais à nouveau le conseil de Mars intervient et donne raison aux wardners.
+Mais les Solar Wardners ne tardent pas à refaire parler d’eux. Concernant les terroristes, plusieurs membres influents des forces de sécurités prônent la peine de suppression. Mais les wardners émettent, à nouveau, un avis contraire, faisant campagne pour une justice non irréversible. Dans un premier temps, le rapport de force semble très largement en faveur des militaires. Mais à nouveau le conseil de Mars intervient et donne raison aux wardners.
 
-Le mois suivant la révélation, HIARTech et les autres corporations se réunissent et s’accordent pour donner une nouvelle mission aux Solar Wardners : prévenir et défaire tout complot et désamorcer toute situation susceptible de mettre en péril la stabilité des relations entre les corporations. Pour parvenir à leur fin, les wardners conservent les droits octroyés par les corporations ainsi que leur soutient logistique. Ces conditions leur permettent ainsi enquêter librement dans toutes les corporations à l’exception de Sol6. En revanche, ils se voient interdits d’interférer autrement dans les affaires politiques des corporations.
+Le mois suivant la révélation, HIARTech et les autres corporations se réunissent et s’accordent pour donner une nouvelle mission aux Solar Wardners : prévenir et défaire tout complot et désamorcer toute situation susceptible de mettre en péril la stabilité des relations entre les corporations. Pour parvenir à leur fin, les wardners conservent les droits octroyés par les corporations ainsi que leur soutien logistique. Ces conditions leur permettent ainsi enquêter librement dans toutes les corporations à l’exception de Sol6. En revanche, ils se voient interdits d’interférer autrement dans les affaires politiques des corporations.
 
 Comme les corporations souhaitent que cette nouvelle entité reste la plus indépendante des corporations, les wardners mettent en place un système de cooptation pour renforcer ses effectifs. Cette mesure, initialement temporaire, ne sera jamais remise en question par la suite.
 
@@ -678,7 +678,7 @@ Les wardners déjoueront plusieurs autres tentatives de sabotage et d’assassin
 
 Mais malgré tous ces efforts, la guerre des colonies éclate. Durant, toute cette période trouble, l’activité des wardners est mise en pause : la plupart des agents rejoignent leur corporation d’origine pour participer à la guerre. Nombre d’anciens agents des wardners s’illustrent d’ailleurs durant cette guerre.
 
-À la signature du traité des colonies, la mission des wardners est devenue plus dispensable : la victoire des colonies est telles que la Terre ne peut plus vraiment rivaliser contre les corporations et un acte d’agression serait payé si cher qu’il semble peu probable que les nations unies conservent leurs mauvaises habitudes envers les colonies.
+À la signature du traité des colonies, la mission des wardners est devenue plus dispensable : la victoire des colonies est telle que la Terre ne peut plus vraiment rivaliser contre les corporations et un acte d’agression serait payé si cher qu’il semble peu probable que les nations unies conservent leurs mauvaises habitudes envers les colonies.
 
 Alors que chaque camp commence à aller de l’avant, la nature discutable de nombreux développements dans les colonies pendant la guerre fait l’objet d’une polémique très suivie. Quelques personnes commencent à dénoncer certaines dérives technologiques et les corporations cherchent une solution. Les Solar Wardners se réunissent à nouveau et proposent de traiter eux-mêmes ces cas. Glorifiés dans les colonies, le corps indépendant est rapidement appuyé par les corporations, bien heureuse de pouvoir se débarrasser du problème. Les wardners en profitent même pour demander des pouvoirs supplémentaires qui leur sont accordés sous la pression du contexte : ils disposent désormais d’un droit de réquisition dans tout l’espace des colonies résolvant par la même occasion leurs problèmes logistiques.
 
@@ -728,7 +728,7 @@ Les Soleils sortent de la guerre des colonies particulièrement renforcé. Ils d
 Partenaire privilégié de Mars, leur carnet de mission ne désemplit pas et si les affrontements se font désormais rares, leur expertise dans les opérations spatiales reste incontestée. En somme, c’est devenu un groupe que beaucoup aimeraient intégrer et avec lequel les corporations préfèrent travailler pour les missions qu’elles assument publiquement.
 
 ## Le Neo Control
-S’il existe un groupe de mercenaire qui se vante de pouvoir frapper n’importe où, n’importe quand, ce sont les mercenaires du Neo Control. Cette faction est à la fois l’un des plus grands groupe de mercenaire, rivalisant presque avec les Soleils, et l’un des moins scrupuleux.
+S’il existe un groupe de mercenaire qui se vante de pouvoir frapper n’importe où, n’importe quand, ce sont les mercenaires du Neo Control. Cette faction est à la fois l’un des plus grands groupes de mercenaire, rivalisant presque avec les Soleils, et l’un des moins scrupuleux.
 
 Mais ce qui distingue le groupe des autres sont ses méthodes. Son premier principe repose sur le fait que tous ses agents sont sacrifiables : en quatre ans d’activité, les rumeurs de la capture d’un agent du Neo Control sont considérées comme des légendes sans crédit. Des enveloppes volées avec le centre mémoriel détruit, ça en revanche, on en retrouve à la pelle.
 
@@ -832,7 +832,7 @@ Lorsque la guerre des colonies éclate, la discrétion des Phobos’ Heights sem
 
 À la fin du siège, les Phobos’ Heights contrôlent suffisamment de terrain pour être virtuellement impossible à déloger. Le conseil refuse toutefois toute négociation avec l’organisation criminelle et ordonne plusieurs opérations d’envergure. Une grande partie du réseau, la plus visible, est alors démantelée. Ce coup dur pour les Phobos’ Heights ne les anéantit pas pour autant, mais ils perdent alors la capacité d’agir au grand jour.
 
-Depuis, l’organisation s’est reconstruite et a retenu la leçon. Elle opère toujours sur le sol martien, plus discrètement. Spécialisée dans le trafic, son principal apport reste le marché noir bâti sur son réseau et les services de mercenariat qu’elle propose à la surface de la planète rouge. Les échauffourées avec les forces de sécurité reste occasionnelles mais n’ont plus l’ampleur d’autrefois.
+Depuis, l’organisation s’est reconstruite et a retenu la leçon. Elle opère toujours sur le sol martien, plus discrètement. Spécialisée dans le trafic, son principal apport reste le marché noir bâti sur son réseau et les services de mercenariat qu’elle propose à la surface de la planète rouge. Les échauffourées avec les forces de sécurité restent occasionnelles mais n’ont plus l’ampleur d’autrefois.
 
 ## Cercles de jeux de Zuko (ZGC)
 Les cercles de jeux de Zuko sont un groupe communautaire très particulier. Regroupée autour d’un jeu en réalité augmenté, cette communauté offre un environnement ultra-gamifié. Si les participants les moins impliqués n’y vivent une seconde vie que pour s’occuper, les jeux de Zuko sont devenus une véritable raison d’exister pour de nombreuses personnes qui se sentent perdus sans.
