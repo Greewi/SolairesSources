@@ -69,7 +69,7 @@ Toutes les intelligences ne peuvent pas être incarnée dans n'importe quelle en
     </tr>
 </table>
 
->> Certains types d'intelligence peuvent ne pas être directement intégré dans certaines enveloppes, mais il est possible de simuler leur substrat d'origine à travers une couche d'émulation. Il s'agit généralement d'une simulation informatique du cerveau, de ces sens et des interactions neurochimiques.
+>> Certains types d'intelligence peuvent ne pas être directement intégré dans certaines enveloppes, mais il est possible de simuler leur substrat d'origine à travers une couche d'émulation. Il s'agit généralement d'une simulation informatique du cerveau, de ses sens et des interactions neurochimiques.
 
 ## Voyage par téléchargement
 
