@@ -12,6 +12,8 @@ C'est une ère glorieuse et majestueuse qui s'annonce : un âge de lumière ou 
 
 Dans cet univers, n'espérez pas l'aide d'hypothétiques extra-terrestres ou de dieux infinis. Tout ce que vous trouverez a été façonné par l'humanité et ses enfants et les seuls « dieux », les supers-IA, sont déjà forts occupés à régir la vie des citoyens.
 
+>> TODO : Expliquer le titre (Qu'est-ce qu'un solaires ?)
+
 ## Les thèmes principaux
 Tirant, son inspiration de nombreuses œuvres de science-fiction comme celles de *William Gibson*, *Bruce Sterling*, *Richard K. Morgan* ou encore *Isaac Asimov*, le jeu tente d'explorer de nombreux thèmes de la science-fiction.
 
@@ -42,24 +44,80 @@ L'univers se veut toutefois relativement bienveillant : la mort n'est qu'une tr
 
 Soyez les bienvenus dans le système solaire de 2093 !
 
-## Crédits et remerciements
-Jeux :
-* Risus
-* 7th sea
- <li>
+## Inspirations
 
- </li>
+De nombreuses œuvres, qu'elles soient issues de romans, films ou jeux vidéos ont fortement inspiré Solaires.
+
+De la littérature tout d'abord, avec les œuvres de science fiction de William Gibson (*Neuromancien*, *Compte zéro*, *Mona Lisa s'éclate*), Bruce Sterling (*La Schismatrice*), Richard K. Morgan (*Carbone modifié*, *Ange déchus*, *Furies déchaînées*, *Black Man*), Frank Herbert (Univers de la ConSentiency et de Destination Vide), Philip K. Dick (Principalement les nouvelles), la BD *Transmetropolitan* (Warren Ellis) ou encore Isaac Asimov (De trop nombreuses nouvelles pour les citer).
+
+De nombreux films ensuite, dont *Blade Runner* (Ridley Scott), *Moon* (Duncan Jones), *I, Robot* (Alex Proyas à partir des oeuvres d'Isaac Asimov), *Chrysalis* (Julien Leclercq), *2001 l'odyssé de l'espace* (Stanley Kubrick avec la participation de Arthur C. Clarke), la saga des *Alien* (Ridley Scott, James Cameron, David Fincher, Jean-Pierre Jeunet). Sans oublier le format connexe des séries, avec *Real Human* (Lars Lundström), *Person of interest* (Jonathan Nolan), etc.
+
+Dans une bien moindre mesure nous avons aussi été inspirés par plusieurs oeuvres du genre du super-héros, notamment la série des *X-Men* (Bryan Singer, puis Brett Ratner), la récente trilogie de *Batman* (Christopher Nolan), les *Iron Man* (Jon Favreau)..
+
+Enfin, les jeux vidéos ont été aussi une très grande source d'inspiration. En premier lieu, la série des *Deus Ex* (Même le second ! Par Eidos Interactive), mais aussi *System Shock II* (Looking Glass Studios et Irrational Games), *Mass effect* et *Mass effect 2* (BioWare), *Eve Online* (Crowd Control Productions), *Syndicate* (Bullfrog Games) et *Freelancer* (Digital Anvil).
+
+Mais s'arrêter là serait ignorer l'importance de la recherche et des sciences dans le monde réel. Nous devons aussi louer la NASA, l'ESA, les transhumanistes... Car même s'ils traitent de notre vrai monde, ils ont eu, sans doute aucun, un impact majeur sur ce qu'est devenu Solaires. Et puis l'un des auteurs de Solaires pourrait facilement être classé parmi les physics nerds...
+
+>> TODO : citer les jeux qui ont servis d'inspiration (Risus, 7th sea, Supers REd)
+
+## Crédits et remerciements
+
+>> TODO : Remercier des gens
+
+## Glossaire
+
+* **Aesir** : récente corporation issue de la scission de Vranberg-Lytan. S'est donnée l'objectif de résoudre le « problème terrien ».
+* **Chimère** : [nouv. Déf.] être organique composé d'éléments d'espèces différentes.
+* **Colonie** : [nouv. Déf.] citée extraterrestre.
+* **Colonies (les)** :  au sens légal, Mars, Suan, Vranberg-Lytan, Waylanders et depuis peu Aesir et Urania. Devenu synonyme de l'ensemble des organisations ni terrestres ni Sol6. 
+* **Corporation** : [nouv. Déf.] ancienne multinationale de la Terre. Devenu synonyme de nation extraterrestre.
+* **Cybernétique** : être entièrement robotique.
+* **Cyborg** : être organique pourvu d'implants cybernétiques.
+* **Cyborg absolu** : humain dont la conscience a été numérisée et émulée dans un corps cybernétique.
+* **Enveloppe** : corps physique pouvant abriter une intelligence. Les serveurs sur lesquels peuvent se trouver des IA, éthérés ou personnes émulés ne sont pas considérés comme des enveloppes car n'utilisant généralement pas une propriété personnelle ou privée. 
+* **Ethéré** : humain dont la conscience a été numérisée et transformée pour lui permettre de vivre sur le réseau comme une IA.
+* **Extraterrestre** : entité hypothétique dont l'origine serait extra-solaire.
+* **HIARTech** : première des corporations, aujourd'hui appelée « Mars ».
+* **Hyper-hybride** : être cybernétique et organique dont le mélange des deux phases se fait dès le niveau cellulaire.
+* **Humain** : espèce sentiente issue de la Terre ayant engendré les Solaires.
+* **IA de Ley-Wan** : modèle d'IA pouvant être implémenté sur wetware.
+* **IA Synchro** : historiquement le premier modèle sentient d'IA.
+* **IA Wolfa** : modèle de la plupart des IA de recherches.
+* **Infomorphes** : êtres ne disposant pas d'enveloppes précises : éthérés et IA. 
+* **Intelligence** : l'historique ainsi que le moteur de décision et de compréhension d'un être. 
+* **Intelligence Artificielle (IA)** : système de décision logiciel capable d'apprentissage et d'adaptation. Certaines sont sentientes.
+* **Nanorobots** : robots dont la taille fait moins d'un micron. Ces robots sont principalement utilisés dans la micro-ingénierie.
+* **ONU** : organisation des nations unies. Principal interlocuteur des corporations avec la Terre.
+* **Paradoxe de Fermi** : paradoxe qui, considérant le nombre d'étoile dans la galaxie et les chances d'apparition de la vie, pose la question des raisons de l'absence d'extra-terrestres.
+* **Psi** : être possédant des capacités considérées comme aberrantes grâce à l'implant psi. 
+* **Réplicant** : [nouv. Déf.] être organique entièrement fabriqué reproduisant une espèce existante, généralement des humains optimisés.
+* **Sentience** : [nouv. Déf.] notion qui recouvre la capacité de perception, de raisonnement, d'empathie et la conscience de soi et de son environnement. Permet de déterminer une personne au sens juridique. 
+* **Sol6** : société de la Terre qui fut un temps considéré comme une corporation jusqu'à ce qu'elle se range du côté de l'ONU.
+* **Solaire** : habitant du système solaire ; enfant de l'humanité.
+* **Solar Wardners** : groupe indépendant travaillant à la stabilité du système solaire.
+* **SolNet** : réseau de communication reliant l'ensemble de la civilisation Solaire. 
+* **Suan** : ancienne corporation, première à avoir colonisé Titan.
+* **Syntha** : enveloppe cybernétique ressemblant à une enveloppe humaine, généralement d'apparence générique. 
+* **Système de résolution** : règles du jeu destinées à déterminer la réussite ou l'échec des actions.
+* **Traité des Colonies** : traité de paix signé à la fin de la guerre des Colonies par les corporations et les nations unies.
+* **Transhumain** : humain transformé par la technologie.
+* **Urania** : récente corporation issue de la scission de Vranger-Lytan. S'est donné comme objectif la colonisation des lunes d'Uranus et Neptune.
+* **Upload** : pour les entités ayant une enveloppe, pratique consistant à téléverser son esprit d'un site à un autre. 
+* **Vranberg-Lytan** : ancienne corporation, la plus puissante avant une scission dues à des objectifs internes divergents.
+* **Waylanders** : ancienne corporation, actuellement la plus grande force militaire du système solaire.
+* **Wetware** : circuit informatique organique.
 
 
 >> ### Organisation de ce livre
 >> Ce livre contient les règles du jeu ainsi qu’une présentation complète de l’univers que nous espérons suffisante pour vous permettre de jouer.
 >> 
->> Le premier chapitre, Jouer à Solaires, traite des règles du jeu. Elles présentent le jeu de rôles et ses mécaniques de base avant d’attaquer les règles de résolution des actions. Vous trouverez ensuite des explications des domaines les plus exotiques de l’univers, puis les règles des points de personnages qui permettent aux joueurs d’altérer directement l’histoire. Le chapitre se termine sur des conseils adressés aux joueurs et aux meneurs.
+>> Le premier chapitre, *Jouer à Solaires*, traite des règles du jeu. Elles présentent le jeu de rôles et ses mécaniques de base avant d’attaquer les règles de résolution des actions. Le chapitre continue en décrivant les règles des états, des effets pouvant handicaper les personnages, et celles des points de personnage qui permettent aux joueurs d’altérer directement l’histoire. Vous trouverez ensuite un ensemble de conseils adressés aux joueurs et meneurs. Enfin, Le chapitre se termine sur une série d'articles détaillants des aspects particulier du jeu et ses éléments les plus exotiques.
 >> 
->> Le second chapitre, Personnages, traite des personnages. Il commence par présenter les règles de création des personnages puis propose des listes d’éléments prêts à être utilisés lors de cette création. Le chapitre se termine sur les règles d’évolution des personnages et notamment les intrigues des personnages.
+>> Le second chapitre, *Les personnages*, traite des personnages. Il commence par présenter les règles de création des personnages puis propose trois méthodes compatibles pour y parvenir. Le chapitre se termine sur les règles d’évolution des personnages avec les intrigues des personnages.
 >> 
->> Le troisième chapitre, Univers général, présente l’univers de Solaires à une échelle globale. Il commence par expliquer les événements clés de l’histoire de Solaires puis enchaîne sur la chronologie. Il décrit ensuite le système solaire et les principaux astres qui le composent. Ceci fait, c’est au tour des principales factions d’être présentées. Le chapitre se termine sur l’état de l’art de la science et de la technologie dans les colonies.
+>> Le troisième chapitre, *Le contexte*, présente l’univers de Solaires à une échelle globale. Il commence par expliquer les événements clés de l’histoire de Solaires puis enchaîne sur la chronologie. Il décrit ensuite le système solaire et les principaux astres qui le composent. Ceci fait, c’est au tour des principales factions d’être présentées. Le chapitre se termine sur l’état de l’art de la science et de la technologie dans les colonies.
 >> 
->> Le quatrième chapitre, Vivre dans les colonies, expose la vie dans les solaires. Il commence par présenter la civilisation de l’abondance, puis le fonctionnement des corporations, véritables nations extraterrestres. Il décrit ensuite l’habitat type des solaires avant de présenter les rites de vie quotidiens dans les colonies, puis d’exposer les grandes étapes dans la vie des solaires. Le chapitre présente ensuite les colonies du point de vue de leur architecture et de leur fonctionnement. Le chapitre se termine sur les voyages et la communication dans le système solaire.
+>> Le quatrième chapitre, *Vies de solaires*, expose la vie dans les colonies. Il commence par présenter la civilisation de l’abondance, puis le fonctionnement des corporations, véritables nations extraterrestres et celui des colonies. Il décrit ensuite l’habitat type des solaires avant de présenter les rites de vie quotidiens dans les colonies, puis d’exposer les grandes étapes dans la vie des solaires. Le chapitre se termine sur les voyages et la communication dans le système solaire.
 >> 
->> Le cinquième et dernier chapitre, Catalogue, décrit les principaux objets, outils et artefacts utilisés dans les colonies : les outils du quotidien, le matériel d’ingénierie, le matériel extravéhiculaire, le matériel médical, le matériel d’espionnage, le matériel militaire, les véhicules, les implants cybernétiques, les modifications organiques, les implants psi, les logiciels et les robots.
+>> Le cinquième et dernier chapitre, *Le catalogue*, décrit les principaux objets, outils et artefacts utilisés dans les colonies : les outils du quotidien, le matériel d’ingénierie, le matériel extravéhiculaire, le matériel médical, le matériel d’espionnage, le matériel militaire, les véhicules, les implants cybernétiques, les modifications organiques, les implants psi, les logiciels et les robots.
+
