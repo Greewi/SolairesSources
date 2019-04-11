@@ -2,7 +2,7 @@
 
 Le robot de transport l’attend au milieu de la complexité du mobilier de la section de maintenance, principalement composé de tuyaux, câbles et réservoirs, accompagnés de témoins et lampes. La caisse de transport que l’échassier métallique a déposé au sol se déverrouille à l’approche de Skyline. Le modèle est conforme. Parfait. L’enquêteur charge les logiciels appropriés et lance l’immersion. Il active ensuite les deux aérobots de soutien qui se positionnent en formation d’escorte.
 
-Son contact avec solnet rétabli, il fait le point avec le reste de l’équipe. Razors n’est pas encore en place : Downlink a été gêné par un patrouilleur inopiné. La cyber-samouraï l’a neutralisé et le decker usurpe désormais l’identité de l’agent de sécurité autonome. Un retard utile en fait.
+Son contact avec SolNet rétabli, il fait le point avec le reste de l’équipe. Razors n’est pas encore en place : Downlink a été gêné par un patrouilleur inopiné. La cyber-samouraï l’a neutralisé et le decker usurpe désormais l’identité de l’agent de sécurité autonome. Un retard utile en fait.
 
 Quelques dizaines de secondes plus tard, la voix de Razors retenti sur leur réseau privé : « Skyline, tu en es où ? Je suis prête à entrer dans le hangar.
 

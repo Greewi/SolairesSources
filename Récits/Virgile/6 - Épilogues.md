@@ -43,7 +43,7 @@ Dans l’obscurité relative des installations souterraines, l’IA reprend : �
 
 Une copie de son logiciel de sociabilité pourrait faire l’affaire. Récupérant le manuel d’installation dans ses propres fichiers, il commence l’opération. D’abord, un persona. Sur une banque en ligne le nevian choisi le modèle « philosophe » qui a une note de cinq étoiles et plus d’un millier de téléchargements. Vient le nom : Kat en choisi un aléatoirement dans une liste de personnage historique : Virgile.
 
-Le logiciel s’initialise et le nouvel avatar apparaît, tel un dieu de la Grèce antique vêtu d’une toge immaculé et arborant une généreuse barbe blanche compensant son crâne dégarni. L’IA s’adresse alors au nevian d’une voix grave et chaude : « Merci Kat. Comme je l’ai dit, en de moins bon termes, plusieurs factions mettent en danger la cité par leurs actions. Seul, je ne pourrais pas y remédier, mais la probabilité de succès augmente considérablement avec suffisamment d’alliés.
+Le logiciel s’initialise et le nouvel avatar apparaît, tel un dieu de la Grèce antique vêtu d’une toge immaculée et arborant une généreuse barbe blanche compensant son crâne dégarni. L’IA s’adresse alors au nevian d’une voix grave et chaude : « Merci Kat. Comme je l’ai dit, en de moins bons termes, plusieurs factions mettent en danger la cité par leurs actions. Seul, je ne pourrais pas y remédier, mais la probabilité de succès augmente considérablement avec suffisamment d’alliés.
 
 – Que faire alors ? demande le nevian avec l’inquiétude émulée par son propre logiciel de sociabilité.
 
