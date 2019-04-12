@@ -19,7 +19,7 @@ Pour qu’il y ait un tel dysfonctionnement, cette IA centrale doit probablement
 
 À travers le réseau, Kat examine la porte dérobée. Après quelques recherches, le nevian découvre que le matériel supportant l’ouverture malicieuse est bel et bien physique. Quelqu’un a placé un émetteur de liaison sur le réseau interne de l’IA. À ce niveau c’est toute la cité qui est impactée et la probabilité de retrouver Mike se réduit.
 
-Kat assemble les morceaux d’information. Sa priorité numéro une est de retrouver Mike et d’assurer sa sécurité. Ses moyens sont limités : Monsieur Norway est sous la contrainte, les forces de sécurités suspectes, l’IA corrompue. Kat effectue une recherche sur la base de donnée des nevians : rien de bien utile en dehors d’une note sur l’entretient des IA noyaux laissé par une certaine Ney-27.
+Kat assemble les morceaux d’information. Sa priorité numéro une est de retrouver Mike et d’assurer sa sécurité. Ses moyens sont limités : Monsieur Norway est sous la contrainte, les forces de sécurités suspectes, l’IA corrompue. Kat effectue une recherche sur la base de données des nevians : rien de bien utile en dehors d’une note sur l’entretient des IA noyaux laissé par une certaine Ney-27.
 
 Ne se dégonflant pas, Kat sort de l’appartement et se dirige vers le dôme Johnwen, celui des administrations. Dehors, si tant est que l’intérieur des dômes puisse être considéré comme « dehors », l’activité de la ville est plus visible. De nombreux citoyens occupent les bancs et les terrasses, tandis qu’une vingtaine de robots jardiniers aériens taillent et entretiennent les arbres et les massifs qui occupent une grande partie de l’espace entre les imposants bâtiments.
 
