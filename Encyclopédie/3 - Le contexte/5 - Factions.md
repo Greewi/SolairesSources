@@ -325,7 +325,7 @@ Après la guerre, Suan récupère ses colonies perdues, sauf Leanor. Un projet d
 Malgré la distance et les événements, Suan a conservé d’excellents rapports avec Mars. La corporation a aussi une affection particulière pour Aesir, principalement supporté par sa haine des nations unies.
 
 ## Vranberg-Lytan
-Vranberg-Lytan est l’une des corporation externe et possède de nombreuses colonies dans le système jovien et le système saturnien. Elle a longtemps eu une vision intéressée de la colonisation et occupe principalement des sites riches en ressources.
+Vranberg-Lytan est l’une des corporations externes et possède de nombreuses colonies dans le système jovien et le système saturnien. Elle a longtemps eu une vision intéressée de la colonisation et occupe principalement des sites riches en ressources.
 
 <table>
     <tr>

@@ -49,7 +49,7 @@ Notez, en particulier pour l’échelle de difficulté intrinsèque, que le choi
         <td>Seul quelqu’un de désespéré essaierait</td>
     </tr>
 </table>
-
+<br/>
 <table>
     <tr>
         <th colspan="2">Échelle d’intérêt scénaristique</th>
@@ -95,7 +95,7 @@ Sinon, le joueur lance trois dés à six faces. Il ne conserve que ceux qui ont 
 <table>
     <tr>
         <th>Dés conservés</th>
-        <th></th>
+        <th>Résultat</th>
     </tr>
     <tr>
         <th>3</th>
@@ -119,10 +119,10 @@ Sinon, le joueur lance trois dés à six faces. Il ne conserve que ceux qui ont 
 En plus de la difficulté, le meneur peut imposer une altération qui va servir à modifier le résultat d’une action en ajoutant des effets secondaires. Les altérations servent à traduire une situation chaotique ou une tentative désespérée par exemple. Elles peuvent aussi permettre d’ajouter différentes qualités de réussite ou d’échec. Par défaut, on utilise toujours l’altération Stable qui n’apporte aucun effet secondaire.
 
 Les attitudes disponibles sont :
-* Stable : il n’y aura aucun effet secondaire lors de cette action ;
-* Adoucie : des effets secondaires contrebalanceront la réussite ou l’échec de l’action si le jet est un peu juste ;
-* Amplifiée : des effets secondaires amplifieront la réussite ou l’échec si le jet est extrême ;
-* Instable : il y aura toujours un effet secondaire, comme si les altérations Adoucie et Amplifiée étaient actives en même temps.
+* **Stable** : il n’y aura aucun effet secondaire lors de cette action ;
+* **Adoucie** : des effets secondaires contrebalanceront la réussite ou l’échec de l’action si le jet est un peu juste ;
+* **Amplifiée** : des effets secondaires amplifieront la réussite ou l’échec si le jet est extrême ;
+* **Instable** : il y aura toujours un effet secondaire, comme si les altérations *Adoucie* et *Amplifiée* étaient actives en même temps.
 
 Le meneur peut donner une indication sur la nature des effets secondaires, mais n’y est pas obligé.
 
@@ -173,20 +173,28 @@ Les effets secondaires peuvent apporter des modifications plus où moins importa
 
 Voici quelques exemples d’effet secondaires en défaveur des PJ :
 * plus de ressources consommées (perte de temps, outils endommagés…) ;
-* une complication de la situation (pris en flagrant délit, renforts adverses, décrédibilisation, dégâts collatéraux…).
+* une complication de la situation (pris en flagrant délit, renforts adverses, décrédibilisation, dégâts collatéraux…) ;
+* un état gagné (blessure, altération mentale, désavantage situationnel…).
 
 Pour les effets en faveur des PJ, nous vous proposons ces exemples :
 * moins de ressources consommées ou ressources gagnées (gain de temps, découverte d'un outil…) ;
-* une simplification de la situation (arrivée d'alliés, information inattendue obtenue…).
+* une simplification de la situation (arrivée d'alliés, information inattendue obtenue…) ;
+* perte d'un état.
 
 Notez que le joueur peut utiliser un point de personnage pour décrire lui-même les conséquences directes de l'action, mais cette possibilité est soumise au veto des participants (le joueur récupère son point si un veto est utilisé). Dans cette description, essayez d'impliquer au mieux les éléments que vous avez utilisés et respectez l’échec ou la réussite de l’action. De plus, vous devez conserver les effets de l’altération. Par exemple, vous ne pouvez pas décrire une contrepartie bénéfique si le résultat de la résolution n'en comporte pas.
+
+## Cas particuliers
+Les règles de résolution gèrent toutes les situations et actions que vous rencontrerez. Malgré tout, il existe quelques cas où les le meneur peut rechercher des règles plus précises :
+* **Action collaborative** : il s'agit des actions où plusieurs personnages collaborent. Dans ce cas, l'action est résolue normalement par l'initiateur, mais ceux qui l'aident peuvent lui prêter un élément. Les règles restent les mêmes : deux éléments maximums et au moins un des deux éléments doit être typique s'il y en a plusieurs.
+* **Action de groupe à échec individuel** : dans de nombreux cas, le groupe de personnage veut effectuer une action qui doit être réussie par tous les personnages. *Par exemple, escalader une falaise, contourner une patrouille furtivement, garder son sang froid dans une situation critique, etc.* Il est naturel de vouloir un jet pour chaque personnage, mais ceci réduit considérablement les chances de réussite de l'action globale. Nous vous proposons plutôt de procéder comme pour une action collaborative, à la différence près que les deux éléments éventuels ne doivent pas provenir du même personnage. En cas d'échec, l'un des personnages dévisse, se fait repérer, panique, etc. Choisissez de préférence celui dont l'échec entrainera la situation la plus intéressante.
+* **Action en réaction** : dans certains cas, il est possible qu'une action ne soit pas à l'initiative d'un personnage et que ce dernier doive réagir à un événement. Par exemple, des adversaires viennent de lui tendre une embuscade et le meneur souhaite que le personnage réagisse. Dans ces situations, même si l'action n'est pas à l'initiative du joueur, le processus reste le même : le joueur indique ce que son personnage va essayer de faire en réaction et l'action est résolue comme habituellement.
 
 ## Un exemple
 *Durant un combat sur une plate-forme en mouvement, Razors, cyber-samouraï, affronte un cyborg à main nue. Sophie, qui joue Razors, annonce que son personnage va tenter une prise pour maîtriser son adversaire.*
 
 *Justine, la meneuse, explique que si l’action réussit, Razors arrivera à maîtriser le cyborg. Si elle ne réussit pas, le cyborg la fera chuter de la plate-forme. Justine ajoute que l’action sera Adoucie : si elle réussit de justesse, le cyborg tombera de la plate-forme et pourra s’enfuir, tandis que si elle échoue de justesse, Razors basculera dans le vide en parvenant à se rattraper au bord. Justine évalue la difficulté à -2 (Démentielle, Neutre).*
 
-*Sophie choisi d’utiliser l’élément Arts martiaux (3). Comme faire une prise est typique pour cette carrière, elle utilise aussi Muscles améliorés (2). Le score à ne pas dépasser est donc de 3 (-2 + 3 + 2).*
+*Sophie choisi d’utiliser l’élément « Arts martiaux (3) ». Comme faire une prise est typique pour cette carrière, elle utilise aussi « Muscles améliorés (2) ». Le score à ne pas dépasser est donc de 3 (-2 + 3 + 2).*
 
 *Sophie lance les trois dés et obtient 4, 6 et 2. Elle ne conserve donc qu’un seul dé : c’est un échec avec contrepartie positive.*
 
