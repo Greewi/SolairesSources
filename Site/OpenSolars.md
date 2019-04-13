@@ -29,7 +29,7 @@ Les différents projets de Solaires sont en constante évolution. Vous pouvez su
 * SolNet : https://trello.com/b/xTp8Mobo/solaires-solnet
 * Le site : https://trello.com/b/7wPkmDsY/solaires-site
 
-Par ailleurs, j'essaie de publier un billet de suivi tous les vendredi soirs (l'heure peut varier). Vous les trouverez sur GitHub : https://github.com/Greewi/SolNetNews.
+Par ailleurs, j'essaie de publier un billet de suivi tous les vendredis soirs (l'heure peut varier). Vous les trouverez sur GitHub : https://github.com/Greewi/SolNetNews.
 
 ## Contribuer au projet
 
