@@ -33,7 +33,7 @@ Toutes les intelligences ne peuvent pas être incarnée dans n'importe quelle en
         <td>Incompatible</td>
     </tr>
     <tr>
-        <th>Bio-modifié</th>
+        <th>Bio-modifié, Réplicant, Chimère</th>
         <td>Compatible</td>
         <td>Compatible</td>
         <td>Incompatible</td>
@@ -51,25 +51,27 @@ Toutes les intelligences ne peuvent pas être incarnée dans n'importe quelle en
         <td>Émulation</td>
         <td>Émulation</td>
         <td>Compatible</td>
-        <td>Compatible</td>
+        <td>Émulation</td>
     </tr>
     <tr>
         <th>Hyper Hybride</th>
         <td>Émulation</td>
         <td>Émulation</td>
         <td>Compatible</td>
-        <td>Compatible</td>
+        <td>Émulation</td>
     </tr>
     <tr>
         <th>Informorphe</th>
         <td>Incompatible</td>
         <td>Incompatible</td>
         <td>Compatible</td>
-        <td>Compatible</td>
+        <td>Incompatoble</td>
     </tr>
 </table>
 
 >> Certains types d'intelligence peuvent ne pas être directement intégré dans certaines enveloppes, mais il est possible de simuler leur substrat d'origine à travers une couche d'émulation. Il s'agit généralement d'une simulation informatique du cerveau, de ses sens et des interactions neurochimiques.
+>>
+>> Il existe en outre des transformations qui permettent de transformer certains types d'esprit en d'autres. Ainsi il est possible d'associer les intelligences naturelles et provoluées avec une IA pour en faire des intelligences supervisées. Il est aussi possible de transformer une intelligence naturelle, provoluée ou supervisée en éthéré via le processus d'infomorphisation.
 
 ## Voyage par téléchargement
 
@@ -123,7 +125,7 @@ Le Merge est l'opération inverse : faire fusionner deux instances pour n'en ob
 >> ### Exemple de situation : se transférer dans un autre corps
 >> Tôt ou tard, les PJ seront amenés à changer de corps, que ce soit temporairement ou de façon permanente. Le cas le plus probable reste un voyage via téléchargement.
 >> 
->> Tout assurez-vous de la compatibilité de l'intelligence du personnage avec la nouvelle enveloppe. Par exemple, une IA Wolfa ne pourra pas être installée dans un corps organique. De plus l'enveloppe de destination doit être en état de recevoir l'intelligence. Une IA ne pourra pas prendre le contrôle d'un robot si elle n'y a pas accès et devra effectuer une attaque informatique si elle veut y parvenir.
+>> Pour commencer, assurez-vous de la compatibilité de l'intelligence du personnage avec la nouvelle enveloppe. Par exemple, une IA Wolfa ne pourra pas être installée dans un corps organique. De plus l'enveloppe de destination doit être en état de recevoir l'intelligence. Une IA ne pourra pas prendre le contrôle d'un robot si elle n'y a pas accès et devra effectuer une attaque informatique si elle veut y parvenir.
 >> 
 >> Si fait avec un matériel adapté, l'opération de transfert est triviale. Dans le cas contraire, eh bien, il vous faudra construire le dispositif. Dans ce dernier cas, un échec peut avoir des conséquences graves, tragiques et/ou amusantes...
 >> 
