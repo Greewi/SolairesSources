@@ -1,38 +1,43 @@
-# Points de personnages
+# Modifications scénaristiques
 > *« En ce temps de chaos, ceux qui le peuvent doivent se lever et faire bouclier aux autres, n’oublions pas que nous sommes martiens ! »*
 >
 > Hito « Blades » Hirotomi, leader des Soleils
 
-Les points de personnage sont des points attribués au joueur qui vont servir à altérer l'histoire de différentes manières. Ils n'ont aucune existence dans l'univers de jeu et ne sont attachés au personnage que par commodité.
+>> TODO : Renommer le chapitre en "Modifier l'histoire" (TODO Trouver mieux !)
 
-Le but de ces points est de donner plus de contrôle sur l'histoire aux joueurs, leur permettant notamment d'en décrire ou modifier certains éléments. De façon générale, l'utilisation de ces points ne peut être faite sans l'accord des autres participants, meneur comme joueurs : chacun dispose d'un droit de veto sur les utilisations de ces points.
+En plus d'interagir avec l'histoire à travers leur personnages, les joueurs disposent d'un moyen plus direct de le faire par le biais des points de personnage. Ces points leur permettent ainsi d'endosser brièvement une posture d'auteur, apportant leur patte au récit.
 
-## Acquisition et récupération
-Au début de toute partie, chaque joueur se voit attribuer trois points de personnage. Durant la partie, il ne pourra en avoir plus de trois.
+## Les points de personnage
+Chaque personnage possède des points de personnage qui servent à produire des modifications majeures de l'histoire. Ces points n'ont aucune existence dans l'univers du jeu et sont rattachés au personnage par commodité.
 
-Chaque joueur récupère un point de personnage à la fin d'une scène et la totalité au début d'une nouvelle partie.
+Au début de chaque séance les personnages possèdent un nombre fixe de points. Vous n'en regagnerez pas au cours de la partie et ne conservez pas les points restant d'une séance à l'autre.
 
-## Coût et veto
-Toutes les utilisations des points de personnage n'ont pas le même coût et une grande partie des coûts détaillés plus tard sont des minima. Le meneur peut augmenter ces coûts s'il juge qu'une utilisation aura un impact important sur l'histoire.
+Nous vous recommandons de donner trois points à chaque personnage au début d'une séance. Mais vous pouvez aussi déterminer ce nombre en considérant simplement le nombre de modifications majeures par joueur lors de la séance. Ceci peut être utile, notamment si vous avez prévu une séance particulièrement longue ou courte.
 
-Les joueurs peuvent mettre en communs leurs points de personnage, mais celui qui déclenche l'effet doit impérativement fournir au moins l'un des points de personnage ainsi utilisés.
+## Faire une modification
+Pour faire une modification dans l'histoire, commencez par payer un point de personnage pour une modification majeure. Les modifications mineures sont gratuites.
 
-De plus, chaque participant, aussi bien le meneur que les joueurs, dispose d'un droit de veto pour s'opposer à une utilisation de ces points, notamment si cela donne un tournant à l'histoire qu'ils n'apprécient pas, ou s'il s'agit d'un abus manifeste.
+Décrivez ensuite la modification que vous souhaitez apporter à l'histoire en impliquant un des éléments de votre personnage. Si personne ne s'oppose à votre proposition, elle devient effective et la partie continue. Vous trouverez une liste des modifications que nous proposons, accompagnée d'exemples, plus loin.
 
-## Utilisations
-Voici la liste des utilisations possibles des points de personnage :
-* **Description des conséquences d'une action** : pour un point de personnage, un joueur peut décrire les conséquences directes d'une action de son personnage. Cette description reste sujette au veto du meneur. Le joueur devrait essayer d'impliquer au mieux les éléments qu'il a utilisés. De plus, la qualité de réussite et d'échec doit être conservée. *Par exemple, il n'est pas permis de décrire une contrepartie bénéfique en cas d'échec s'il ne s'agissait pas d'un échec de justesse.*
-* **Modification cosmétique** : pour un point de personnage, il est possible de modifier un élément lié à son personnage ou lui faire faire quelque chose sans que cela ne lui procure un avantage mais serve à le typer. *Par exemple, ne pas avoir les cheveux ébouriffés après une explosion ou pouvoir faire un monologue ininterrompu sont de telles utilisations.*
-* **Écarter ou conserver un dé** : pour trois points de personnages, un joueur peut choisir d'écarter ou de conserver un dé. Il est possible d'appliquer cette utilisation aux autres dés en payant à nouveaux les points demandés.
-* **Lien d'élément scénaristique** : pour au moins deux points de personnage, il est possible de lier un élément scénaristique à son personnage. *Par exemple, un joueur peut décider que son personnage connaît le videur qui l'empêche d'entrer dans une boîte de nuit.*
-* **Création d'élément scénaristique** : pour au moins trois points de personnage, le joueur peut créer un élément scénaristique ayant un lien avec son personnage. *Par exemple, il peut demander à ce que son personnage découvre une arme cachée sous le comptoir d'un bar.*
-* **Flashback** : pour au moins deux points de personnage, un joueur peut demander au meneur un bref flashback pour apporter un élément nouveau ou légèrement altérer certains faits qui n'ont pas été joués à l'écran. *Cela peut servir, par exemple, à justifier que le personnage ait pris certaines dispositions avant d'entrer dans un bâtiment sans que cela ait été joué.*
-* **Événement inattendu** : pour au moins quatre points de personnage, les joueurs peuvent faire intervenir un événement afin de forcer la (non) résolution d'une situation. *Par exemple, un début de dépressurisation suite à une micrométéorite lors de négociations qui s'embourbent.*
-* **Question au meneur** : pour deux points ou plus, un joueur peut poser une question au meneur sur des détails liés au scénario, ou demander un coup de pouce pour trouver une solution possible à une situation.
+Tous les participants, meneur et joueurs, possède un droit de veto. Si une modification proposée par un autre joueur donne un tournant à l'histoire que vous n'appréciez pas, ou s'il s'agit d'un abus manifeste, vous pouvez vous y opposer. Le joueur qui a fait la proposition récupère l'éventuel point de personnage qu'il a utilisé et la proposition est abandonnée.
 
->> ### Modification d'un personnage
->> Il est tentant d’utiliser les points de personnages pour modifier son personnage. Vous pourriez vouloir, par exemple, utiliser un flashback pour justifier de nouvelles compétences en matière de sortie spatial.
+## Modifications
+Il existe deux catégories de modifications :
+* Les modifications mineures : principalement cosmétiques, elles ne créent pas de nouvel élément dans l'histoire et se contentent de décrire des éléments existants. Les modifications mineures sont gratuites.
+* Les modifications majeures : permettent d'ajouter ou de modifier des éléments de l'histoire. Effectuer une modification majeure coûte un point de personnage.
+
+Voici une liste de modifications mineures :
+* **Décrire les conséquences d'une action** : décrivez les conséquences d'une action de votre personnage. Comme toutes les modifications scénaristiques, elle reste sujette au veto des participants, en particulier du meneur. Vous devez conserver la même qualité de réussite et d'échec. Vous ne pouvez donc pas décrire une contrepartie bénéfique en cas d'échec si la résolution de l'action n'en indique pas. *Par exemple, Skyline tente de convaincre un agent de sécurité de le laisser inspecter une scène de crime mais il échoue avec une contrepartie positive. Le joueur décide de décrire lui-même cette contrepartie positive et utilise son trait **Bavard** pour proposer que Skyline a réussi pendant l'opération à occuper suffisamment l'agent pour permettre à Razors de passer discrètement derrière plus facilement.*
+* **Modification cosmétique** : modifiez un élément lié à votre personnage ou faites lui faire quelque chose sans que cela ne vous procure un avantage mais serve à typer votre personnage. *Par exemple, alors qu'une fusillade fait rage à côté d'elle, Jay'ny explore la matrice. Bien que ça ne lui donnera aucun bonus pour la suite, son joueur décide d'utiliser son trait **Calme quand elle est connectée** pour avoir une posture zen en décalage avec la situation. (Notez que son trait ne lui procurerait réellement un avantage que s'il était utilisé normalement pour résoudre une action à propos.)*
+
+Voici une liste de modifications majeures :
+* **Lier un élément scénaristique** : liez un élément scénaristique à votre personnage. *Par exemple, alors que l'équipe tente d'entrer dans une boîte de nuit, un videur les arrête au prétexte que la salle est pleine. Sophie, qui joue Razors, utilise la relation **École militaire de Mars** de son personnage et propose que Razors connaîsse le videur.*
+* **Créer un élément scénaristique** : créez un élément scénaristique ayant un lien avec votre personnage. *Par exemple, alors qu'une fusillade a éclaté dans un bar, Nicolas qui joue Downlink, propose d'utiliser son trait **Débrouillard** pour découvrir une arme cachée sous le comptoir où il est retranché.*
+* **Faire un Flashback** : demandez au meneur un bref flashback pour apporter un élément nouveau ou altérer légèrement certains faits qui n'ont pas été joués à l'écran. *Par exemple, que l'équipe se prépare à questionner un membre des Phobos' Heigths, ce dernier réussi à prendre la fuite, la joueuse de Razors décide d'utiliser la carrière **Solar Wardners** et explique qu'avant de venir, elle a demandé aux forces de sécurité de se préparer à intervenir vu la réputation du triste sire qui court désormais droit dans un cordon de la sécurité.*
+* **Événement inattendu** : faites intervenir un événement inattendu pour forcer la (non) résolution d'une situation. *Par exemple, alors que des négociations avec l'équipe de sécurité s'embourbent, le joueur de Feyn utilise sa carrière **Astronaute** et propose qu'une alarme se déclenche à cause du début de la dépressurisation du module où ils sont. Une micrométéorite vient visiblement de faire des dégâts.*
+
+>> La liste de modification que nous proposons est indicative et vous pouvez y ajouter vos propres modifications. Gardez en tête toutefois que ce qui ajoute, supprime ou modifie la nature d'un élément scénaristique doit être considéré comme une modification majeure et coûter un point de personnage pour l'utiliser.
 >>
->> Si le meneur de jeu l’autorise, vous pouvez ajouter de nouveaux éléments ayant un score de 1. Dans certains cas particuliers, le meneur peut autoriser des éléments plus important à condition qu’ils ne soient conservés que la durée de la scène ou de l’épisode. L’exemple typique concerne du matériel spécialisé.
+>> Vous pouvez être tenté d'utiliser une modification pour ajouter un élément à votre personnage, par exemple utiliser un flashback pour justifier une compétence de votre personnage en matière de sortie spatiale. Nous vous déconseillons de permettre d'ajouter des éléments permanents à votre fiche de la sorte. À la place, vous pouvez gagner un état temporaire, par exemple, *Souvenir d'une sortie spatiale (1)*.
 >>
->> Si vous souhaitez améliorer votre personnage, en particulier durant une série, utilisez plutôt les règles des intrigues de personnages, décrites dans le chapitre *Personnages*.
+>> Si vous souhaitez améliorer votre personnage, en particulier durant une série, utilisez plutôt les règles des intrigues de personnages, décrites dans le chapitre : *Personnages*.
