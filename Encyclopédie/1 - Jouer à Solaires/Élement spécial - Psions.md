@@ -43,7 +43,7 @@ Traits psychologiques : *Créatif, Expansif, Orgueilleux, Charismatique*.
 
 ----
 ## Pouvoirs : Énergie 
-Les pouvoirs de l'énergie agissent sur les énergies suivante : la lumière, la chaleur, l'électricité et l'énergie cinétique. Chaque pouvoir ne peut manipuler qu'une seule de ces formes d'énergie à la fois.
+Les pouvoirs de l'énergie agissent sur les énergies suivantes : la lumière, la chaleur, l'électricité et l'énergie cinétique. Chaque pouvoir ne peut manipuler qu'une seule de ces formes d'énergie à la fois.
 
 Capacités :
 * **Percevoir l'énergie dans les objets**.
@@ -74,6 +74,8 @@ Traits psychologiques : *Rigoureux, Précis, Réfléchi, Rigide*.
 
 ## Pouvoirs : Information 
 Les pouvoirs de l'information manipulent la mémoire, la perception et les facultés cognitives.
+
+>> Les pouvoirs de ce domaine qui modifient la perception des choses que ce soit pour l'occulter ou en changer l'apparence semblent impacter tous les appareils de mesure connus. Ainsi, une balance sur laquelle se tient une personne occultée indiquera un poids nul.
 
 Capacités : 
 * **Lire les informations en mémoire vive ou les pensées superficielles d'un être organique ou cybernétique**. Si le dispositif crypte sa mémoire ou manifeste de la méfiance envers le psion, cette lecture devient impossible.
