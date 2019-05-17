@@ -1,4 +1,5 @@
 # Résoudre une action
+
 > *« À l’avenir, ils craindront les répercussions de leurs actions avant même de les mettre en œuvre. »*
 >
 > Marth, IA militaire de Vranberg-Lytan
@@ -7,22 +8,27 @@ Inévitablement, vous finirez par vous poser la question « Est-ce que cette ac
 
 Évidemment, il ne faut pas non plus utiliser ces règles pour toutes les actions. Par exemple, pour certaines l’issue est triviale, comme grimper un escalier dans des conditions normales. C’est au meneur d’estimer si une action doit être résolue avec ces règles ou non.
 
-Le fonctionnement de ces règles est simple : le meneur établit une difficulté et indique une éventuelle altération. Le joueur choisit un ou deux éléments de son personnage et lance les dés qui sont comparés à la somme de la difficulté et des scores des éléments. Enfin, en fonction du résultat, le meneur décrit le résultat.
+Le fonctionnement de ces règles est simple : le meneur établit une difficulté et indique les éventuels effets secondaires. Le joueur choisit un ou deux éléments de son personnage et lance les dés qui sont comparés à la somme de la difficulté et des scores des éléments. Enfin, en fonction du résultat, le meneur décrit les conséquences.
 
 ## Déterminer l’action
-Pour commencer, le joueur et le meneur doivent s’accorder sur le but de l’action :
+
+Pour commencer, il faut établir le but de l’action :
 * Que tente de faire le personnage ?
 * Que se passera-t-il en cas de réussite ?
 * Que se passera-t-il en cas d’échec ?
+* Y a-t-il des effets secondaires possibles ?
 
-Notez que nous déconseillons fortement un résultat maintenant le statu quo de la situation. Que ce soit une réussite ou un échec, une action devrait toujours avoir une conséquence !
+Même si la première réponse est généralement établie par le joueur et les trois autres par le meneur, les deux peuvent discuter pour s'accorder. Il est en effet très important que le joueur et le meneur aient la même idée de ce que le personnage tente et des conséquences prévisibles.
 
-De plus, tant que le joueur n’a pas lancé les dés, il est libre de revenir sur son choix.
+Précisons que nous vous déconseillons une action dont l'un des résultats serait : « Rien ne se passe ! ». Évitez autant que possible de maintenir le statu quo d'une situation après une action : qu'une action réussie ou qu'elle échoue, il doit se passer quelque chose !
+
+De plus, tant que le joueur n’a pas lancé les dés, il est libre de revenir sur son choix, y compris après que le meneur ait indiqué la difficulté de l'action. *Par exemple, Razors fait face au grand antagoniste de la série qui menace de causer de grands dégâts. Le joueur souhaite que son personnage combatte pour le mettre hors d'état de nuire. Après que le meneur ait indiqué la difficulté, Sophie, qui joue Razors, s'exclame : « Je me moque de survivre, je veux être sûre de l'avoir ! ». Justine, la meneuse lui explique alors qu'elle abaisse la difficulté, mais que si Sophie ne conserve pas les trois dés, elle sera mise hors service. La joueuse accepte.*
 
 ## Difficulté
+
 Le meneur évalue ensuite la difficulté de l’action. Pour y parvenir, il peut se servir de deux échelles de difficulté, l’une évaluant la difficulté intrinsèque de l’action, l’autre son intérêt pour l’histoire. Pour obtenir la difficulté finale, il peut simplement faire la somme de ses choix sur ces deux échelles.
 
-Notez, en particulier pour l’échelle de difficulté intrinsèque, que le choix du meneur ne doit pas reposer sur les éléments du personnage mais sur la nature de l’action en elle-même. De plus si le meneur juge une action impossible (ou triviale), il ne fait pas faire un jet de dés : elle échoue (ou réussit) automatiquement sans Effet secondaire.
+La difficulté intrinsèque représente la difficulté "objective" dans l'univers de jeu. Elle ne doit pas être estimée en fonction des compétences ou capacités du personnage, mais de façon absolue. Vous pouvez toutefois tenir compte de la façon dont compte s'y prendre le personnage si le joueur l'a indiqué.
 
 <table>
     <tr>
@@ -49,7 +55,9 @@ Notez, en particulier pour l’échelle de difficulté intrinsèque, que le choi
         <td>Seul quelqu’un de désespéré essaierait</td>
     </tr>
 </table>
-<br/>
+
+L'intérêt scénaristique est évaluée sur l'intérêt du résultat de l'action. Est-ce que l'échec ou la réussite de l'action est intéressant ? Il s'agit d'un avis qui peut être plus subjectif mais qui contribue à orienter l'histoire vers un déroulement plus intéressant qu'en ne laissant que le hasard faire. Évitez toutefois de vous en servir exclusivement pour coller à votre scénario préparé.
+
 <table>
     <tr>
         <th colspan="2">Échelle d’intérêt scénaristique</th>
@@ -76,14 +84,21 @@ Notez, en particulier pour l’échelle de difficulté intrinsèque, que le choi
     </tr>
 </table>
 
-## Choix des éléments
-Une fois la difficulté établie, ainsi que l’éventuelle altération, le joueur doit choisir un élément de son personnage. Les éléments sont tout ce qui possède un score sur sa fiche de personnage, que ce soit des traits, du matériel, etc. L’élément choisi doit avoir, en toute logique, un impact sur l'action.
+Notez que si le meneur juge une action impossible (ou triviale), il ne fait pas faire un jet de dés : elle échoue (ou réussit) automatiquement sans Effet secondaire. Ce sera aussi le cas si le score à battre par le joueur supérieur est à 5 ou inférieur à 1.
 
-Si l’action est typique pour cet élément – par exemple soigner quelqu'un avec la carrière *« Médecin »* ou pirater une porte avec un *« décodeur »* – le joueur peut choisir un second trait. Il n’a pas besoin d’être typique, mais doit quand même avoir un impact sur l’action. Même si ce second est typique, vous ne pouvez jamais utiliser plus de deux éléments pour une même action.
+*Exemple : Nicolas qui joue Downlink souhaite pirater le cerveau électronique d'un des robots de sécurité que Razors a abattus. Le meneur estime qu'il s'agit d'une action Complexe (0) car elle demande un minimum de spécialisation mais ne devrait pas être trop difficile pour un spécialiste. Il estime aussi que la réussite est intéressante (+2) car cette action pourra ouvrir de nouvelles pistes aux personnages. Le score de la difficulté est donc de 2 (0+2).*
+
+## Choix des éléments
+
+Une fois la difficulté établie, ainsi que l’éventuelle altération, le joueur doit choisir un élément de son personnage. Les éléments sont tout ce qui possède un score sur sa fiche de personnage, que ce soit des traits, du matériel, etc. L’élément choisi doit avoir, en toute logique, un impact sur l'action.
 
 Il est tout à fait permis de se servir d’éléments qui ne sont pas directement possédés par le personnage, tant qu’il est impliqué dans l’action. Ce sont des éléments de situation et sauf mention contraire, ils ont un score de 1.
 
 Par exemple, un pilote peut se servir d’un élément associé au vaisseau qu’il pilote, un technicien peut utiliser un trait prêté par un personnage qui l’aide, etc. Le décor peut aussi être une source d’élément lors d’une action. Attention toutefois, le meneur ne devrait pas se servir de ces éléments comme des bonus : il est plus avisé de jouer sur la difficulté.
+
+Si l’action est typique pour cet élément – par exemple soigner quelqu'un avec la carrière *« Médecin »* ou pirater une porte avec un *« décodeur »* – le joueur peut choisir un second trait. Il n’a pas besoin d’être typique, mais doit quand même avoir un impact sur l’action. Même si ce second est typique, vous ne pouvez jamais utiliser plus de deux éléments pour une même action.
+
+*Exemple : Nicolas choisi la carrière Decker de son personnage Downlink. Comme l'action est typique pour cette carrière, il peut choisir un second élément. Il choisit sa Console de décryptage comme second élément.*
 
 ## Résolution de l'action
 Pour commencer le jet de résolution, ajoutez la difficulté avec les éléments choisis par le joueur. Ce sera le score à battre.
