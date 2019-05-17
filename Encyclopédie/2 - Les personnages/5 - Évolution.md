@@ -20,10 +20,6 @@ Pour créer une intrigue, commencez par choisir la récompense que vous souhaite
 
 N’importe quel élément est susceptible d’être gagné ou amélioré tant qu’il n’entre pas en contradiction avec le reste du personnage ou de l’univers. Ainsi, le meneur, gardien de la cohérence de l’histoire, dispose d’un droit de veto.
 
->> Notez que la plupart des éléments avec un score de 1 peuvent être obtenus à travers les points de personnage ou comme récompense d’actions en jeu. De plus le meneur peut accorder gratuitement un tel élément. Les intrigues de personnages visent avant tout la progression et l’évolution du personnage à plus grande échelle et accorder gratuitement des éléments communs avec un score de 1 ne remet pas en cause l’équilibrage du jeu.
->> 
->> Toutefois, pour des éléments plus rares et réglementés, comme une bombe à plasma par exemple, le meneur peut exiger une intrigue.
-
 ## L’objectif
 Une intrigue doit avoir un objectif et l’accomplissement de celui-ci doit justifier le gain de la récompense. La nature de cet objectif peut être très variée : passer une certification, inventer un nouvel appareil, être formé par un maître, être reconnu par une organisation, etc.
 
@@ -31,16 +27,16 @@ Ici encore, l’objectif est contraint par l’univers et l’histoire de la sé
 
 >> Les intrigues n’ont pas besoin de nécessiter de grands exploits pour être accomplies, ça peut même être un moyen de décrire la vie quotidienne de votre personnage ou pour remplir les creux, pendant un voyage spatial par exemple.
 >> 
->> De plus, l’objectif peut relever de la volonté de votre personnage ou la « voie tracée par le destin ». Toutefois, Solaires traitant du transhumanisme et plus particulièrement de la transformation des êtres, la première option est sans doute la plus intéressante des deux.
+>> De plus, l’objectif peut relever de la volonté de votre personnage ou la « voie tracée par le destin ». Toutefois, Solaires traitant du transhumanisme et plus particulièrement de la transformation choisie de l'être, la première option est sans doute la plus intéressante des deux.
 
 ## Les étapes
 Le déroulement d’une intrigue de personnage est découpé en étape. Le nombre de ces étapes est déterminé par la récompense :
 * Améliorer un élément de 1 à 2 : 2 étapes ;
 * Améliorer un élément de 2 à 3 : 3 étapes ;
 * Améliorer un élément de 1 à 3 : 5 étapes ;
-* Gagner un élément rare ou réglementé avec un score de 1 : 1 étape ;
-* Gagner un élément avec un score de 2 : 2 étapes ;
-* Gagner un élément avec un score de 3 : 5 étapes.
+* Gagner un élément avec un score de 1 : 1 étape ;
+* Gagner un élément avec un score de 2 : 3 étapes ;
+* Gagner un élément avec un score de 3 : 6 étapes.
 
 Lors de la création de l’intrigue, il n’est pas nécessaire de définir toutes les étapes : seule la première étape est nécessaire initialement. C’est au joueur de définir l’étape, avec une fois de plus validation du meneur.
 
@@ -76,7 +72,7 @@ Il peut être intimidant pour un joueur de construire une intrigue lui-même. Bi
 >> De plus, si nous avons listé toutes les étapes à titre d’exemple, seule la première est nécessaire lors de la création de l’intrigue.
 
 **Obtenir une certification** :
-* pour obtenir une carrière à 2 ou en améliorer une de 1 à 2 ;
+* pour améliorer une carrière de 1 à 2 ;
 * étape 1 : *s’inscrire à un programme de formation* ;
 * étape 2 : *passer une épreuve de certification*.
 
@@ -96,6 +92,7 @@ Il peut être intimidant pour un joueur de construire une intrigue lui-même. Bi
 * pour obtenir une relation dans une organisation avec un score de 2 ;
 * étape 1 : *se faire remarquer par l’organisation* ;
 * étape 2 : *se faire recruter par l’organisation et y effectuer une tâche*.
+* étape 3 : *rendre un service permettant de gagner la confiance de l'organisation*.
 
 **Sauver un VIP** :
 * pour améliorer une relation de 2 à 3 ;
