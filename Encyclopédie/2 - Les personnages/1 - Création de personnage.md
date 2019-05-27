@@ -44,7 +44,7 @@ Toutes les méthodes de création de personnage que nous vous présenterons disp
 
 **Les relations** représentent les contacts, les alliés et autres liens sociaux du personnage. Il peut s'agit d'individus ou d'organisation. Dans ce dernier cas, nous ne faisons pas de distinction pour le score que l'on considère l'organisation elle-même ou les individus la composant. Voici les correspondances :
 * **Connu (0)** : le personnage peut est connu de l'entité mais elle n'a pas de raison de lui accorder quoi que ce soit.
-* **Favorable (1)** : l'entité accepte de fournir des faveurs au personnage tant que ça ne lui coûte ;
+* **Favorable (1)** : l'entité accepte de fournir des faveurs au personnage tant que ça ne lui coûte rien ;
 * **Allié (2)** : l'entité accepte d'aider le personnage même si cela représente un coût significatif, tant qu'elle ne court pas elle-même un risque significatif.
 * **Dévoué (3)** : l'entité est prête à s'engager complètement pour le personnage.
 
@@ -63,14 +63,14 @@ La première chose à faire est de fixer la nature du groupe et son objectif. Pa
 Une fois ces deux aspects définis, vous devez veiller à ce que l’équipe des PJ soit suffisamment polyvalente. Une aventure de Solaires peut couvrir plusieurs aspects : *Combat*, *Enquête*, *Espace*, *Infiltration*, *Informatique*, *Négociations*, *Relations* et *Technologie*. Il est indispensable que l’équipe des PJ soit en mesure de faire face aux situations découlant de tous ces aspects, ou tout du moins de tous ceux que le meneur a prévu de faire intervenir. Les personnages du groupe devraient donc se répartir les différents aspects sans oublier un peu de redondance au cas où. Nous vous conseillons d’attribuer trois de ces rôles à chaque personnage.
 
 >> Pour vous aider à mieux cerner ce que ces rôles recouvrent, en voici une description plus précise :
->> * **Combat** : particulièrement mis en avant dans les jeux de rôles en général, le combat n’est qu’un des nombreux aspects développés dans Solaires. Il s’agit ici de gérer les affrontements armés et la guerre.
->> * **Enquête** : l’enquête tient une place importante dans la plupart des scénarios. Les personnages s’occupant de cet aspect sont confrontés à la recherche d’indices et leur analyse. Ils sont particulièrement doués pour repérer les détails qui échapperaient à d’autres personnages.
->> * **Espace** : l’espace est un environnement intrinsèquement hostile. Ceux qui y sont régulièrement confrontés savent se préparer pour les sorties et connaissent toutes les procédures pour en revenir vivant. N’oubliez pas : l’espace est pratiquement omniprésent dans les colonies.
->> * **Infiltration** : agir sans se faire repérer est indispensable pour de nombreuses missions et ceux qui excellent dans cet art sont très recherchés. Récupérer quelque chose, effectuer un sabotage, extraire quelqu’un, etc. voila des choses que l’on peut faire sans bruit.
->> * **Informatique** : l’informatique est omniprésente dans la société des solaires et ceux qui savent s’en servir et la maîtrisent disposent de moyens qui débordent très largement du cadre virtuel. Qu’il s’agisse de récupérer des données ou de prendre le contrôle d’une infrastructure, c’est souvent la voie la plus directe pour y parvenir.
->> * **Négociation** : à part les sauvages, la plupart des gens préfèrent dialoguer avant d’envisager d’autres solutions, notamment la violence. La négociation représente les conflits sociaux, qu’il s’agisse de demander des faveurs, des services, ou de se disculper. Convaincre, négocier, marchander.
->> * **Relation** : avoir le bras long est un avantage indéniable. Connaître des gens de tout milieu permet d’obtenir des informations, des services ou du soutien en cas de coup dur.
->> * **Technologie** : la technologie est un domaine vaste qui entre les bonnes mains permet pratiquement de réaliser n’importe quoi. Celui qui le maîtrise peut comprendre le fonctionnement d’un appareil étrange, assembler un outil dans l’urgence, neutraliser un système automatisé, etc.
+>> * **Combat** : particulièrement mis en avant dans les jeux de rôles en général, le combat n’est qu’un des nombreux aspects développés dans Solaires. *(Verbes : combattre, défendre, faire la guerre, etc.)*
+>> * **Enquête** : l’enquête tient une place importante dans la plupart des scénarios. Les personnages s’occupant de cet aspect sont confrontés à la recherche d’indices et leur analyse. Ils s'occupent aussi des interrogatoires. *(Verbes : chercher des indices ou des preuves, interroger des témoins ou des suspects.)*
+>> * **Espace** : l’espace est un environnement intrinsèquement hostile et il est suicidaire de sy aventurer sans y être préparé. Et l’espace est pratiquement omniprésent dans les colonies. *(Verbes : faire une sortie, appliquer les procédures spatiales, gérer une catastrophe, piloter, etc.)*
+>> * **Infiltration** : agir sans se faire repérer est indispensable pour de nombreuses missions et ceux qui excellent dans cet art sont très recherchés. Même les corporations se livrent à cette guerre invisible. *(Verbes : agir discrètement, s'infiltrer dans un lieu, se faire passez pour quelqu'un d'autre, etc.)*
+>> * **Informatique** : l’informatique est omniprésente dans la société des solaires et ceux qui savent s’en servir et la maîtrisent disposent de moyens qui débordent très largement du cadre virtuel. Qu’il s’agisse de récupérer des données ou de prendre le contrôle d’une infrastructure, c’est souvent la voie la plus directe pour y parvenir. *(Verbes : récupérer des données, traiter des données, pirater des serveurs, combattre sur la matrice, etc.)*
+>> * **Négociation** : à part les sauvages, la plupart des gens préfèrent dialoguer avant d’envisager d’autres solutions, notamment la violence, du simple marchandage à la haute diplomatie. *(Verbes : négocier, convaincre, faire de la politique ou de la diplomatie, etc.)*
+>> * **Relation** : avoir le bras long est un avantage indéniable. Connaître des gens de tout milieu permet d’obtenir des informations, des services ou du soutien en cas de coup dur. *(Verbes : posséder un réseau de contact, savoir à qui demander, être connu, etc.)*
+>> * **Technologie** : la technologie est un domaine vaste qui entre les bonnes mains permet pratiquement de réaliser n’importe quoi. Celui qui le maîtrise peut possède un grand pouvoir dans les colonies. *(Verbes : réparer, soigner, saboter, construire, inventer, connaitre la technologie et la science, etc.)*
 
 Cette étape passée, vous pouvez commencer à construire votre personnage. Continuez d'échanger entre joueurs pour éviter de créer des personnages qui se ressemblent trop ou des personnages incompatibles. Dans le même temps, profitez-en pour définir la place de chaque personnage dans le groupe : par exemple, sur un vaisseau, qui est le commandant, qui est l’officier technique, qui est l’officier de la sécurité, etc.
 
@@ -107,7 +107,7 @@ Notez que les personnages construits par ces différentes méthodes sont totalem
 
 ## Créer autre chose que des personnages
 
-Vous aurez peut-être envie de créer d'autres choses que des personnages. Par exemple, vous pourriez souhaiter créer un vaisseau spatial pour vote équipe ou un jeu d'enveloppes particulières pour un Émissaire (un personnage habitué à changer souvent s'enveloppe), ou un personna pour un espion ?
+Vous aurez peut-être envie de créer d'autres choses que des personnages. Par exemple, vous pourriez souhaiter créer un vaisseau spatial pour vote équipe ou un jeu d'enveloppes particulières pour un Émissaire (un personnage habitué à changer souvent d'enveloppe), ou un personna pour un espion ?
 
 Ces entités peuvent être construites simplement en employant la méthode descriptive, ou via un questionnaire adapté. Bien entendu, elles ne possèdent pas toutes les catégories d'éléments des personnages, et peuvent même posséder des catégories propres.
 
