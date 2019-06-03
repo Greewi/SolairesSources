@@ -209,7 +209,7 @@ Voici une liste, elle aussi non exhaustive, des modifications organiques les plu
 
 ----
 ## Équipement
-L'équipement est le matériel que transporte et utilise votre personnage régulièrement. Il est probable qu'il n'emporte pas tout ce matériel : un astronaute en vacance ne se balade pas en combinaison spatiale. Là encore choisissez l’équipement en rapport avec les carrières de votre personnage : par exemple, un technophile devrait toujours prendre un *Multi-tool*, mais probablement pas une *Grenade shock*.
+L'équipement est le matériel que transporte et utilise votre personnage régulièrement. Il est probable qu'il n'emporte pas tout ce matériel : un astronaute en vacances ne se balade pas en combinaison spatiale. Là encore choisissez l’équipement en rapport avec les carrières de votre personnage : par exemple, un technophile devrait toujours prendre un *Multi-tool*, mais probablement pas une *Grenade shock*.
 
 >> Notez l’équipement de votre personnage dans le cartouche correspondant.
 

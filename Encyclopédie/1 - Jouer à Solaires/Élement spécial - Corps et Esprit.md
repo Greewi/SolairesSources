@@ -65,7 +65,7 @@ Toutes les intelligences ne peuvent pas être incarnée dans n'importe quelle en
         <td>Incompatible</td>
         <td>Incompatible</td>
         <td>Compatible</td>
-        <td>Incompatoble</td>
+        <td>Incompatible</td>
     </tr>
 </table>
 
@@ -81,20 +81,20 @@ Première raison pour laquelle les solaires changent de corps, le voyage par té
 
 ## Métamorphose
 
-Changer d'enveloppe est un choix pour de nombreux solaires. Souvent, il s'agit du passage de son corps d'origine à une enveloppe conçue et améliorée. D'autres fois, la précédente enveloppe était trop endommagée et il était plus simple de la recycler et d'en produire faire une nouvelle. Dans ces cas, l'enveloppe finale reste, du point de vue de ces solaires, à peu près la même.
+Changer d'enveloppe est un choix pour de nombreux solaires. Souvent, il s'agit du passage de son corps d'origine à une enveloppe conçue et améliorée. D'autres fois, la précédente enveloppe était trop endommagée et il était plus simple de la recycler et d'en produire une nouvelle. Dans ces cas, l'enveloppe finale reste, du point de vue de ces solaires, à peu près la même.
 
 Mais la métamorphose, qui consiste effectivement à changer d'enveloppe pour quelque chose de différents est un phénomène de plus en plus courant mais qui présente néanmoins des risques. Pour commencer le mal de l'embodiment peut y être considérablement plus accentué et durable. Ensuite, ce nouveau choix peut finalement se révéler décevant voir profondément frustrant : certains solaires peuvent ainsi changer régulièrement d'enveloppe sans jamais être satisfait.
 
-Malgré tout, la métamorphose est un choix de plus en plus courant et quitte à devoir changer d'enveloppe, autant prendre quelque chose de nouveau. Avec les avancées dans les domaines de la technologie et de la science, les enveloppes continuent d'évoluer et les solaires d'en changer.
+Malgré tout, la métamorphose est un choix de plus en plus courant et quitte à devoir changer d'enveloppe, de plus en plus de solaires choisissent d'essayer quelque chose de nouveau. >Et avec les avancées dans les domaines de la technologie et de la science, les enveloppes continuent d'évoluer et les solaires d'en changer.
 
 L'esprit lui-même peut aussi être modifié et il existe principalement trois façons de procéder :
-* **L'émulation** : qui consiste simuler informatiquement le fonctionnement du substrat d'origine de l'esprit dans une enveloppe cybernétique ou hyper-hybride. Cette transformation est habituellement réversible.
-* **La supervision** : qui consiste à adjoindre une IA pour superviser le fonctionnement de l'esprit et améliorer ses temps de réponse et contraindre certaines réactions (par exemple supprimer la peur). Cette transformation n'est pas réversible : passé un certain temps l'esprit est beaucoup trop habitué à fonctionner en tandem avec l'IA de supervision.
-* **L'infomorphisation** : qui consiste à transformer un esprit non-IA en un être informorphe. Concrètement l'opération peut être assimilée à la création d'une intelligence artificielle de type Synchro à laquelle sont ajouté les souvenirs et le caractère de l'être d'origine.
+* **L'émulation** : qui consiste à simuler informatiquement le fonctionnement du substrat d'origine de l'esprit dans une enveloppe cybernétique ou hyper-hybride. Cette transformation est habituellement réversible.
+* **La supervision** : qui consiste à adjoindre une IA pour superviser le fonctionnement de l'esprit et améliorer ses temps de réponse et contraindre certaines réactions (par exemple supprimer la peur). Cette transformation est difficilement réversible : passé un certain temps l'esprit est beaucoup trop habitué à fonctionner en tandem avec l'IA de supervision et le retrait de l'IA conduit au mal de l'embodiment.
+* **L'infomorphisation** : qui consiste à transformer un esprit non-IA en un être informorphe. Concrètement l'opération peut être assimilée à la création d'une intelligence artificielle de type Synchro à laquelle sont ajouté les souvenirs et le caractère de l'être d'origine. L'opération est alors définitive.
 
 ## Résurrection
 
-Pratiquement tous les solaires possèdent une, ou plusieurs, sauvegarde. Ces données contiennent un instantané de l'esprit de l'utilisateur ainsi que les paramètres de l'enveloppe en interaction avec. Les sauvegardes les plus complètes contiennent aussi une numérisation intégrale de l'enveloppe.
+Pratiquement tous les solaires possèdent une ou plusieurs sauvegardes. Ces données contiennent un instantané de l'esprit de l'utilisateur ainsi que les paramètres de l'enveloppe en interaction avec. Les sauvegardes les plus complètes contiennent aussi une numérisation intégrale de l'enveloppe.
 
 Les sauvegardes sont conservées par les sociétés et services principaux des corporations :
 * **Mnemesics** (Mars) ;
@@ -129,8 +129,8 @@ Le Merge est l'opération inverse : faire fusionner deux instances pour n'en ob
 >> 
 >> Si fait avec un matériel adapté, l'opération de transfert est triviale. Dans le cas contraire, eh bien, il vous faudra construire le dispositif. Dans ce dernier cas, un échec peut avoir des conséquences graves, tragiques et/ou amusantes...
 >> 
->> Une fois installé sans une nouvelle enveloppe, le personnage doit encore s'y adapter. Il s'agit d'une action dont la difficulté va de +2, avec certaines enveloppes spécialement prévue pour le confort lors de l'upload, à -4 pour une enveloppe ne correspondant pas du tout à la morphologie ou aux sens auquel l'esprit est habitué.
+>> Une fois installé dans une nouvelle enveloppe, le personnage doit encore s'y adapter. Il s'agit d'une action dont la difficulté va de +2, avec certaines enveloppes spécialement prévue pour le confort lors de l'upload, à -4 pour une enveloppe ne correspondant pas du tout à la morphologie ou aux sens auquel l'esprit est habitué.
 >> 
->> En cas d'échec de l'adaptation, le personnage avoir le mal de l'embodiment qui se caractérise par des nausées et une désorientation. Si l'enveloppe est radicalement différente de celle dont il a l'habitude, ce mal est bien plus important et il est très probable que le personnage soit même incapacité.
+>> En cas d'échec de l'adaptation, le personnage peut avoir le mal de l'embodiment qui se caractérise par des nausées et une désorientation. Si l'enveloppe est radicalement différente de celle dont il a l'habitude, ce mal est bien plus important et il est très probable que le personnage soit même incapacité.
 >> 
 >> Si le personnage a déjà été habitué à cette enveloppe, notamment s'il revient dans une de ses enveloppes précédentes, la difficulté n'est que de +2 et le mal de l'embodiment se révèlera très léger en cas d'échec.

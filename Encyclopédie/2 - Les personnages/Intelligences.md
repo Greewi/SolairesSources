@@ -1,5 +1,5 @@
 # Intelligences
-> *« Réunir les deux mondes de la physique n'aura pas été le plus compliqué. Réussi à vous en donner les intuitions est bien pire : je n'y suis pas encore parvenu. »*
+> *« Réunir les deux mondes de la physique n'aura pas été le plus compliqué. Vous en donner les intuitions pour le comprendre est bien plus difficile : je n'y suis d'ailleurs pas encore parvenu. »*
 > 
 > Wolfa, intelligence artificielle de recherche
 
@@ -7,47 +7,47 @@ L'esprit, ou l'intelligence, est un composant clé des personnages. C'est son mo
 
 ## Les grandes catégories
 Il existe de nombreuses catégories d'intelligences que nous détaillerons par la suite. En voici un court résumé :
-* Intelligence naturelle (humains) ;
-* Intelligence provoluée ;
+* Intelligences naturelles (humains) ;
+* Intelligences provoluées ;
 * Intelligences supervisées ;
-* Intelligences Infomorphisée ou Éthérés ;
+* Intelligences Infomorphisées ou Éthérés ;
 * Intelligences artificielles.
 
 ## Sentience
 
 Dans solaires, la sentience est une propriété émergente dont la définition a évolué par rapport à celle du début du siècle. Légalement, les corporations se réfèrent au traité des Solaires qui défini sommairement la sentience comme l'ensemble des traits suivants :
-* Conscience de soi : l'être a conscience de lui et peut s'identifier.
-* Conscience de son environnement : l'être à conscience de son environnement et le distingue de lui-même. Il est aussi conscient de sa capacité à influer sur cet environnement.
-* Conscience des autres : l'être est conscient de l'existence des autres êtres sentients qui l'entourent.
-* Capacité de perceptions : l'être est capable de percevoir son environnement.
-* Capacité d'émotion : l'être est capable de ressentir des émotions ou d'en comprendre le concept.
-* Capacité de communication : l'être est capable de communiquer avec d'autres êtres sentients.
-* Capacité à l'auto-détermination : l'être est capable de définir ses propres objectifs et ne repose pas sur une autorité extérieure pour le faire.
+* **Conscience de soi** : l'être a conscience de lui et peut s'identifier.
+* **Conscience de son environnement** : l'être à conscience de son environnement et le distingue de lui-même. Il est aussi conscient de sa capacité à influer sur cet environnement.
+* **Conscience des autres** : l'être est conscient de l'existence des autres êtres sentients qui l'entourent.
+* **Capacité de perceptions** : l'être est capable de percevoir son environnement.
+* **Capacité d'émotion** : l'être est capable de ressentir des émotions ou d'en comprendre le concept.
+* **Capacité de communication** : l'être est capable de communiquer avec d'autres êtres sentients.
+* **Capacité d'auto-détermination** : l'être est capable de définir ses propres objectifs et ne repose pas sur une autorité extérieure pour le faire.
 
-Si un être répond à tous ces critères, il est automatiquement considéré comme sentient par les lois des corporations. S'il manque certains traits ou s'ils sont incomplets, les corporations examinent le cas.
+Si un être répond à tous ces critères, il est automatiquement considéré comme sentient par les lois des corporations. S'il manque certains traits ou s'ils sont incomplets, les corporations examinent le cas en partant d'une présomption de sentience.
 
 Les corporations peuvent déclarer un être quasi-sentient s'il répond quand même à plusieurs critères de la sentience (généralement une forme de la conscience de soi, de son environnement et des autres, associé à la capacité de communication et de comprendre le concept d'émotion sans les ressentir). Si un tel être ne peut ressentir aucune forme de souffrance, il peut alors être employé comme tous les êtres non sentients.
 
 La notion de sentience redéfinie replace les animaux dans ce nouveau contexte et afin d'éviter des complications légales (et logistiques), les animaux domestiques et de compagnies sont interdits dans les colonies.
 
->> Note, bien que certains rôlistes vétérans peuvent y trouver leur compte, nous déconseillons fortement les personnages joueurs non-sentients ou quasi-sentients.
+>> Note, bien que certains rôlistes vétérans puissent y trouver leur compte, nous déconseillons fortement les personnages joueurs non-sentients ou quasi-sentients.
 
 ## Intelligences naturelles, humains
 
-Les humains sont la première forme d'intelligence sentiente arrivée dans les colonies. Bien que rapidement remplacés par des robots pilotés par des intelligences artificielles pour le gros œuvre externe, ils sont restés à la tête des corporations et des colonies, même s'ils sont de plus en plus souvent associés avec des intelligences artificielles dans les pôles de direction.
+Les humains sont la première forme d'intelligence sentiente arrivée dans les colonies. Bien que rapidement remplacés par des robots pilotés par des intelligences artificielles pour le gros œuvre externe, ils sont restés à la tête des corporations et des colonies, bien qu'ils soient de plus en plus souvent associés avec des intelligences artificielles dans les pôles de direction.
 
 Les intelligences humaines non modifiées restent nombreuses, mais la plupart des humains qui s'investissent dans les colonies ont franchis le pas de la cybernétisation et de la supervision, quand, plus rarement, ils ne sont pas tout simplement devenus des éthérés.
 
-Aujourd'hui, les humains non modifiés sont devenus bien plus rares dans les sphères dirigeantes et tactiques du fait de leur désavantage vis-à-vis de ceux qui ont fait leur métamorphose. Ils ne sont toutefois pas considéré par les autorités comme des sous-citoyens et sont protégés de la discrimination comme le reste des solaires.
+Aujourd'hui, les humains non modifiés sont devenus bien plus rares dans les sphères dirigeantes et tactiques du fait de leur désavantage vis-à-vis de ceux qui ont fait leur métamorphose. Ils ne sont toutefois pas considérés par les autorités comme des sous-citoyens et sont protégés de la discrimination comme le reste des solaires.
 
 <table>
     <tr><th colspan="2">Compatibilité des intelligences naturelles</th></tr>
-    <tr><td>Biologique, provolué</td><td>Compatible</td></tr>
-    <tr><td>Bio-modifié, Réplicant, Chimère</td><td>Compatible</td></tr>
-    <tr><td>Cyborg</td><td>Compatible</td></tr>
-    <tr><td>Cybernétique</td><td>Compatible via émulation</td></tr>
-    <tr><td>Hyper-hybride</td><td>Compatible via émulation</td></tr>
-    <tr><td>Informophe</td><td>Incompatible</td></tr>
+    <tr><th>Biologique, provolué</th><td>Compatible</td></tr>
+    <tr><th>Bio-modifié, Réplicant, Chimère</th><td>Compatible</td></tr>
+    <tr><th>Cyborg</th><td>Compatible</td></tr>
+    <tr><th>Cybernétique</th><td>Compatible via émulation</td></tr>
+    <tr><th>Hyper-hybride</th><td>Compatible via émulation</td></tr>
+    <tr><th>Informophe</th><td>Incompatible</td></tr>
 </table>
 
 >> Bien que jouer un humain puisse sembler être le choix par défaut, nous vous encourageons à examiner aussi les autres possibilités, notamment les *Intelligences supervisées* et les *Intelligences artificielles* qui ne sont pas nécessairement beaucoup plus difficiles à jouer tout en apportant un peu plus d'exotisme.
@@ -68,15 +68,15 @@ Les intelligences provoluées sont compatibles avec les enveloppes provoluées, 
 
 <table>
     <tr><th colspan="2">Compatibilité des intelligences provoluées</th></tr>
-    <tr><td>Biologique, provolué</td><td>Compatible</td></tr>
-    <tr><td>Bio-modifié, Réplicant, Chimère</td><td>Compatible</td></tr>
-    <tr><td>Cyborg</td><td>Compatible</td></tr>
-    <tr><td>Cybernétique</td><td>Compatible via émulation</td></tr>
-    <tr><td>Hyper-hybride</td><td>Compatible via émulation</td></tr>
-    <tr><td>Informophe</td><td>Incompatible</td></tr>
+    <tr><th>Biologique, provolué</th><td>Compatible</td></tr>
+    <tr><th>Bio-modifié, Réplicant, Chimère</th><td>Compatible</td></tr>
+    <tr><th>Cyborg</th><td>Compatible</td></tr>
+    <tr><th>Cybernétique</th><td>Compatible via émulation</td></tr>
+    <tr><th>Hyper-hybride</th><td>Compatible via émulation</td></tr>
+    <tr><th>Informophe</th><td>Incompatible</td></tr>
 </table>
 
->> Jouer un provolué peut être intéressant sur le principe, mais demande des joueurs expérimentés si vous voulez exploiter toute la subtilité. L'expérience montre que nombre des joueurs s'intéressant initialement aux provolués souhaitent plutôt s'orienter vers des chimères avec des intelligences artificielles ou humaines et dérivées.
+>> Jouer un provolué peut être intéressant sur le principe, mais demande des joueurs expérimentés si vous voulez en exploiter toute la subtilité. L'expérience montre que nombre des joueurs s'intéressant initialement aux provolués souhaitent plutôt s'orienter vers des chimères avec des intelligences artificielles ou humaines et dérivées.
 
 ## Supervision et intelligences supervisées
 
@@ -86,16 +86,16 @@ L'IA de supervision est installée au-dessus de l'esprit supervisé : elle filt
 
 Concrètement, l'IA est capable de recentrer l'attention de son sujet, d'effacer ou retarder certaines émotions nuisibles, et d'agir avant le réflexe conscient. Toutefois, cette IA n'exécute pas ses propres décisions mais anticipe les décisions de l'utilisateur, ou tout du moins celles qu'il aurait pris dans des conditions lui permettant de réfléchir au calme.
 
-La supervision continue, et continuera encore longtemps, à être le sujet de polémiques et de débats éthiques. Toutefois, cette opération est inversible et l'utilisateur peut choisir de couper temporairement cette IA, notamment lorsqu'il souhaite se détendre. Si la plupart des supervisés préfèrent disposer de cet outil, certaines personnes choisissent de désinstaller définitivement leur IA de supervision, l'opération étant parfaitement réversible.
+La supervision continue, et continuera encore longtemps, à être le sujet de polémiques et de débats éthiques. Si la plupart des supervisés préfèrent conserver cet outil, certaines personnes choisissent de désinstaller définitivement leur IA de supervision. Malheureusement, au fil du temps, cette opération devient de plus en plus difficile car l'esprit s'habitue à ce fonctionnement symbiotique.
 
 <table>
     <tr><th colspan="2">Compatibilité des intelligences supervisées</th></tr>
-    <tr><td>Biologique, provolué</td><td>Incompatible</td></tr>
-    <tr><td>Bio-modifié, Réplicant, Chimère</td><td>Incompatible</td></tr>
-    <tr><td>Cyborg</td><td>Compatible</td></tr>
-    <tr><td>Cybernétique</td><td>Compatible via émulation</td></tr>
-    <tr><td>Hyper-hybride</td><td>Compatible via émulation</td></tr>
-    <tr><td>Informophe</td><td>Incompatible</td></tr>
+    <tr><th>Biologique, provolué</th><td>Incompatible</td></tr>
+    <tr><th>Bio-modifié, Réplicant, Chimère</th><td>Incompatible</td></tr>
+    <tr><th>Cyborg</th><td>Compatible</td></tr>
+    <tr><th>Cybernétique</th><td>Compatible via émulation</td></tr>
+    <tr><th>Hyper-hybride</th><td>Compatible via émulation</td></tr>
+    <tr><th>Informophe</th><td>Incompatible</td></tr>
 </table>
 
 >> Jouer un personnage supervisé n'est pas fondamentalement différente de jouer un humain dans la plupart des situations. Voyez la supervision comme l'augmentation de l'esprit humain de la même manière que les cyborgs sont une augmentation du corps humain. Un joueur, même débutant, n'aura pas de problème pour jouer un personnage disposant de ce type d'esprit.

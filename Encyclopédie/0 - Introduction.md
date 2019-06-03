@@ -101,6 +101,7 @@ Enfin, je dédie ce jeu à l'Humanité, puisse-t-elle mieux traiter ses enfants 
 * **Cyborg absolu** : humain dont la conscience a été numérisée et émulée dans un corps cybernétique.
 * **Enveloppe** : corps physique pouvant abriter une intelligence. Les serveurs sur lesquels peuvent se trouver des IA, éthérés ou personnes émulés ne sont pas considérés comme des enveloppes car n'utilisant généralement pas une propriété personnelle ou privée. 
 * **Ethéré** : humain dont la conscience a été numérisée et transformée pour lui permettre de vivre sur le réseau comme une IA.
+* **EVA** : (Activité Extra-Véhiculaire) opération menée hors de l'enceinte d'un véhicule ou d'une installation.
 * **Extraterrestre** : entité hypothétique dont l'origine serait extra-solaire.
 * **HIARTech** : première des corporations, aujourd'hui appelée « Mars ».
 * **Hyper-hybride** : être cybernétique et organique dont le mélange des deux phases se fait dès le niveau cellulaire.
