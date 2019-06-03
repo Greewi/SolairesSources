@@ -46,7 +46,7 @@ Voici une liste des principaux outils utilisé dans ce domaine :
 >> ### Exemple de situation : Construire un gadget
 >> Pour résoudre certaines situations, les personnages peuvent manquer d’un outil particulier, que ce soit une pièce pour réparer une machine, un sérum contre une toxine, un logiciel pour restaurer un système, etc. Souvent, vous n’aurez pas la possibilité de vous le procurer de façon régulière, en le demandant à un contact ou en l’achetant à un fournisseur, etc. Heureusement, de nombreux personnages sont capables de concevoir des appareils apportant une solution plus ou moins temporaire à ce genre de problème.
 >> 
->> La fabrication d’un gadget s’effectue en plusieurs étapes : conception, préparation et mise en œuvre.
+>> La fabrication d’un gadget s’effectue en plusieurs étapes : conception, préparation et mise en œuvre. Note : en fonction de l'importance du gadget pour l'histoire, vous n'aurez pas nécessairement besoin, ni envie, de suivre tout ce processus détaillé.
 >> 
 >> La première étape, la conception, consiste préparer les plans, la formule ou le programme du gadget. C’est une opération qui peut prendre de quelques minutes à plusieurs heures en fonction de l’ampleur du projet. La difficulté de cette étape varie de +2 à -2 en fonction de la spécialisation et la complexité de l’appareil. Pour un logiciel, cette étape seule peut suffire, sauf si elle a besoin de données spécifiques pour fonctionner.
 >> 

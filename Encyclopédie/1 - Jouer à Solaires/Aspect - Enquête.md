@@ -3,6 +3,8 @@
 >
 > Nightly, justicière
 
+>> TODO : Réintégrer les intérrogatoires
+
 Les enquêtes prennent souvent une place importante dans les aventures que propose Solaires. Il n’est aussi pas rare que les personnages aient à rechercher et analyser des indices pour lever le voile sur les affaires sur lesquels ils sont confrontés.
 
 ## Conseils et ambiance
@@ -52,7 +54,7 @@ Voici une description des principaux outils liés à la recherche et l’analyse
 >> 
 >> Numériser une scène demande une action dont la difficulté varie en fonction de la complexité et de l’état des lieux : de 0, pour une scène de crime simple où les éléments sont statiques, à -4, dans une situation particulièrement chaotique avec de nombreux fragments à la dérive. Le résultat de cette numérisation est une représentation fidèle de la zone enregistrée. En cas d’échec, l’enregistrement peut être incomplet, voire déformé. Dans ces cas, les personnages ne s’en apercevront que bien plus tard.
 >> 
->> Prélever des preuves physiques est généralement plus simple : le principal risque étant d’altérer ou de détruire l’indice en question. Il s’agit ici d’une action dont la difficulté varie de +2 pour un objet solide et simple à collecter à -2 pour une preuve extrêmement volatile, comme les cendres figées d’une feuille calcinée qui n’attendent qu’un courant d’air pour être dispersée. Échouer signifie généralement que l’indice a été endommagé, contaminé, voire complètement détruit.
+>> Prélever des preuves physiques est généralement plus simple : le principal risque étant d’altérer ou de détruire l’indice en question. Il s’agit ici d’une action dont la difficulté varie de +4 pour un objet solide et simple à collecter à -2 pour une preuve extrêmement volatile, comme les cendres figées d’une feuille calcinée qui n’attendent qu’un courant d’air pour être dispersée. Échouer signifie généralement que l’indice a été endommagé, contaminé, voire complètement détruit.
 >> 
 >> Pour numériser de petites preuves, comme une empreinte organique ou le motif formé par des nanorobots de piratage, il est nécessaire de disposer d’un scanner possédant une résolution suffisante. Habituellement, un scanner wolfa portatif fait le travail et un personnage peut obtenir une numérisation fidèle de l’indice en réussissant une action d’une difficulté allant de 0, pour une preuve en parfait état, à -4, si elle a été volontairement dégradée. En cas d’échec, le personnage peut obtenir une numérisation en apparence correcte mais qui ne donnera aucun vrai résultat lors de son analyse, où les emmènera sur de fausses pistes.
 
@@ -63,4 +65,8 @@ Voici une description des principaux outils liés à la recherche et l’analyse
 >> 
 >> En cas d’échec, le personnage ne parvient pas à trouver quoi que ce soit et à moins d’utiliser une méthode radicalement différente, il ne pourra pas réessayer, pas plus qu’un de ses camarades. Il est aussi possible qu’il ait déclenché une alerte ou un piège.
 >> 
->> De façon générale, nous vous conseillons de bloquer des indices essentiels à l’histoire derrière un tel test de résolution. Les recherches des joueurs devraient toujours leur permettre d’obtenir ces informations vitales, qu’il s’agisse d’une réussite ou d’un échec, s’ils n’ont pas d’autre moyen de les trouver.
+>> De façon générale, nous vous déconseillons de bloquer des indices essentiels à l’histoire derrière un tel test de résolution. Les recherches des joueurs devraient toujours leur permettre d’obtenir ces informations vitales, qu’il s’agisse d’une réussite ou d’un échec, s’ils n’ont pas d’autre moyen de les trouver.
+
+
+>> ### Exemple de situation : Mener un interrogatoire
+>> 

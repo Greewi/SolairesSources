@@ -3,6 +3,8 @@
 > 
 > Goldfish, espion martien
 
+>> TODO : Rajouter l'infiltration sociale
+
 Les personnages ne pourront pas toujours agir au grand jour pour accomplir leurs missions. Que ce soit pour fouiller un lieu privé, prendre l’avantage sur un adversaire ou éviter d’attirer l’attention des forces de sécurité, ils devront parfois se montrer particulièrement discrets.
 
 ## Conseils et ambiance
