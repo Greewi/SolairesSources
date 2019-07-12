@@ -4,6 +4,9 @@
 >
 > Jova, vulgarisatrice scientifique
 
+>> TODO : Préciser que les carrières contiennent des relations anonymes
+>> 
+
 Pour créer vos personnages, vous disposez de plusieurs méthodes que nous décrivons dans les sections suivantes. Mais avant de plonger dans celles-ci, nous vous présentons les règles générales qui permettent de définir ce que sont les personnages et que vous retrouverez dans les différentes méthodes de création.
 
 ## De quoi est fait un personnage ?

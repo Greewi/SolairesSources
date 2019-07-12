@@ -67,6 +67,14 @@ Voici une description des principaux outils liés à la recherche et l’analyse
 >> 
 >> De façon générale, nous vous déconseillons de bloquer des indices essentiels à l’histoire derrière un tel test de résolution. Les recherches des joueurs devraient toujours leur permettre d’obtenir ces informations vitales, qu’il s’agisse d’une réussite ou d’un échec, s’ils n’ont pas d’autre moyen de les trouver.
 
-
 >> ### Exemple de situation : Mener un interrogatoire
 >> 
+>> Interroger un suspect ou un témoin peut se révéler particulièrement important dans une affaire, mais aussi très délicat. Plus d'une enquête s'est retrouvée lancée sur une mauvaise piste à la suite d'un interrogatoire mal exécuté.
+>> 
+>> Interroger un suspect où un témoin, voie une victime, n'est pas la même chose mais plusieurs points sont malgré tout communs : il faut arriver à faire parler l'interrogé et déméler le vrai du faux dans ses réponses.
+>>
+>> Lors d'un interrogatoire, le personnage devrait commencer par essayer de cerner son suspect ou son témoin : est-il fiable ? 
+>>
+>> 
+
+

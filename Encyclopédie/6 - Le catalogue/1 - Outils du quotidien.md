@@ -51,7 +51,6 @@ Les foglets sont une méthode d’importer l’espace virtuel dans la réalité 
     </tr>
 </table>
 
-## 
 <table>
     <tr>
         <th colspan="2">Foglets</th>
@@ -79,7 +78,6 @@ En plus des nœuds de réplication, SolNet propose aussi des nœuds où les IA e
 
 Dernier aspect intéressant du réseau, il permet aussi le transport d’énergie. Énergie qui alimente la plupart des outils transportables tels que les links, les foglets et les petits robots d’entretien. Notez que la puissance disponible via le réseau aérien reste relativement faible et que les appareils plus gourmands doivent employer le réseau filaire.
 
-## 
 <table>
     <tr>
         <th colspan="2">SolNet</th>
@@ -107,7 +105,6 @@ Cette technologie permet donc de reproduire n’importe quel plat, même ceux co
 
 Bien que la production des synthétiseurs puisse normalement couvrir pratiquement toute la chimie organique et quelques molécules connexes, ils ne peuvent assemble que ce qui est décrit dans leurs schématiques (anglicisme désignant les plans utilisés par les constructeurs universels et les synthétiseurs). Cette limitation permet d’éviter des accidents ou des actes malveillants. Il serait possible en effet de produire des toxines ou des substances très dangereuses sinon. Charger des schématiques non certifiées est illégal dans toutes les installations des corporations.
 
-## 
 <table>
     <tr>
         <th colspan="2">Synthétiseur</th>
@@ -133,7 +130,6 @@ L’éventail des possibilités couvre pratiquement tous les vêtements existant
 
 Ces tissus possèdent également des propriétés étonnantes : certains sont hydrophobes voire autonettoyants, et tous sont capables de se réparer d’eux-mêmes. Les plus récents sont aussi capables d’anticiper les mouvements de leur porteur pour faciliter leurs gestes.
 
-## 
 <table>
     <tr>
         <th colspan="2">Vêtements mimétiques</th>

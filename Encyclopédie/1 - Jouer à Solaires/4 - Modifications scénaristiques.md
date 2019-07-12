@@ -1,34 +1,36 @@
 # Modifications scénaristiques
-> *« En ce temps de chaos, ceux qui le peuvent doivent se lever et faire bouclier aux autres, n’oublions pas que nous sommes martiens ! »*
+
+> *« En ce temps de chaos, ceux qui le peuvent doivent se lever et faire bouclier pour les autres, n’oublions pas que nous sommes tous martiens ! »*
 >
 > Hito « Blades » Hirotomi, leader des Soleils
 
->> TODO : Renommer le chapitre en "Modifier l'histoire" (TODO Trouver mieux !)
-
-En plus d'interagir avec l'histoire à travers leur personnages, les joueurs disposent d'un moyen plus direct de le faire par le biais des points de personnage. Ces points leur permettent ainsi d'endosser brièvement une posture d'auteur, apportant leur patte au récit.
+En plus d'interagir avec l'histoire à travers votre personnages, vous disposé d'un moyen plus direct de le faire par le biais des points de personnage. Ces points vous permettent ainsi d'endosser brièvement une posture d'auteur, apportant votre patte au récit.
 
 ## Les points de personnage
-Chaque personnage possède des points de personnage qui servent à produire des modifications majeures de l'histoire. Ces points n'ont aucune existence dans l'univers du jeu et sont rattachés au personnage par commodité.
 
-Au début de chaque séance les personnages possèdent un nombre fixe de points. Vous n'en regagnerez pas au cours de la partie et ne conservez pas les points restant d'une séance à l'autre.
+Chaque personnage possède des points de personnage qui servent à produire des modifications majeures de l'histoire. Ces points n'ont aucune existence dans l'univers du jeu et ne sont rattachés au personnage que par commodité.
 
-Nous vous recommandons de donner trois points à chaque personnage au début d'une séance. Mais vous pouvez aussi déterminer ce nombre en considérant simplement le nombre de modifications majeures par joueur lors de la séance. Ceci peut être utile, notamment si vous avez prévu une séance particulièrement longue ou courte.
+Au début de chaque séance, les personnages possèdent un nombre fixe de points. Vous n'en regagnerez pas au cours de la partie et ne conservez pas les points restant d'une séance à l'autre.
+
+Nous vous recommandons de donner trois points à chaque personnage au début d'une séance. Mais vous pouvez aussi déterminer ce nombre en considérant simplement le nombre de modifications majeures par joueur lors de la séance. Ceci peut être utile, notamment si le meneur a prévu une séance particulièrement longue ou courte.
 
 ## Faire une modification
+
 Pour faire une modification dans l'histoire, commencez par payer un point de personnage pour une modification majeure. Les modifications mineures sont gratuites.
 
 Décrivez ensuite la modification que vous souhaitez apporter à l'histoire en impliquant un des éléments de votre personnage. Si personne ne s'oppose à votre proposition, elle devient effective et la partie continue. Vous trouverez une liste des modifications que nous proposons, accompagnée d'exemples, plus loin.
 
-Tous les participants, meneur et joueurs, possède un droit de veto. Si une modification proposée par un autre joueur donne un tournant à l'histoire que vous n'appréciez pas, ou s'il s'agit d'un abus manifeste, vous pouvez vous y opposer. Le joueur qui a fait la proposition récupère l'éventuel point de personnage qu'il a utilisé et la proposition est abandonnée.
+Tous les participants, meneurs et joueurs, possède un droit de veto. Si une modification proposée par un autre joueur donne un tournant à l'histoire que vous n'appréciez pas, ou s'il s'agit d'un abus manifeste, vous pouvez vous y opposer. Le joueur qui a fait la proposition récupère l'éventuel point de personnage qu'il a utilisé et la proposition est abandonnée.
 
 ## Modifications
+
 Il existe deux catégories de modifications :
 * Les modifications mineures : principalement cosmétiques, elles ne créent pas de nouvel élément dans l'histoire et se contentent de décrire des éléments existants. Les modifications mineures sont gratuites.
 * Les modifications majeures : permettent d'ajouter ou de modifier des éléments de l'histoire. Effectuer une modification majeure coûte un point de personnage.
 
 Voici une liste de modifications mineures :
 * **Décrire les conséquences d'une action** : décrivez les conséquences d'une action de votre personnage. Comme toutes les modifications scénaristiques, elle reste sujette au veto des participants, en particulier du meneur. Vous devez conserver la même qualité de réussite et d'échec. Vous ne pouvez donc pas décrire une contrepartie bénéfique en cas d'échec si la résolution de l'action n'en indique pas. *Par exemple, Skyline tente de convaincre un agent de sécurité de le laisser inspecter une scène de crime mais il échoue avec une contrepartie positive. Le joueur décide de décrire lui-même cette contrepartie positive et utilise son trait **Bavard** pour proposer que Skyline a réussi pendant l'opération à occuper suffisamment l'agent pour permettre à Razors de passer discrètement derrière plus facilement.*
-* **Modification cosmétique** : modifiez un élément lié à votre personnage ou faites lui faire quelque chose sans que cela ne vous procure un avantage mais serve à typer votre personnage. *Par exemple, alors qu'une fusillade fait rage à côté d'elle, Jay'ny explore la matrice. Bien que ça ne lui donnera aucun bonus pour la suite, son joueur décide d'utiliser son trait **Calme quand elle est connectée** pour avoir une posture zen en décalage avec la situation. (Notez que son trait ne lui procurerait réellement un avantage que s'il était utilisé normalement pour résoudre une action à propos.)*
+* **Modification cosmétique** : modifiez un élément lié à votre personnage ou faites lui faire quelque chose sans que cela ne vous procure un avantage mais serve à typer votre personnage. *Par exemple, alors qu'une fusillade fait rage à côté d'elle, Jay'ny explore la matrice. Bien que ça ne lui donnera aucun bonus pour la suite, sa joueuse décide d'utiliser son trait **Calme quand elle est connectée** pour avoir une posture zen en décalage avec la situation. (Notez que son trait ne lui procurerait réellement un avantage que s'il était utilisé normalement pour résoudre une action à propos.)*
 
 Voici une liste de modifications majeures :
 * **Lier un élément scénaristique** : liez un élément scénaristique à votre personnage. *Par exemple, alors que l'équipe tente d'entrer dans une boîte de nuit, un videur les arrête au prétexte que la salle est pleine. Sophie, qui joue Razors, utilise la relation **École militaire de Mars** de son personnage et propose que Razors connaîsse le videur.*

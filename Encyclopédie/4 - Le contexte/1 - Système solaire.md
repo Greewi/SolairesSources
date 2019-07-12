@@ -23,7 +23,10 @@ Les marques de cette époque sont encore visibles à travers les nombreux cratè
 Depuis, le grand bombardement s’est ralenti jusqu’à atteindre la fréquence paisible que nous connaissons désormais. Le système solaire, sans être figé, a atteint sa maturité et nous présumons que notre soleil a atteint la moitié de sa vie. Mais la suite est une autre histoire que nous ne vivrons probablement pas.
 
 ----
+
 ## Corps du système solaire
+Le système solaire est organisé autour de Sol, notre étoile que les terriens appellent le Soleil.
+
 Orbitant autour de Sol, notre étoile et soleil, de nombreux corps naturels circulent : planètes, planètes naines, lunes, astéroïdes et comètes.
 
 Les plus intéressants de ces corps sont les planètes qui représentent près de 99 % de la masse des astres du système solaire, une fois le Soleil exclu. Beaucoup possèdent par ailleurs des lunes, des satellites naturels. Une planète et ses lunes forment ce que nous allons appeler un système planétaire. Il existe ainsi huit systèmes planétaires même si Mercure et Vénus, ne disposent pas de lunes.

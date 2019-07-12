@@ -6,7 +6,7 @@ Une batterie à antimatière est un accumulateur qui stocke de l’énergie sous
 
 Contrairement aux suppositions que pourrait entraîner son nom, cette batterie n’est absolument pas plus dangereuse qu’une batterie d’un autre type. En revanche, elles sont bien plus compactes que la plupart des autres formes de batteries ou de piles et peuvent emmagasiner de très grandes quantités d’énergie.
 
-En revanche, en raison du rendement de la conversion de l’antimatière vers l’électricité, ces accumulateurs produisent une petite quantité de chaleur dont il faut tenir compte, notamment si des puissances élevées sont impliquées. Elles ont aussi un taux de décharge interne relativement élevé et perdent environ 10 % de leur charge en une semaine.
+En revanche, en raison du rendement de la conversion de l’antimatière vers l’électricité, ces accumulateurs produisent une petite quantité de chaleur dont il faut tenir compte, notamment si des puissances élevées sont impliquées. Elles ont aussi un taux de décharge interne relativement élevé et perdent environ 10 % de leur charge en un mois.
 
 Utilisées en parallèle avec les générateurs à fusions et SolNet, elles assurent une alimentation stable pour la totalité des équipements présents à bord des colonies.
 
@@ -143,7 +143,7 @@ La plupart des modèles en service sont donc très imposants. En plus des contra
 ## Nanites
 Les nanites sont des micro-robots utilisés pour assembler rapidement des structures macroscopiques ou effectuer des soudures. Ils sont très utilisés par les techniciens puisqu’ils permettent de construire des pièces mécaniques à la volée ou de sceller des brèches rapidement.
 
-Contrairement aux nanorobots des constructeurs universels, les nanites ne transforment pas la matière, mais s’assemblent entre eux. Une fois assemblé, ils deviennent inertes et ne peuvent plus être réutilisée. En revanche, la résistance mécanique de l’assemblage obtenu est très importante et ils s’assemblent sans dégager de chaleur significative ce qui permet d’effectuer des soudures à froid.
+Contrairement aux nanorobots des constructeurs universels, les nanites ne transforment pas la matière, mais s’assemblent entre eux. Une fois assemblé, ils deviennent inertes et ne peuvent plus être réutilisés. En revanche, la résistance mécanique de l’assemblage obtenu est très importante et ils s’assemblent sans dégager de chaleur significative ce qui permet d’effectuer des soudures à froid.
 
 À l’usage, les nanites sont stockés sous forme d’un gel : ce serait sinon une poudre si fine qu’elle prendrait très facilement feu dans une atmosphère ordinaire. C’est sous cette forme que les nanites sont employés. Le gel est alimenté et commandé par un contrôleur de micro-robots. Une fois les robots assemblés, la partie liquide s’évapore avec le temps, laissant une fine couche protectrice autour des structures. Les nanites assemblés forment des structures avec une surface suffisamment lisse pour limiter son éventuelle oxydation et éviter toute possibilité d’embrasement.
 

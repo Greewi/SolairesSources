@@ -1,4 +1,5 @@
 # États des personnages
+
 > *« Tu te penses invincible avec ton armure et tes armes ? Que feras-tu une fois coincé ici après avoir fait un trou dans ce mur et que notre air se sera enfui ? »*
 > 
 > Émergence, apprentie astronaute
@@ -8,6 +9,7 @@ Vos personnages prendront de nombreux risques et si nous leur souhaitons de fair
 Pour gérer ces situations, Solaires utilise les états des personnages.
 
 ## Les états
+
 Un état est simplement un élément temporaire qui traduit une altération du personnage. Ça peut être une blessure, une altération mentale, un désavantage situationnel, etc. Vous les noterez dans le cartouche *État*.
 
 Comme les autres éléments, vous devez leur donner un score en fonction des estimations suivantes :
@@ -17,7 +19,7 @@ Comme les autres éléments, vous devez leur donner un score en fonction des est
 * **Critique (3)** : l'état incapacite le personnage ou lui fait courir un risque fatal à court terme. *Par exemple : Hémorragie importante, Noyau piraté.*
 
 ## Obtenir et perdre un état
-Lorsque votre personnage rate une action dangereuse ou s'il doit subir un effet secondaire négatif, il peut recevoir un état. Dans certains cas, il est possible que ce soit un autre personnage qui reçoive l'état.
+Lorsque votre personnage rate une action dangereuse ou s'il doit subir un effet secondaire négatif, il peut recevoir un état. Dans certains cas, il est possible que ce soit la conséquence d'une action d'un autre personnage.
 
 *Par exemple, Feyn, un astronaute, est accompagné de Thoss, un soldat, lors d'une sortie spatiale. Au moment de sortir, Thoss rate son action et décroche le lien de Feyn par erreur. Feyn obtient l'état « Décroché (2) ».*
 
@@ -30,17 +32,17 @@ Pour les états les plus graves, il peut même être intéressant de dédier une
 ----
 
 ## Effets des états
+
 Les états ne sont pas seulement des mots clés décrivant la situation de votre personnage. Ils ont aussi un effet sur vos actions. Tout d'abord, si un état est susceptible d'aider dans une action, vous pouvez l'utiliser comme n'importe quel autre type d'élément.
 
 Si un de vos états est potentiellement handicapant pour une action, indiquez-le au meneur. Ensuite, lors de la résolution de l'action, si vous ne conservez pas strictement plus de dés que le score de l'état, l'état déclenche un effet secondaire négatif en plus du résultat habituel de l'action.
 
 Cet effet négatif doit évidemment être en relation avec l'état. Il peut s'agir d'une complication de la situation, d'une aggravation de l'état, etc.
 
-*Par exemple, Feyn qui à l'état « Décroché (2) », tente une réparation sur le connecteur qui sert à raccorder son vaisseau à la station de ravitaillement. Le joueur indique l'état à la meneuse qui confirme le handicap. Après le lancé dés, il s'avère que l'action réussie. Mais comme le joueur n'a conservé que seulement deux dés, une complication apparaît et Feyn sous l'effort pour refermer l'attache, perd prise et Thoss le voit partir à la dérive, tournant sur lui-même, non sans quelques jurons.*
-
->> TODO [Handicap] : Permettre de déclarer les handicaps d'autres types d'élément de la même façon ?
+*Par exemple, Feyn qui a l'état « Décroché (2) », tente une réparation sur le connecteur qui sert à raccorder son vaisseau à la station de ravitaillement. Le joueur indique l'état à la meneuse qui confirme le handicap. Après le lancé de dés, il s'avère que l'action réussie. Mais comme le joueur n'a conservé que seulement deux dés, une complication apparaît et Feyn sous l'effort pour refermer l'attache, perd prise et Thoss le voit partir à la dérive, tournant sur lui-même, non sans quelques jurons.*
 
 ## Exemples d'états
+
 Par conception, il n'y a pas de liste exhaustive et définitive des états. Toutefois voici une courte liste d'exemples :
 * **À la dérive (3)** : le personnage dérive dans l'espace ou dans une section en zéro-g sans la possibilité de se raccrocher à quelque chose ;
 * **Blessé (2)** : le personnage a été blessé ;

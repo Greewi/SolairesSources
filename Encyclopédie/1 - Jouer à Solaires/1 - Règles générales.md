@@ -1,4 +1,5 @@
 # Règles générales
+
 > *« Vous m’avez créé pour modéliser, prédire et comprendre notre univers. Pour que je puisse en tracer les règles. »*
 >
 > Wolfa, première IA de recherche
@@ -6,13 +7,15 @@
 Solaires est un jeu de rôles et il utilise une adaptation du Système Féerie. Ce système offre des règles simples qui favorise la description aux mécaniques habituelles des jeux de rôles. Le système peut se montrer inhabituel sur certains de ses aspects, mais sa simplicité le rend aisé à prendre en main et il convient aussi aux débutants.
 
 ## Que sont les jeux de rôles ?
+
 Les jeux de rôles forment une famille de jeux de société dans lesquels les joueurs contrôlent chacun un personnage qui évolue dans une histoire prenant place dans un univers imaginaire. L'un des joueurs doit endosser le rôle de meneur : il ne contrôle pas un personnage mais gère l'univers dans lequel les personnages évoluent et s'assure de la cohérence de l'histoire.
 
-Les jeux de rôles sont des jeux d'imagination et, généralement, des jeux oraux. Il n'y a pas de pions, ni de plateau… Tout le jeu se base sur l'imagination des participants : le meneur décrit une situation, puis chaque joueur l'imagine et indique ce que son personnage va tenter et ressentir dans cette scène. Le meneur explique alors ce qui se produit vraiment dans l'histoire et, à nouveau, les joueurs imaginent cette nouvelle situation avant de donner les intentions et ressentis de leurs personnages. Ce cycle se répète alors jusqu'à la fin de l'histoire.
+Les jeux de rôles sont des jeux d'imagination et, généralement, des jeux oraux. Il n'y a pas de pions, ni de plateau… Tout le jeu se base sur l'imagination des participants : le meneur décrit une situation, puis chaque joueur l'imagine et indique ce que son personnage va tenter de faire ou de percevoir. Le meneur explique alors ce qui se produit vraiment dans l'histoire et, à nouveau, les joueurs imaginent cette nouvelle situation avant de donner les intentions et ressentis de leurs personnages. Ce cycle se répète alors jusqu'à la fin de l'histoire.
 
-En plus de cette mécanique simple, le meneur utilise des règles, qui seront détaillées plus loin pour Solaires, afin de résoudre certaines situations, conflits ou pour apporter un peu de piment à la partie.
+En plus de cette mécanique simple, les participants utilisent des règles, qui seront détaillées plus loin pour Solaires, afin de résoudre certaines situations, conflits ou pour apporter un peu de piment à la partie.
 
 ## Termes techniques
+
 Les rôlistes – les gens qui font du jeu de rôles – ont au fil du temps développé un grand nombre de termes (et d’acronymes) propres à ce loisir. En voici un court résumé :
 * **meneur de jeu (MJ)** : la personne en charge de l’histoire qui ne contrôle pas un personnage spécifique ;
 * **joueurs** : les participants qui contrôlent un personnage ;
@@ -20,7 +23,7 @@ Les rôlistes – les gens qui font du jeu de rôles – ont au fil du temps dé
 * **personnage joueur (PJ)** : les personnages contrôlés par les joueurs ;
 * **personnage non-joueur (PNJ)** : les personnages qui ne sont pas contrôlés par les joueurs et que, donc, le MJ gère ;
 * **scénario** : la partie préparée de l’histoire qu’habituellement seul le meneur connaît ;
-* **D6** : un dé à six faces. Cette notation est très employée par les rôlistes qui utilisent des dés qui peuvent sembler exotique (par exemple, des dés à vingt faces par exemple).
+* **D6** : un dé à six faces. Cette notation est très employée par les rôlistes qui utilisent des dés qui peuvent sembler exotique (par exemple, des dés à vingt faces qui seraient noté D20).
 
 >> Si tout ceci vous semble encore nébuleux, voici un court extrait d’une partie de jeu de rôles.
 >> 
@@ -57,6 +60,7 @@ Les rôlistes – les gens qui font du jeu de rôles – ont au fil du temps dé
 >> *– Sophie : merde…*
 
 ## But du jeu
+
 Pour les joueurs, le but du jeu est de résoudre, par l’intermédiaire de leur personnage, les situations dans lesquels ces derniers seront pris. Ils construiront ainsi une histoire. Suivant la partie, il peut s'agir d'une histoire d'aventure, une histoire policière, une histoire d'horreur…
 
 Le meneur, quant à lui, aura pour but de s'assurer de la cohérence de l'histoire et de la réponse de l'univers aux actions des personnages des joueurs. Il n'est pas l'adversaire des autres participants, même s'il aura souvent à choisir les actions des adversaires de leurs personnages.
@@ -64,6 +68,7 @@ Le meneur, quant à lui, aura pour but de s'assurer de la cohérence de l'histoi
 Il n'y a pas à proprement parler de victoire et de défaite dans Solaires, les participants ne s'affrontent pas : il s'agit d'un jeu coopératif. L'important est que tout le monde s'amuse, y compris le meneur.
 
 ## Nombre de joueurs et temps de jeu
+
 Pour une partie de Solaires, il est recommandé d'avoir un meneur et entre 2 et 5 joueurs. Pour plus de fluidité dans vos premières parties, nous vous conseillons de limiter celles-ci à 3 ou 4 joueurs.
 
 Une partie peut durer plusieurs heures, selon le scénario et les choix des joueurs durant celle-ci, et il peut être difficile de l'estimer à l'avance. Comptez trois heures pour un scénario relativement court joué avec des joueurs disciplinés.
@@ -71,6 +76,9 @@ Une partie peut durer plusieurs heures, selon le scénario et les choix des joue
 Certaines parties se déroulent en plusieurs séances, on parle alors de « série » (les vétérans du jeu de rôles parlent souvent de « campagnes » en référence aux « campagnes militaires » des jeux de stratégie). Dans une série, chaque séance de jeu est assimilable à un épisode d'une série télévisée et nous vous proposons de les appeler simplement « épisode ».
 
 ## Matériel de jeu
+
+>> TODO : Être plus spécifique pour Solaires
+
 Typiquement, pour une partie de Solaires, vous aurez besoin :
 * d'une fiche de personnage par joueur ;
 * de trois dés classiques (à six faces, numérotées de 1 à 6), il peut être pratique de disposer de trois dés par joueur ;
@@ -82,6 +90,7 @@ Typiquement, pour une partie de Solaires, vous aurez besoin :
 D'autres aides de jeu peuvent être parfois utiles suivant la partie comme des cartes, des résumés de certains éléments d'univers…
 
 ## Préparation de la partie
+
 Une partie de jeu de rôles demande généralement de la préparation. Cette étape a deux objectifs : la préparation du scénario et la création des personnages.
 
 Le scénario est un document qui contient la plupart des éléments qui serviront à construire l'histoire durant la partie. Il est donc important que le meneur l'ait lu et compris avant la partie. Il peut aussi avoir choisi de l'écrire lui-même. Comme il s'agit d'une étape plutôt longue et qui ne requiert que le meneur, elle est souvent faite un autre jour avant la partie.
@@ -95,6 +104,7 @@ Il peut arriver que le meneur ait créé à l'avance des personnages spécialeme
 La création des personnages (ou le choix en cas de prétirés) est généralement faite le jour de la partie, juste avant celle-ci.
 
 ## Déroulement
+
 Le meneur lance la partie en décrivant la situation initiale. Cette description est le point de départ de l’histoire et doit permettre aux joueurs de comprendre où se trouvent leurs personnages et ce qu'ils y font. À la fin de l'introduction – qui se finit généralement lorsque le meneur demande : « Que faites-vous ? » – les joueurs vont pouvoir commencer à jouer.
 
 Par la suite, les joueurs vont – chacun leur tour sinon le meneur ne pourra pas suivre – indiquer ce qu'ils veulent que leur personnage fasse. Le meneur décrira alors les conséquences de cette action, ce qui conduira à de nouvelles situations. Notez que Solaires n’impose pas un système de tour strict : les joueurs peuvent intervenir quand ils le souhaitent, tant qu’ils ne coupent pas la parole aux autres et laissent aussi les autres jouer.
@@ -102,6 +112,7 @@ Par la suite, les joueurs vont – chacun leur tour sinon le meneur ne pourra pa
 Certaines actions critiques peuvent ne pas réussir. Lorsque le meneur considère qu’une action est difficile ou sensible, il peut demander au joueur d’effectuer un test de résolution pour déterminer si l’action réussit ou échoue. Vous trouverez les règles de résolution des actions plus loin dans la section qui leur sont dédiée.
 
 ## Les scènes d'action
+
 Régulièrement, les personnages se retrouveront dans des situations plus intenses comme des combats, des courses poursuites, et autres scènes d’action. Dans ces scènes, l'ordre des actions peut modifier considérablement les évènements et même l'issue de la scène. Il convient donc d'être un peu plus rigoureux pour ces scènes.
 
 Pour commencer, ces scènes se produisent généralement à l’initiative d’un personnage ou d'un groupe de personnage : ça peut être un personnage qui ouvre le feu ou qui tente de s’enfuir… C'est ce personnage qui agit en premier durant la scène. Le joueur, ou le meneur dans le cas d'un personnage non-joueur, explique ce que ce personnage va tenter et l'action sera résolue normalement, avec un test de résolution si le meneur l'estime nécessaire.
@@ -111,6 +122,7 @@ Ensuite, le meneur décidera du prochain personnage pouvant agir, en fonction de
 La suite se déroule normalement, le meneur choisissant le prochain personnage à agir en fonction de ce qui lui paraît le plus cohérent. Lorsque la situation se calme enfin, à partir du moment où l'ordre des actions perd son importance, le jeu peut reprendre son fonctionnement habituel.
 
 ## Fin d'une partie
+
 Au fil des actions des personnages et des évènements, les joueurs parviendront à la fin de la partie. Cette fin de partie, qui signe généralement la fin d'une intrigue, correspond à une situation où la problématique du scénario a été résolue, si nécessaire par la victoire des personnages ou leur défaite.
 
 Si cette notion vous semble nébuleuse, repensez à la fin de films ou d'épisodes de séries où cela peut vous paraître plus évident : il s'agit exactement de la même chose dans une partie de Solaires.

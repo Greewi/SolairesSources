@@ -1,4 +1,5 @@
 # Psions
+
 > *« Comment le sais-tu ? »*
 >
 > Trend, Solar Wardner
@@ -21,7 +22,7 @@ Cet implant reste une énigme et si on sait aujourd'hui le reproduire par rétro
 
 ## Histoire de l'implant
 * **2075 - Disparition de l'Héméra** : Un vaisseau de transport de matériel disparaît mystérieusement en plein vol alors qu'il effectuait la liaison Terre-Mars avec ses cinq membres d'équipage. Si la disparition reste relativement discrète à l'époque, HIARTech déploie des moyens importants pour retrouver son vaisseau.
-* **2078 - Récupération de l'Héméra** : le vaisseau disparu depuis trois ans est enfin retrouvé. L'appareil, sur une orbite très inclinée, est récupéré à son passage sur le plan de l'écliptique. Dès les premières investigations, des anomalies sont relevées : le vaisseau est éteint et l'équipage mort, pourtant les réserves du vaisseau sont encore suffisantes et aucune avarie n'est à déplorer. Même le phénomène de décomposition n'a pas commencé. HIARTech rapatrie le vaisseau sur Mars et concentre ses efforts sur le mystère.
+* **2078 - Récupération de l'Héméra** : le vaisseau disparu depuis trois ans est enfin retrouvé. L'appareil, sur une orbite très inclinée, est récupéré à son passage sur le plan de l'écliptique. Dès les premières investigations, des anomalies sont relevées : le vaisseau est éteint et l'équipage mort, pourtant les réserves du vaisseau sont encore suffisantes et aucune avarie n'est à déplorer. Même le phénomène de décomposition n'a pas commencé. HIARTech rapatrie le vaisseau autour de Mars et concentre ses efforts sur le mystère.
 * **2078 - Implant psi** : si la disparition d'Héméra restera un mystère complet, la découverte d'un organite particulier dans les cellules nerveuses de l'un des passagers donnera un nouveau ton à l'affaire. N'ayant pu être fabriqué par le vivant, l'origine synthétique de cet organite ne fait aucun doute. Il faudra un an et de nombreux essais pour comprendre qu'il permet d'octroyer des pouvoirs quasi-surnaturels.
 * **2081 - Lien entre l'esprit et l'implant psi** : s'il était déjà acquis que l'implant psi avait besoin d'un esprit sentient pour fonctionner, une relation plus forte entre l'esprit et l'implant est découverte. Alors qu'on considérait que l'attribution des pouvoirs était aléatoire, les récents essais démontrent que la psyché du psion défini l'ensemble des pouvoirs accessibles.
 * **2087 - Développement de l'implant psi** : avec la nouvelle situation de la guerre, Mars décide de produire un grand nombre d'agents disposant de l'implant pour les employer sur le terrain. Ces spécialistes offrent en effet de nouvelles options tactiques. Par la même occasion, les effectifs des Solar Wardners sont renforcés d'un nombre conséquent de ces psions.

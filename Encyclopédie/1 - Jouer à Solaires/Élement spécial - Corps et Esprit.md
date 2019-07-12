@@ -1,9 +1,10 @@
 # Corps et Esprit
+
 > *« Les Émissaires ? Vous voulez parler de ces agents des renseignements martiens, entraînés à changer de corps régulièrement et à en tirer le maximum quelque-soit la situation ? Moi, ils me collent la trouille. »*
 >
-> Vanguard, chef de la sécurité martien
+> Vanguard, chef de sécurité martien
 
-Le corps et l'intelligence ne sont pas deux éléments entièrement décorrélés. Malgré tout, les solaires ont l'opportunité de changer d'enveloppe. Certains le font même très régulièrement.
+Le corps et l'intelligence ne sont pas deux éléments entièrement décorrélés mais il reste bien plus facile de changer d'enveloppe. Certains solaires le font même très régulièrement.
 
 ## Embodiment
 
@@ -85,12 +86,12 @@ Changer d'enveloppe est un choix pour de nombreux solaires. Souvent, il s'agit d
 
 Mais la métamorphose, qui consiste effectivement à changer d'enveloppe pour quelque chose de différents est un phénomène de plus en plus courant mais qui présente néanmoins des risques. Pour commencer le mal de l'embodiment peut y être considérablement plus accentué et durable. Ensuite, ce nouveau choix peut finalement se révéler décevant voir profondément frustrant : certains solaires peuvent ainsi changer régulièrement d'enveloppe sans jamais être satisfait.
 
-Malgré tout, la métamorphose est un choix de plus en plus courant et quitte à devoir changer d'enveloppe, de plus en plus de solaires choisissent d'essayer quelque chose de nouveau. >Et avec les avancées dans les domaines de la technologie et de la science, les enveloppes continuent d'évoluer et les solaires d'en changer.
+Malgré tout, la métamorphose est un choix de plus en plus courant et quitte à devoir changer d'enveloppe, de plus en plus de solaires choisissent d'essayer quelque chose de nouveau. Et avec les avancées dans les domaines de la technologie et de la science, les enveloppes continuent d'évoluer et les solaires d'en changer.
 
 L'esprit lui-même peut aussi être modifié et il existe principalement trois façons de procéder :
-* **L'émulation** : qui consiste à simuler informatiquement le fonctionnement du substrat d'origine de l'esprit dans une enveloppe cybernétique ou hyper-hybride. Cette transformation est habituellement réversible.
-* **La supervision** : qui consiste à adjoindre une IA pour superviser le fonctionnement de l'esprit et améliorer ses temps de réponse et contraindre certaines réactions (par exemple supprimer la peur). Cette transformation est difficilement réversible : passé un certain temps l'esprit est beaucoup trop habitué à fonctionner en tandem avec l'IA de supervision et le retrait de l'IA conduit au mal de l'embodiment.
-* **L'infomorphisation** : qui consiste à transformer un esprit non-IA en un être informorphe. Concrètement l'opération peut être assimilée à la création d'une intelligence artificielle de type Synchro à laquelle sont ajouté les souvenirs et le caractère de l'être d'origine. L'opération est alors définitive.
+* **L'émulation** : qui consiste à simuler informatiquement le fonctionnement du substrat d'origine de l'esprit dans une enveloppe cybernétique ou hyper-hybride. Cette transformation est parfaitement réversible.
+* **La supervision** : qui consiste à adjoindre une IA pour superviser le fonctionnement de l'esprit et améliorer ses temps de réponse et contraindre certaines réactions (par exemple supprimer la peur). Cette transformation est difficilement réversible : passé un certain temps l'esprit est beaucoup trop habitué à fonctionner en tandem avec l'IA de supervision et le retrait de l'IA conduit à un mal de l'embodiment prononcé.
+* **L'infomorphisation** : qui consiste à transformer un esprit non-IA en un être informorphe. Concrètement l'opération peut être assimilée à la création d'une intelligence artificielle de type Synchro à laquelle sont ajouté les souvenirs et le caractère de l'être d'origine. Cette opération est définitive.
 
 ## Résurrection
 
@@ -116,7 +117,7 @@ Une fois la mort confirmée, la société réintègre l'esprit sauvegardé dans 
 
 >> Les termes *Fork* et *Merge* sont issus de l'informatique. Un *Fork* (fourchette) est un processus cloné à partir d'un autre pour effectuer un travail similaire ou commencer une nouvelle tache en parallèle. Un *Merge* (fusion) est la fusion de deux documents en un seul, intégrant les modifications des deux.
 
-Parfois, il est possible que deux instances d'une même personne cohabitent : il peut s'agir d'une sauvegarde réintégrée trop tôt ou de quelque qui a choisi volontairement de faire un Fork. Cette dernière option est de loin la plus courante, en particulier chez les IA. Dans cette situation, l'un des deux conserve l'identité de l'être initial, tandis que l'autre devient un « Alt » avec une nouvelle identité. S'il n'est pas possible de départager l'ancienneté des deux instances, ce choix est arbitraire. Les deux instances conservent en revanche l'intégralité des privilèges.
+Parfois, il est possible que deux instances d'une même personne cohabitent : il peut s'agir d'une sauvegarde réintégrée trop tôt ou de quelqu'un qui a choisi volontairement de faire un Fork. Cette dernière option est de loin la plus courante, en particulier chez les IA. Dans cette situation, l'un des deux conserve l'identité de l'être initial, tandis que l'autre devient un « Alt » avec une nouvelle identité. S'il n'est pas possible de départager l'ancienneté des deux instances, ce choix est arbitraire. Les deux instances conservent en revanche l'intégralité des privilèges.
 
 Les IA se servent de ce mécanisme pour effectuer des tâches en parallèle ou être présente à différents endroits. Il n'est d'ailleurs pas rares qu'elles ne se limitent pas qu'à un seul Fork.
 
