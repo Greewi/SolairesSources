@@ -42,7 +42,7 @@ Les deux nevian, surtout Ney en vérité, s’affairent pendant près de quatre 
 
 – Il est en veille… Apparemment… Oh, pardon « elle » est en veille et son noyau cherche à reproduire le sommeil. Ça ne durera que quelques heures.
 
-– Tu peux le réparer ? demande la peluche aux oreilles de renard.
+– Tu peux la réparer ? demande la peluche aux oreilles de renard.
 
 – Ça demanderait d’altérer un certain nombre des souvenirs et des fragments d’identité de notre nouvelle amie. Je n’ai pas le cœur à faire ça.
 

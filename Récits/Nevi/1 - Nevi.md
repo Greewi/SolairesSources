@@ -1,6 +1,6 @@
 # Nevi
 
-La grande tour de verre et d'acier, à la façade  partiellement végétalisée, se dresse devant eu. Mellandro Elmeth, et Fatima Nguyen, agents de l'ONU détachés par la commission de prévention des risques technologiques, traversent l'esplanade.
+La grande tour de verre et d'acier, à la façade  partiellement végétalisée, se dresse devant eux. Mellandro Elmeth, et Fatima Nguyen, agents de l'ONU détachés par la commission de prévention des risques technologiques, traversent l'esplanade.
 
 Deux semaines auparavant, Alexandra Merry, employée de Soccodeck, s'est donnée la mort et si l'enquête de la police a effectivement confirmé le suicide, les circonstances et les causes n'ont pu être déterminées.
 
