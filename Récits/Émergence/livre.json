@@ -1,0 +1,15 @@
+{
+    "titre": "Solaires - Émergence",
+    "structure": [
+        {
+            "source": "Couverture.png",
+            "style": "couverture",
+            "niveau": 1
+        },
+        {
+            "source": "Émergence.md",
+            "style": "recit",
+            "niveau": 1
+        }
+    ]
+}
