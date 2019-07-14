@@ -46,6 +46,6 @@ Leur rame atteint enfin le sommet de la falaise. Malgré la grande courbure du v
 
 Skyline sort de son isolement : « C’est prêt de mon côté.
 
-– Enfin ! C’est qu’on était presque arrivés ! », ironise le decker.
+– Enfin ! C’est qu’on est presque arrivés ! », ironise le decker.
 
 La rame décélère fortement : elle arrive enfin au spatioport. Le tube transparent fait place à un long tunnel éclairé par des veilleuses et la capsule elle-même. Quelques dizaines de secondes plus tard, ils s’arrêtent dans un court tube transparent. Alignant son sas à celui du quai, leur véhicule effectue quelques derniers ajustements et la connexion s’établit. Les voici arrivés à destination, reste à voir si le plan de Skyline se montrera à la hauteur.
