@@ -1,13 +1,12 @@
 # Émergence
 
 > Sylvain « Greewi » Dumazet
->
-> Version 0.0
->
+> 
+> Version 1.0
 
-> « L’émergence est le principe qui fait que certaines choses possèdent des propriétés qui ne peuvent pas être directement devinées en observant ses constituants. Par exemple, la vie est une propriété émergente qui découle pourtant de “simples” réactions chimiques. »
+*« L’émergence est le principe qui fait que certaines choses possèdent des propriétés qui ne peuvent pas être directement devinées en observant ses constituants. Par exemple, la vie est une propriété émergente qui découle pourtant de “simples” réactions chimiques. »*
 
-> L’établissement de l’humanité, et ses enfants, dans le système solaire relativise toujours plus la place de la Terre. Prise dans les engrenages de la dernière grande corporation terrienne, une jeune femme se confronte à la collision d’une humanité dépassée avec ces colonies nouvelles.
+L’établissement de l’humanité, et ses enfants, dans le système solaire relativise toujours plus la place de la Terre. Prise dans les engrenages de la dernière grande corporation terrienne, une jeune femme se confronte à la collision d’une humanité dépassée avec ces colonies nouvelles.
 
 Cette œuvre est mise à disposition sous licence Attribution – Pas d’Utilisation Commerciale – Partage dans les Mêmes Conditions 3.0 France. Pour voir une copie de cette licence, visitez http://creativecommons.org/licenses/by-nc-sa/3.0/fr/ ou écrivez à Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
@@ -72,6 +71,7 @@ L’un des hommes l’aperçoit alors, et deux d’entre eux s’approchent en p
 
 Finalement, l’un des hommes s’approche de la femme à terre, et lui abat un violent coup de crosse.
 
+----
 ## 2 – Dembe : Tachyons
 
 La nouvelle de l’attaque fait la une des informations. Tout internet ne parle plus que de ça. Certains transmettent leurs condoléances aux familles des victimes, d’autres s’inquiètent de l’affaiblissement de l’état ougandais, ou de la potentielle vengeance de Sol6 par le biais sa milice privée. Enfin, quelques-uns s’amusent du désarroi supposé de ces pillards qui confronté à l’impossibilité de faire quoi que ce soit de leur prise seraient repartis les mains vides.
@@ -120,6 +120,7 @@ Des armes hybrides ? Avec la corruption qui règne dans les armées locales, ç
 
 Si Noterger est parvenue à s’enfuir, il faut la retrouver rapidement, ça fait déjà trois heures que la malheureuse est portée disparue.
 
+----
 ## 3 – Gloria : Alice
 
 Douleurs, migraine, fatigue, misérable… Le réveil de Gloria est interrompu plusieurs fois. Seule la voix, étrangement amicale, d’une petite fille lui permet de s’accrocher à la réalité. Le sens lui échappe mais le ton semble empreint d’une grande gentillesse.
@@ -130,9 +131,9 @@ Peu à peu, le calme revient, accompagné de la lucidité. La voix enfantine con
 
 La salle est sobre et son mobilier lui rappelle celui d’un garage. Elle est allongée au sol sur une sorte de paillasse. Seulement une lumière déclinante passe à travers l’ouverture du toit et éclaire la salle par réflexion. Donc ce mur donne sur l’est déduit la rescapée. À côté d’elle une enfant essore une éponge avec soin au-dessus d’un petit bac à eau qui s’est coloré du sang perdu. Elle porte une grande ecchymose sur son visage et, lentement, gloria réalise qu’il s’agit de l’enfant qui s’était interposé. Quelques éraflures sur ses bras témoignent de sa réception sur le sol.
 
-« Bonjour », ose Gloria en anglais. L’enfant la regarde quelques instants, surprise : elle ne s’était pas aperçu que la vieille femme s’était réveillée. Posant son doigt sur ses lèvres, la petite lui intime le silence. Se concentrant, Gloria perçoit deux hommes discutants en swahili. Cette langue était la principale langue de l’alliance africaine au début du siècle et est même devenu un symbole des opposants aux corporations et donc de Sol6. La prisonnière regrette alors de ne pas en avoir plus appris que quelques mots, trop habituée à l’omniprésence de l’anglais dans l’enceinte de Sol6.
+« Bonjour », ose Gloria en anglais. L’enfant la regarde quelques instants, surprise : elle ne s’était pas aperçue que la vieille femme s’était réveillée. Posant son doigt sur ses lèvres, la petite lui intime le silence. Se concentrant, Gloria perçoit deux hommes discutant en swahili. Cette langue était la principale langue de l’alliance africaine au début du siècle et est même devenu un symbole des opposants aux corporations et donc de Sol6. La prisonnière regrette alors de ne pas en avoir plus appris que quelques mots, trop habituée à l’omniprésence de l’anglais dans l’enceinte de Sol6.
 
-Le bruit d’un vieux loquet qui se débloque résonne, et la porte s’ouvre sur un grincement pénible. Deux hommes entrent et l’enfant se lève immédiatement avec un regard d’appréhension fugace. Le premier, avec une chemise bleue et son pantalon kaki semble la disputer avec violence. L’enfant baisse les yeux plusieurs fois et leur répond dans le même créole, alternant des mots anglais et des expressions swahili. Gloria réalise alors l’intelligence de la petite. Elle parvient à lui glisser quelques mots noyés dans le flot d’explication et d’excuses : « grandma », « dormir », « Sol6 », « chercher ». Faire la morte est sans doute le mieux à faire.
+Le bruit d’un vieux loquet qui se débloque résonne, et la porte s’ouvre sur un grincement pénible. Deux hommes entrent et l’enfant se lève immédiatement avec un regard d’appréhension fugace. Le premier, avec une chemise bleue et son pantalon kaki semble la disputer avec violence. L’enfant baisse les yeux plusieurs fois et leur répond dans le même créole, alternant des mots anglais et des expressions swahilies. Gloria réalise alors l’intelligence de la petite. Elle parvient à lui glisser quelques mots noyés dans le flot d’explication et d’excuses : « grandma », « dormir », « Sol6 », « chercher ». Faire la morte est sans doute le mieux à faire.
 
 Les yeux à nouveau fermés, elle entend les pas lourds de l’un des hommes qui s’approche. Après quelques secondes, il semble poser de nouvelles questions à la gamine qui lui répond. Le seul mot que comprend la prisonnière est « médicament ». L’homme lui répond dans un ton mélangeant le dépit, la colère et la résignation.
 
@@ -206,6 +207,7 @@ La requête déstabilise Gloria qui hésite un moment avant répondre : « Oui
 
 – Tu me prêtes ta veste ? J’ai un plan et il va faire nuit. », termine Alice dans la pénombre grandissante de la nuit qui approche. Décidément, cette enfant est pleine d’attention et de surprise.
 
+----
 ## 4 – Dembe : Les yeux dans le ciel
 
 Au briefing du matin, Dembe fait le point avec le reste de l’équipe de nuit. Avant d’aller prendre un repos mérité, ces pilotes et agents de Tachyon lui expliquent où ils en sont.
@@ -264,6 +266,7 @@ L’image passe à une vue prise quelques heures plus tard. Sur le toit, une ves
 
 « OK… Je préviens les bourrins. », annonce-t-il en revenant vers le bâtiment qu’il a quitté sur un pas beaucoup plus rapide. Noterger est probablement en vie et ils ont potentiellement plus de dix heures de retard. Il est temps de prendre cette revanche.
 
+----
 ## 5 – Gloria : Le sang et la poudre
 
 Après une dizaine de minutes d’exposition à la lumière de la nuit, Alice lui rend sa veste. L’astucieuse enfant, s’était servie d’un manche d’outil, une sorte de bêche, pour la faire passer entre les deux tôles du plafond et la placer en évidence sur le toit. Si elle n’avait pas été si faible, la prisonnière l’aurait aidée, mais malgré tout Alice y était parvenue seule.
@@ -310,6 +313,7 @@ L’équipe médicale dépose Gloria avec soin dans l’appareil et la section r
 
 Jetant un œil inquiet à l’enfant, Gloria respire un peu. Les médecins continuent de s’occuper d’elle et font de leur mieux pour la rassurer. Mais aujourd’hui, plus que jamais, elle doit quelques années de vie à cette curieuse mais courageuse Alice.
 
+----
 ## 6 – Anton : Le programme
 
 Le lit de Gloria semble petit dans la chambre privatisée de l’hôpital. Bien qu’il serait insensé que quiconque de non autorisé puisse tenter de pénétrer dans le quartier de Sol6, un soldat est assis dans le coin opposé à l’entré, vigilant. Anton lui adresse un hochement de tête et entre.
@@ -368,6 +372,7 @@ Gloria est visiblement en train de discuter en visioconférence. Malgré ses tra
 
 – Maintenant, ok. », termine l’homme avec un sourire amical. Il se relève et adresse un signe de la main au soldat et sort de la pièce en adressant un petit sourire à la femme alitée.
 
+----
 ## 7 – Gloria : Destinées
 
 « Nyanya ! », crie la fillette avec enthousiasme en entrant dans la salle, suivie d’Anton et d’une femme en tailleur, probablement l’avocate en charge de la protection de l’enfance. S’approchant doucement, elle déclare : « Je suis contente ! Tu as l’air d’aller mieux. »
@@ -400,6 +405,7 @@ Innocemment, Gloria lui demande : « Alice, tu sais ce que tu vas faire quand 
 
 Parfois, ce ne sont pas les adultes qui adoptent les enfants.
 
+----
 ## 8 – Alice : Réchauffement politique
 
 Autrefois, elle n’en aurait simplement jamais entendu parler. Devant le gigantesque écran holographique, elle observe les commentateurs qui parlent de ces événements qui se passent si loin. En seulement quelques mois, c’est devenu une parfaite petite enfant de la corporation. Alice Noterger qu’on l’appelle même.
@@ -428,6 +434,7 @@ La suite de l’article traite de banalités qui n’intéressent plus Alice. El
 
 Encore des nouveaux mots. Il n’y a pas à dire, Alice préfère vraiment cette nouvelle vie.
 
+----
 ## 9 – Gloria : Les pieds sur Terre, les yeux dans les étoiles
 
 Son appartement lui parait plus petit désormais. Avec la venue d’Alice, sa salle d’étude s’est changée en chambre et elle travaille, en dehors des horaires réglementaires, sur la table du salon. La grande baie vitrée qui donne sur le majestueux lac est partiellement obscurcie pour réduire la chaleur. Quelque part au-dessus de l’eau, un avion vole avec sa petite enfant à son bord.
@@ -496,6 +503,7 @@ Anton s’exclame : « Merde… Ils n’ont pas osé ?
 
 – Vingt ans qu’ils l’attendent cette guerre, comment peuvent-ils être aussi cons pour la vouloir ? », s’indigne Anton. Gloria rejoint l’avis de son ami : une guerre est bien la dernière chose qu’elle pouvait souhaiter pour Alice. Pourvu que Sol6 soit épargnée.
 
+----
 ## 10 – Thimba : Le jeu de la vie
 
 Après les accords de 83 entre l’ONU et Sol6, le démantèlement de Tachyon a laissé pas mal de monde sur la paille. Thimba, lui, a eu la chance de pouvoir rejoindre les pompiers de Kampala grâce au programme de reclassement de la corporation. Sa collègue Johari, à l’arrière de l’ambulance prépare le matériel tandis qu’il roule, les sirènes hurlantes, vers le lieu du drame.
@@ -526,6 +534,7 @@ Sortant du service mortuaire, ils se dirigent vers la sortie et croisent une jeu
 
 Elle a encore raison, d’autres ont besoin d’eux, d’autres qu’ils pourront sauver.
 
+----
 ## 11 – Anton : La fin d’une ère
 
 Dans la salle, Anton regarde les informations. C’est le même écran sur lequel ils avaient assisté à la déclaration de guerre six ans plus tôt, avec Gloria. Alice regarde aussi : la situation leur semble surréaliste. Quatre mois plus tôt, Gloria les a quittés. Et maintenant… Ça.
@@ -584,9 +593,10 @@ Les deux présentateurs sont revenus avec à nouveau des couleurs. Sur un ton gr
 
 Désormais, les terriens, bien au chaud dans leur fauteuil, ne peuvent plus ignorer cette guerre si lointaine que leur quotidien en semblait inchangé. Ce retour des colonies met définitivement fin à cette impression d’invincibilité que la planète bleue pouvait avoir envers elles. La fin d’une ère comme le murmure Alice.
 
+----
 ## 12 – Iravat : Amertume et corruption
 
-Iravat est songeur. À peine une crise se termine-t-elle qu’une nouvelle commence. Depuis la fin de la guerre, l’ONU peine à trouver une certaine stabilité politique. Cette année aura vu un nouveau scandale, et la démission d’un autre secrétaire général, madame Mahut. Et voici que son successeur a demandé un entretien spécifique avec lui, sans aucun témoin sur un canal sécurisé.
+Iravat est songeur. À peine une crise se termine-t-elle qu’une nouvelle commence. Depuis la fin de la guerre, l’ONU peine à trouver une certaine stabilité politique. Cette année aura vu un nouveau scandale, et la démission d’une autre secrétaire générale, madame Mahut. Et voici que son successeur a demandé un entretien spécifique avec lui, sans aucun témoin sur un canal sécurisé.
 
 Sur l’écran du système de visioconférence, monsieur De-Montergny, lui souhaite le bonjour et réitère ses félicitations pour sa récente promotion au grade de général. Ouvrant un dossier qu’Iravat ne peut que deviner, l’homme explique ce qu’il attend de lui : « Général Simh, j’ai une demande un peu particulière que je ne peux confier qu’à une personne intègre et de tous les dossiers qui m’ont été transmis, vous êtes celui qui a le meilleur. Je sais que le contexte peut vous paraître mal approprié, mais mes récentes expériences m’ont permis de me rendre compte à quel point certaines choses ont dérapé au sein de cette organisation. »
 
@@ -594,7 +604,7 @@ Cet aveu du nouveau secrétaire général sur son ressenti sur l’organisation 
 
 En fait, c’est une véritable mission que lui confie De-Montergny : « Je pressens que la corruption au sein de l’ONU ne s’est pas limitée au front et j’aimerais que vous meniez une enquête pour moi : je n’ai pas confiance dans les inventaires faits par nos prédécesseurs et il me semble urgent d’en mener de nouveaux et de déterminer quelles ressources ont été détournées et si possible par qui. »
 
-Paradoxalement, ces « si » dessinent une certitude qui se dessine dans les propos du secrétaire. À vrai dire, il est de notoriété publique qu’une grande partie des ressources envoyées au front n’est pas revenue. Sans parler des défections qui ont eu lieu à la fin de la guerre. Alors que De-Montergny marque une pause, Iravat lui demande : « Très bien monsieur le secrétaire général. Pouvez-vous me dire si vous connaissez des personnes de confiance sur lesquelles je pourrais m’appuyer ?
+Paradoxalement, ces « si » dessinent une certitude qui se dessine dans les propos du secrétaire général. À vrai dire, il est de notoriété publique qu’une grande partie des ressources envoyées au front n’est pas revenue. Sans parler des défections qui ont eu lieu à la fin de la guerre. Alors que De-Montergny marque une pause, Iravat lui demande : « Très bien monsieur le secrétaire général. Pouvez-vous me dire si vous connaissez des personnes de confiance sur lesquelles je pourrais m’appuyer ?
 
 – Hélas Général, vous êtes la seule personne que je puisse impliquer sans risque de fuite, déplore l’homme. Les rares autres personnes que j’aurais pu mandater sont hors monde et probablement occupées dans les colonies.
 
@@ -612,6 +622,7 @@ Une chose est sûre : ni De-Montergny, ni le général, ne souhaitent voir appa
 
 Maintenant, par quoi commencer ? Commençons simplement. Un audit de sa propre unité serait un bon départ.
 
+----
 ## 13 – Grégoire : Énergie cinétique
 
 L’information leur est parvenue ce matin. L’impact est prévu dans deux jours, le 18 août 2093 à 11h32 UTC. L’ironie veut que la découverte ait été faite par Mars, autrefois HIARTech, l’ennemi.
@@ -664,6 +675,7 @@ Devant lui, Samuel s’interroge : « On peut vraiment leur faire confiance ?
 
 – Aesir est… Très compliquée. », termine Grégoire.
 
+----
 ## 14 – Feyn : Les basses-terres de Chryse
 
 Voici déjà quatre mois que son vaisseau, l’Akasha, est amarré en orbite. Bloqué, attendant que la mission diplomatique de Norway sur Mars soit terminée. Feyn ne comprend pas que la corporation laisse un vaisseau et son équipage à l’arrêt aussi longtemps. Et c’est sans compter le voyage même : un vol à vide, avec seulement deux passagers, trois en comptant la peluche de l’enfant. Mais voilà, la corporation a décidé.
@@ -676,7 +688,7 @@ En attendant, ce sont des vacances forcées dans une opulence presque écœurant
 
 Le site d’aujourd’hui est particulier. Situé à plus de mille-cinq-cent kilomètres au nord de Marineris, la capitale martienne, le lieu revêt une importance quasi-religieuse. À l’époque, c’était la première fois que des images étaient envoyées depuis le sol martien. À vrai dire, lui-même n’était pas né à l’époque.
 
-Pour éviter tout risque de projection, la navette s’est posée à plus de cinquante kilomètres du site. Une fois les appuis assurés, Feyn se prépare pour sa longue activité extra-véhiculaire à venir. Enfilant sa combinaison spatiale, il observe son reflet sur la visière du casque. Son visage de raton laveur n’a pas pris de ride. Plutôt qu’un museau, il avait opté pour une version intermédiaire plus proche d’un visage humain. Le résultat aurait pu être affreux, mais Exobodies maîtrise son sujet et a su éviter tous les écueils. Au final, l’astronaute apprécie sa bonne « bouille ». Bien plus que lorsqu’il était encore humain, même avant sa décrépitude.
+Pour éviter tout risque de projection, la navette s’est posée à plus de cinquante kilomètres du site. Une fois les appuis assurés, Feyn se prépare pour sa longue activité extravéhiculaire à venir. Enfilant sa combinaison spatiale, il observe son reflet sur la visière du casque. Son visage de raton laveur n’a pas pris de ride. Plutôt qu’un museau, il avait opté pour une version intermédiaire plus proche d’un visage humain. Le résultat aurait pu être affreux, mais Exobodies maîtrise son sujet et a su éviter tous les écueils. Au final, l’astronaute apprécie sa bonne « bouille ». Bien plus que lorsqu’il était encore humain, même avant sa décrépitude.
 
 Équipé, les vérifications faites, Feyn cycle le sas. L’atmosphère équilibrée avec l’extérieur, il ouvre l’écoutille avant. Le désert martien de Chryse Planitia se déploie devant lui, intouché. L’astronaute se serait attendu à voir des centaines de traces d’atterrissages, mais il semble que les Martiens soient finalement assez peu friands des sorties culturelles.
 
@@ -712,6 +724,7 @@ Initiant les vérifications pré-vol, Feyn analyse le plan du retour. Satisfait,
 
 Direction Coprates Chasma et la grande cité de Marineris.
 
+----
 ## 15 – Grégoire : Conséquences
 
 Dans son bureau, le secrétaire général ressasse ses dernières conférences de presse. L’hostilité croissante de l’opinion publique accusant sans cesse l’organisation de son impuissance. En un sens c’est à la fois un espoir et une malédiction. La Terre semble désormais considérer que l’Organisation des Nations Unies est responsable de sa protection. Un pas de plus vers ce qui pourrait, peut-être, devenir un gouvernement planétaire. Dans un siècle ou deux.
@@ -738,12 +751,13 @@ Marquant une courte pause pour jouer un effet de contraste, le secrétaire gén�
 
 Laissant à tous le temps de réaliser cette dernière phrase, Grégoire boit une gorgée d’eau, avant de continuer : « Ce n’est pas la première crise que nous traversons collectivement, et ce ne sera pas la dernière. C’est pourquoi les nations doivent rester unies sur ce front. Tant que nous le sommes nous pouvons réaliser de grandes choses : n’est-ce pas l’association de nos nations qui a permis de placer ces hommes sur une nouvelle planète il y a quarante-trois ans ? Mais aujourd’hui, nous avons besoin de plus. »
 
-Une autre pause, ce coup-ci pour palier à un défaut de transition que n’avait pas prévu le secrétaire. C’est le moment de l’annonce : « Ce conseil est déjà fort occupé par sa tâche, ô combien importante, de la préservation de la paix et comme la lutte contre les corporations l’a démontré, il nous faut une meilleure coordination. Je propose donc la création d’un nouveau conseil : Le conseil de défense planétaire. Sa mission sera, sans interférence aucune avec les activités au sol, la protection de notre planète contre toute menace spatiale. »
+Une autre pause, ce coup-ci pour palier à un défaut de transition que n’avait pas prévu le secrétaire général. C’est le moment de l’annonce : « Ce conseil est déjà fort occupé par sa tâche, ô combien importante, de la préservation de la paix et comme la lutte contre les corporations l’a démontré, il nous faut une meilleure coordination. Je propose donc la création d’un nouveau conseil : Le conseil de défense planétaire. Sa mission sera, sans interférence aucune avec les activités au sol, la protection de notre planète contre toute menace spatiale. »
 
 Un silence se fait, rapidement brisé par quelques applaudissements, puis ceux de la salle toute entière. À sa connaissance, jamais le conseil de sécurité n’avait encore vu de manifestation pareille. Grégoire le prend comme un signe du changement. De l’effacement des nations individuelles, vers une humanité unie.
 
 Redonnant la parole, il se demande, amusé, comment les représentants des nations vont pouvoir rebondir là-dessus.
 
+----
 ## 16 – Alice : Mobilisation
 
 La nouvelle s’est rapidement propagée. Partout dans le campus ses camarades ne parlent que de ça :  ça y est : ils vont y aller. Aussi bien les aînés que les premières années.
@@ -806,6 +820,7 @@ Son amie reprend justement sur ce thème : « Je suppose que tu ne viendras pa
 
 Alice range sa tablette et l’accompagne : prendre des forces pour la suite !
 
+----
 ## 17 – Tsadir : La première mission
 
 Assise dans son siège stim, Tsadir se connecte au canal de réalité virtuelle du groupe des Solar Wardner de Mars. Immédiatement, son implant écrase ses sensations réelles et les remplace par celles de l’antichambre virtuelle. Flottant dedans quelques instants, son IA de supervision efface son impression de nausée. L’antichambre s’efface et laisse place à un grand bureau circulaire muni de nombreuses chaises organisées en un cercle parfait.
@@ -816,7 +831,7 @@ Une des wardners se lève et débute la réunion : sa peau noire contraste avec
 
 Dans la salle tous les wardners, Trend compris, se lèvent et lui adressent un hochement de tête avant de se rasseoir. L’ambiance de la salle semble avoir été conçue pour inspirer une impression solennelle et de calme. Les échos sont légèrement étouffés, comme pour insister sur la séparation avec l’extérieur et recentrer les pensées sur ce qui se passe à l’intérieur. Ce qui est ironique, puisque, dans cet espace virtuel, il n’y a pas d’extérieur.
 
-Alors que Tsadir hésite à répondre, la secrétaire reprend : « Aujourd’hui, nous sommes confrontés à une nouvelle crise : l’Attentat du Meerk fait déjà l’objet de plusieurs enquêtes de la part de nos agents dans le système jovien mais à ce stade de l’enquête nous ne pouvons écarter la participation d’autres adversaires de la Terre. Ikos a peut-être une piste. Je t’en prie. » La secrétaire, LightEchoes d’après son étiquette de réalité augmentée, tend sa main vers un autre wardner qui se lève à son tour.
+Alors que Tsadir hésite à répondre, la présidente-secrétaire reprend : « Aujourd’hui, nous sommes confrontés à une nouvelle crise : l’Attentat du Meerk fait déjà l’objet de plusieurs enquêtes de la part de nos agents dans le système jovien mais à ce stade de l’enquête nous ne pouvons écarter la participation d’autres adversaires de la Terre. Ikos a peut-être une piste. Je t’en prie. » La présidente-secrétaire, LightEchoes d’après son étiquette de réalité augmentée, tend sa main vers un autre wardner qui se lève à son tour.
 
 L’avatar de cet être est une nuée de petites particules cyan qui virevoltent et forment une silhouette changeante et des motifs éphémères. Sa voix, extrêmement grave semble être le fruit d’une synthèse artificielle employant un signal carré. Comme si elles en suivaient les vibrations, les particules semblent scintiller au rythme de ses paroles. S’adressant à tous, il explique : « Ikos. J’ai effectué des analyses statistiques des flux migratoires au sein du système solaire et, sur ces derniers mois, une anomalie ressort. ». Au centre de la salle, au-dessus du cercle formé par les agents assis, une série de tableaux et de graphiques apparaissent. Ils semblent faire face à Tsadir, mais compte tenu de la nature de cet environnement, chaque personne doit le voir de la même façon. La nuée reprend : « La taille d’effet est faible mais avec une valeur p permettant de rejeter l’hypothèse nulle. Il existe un flux de personnes, plus important qu’il ne le devrait, de Vranberg-Lytan vers Sol6, particulièrement à travers ses installations sur Mercure. Cette immigration semble au premier abord être normale : pas ou peu de lien entre les personnes. Mais l’anomalie statistique en elle-même tend à indiquer quelque chose de plus inquiétant dans le contexte de l’attentat de Meerk. ».
 
@@ -824,7 +839,7 @@ Dans la salle, plusieurs wardners semblent en train de reproduire les calculs d�
 
 Tsadir s’apprête à lever sa main quand Trend lui envoie un message qui lui dit : « Lève-toi si tu veux parler. =) ». La samouraï se lève alors et la présidente de la séance lui dit : « Tsadir, cette première mission t’emmènera en plein territoire onusien. En temps normal, je m’y serais opposée : ce type de mission ne convient pas à une nouvelle wardner. Mais étant donné que tu es la seule personne ici qui puisse se vanter d’avoir opéré sur Terre, je ne le ferais pas. Est-ce que quelqu’un d’autre a une remarque ? ».
 
-Un homme se lève à cinq chaises sur la gauche de Tsadir : SocietyPart. D’un petit geste de la main, la femme en blanc lui donne la parole. L’homme habillé d’une veste noire et d’un pantalon gris semble avoir plus de la cinquantaine avec ses cheveux grisonnant et son regard perçant. De sa voix assurée, il expose un autre plan : « Tsadir sera parfaite pour ce rôle et je ne vois personne de mieux placée qu’elle pour effectuer une visite officielle sur Mercure. Mais je pense que nous raterions une occasion si nous nous contentions seulement de cette possibilité. Je pense qu’explorer la route prise par ces migrants peut apporter d’autres informations importantes. Sans un soutien extérieur, une telle mission serait extrêmement dangereuse, encore que vous savez ce que je pense du danger. Mais avec Tsadir pouvant servir de soutien en cas de problème, cette option me semble plus qu’envisageable. Je propose qu’en plus de la mission de Tsadir, de me télécharger sur Jupiter où je prendrais un vol vers Mercure en me faisant passer pour un migrant de la même catégorie que ceux repéré par Ikos. »
+Un homme se lève à cinq chaises sur la gauche de Tsadir : SocietyPart. D’un petit geste de la main, la femme en blanc lui donne la parole. L’homme habillé d’une veste noire et d’un pantalon gris semble avoir plus de la cinquantaine avec ses cheveux grisonnant et son regard perçant. De sa voix assurée, il expose un autre plan : « Tsadir sera parfaite pour ce rôle et je ne vois personne de mieux placée qu’elle pour effectuer une visite officielle sur Mercure. Mais je pense que nous raterions une occasion si nous nous contentions seulement de cette possibilité. Je pense qu’explorer la route prise par ces migrants peut apporter d’autres informations importantes. Sans un soutien extérieur, une telle mission serait extrêmement dangereuse, encore que vous savez ce que je pense du danger. Mais avec Tsadir pouvant servir de soutien en cas de problème, cette option me semble plus qu’envisageable. Je propose qu’en plus de la mission de Tsadir, de me téléverser sur Jupiter où je prendrais un vol vers Mercure en me faisant passer pour un migrant de la même catégorie que ceux repéré par Ikos. »
 
 La nuée luminescente se relève et LightEchoes lui donne la parole et la voix artificielle résonne à nouveau : « Ikos. Ce plan possède une probabilité de succès suffisante pour justifier l’envoie de deux agents. J’ai analysé le profil des transfuges de Vranberg-Lytan et je commence la préparation du persona de la couverture de SocietyPart. Vous aurez aussi besoin d’un moyen de communication. Mes contacts devraient me fournir dans quelques heures un dispositif capable de créer un pont à travers le réseau de Sol6. »
 
@@ -832,10 +847,11 @@ Ikos et SocietyPart se rasseyent et Tsadir les imite.
 
 « Très bien, reprend la présidente, passons maintenant au problème des Phobos’ Heights. Avec le départ de SocietyPart, quelqu’un d’autre devra s’en charger. »
 
-Une première mission. Désormais c’est sûr : Tsadir est bel et bien une solar wardner. Quelque part, c’est intimidant. Le temps de réaliser ses nouvelles responsabilités, Ikos lui a déjà envoyé tout un dossier sur Mercure et les installations. Une véritable encyclopédie même. De son côté, SocietyPart semble rester attentif au conseil.
+Une première mission. Désormais c’est sûr : Tsadir est bel et bien une Solar Wardner. Quelque part, c’est intimidant. Le temps de réaliser ses nouvelles responsabilités, Ikos lui a déjà envoyé tout un dossier sur Mercure et les installations. Une véritable encyclopédie même. De son côté, SocietyPart semble rester attentif au conseil.
 
 Tsadir ferait mieux d’en faire de même.
 
+----
 ## 18 – Iravat : Au plus près de l’étoile
 
 Les inventaires successifs des ressources de l’ONU n’ont eu de cesse de l’inquiéter. Partout, du matériel disparaît et beaucoup de ces disparitions ne sont pas signalées. Généralement, ce sont des armes, du petit calibre heureusement. Pour le gros calibre, Iravat est rassuré de voir que tous les cas qu’il a découverts ont été correctement traités et que les enquêtes appropriées sont menées.
@@ -900,6 +916,7 @@ Le général reporte son regard sur la commandante qui est visiblement en train 
 
 Alors qu’il sort de la passerelle en remontant l’échelle d’accès, le général ressent un petit pic de nausée lui rappelant qu’il est toujours dans l’espace. Au moins, cette fois, il n’est pas question d’y mener une guerre.
 
+----
 ## 19 – Tsadir : Expédition
 
 La magnifique Elysium est une des citées centrales de Mars. Capitale diplomatique de Mars, c’est ici que se joue tout le théâtre de la cour des colonies. C’est aussi ici que l’architecture y est la plus diversifiée. En plus de la cité en elle-même, chaque corporation y possède un dôme entier servant d’ambassade. On y trouve même un dôme encore vide qui attend que l’ONU accepte l’invitation.
@@ -916,11 +933,11 @@ Malgré tout, la cyber-samouraï préférait prévenir quelques personnes dans l
 
 Et il avait raison : ressortant du quartier des ambassades, Tsadir en revient avec l’impression d’avoir perdu son temps. Aussi bien chez Mars que chez Aesir, on l’avait reçue avec une grande courtoisie et fait mine d’accepter tout ce qu’elle disait. Mais ces diplomates sont des artistes de l’évasion rhétorique et si on lui avait donné l’assurance qu’ils couvriraient ses arrières en cas d’incident, Tsadir en ressort peu convaincue.
 
-Dans la rame du métro, la solar wardner considère ses besoins en termes de transport : pour rallier Mercure, inutile d’espérer prendre un vol régulier depuis Mars : son enregistrement prendrait beaucoup de temps et Sol6 trouverait alors le moyen de retarder encore plus sa venue. « Ne frappe pas avant d’entrer. » Les corporations possèdent tellement de moyens qu’elles doivent bien avoir des vaisseaux sans affectation. Bien sûr, pas question de le demander gentiment : sur ce point, des promesses ne serviront à rien. Direction le contrôle spatial.
+Dans la rame du métro, la Solar Wardner considère ses besoins en termes de transport : pour rallier Mercure, inutile d’espérer prendre un vol régulier depuis Mars : son enregistrement prendrait beaucoup de temps et Sol6 trouverait alors le moyen de retarder encore plus sa venue. « Ne frappe pas avant d’entrer. » Les corporations possèdent tellement de moyens qu’elles doivent bien avoir des vaisseaux sans affectation. Bien sûr, pas question de le demander gentiment : sur ce point, des promesses ne serviront à rien. Direction le contrôle spatial.
 
 Flottant sur son rail d’électroaimants en supraconducteur, la rame file à une vitesse prodigieuse au ras de la surface poussiéreuse de Mars. Les rochers épars rendent le terrain plus chaotique qu’il ne l’est vraiment et tandis que les dômes de la cité se réduisent lentement vers l’horizon, ceux du spatioport s’approchent. Plusieurs vaisseaux en approche sont visibles comme des petits points de lumière dans le ciel. En dehors de ces apparitions, le monde semble mort d’ici.
 
-La rame passe sous le sol, dans un tunnel éclairé par des LED formant deux lignes de lumière de chaque côté de la rame. La décélération se montre douce et l’engin se stabilise à son point d’amarrage pour permettre la sortie. Traversant la gare souterraine, Tsadir gagne la jonction avec les dômes administratifs et opérationnels. Une unité robotique de la sécurité l’arrête : « Désolé Madame mais l’accès à cette section n’est autorisée qu’au personnel du spatioport.
+La rame passe sous le sol, dans un tunnel éclairé par des LED formant deux lignes de lumière de chaque côté de la rame. La décélération se montre douce et l’engin se stabilise à son point d’amarrage pour permettre la sortie. Traversant la gare souterraine, Tsadir gagne la jonction avec les dômes administratifs et opérationnels. Une unité robotique de la sécurité l’arrête : « Désolé Madame mais l’accès à cette section n’est autorisé qu’au personnel du spatioport.
 
 – Solar Wardner Tsadir, laissez-moi passer. », indique la femme d’une voix autoritaire tout en initiant l’authentification de son certificat. Immédiatement, l’unité fait un pas en arrière et lui fait signe qu’elle peut progresser. D’un ton cordial, elle lui souhaite : « Bonne journée Solar Wardner Tsadir. ».
 
@@ -956,7 +973,7 @@ Une femme s’avance vers Tsadir : « Bonjour, qui êtes-vous et que faites-vo
 
 – Si vous avez des ennuis, contactez-moi, et ceux qui vous voudront des ennuis en auront aussi, menace Tsadir.
 
-– D’accord. Venez. », se résigne la contrôleuse. Elle dirige Tsadir vers l’un des terminaux inoccupés et utilise son propre accès pour de déverrouiller. La solar wardner s’assied sur le siège et commence à effectuer des requêtes sous le regard tremblant de la femme.
+– D’accord. Venez. », se résigne la contrôleuse. Elle dirige Tsadir vers l’un des terminaux inoccupés et utilise son propre accès pour de déverrouiller. La Solar Wardner s’assied sur le siège et commence à effectuer des requêtes sous le regard tremblant de la femme.
 
 Tsadir commence par filtrer tous les vaisseaux trop importants pour être employé, ceux qui ne peuvent pas effectuer de vol interplanétaire et ceux qui ne peuvent pas endurer la proximité avec le soleil. La liste ainsi réduite, la wardner recherche les vaisseaux sans affectation. La liste propose une trentaine d’appareil que Tsadir trie par leur durée d’inactivité. Écartant près d’une dizaine d’appareils fantômes supposés être bloqués là-haut depuis plusieurs années, Tsadir s’intéresse à une corvette de Suan.
 
@@ -967,11 +984,11 @@ Tsadir note le contact du capitaine et passe à l’appareil suivant.
 ----
 ## 20 – Feyn : De retour là-haut
 
-Retrouver la sensation agréable de l’apesanteur met Feyn de très bonne humeur. Installé à son poste dans la passerelle, il fait le point avec Akasha sur l’état du vaisseau. Qu’est-ce qui peut tant intéresser cette solar wardner à bord ? Le commandant espère qu’il ne s’agit pas des conséquences de la mission de son passager, Georges Norway. Si les solar wardners s’intéressent à ce que Suan et Mars tentent de négocier en secret, c’est que les choses sont plus graves que ce que le raton laveur imaginait.
+Retrouver la sensation agréable de l’apesanteur met Feyn de très bonne humeur. Installé à son poste dans la passerelle, il fait le point avec Akasha sur l’état du vaisseau. Qu’est-ce qui peut tant intéresser cette Solar Wardner à bord ? Le commandant espère qu’il ne s’agit pas des conséquences de la mission de son passager, Georges Norway. Si les Solar Wardners s’intéressent à ce que Suan et Mars tentent de négocier en secret, c’est que les choses sont plus graves que ce que le raton laveur imaginait.
 
 L’inventaire terminé, rien d’anormal ne transparaît, les mises à jour ont toutes été validées par Akasha et Feyn, repassant sur la liste, constate qu’aucune ne semble suspecte. Mars a visiblement bien fait le travail.
 
-L’avatar de l’IA de l’appareil, l’interrompt : « Commandant, la solar wardner Tsadir demande à monter à bord.
+L’avatar de l’IA de l’appareil, l’interrompt : « Commandant, la Solar Wardner Tsadir demande à monter à bord.
 
 – Accordé, autorise Feyn. Je vais aller l’accueillir. Au cas où, exécute une vérification de pré-lancement. On ne sait jamais, elle voudra peut-être faire une virée sur Phobos.
 
@@ -1005,7 +1022,7 @@ Il reprend alors : « Mercure hein ? Je suis curieux, pourquoi l’Akasha ?
 
 – Le seul ? s’étonne Feyn.
 
-– Oui, confirme-t-elle avec une pointe de sarcasme. Personne n’apprécie vraiment d’être dérangé, surtout par un solar wardner.
+– Oui, confirme-t-elle avec une pointe de sarcasme. Personne n’apprécie vraiment d’être dérangé, surtout par un Solar Wardner.
 
 – Je comprends, déplore le raton laveur. Je suppose que si je demandais l’autorisation de vol à Suan, ils me poseraient suffisamment de questions pour me maintenir ici quelques jours.
 
@@ -1041,7 +1058,7 @@ Il reprend alors : « Mercure hein ? Je suis curieux, pourquoi l’Akasha ?
 
 « Je me mets dessus alors. Si vous me cherchez, je suis dans la passerelle, zone rouge. », indique Feyn en reprenant l’échelle vers le « haut ».
 
-Bien que le commandant ne soit pas encore sûr de la finalité de tout ceci, la perspective de reprendre un vol lui apporte une grande satisfaction. Pour quelles raisons une solar wardner s’intéresserait-elle à Mercure ? Sol6 n’a jamais vraiment représenté le moindre danger. Quoi qu’il en soit, l’aventure s’annonce intéressante.
+Bien que le commandant ne soit pas encore sûr de la finalité de tout ceci, la perspective de reprendre un vol lui apporte une grande satisfaction. Pour quelles raisons une Solar Wardner s’intéresserait-elle à Mercure ? Sol6 n’a jamais vraiment représenté le moindre danger. Quoi qu’il en soit, l’aventure s’annonce intéressante.
 
 De retour sur la passerelle, il s’installe à son poste et déploie la carte de navigation. S’assurant que tous les référentiels sont à jour, il commence à effectuer les calculs. Avec la mise à jour de son système de propulsion, l’Akasha peut s’enorgueillir de disposer de presque deux-milles kilomètres par secondes de budget delta-v. Par précaution Feyn préfère conserver assez de masse de propulsion pour pouvoir faire l’aller et retour. Avec une accélération constante équivalente à la gravité de surface de Mars, il leur faudra trois jours pour joindre l’astre et il leur restera un budget confortable d’un peu plus du millier de kilomètres par seconde pour le retour.
 
@@ -1049,6 +1066,7 @@ Calculant les poussées et les orbites de transfert, Feyn est rejoint par la war
 
 Sur, son interface, une notification apparaît à Feyn : une demande de plan de vol émise par le contrôle spatial de Mars. « Eh bien ! On dirait vraiment qu’on va partir ! », se réjouit le commandant.
 
+----
 ## 21 – Alexander : Le silence de l’espace
 
 Après pratiquement vingt heures d’accélération, le vaisseau a effectué sa manœuvre de retournement et commencé la phase de décélération, imposant un bon G à tous les occupants. À bord, la plupart des passagers sont des cadets de Sol6, envoyés sur Mercure pour continuer leur formation. Ce qui s’est révélé plutôt pratique : les cadets proviennent de tant d’académies différentes, que se faire passer pour l’un d’entre eux s’est révélé plus simple que prévu.
@@ -1069,6 +1087,7 @@ Dans la cuisine, il s’attelle rapidement au nettoyage. Si quelqu’un entre, i
 
 En revanche, même si ça lui a coûté la vie et un long voyage à travers la galaxie, la fille a réussi : il lui faut trouver un autre moyen d’éliminer le Général.
 
+----
 ## 22 – Tsadir : Lancement
 
 Durant sa longue carrière, Tsadir a déjà éprouvé de nombreux vols spatiaux. C’est une ancienne chef de sécurité d’Aesir après tout. Malgré tout, ses connaissances sur la structure et l’organisation d’un vaisseau se limite aux moyens d’entrer, de mettre le vaisseau en péril et d’y combattre. Sur la passerelle, avec Feyn, elle découvre le fonctionnement opérationnel d’une corvette. Certes l’IA fait pratiquement tout, mais le commandant, par ses explications, démontre aussi ses capacités à prendre les commandes en cas de besoin.
@@ -1095,6 +1114,7 @@ Le compte à rebours de la manœuvre approche de zéro. Tsadir revérifie machin
 
 Une minute plus tard, Feyn lui annonce : « Et voilà, on a presque une heure devant nous avant la poussée principale. »
 
+----
 ## 23 – Iravat : Incident 1
 
 Sous l’éclairage vif de l’infirmerie de bord, Iravat examine la jeune fille sous-respiration artificielle.  D’innombrables câbles partent de son corps et la relient au mur d’instruments derrière. Le moniteur affiche des données absconses et plusieurs courbes qui ne font aucun sens pour le militaire. Une poche pressurisée injecte un liquide transparent à la jeune femme à travers une intraveineuse.
@@ -1147,6 +1167,7 @@ Le général leur fait un signe de tête et sort de l’infirmerie en se frottan
 
 Personne n’avait dit que ce serait un voyage paisible. Mais Iravat n’avait pas encore idée de l’ampleur de la guerre invisible au sein de ses services. Il devra être plus vigilant : sa mission a peut-être déjà coûté la vie à une personne.
 
+----
 ## 24 – Alexander : Nocturnes funérailles
 
 Le plan initial a échoué et la disparition de la jeune femme a commencé à s’ébruiter parmi les cadets. La commandante a initié une fouille du vaisseau en vain et le général semble être plus que jamais sur ses gardes. Et le vaisseau a terminé son insertion gravitationnelle et dérive sur son orbite elliptique, sans poids.
@@ -1171,6 +1192,7 @@ Son forfait réalisé, il ne lui reste plus qu’une heure avant le déclencheme
 
 Ceci-fait, il s’assied à côté de la porte et attend.
 
+----
 ## 25 – Feyn : Anomalie orbitale
 
 « Désolé Akasha, mais nous n’avons pas de ponton libre pour le moment. Nous vous tiendrons informé dès que la situation aura évolué. Contrôle, terminé. », la réponse du contrôle orbital de Mercure exaspère Feyn. Depuis leur insertion orbitale autour de Mercure, il y a bientôt huit heures, leur situation n’a pas évolué. Évidemment, Tsadir a envoyé plusieurs messages à ses contacts sur Mars, insistant lourdement sur sa mission et son appartenance au Solar Wardners. Mais au bout de plus de 4 révolutions autour de la première planète, toujours rien.
@@ -1223,6 +1245,7 @@ L’astronaute considère ce nouvel événement avec une pointe d’excitation e
 
 « Tenez bon pauvres hères. », murmure-t-il en vérifiant les paramètres de la manœuvre.
 
+----
 ## 26 – Alexander : Incident 2
 
 Quelque chose s’est mal déroulé. L’assassin en a la certitude. Dans ce genre d’opération, au moment de l’attente de l’extraction, on finit souvent par avoir des doutes. A-t-on oublié quelque chose ? Est-on sûr que la cible ne s’en est pas tiré ?
@@ -1304,6 +1327,7 @@ Attentive, Tsadir lui demande : « Alors, tu penses qu’il s’y est passé q
 
 La samouraï sans poids descend l’échelle d’accès à la passerelle et passe l’ouverture qui mène au premier hub. Avec l’habitude du métier, cela fait bien longtemps que Feyn ne laisse plus traîner quoi que ce soit lorsqu’il quitte une pièce. Bah… Elle prendra l’habitude à force de voyager.
 
+----
 ## 28 – Tsadir : Dans la toile
 
 Installée dans son siège sur la passerelle, elle observe le cosmonaute indiquer les commandes à l’IA. Les sièges se sont orientés pour que la force centrifuge ressentie les pose gentiment dans le fond de leurs sièges. Le mouvement est très lent et Tsadir ressent à peine la gravité artificielle induite par la danse des deux vaisseaux.
@@ -1364,6 +1388,7 @@ Feyn déploie un petit drone d’inspection et le dirige vers l’intérieur. Un
 
 Quand il faut y aller… Se répète Tsadir franchissant l’écoutille et plongeant dans les ténèbres éclairées par les seules lampes de leurs casques.
 
+----
 ## 29 – Alexander : Extraction
 
 Dans la pénombre de l’infirmerie, Alexander est réveillé par un son puissant qui résonne à travers la porte. Une heure auparavant, il avait entendu une série d’étranges chocs résonner à travers toute la structure. Sous la fatigue, et comme rien d’autre ne s’était passé ensuite, il s’était rendormi. Mais là, il n’y a plus de doute : quelqu’un est à bord.
@@ -1396,7 +1421,7 @@ Après un bon quart d’heure à s’équiper, et à vérifier l’étanchéité
 
 « La porte n’est pas étanche, donc c’est pressurisé de l’autre côté. », fait-il remarquer. Branchant un décodeur, le secouriste pirate le dispositif et la porte débloquée, commence à glisser sur le côté. Presque immédiatement, il annonce : « On a un second survivant ! Mais il n’est pas dans un bon état… Akasha, on va avoir besoin d’un brancard pressurisé avec une assistance respiratoire. ».
 
-L’autre astronaute n’a pas bougé d’un millimètre et Alexander ressent l’impression d’être attentivement examiné. Contrairement aux deux sauveteurs, sa tenue est une combinaison d’intérieur, inadaptée à toute sortie extra-véhiculaire. Mais surtout, elle est bien moins renforcée. S’il devait y avoir un combat, il n’aurait aucune chance.
+L’autre astronaute n’a pas bougé d’un millimètre et Alexander ressent l’impression d’être attentivement examiné. Contrairement aux deux sauveteurs, sa tenue est une combinaison d’intérieur, inadaptée à toute sortie extravéhiculaire. Mais surtout, elle est bien moins renforcée. S’il devait y avoir un combat, il n’aurait aucune chance.
 
 Avec délicatesse, et la grâce aérienne de l’apesanteur, le premier astronaute extrait lentement une table médicale complètement équipée. Dessus repose la femme que le rescapé juge responsable de sa situation actuelle. Sanglée pour lui éviter de dériver à travers la salle, elle est sous respiration artificielle, un tube entrant profondément dans sa gorge. Elle porte les ecchymoses de sa lutte avec l’assassin, teignant sa peau noire de taches violettes. Le bandage à sa main rappelle au rescapé qu’elle est malgré tout condamnée : le virus, ou quelque-soit l’agent biologique qu’on lui a confié, doit déjà commencer son carnage à l’intérieur de ce corps inanimé.
 
@@ -1450,6 +1475,7 @@ Arrivés dans le sas, le commandant donne ses ordres : « Allez à l’infirme
 
 L’éclairage abondant du vaisseau compensant celui des lampes de la combinaison, le rescapé aperçoit enfin le visage de son occupant : le visage d’un raton laveur !
 
+----
 ## 30 – Feyn : L’expertise
 
 L’exploration extensive des drones confirme les craintes de Feyn. De nombreux corps, dérivent épars dans les coursives des quartiers et près de la passerelle.
@@ -1498,9 +1524,10 @@ Marquant le corps pour les corbillards, il examine une dernière fois la salle, 
 
 Remontant la coursive, Feyn essaie encore de comprendre ce qui justifie un tel acte. Si tant est que ça puisse être possible. Il sait que la réponse est à bord. Et il la trouvera.
 
+----
 ## 31 – Alexander : Ab mortem
 
-Dans l’infirmerie, la jeune femme repose avec légèreté sur le plateau de la station médicale de l’Akasha. Une multitude de bras robotiques, portant chacun de véritables collections d’instruments, l’ont auscultée, examinée, manipulée et opérée. Durant la reconstruction de sa trachée, ces ustensiles ont joué un véritable bal. Les fragments de l’ancien cartilage extraits, ils ont été remplacés par un nouveau, fraîchement synthétisé. Avec du medigel, l’impressionnant appareillage a refermé le reste de la plaie, reconstruisant la structure des tissus endommagés. Dans les colonies, soigner un corps semble à peine plus compliqué que de réparer un robot. L’assistance respiratoire devient passive et une série de micro-électrodes placées sur un grand nombre de ses muscles provoquent des mini-contractions destinées à prévenir l’affaiblissement des muscles.
+Dans l’infirmerie, la jeune femme repose avec légèreté sur le plateau de la station médicale de l’Akasha. Une multitude de bras robotiques, portant chacun de véritables collections d’instruments, l’ont auscultée, examinée, manipulée et opérée. Durant la reconstruction de sa trachée, ces ustensiles ont joué un véritable bal. Les fragments de l’ancien cartilage extraits, ils ont été remplacés par un nouveau, fraîchement synthétisé. Avec du medigel, l’impressionnant appareillage a refermé le reste de la plaie, reconstruisant la structure des tissus endommagés. Dans les colonies, soigner un corps semble à peine plus compliqué que de réparer un robot. L’assistance respiratoire devient passive et une série de microélectrodes placées sur un grand nombre de ses muscles provoquent des mini-contractions destinées à prévenir l’affaiblissement des muscles.
 
 Déstabilisé par les informations sur l’opération, Alexander a coupé les annotations ajoutées par le link qu’on lui a prêté. L’appareil consiste en une paire de lunettes, superposant toutes sortes d’informations utiles par-dessus la réalité. Mais parfois, trop d’informations, c’est trop.
 
@@ -1546,6 +1573,7 @@ Tsadir s’approche, soulève la manche de la veste et lui applique l’embout d
 
 Au moins, s’ils disent vrai, il est à son tour protégé. Enfin, une fois que son système immunitaire aura mémorisé ces nouveaux marqueurs.
 
+----
 ## 32 – Feyn : Le témoin de l’apocalypse
 
 Le second passage dans l’infirmerie lui a permis de confirmer leurs craintes : Alexander Donnart est très certainement l’immondice qui a causé tous ces dégâts. Les batteries y ont été soigneusement isolée du reste du réseau, près d’un quart d’heure avant l’incident. Avant !
@@ -1598,6 +1626,7 @@ Le fichier vidéo se termine. Tsadir doit impérativement voir tout ça. Il cont
 
 – Moi aussi, j’ai des nouvelles, annonce Tsadir. Des bonnes et des moins bonnes. »
 
+----
 ## 33 – Alice : Égarements
 
 L’impression de flotter et de dériver dans un espace infini, au milieu de formes géométriques impossibles. Tout se simplifie, je n’aurais jamais dû… Les idées étranges s’embrouillent et s’évanouissent lentement dans l’obscurité.
@@ -1628,11 +1657,12 @@ Le temps semble s’être arrêté pour la jeune femme. Elle n’a jamais vraime
 
 La femme cyborg reste silencieuse mais son regard marque sa compréhension. Relâchant ses mains avec douceur, elle se lève et se retourne. Elle semble répondre à un appel : « Moi aussi, j’ai des nouvelles, annonce Tsadir. Des bonnes et des moins bonnes. ».
 
+----
 ## 34 – Feyn : Des comptes à rendre
 
 Si ses dramatiques découvertes ont pu lui mettre un coup au moral, le réveil d’Alice et le message de Mars apporte un peu de réconfort.
 
-À peine les schématiques de l’équipe de recherche martienne reçues et chargées dans le système, Akasha a démarré la synthèse du sérum. Si les anti-viraux génériques utilisés jusque-là avaient permis de ralentir considérablement la progression du virus, ce sérum va simplement anéantir la charge virale à un seuil suffisamment bas pour permettre au système immunitaire de la terrienne de reprendre le dessus.
+À peine les schématiques de l’équipe de recherche martienne reçues et chargées dans le système, Akasha a démarré la synthèse du sérum. Si les antiviraux génériques utilisés jusque-là avaient permis de ralentir considérablement la progression du virus, ce sérum va simplement anéantir la charge virale à un seuil suffisamment bas pour permettre au système immunitaire de la terrienne de reprendre le dessus.
 
 Une interrogation se pose toutefois : si l’équipe a confirmé que le virus est de facture artificielle, les marques de fabrication écartent toute possibilité qu’il ait pu être fabriqué par les terriens, même par une équipe onusienne dissidente. Cette arme biologique provient des colonies et semble similaire à certaines utilisées lors de la guerre des colonies.
 
@@ -1668,6 +1698,7 @@ La Solar Wardner se protège derrière un masque de détachement. Mais ce n’es
 
 Quoi qu’il en soit, un crime n’en effacera jamais un autre et l’astronaute préfère préserver ce qui subsiste que de chercher la vengeance à tout prix. Et c’est Alice qui aura besoin de lui.
 
+----
 ## 35 – Tsadir : Retrouvailles
 
 L’entretien avec Alexander Donnart n’a pas donné grand-chose. Tsadir s’en doutait de toutes façons. Si elle pouvait être dans les colonies, ce serait tellement plus simple : la méthode de Trend – qui consiste à numériser l’esprit et à le donner en pâture à une IA spécialisée pour en extraire les souvenirs – demande tellement de puissance de calcul que ça ne peut pas être fait sur l’Akasha.
@@ -1740,11 +1771,11 @@ Estropié, le vaisseau privé de son armement effectue une manœuvre d’évasio
 
 – Mahertis ! intervient Tsadir. Mais que fais-tu ici ?
 
-– Bonjour Tsadir, salue l’IA manifeste. Je vais vous expliquer. De toutes façons, tu es une solar wardner maintenant et ma présence a été révélée.
+– Bonjour Tsadir, salue l’IA manifeste. Je vais vous expliquer. De toutes façons, tu es une Solar Wardner maintenant et ma présence a été révélée.
 
 – Je te laisse avec notre sauveur, je vais aller rassurer notre passagère. », indique Feyn en rangeant son casque avant de se détacher.
 
-Mahertis reprend : « Depuis l’attentat du Meerk, Aesir mène une enquête pour remonter à la source de l’attaque. L’état de délitement de Vranberg-Lytan est devenu assez préoccupant et nous pensons qu’une cellule dissidente de la corporation est active sur Mercure. Une équipe, un escadron entier en fait, est actuellement en orbite et effectue des opérations de surveillance. Quand vous êtes arrivés, Marth elle-même a demandé à ce qu’une de nos corvettes soit affectées, officieusement, à votre protection. Comme je te connais mieux que les agents déjà sur place, je me suis téléchargé à bord de cette corvette et vous suis depuis déjà plusieurs orbites. Et quand le vaisseau onusien est arrivé et qu’il a commencé à charger son canon électrique, je suis intervenu. ».
+Mahertis reprend : « Depuis l’attentat du Meerk, Aesir mène une enquête pour remonter à la source de l’attaque. L’état de délitement de Vranberg-Lytan est devenu assez préoccupant et nous pensons qu’une cellule dissidente de la corporation est active sur Mercure. Une équipe, un escadron entier en fait, est actuellement en orbite et effectue des opérations de surveillance. Quand vous êtes arrivés, Marth elle-même a demandé à ce qu’une de nos corvettes soit affectées, officieusement, à votre protection. Comme je te connais mieux que les agents déjà sur place, je me suis téléversé à bord de cette corvette et vous suis depuis déjà plusieurs orbites. Et quand le vaisseau onusien est arrivé et qu’il a commencé à charger son canon électrique, je suis intervenu. ».
 
 L’explication claire de Mahertis ne convainc Tsadir que partiellement, mais elle a déjà travaillé avec l’IA et si on pourrait lui reprocher des tendances interventionnistes, il considère toujours les conséquences avec grande attention. Et puis, elle ne fait plus partie d’Aesir désormais, aussi ne la tient-on plus au courant des secrets de la corporation.
 
@@ -1764,6 +1795,7 @@ Si l’idée amuse Tsadir, cette action réduit aussi le risque que les Nations 
 
 Mais au fait, où en sont les forces de soutien promises par Sol6 ?
 
+----
 ## 36 – Feyn : Redirection
 
 « Contrôle, ici l’Akasha. Nous avons terminé la sécurisation du Mona Lisa. Je vous envoie le rapport. Les nouvelles ne sont pas bonnes du tout, nous n’avons que deux survivants dont le responsable présumé de l’incident.
@@ -1836,6 +1868,7 @@ Alors que les passagers s’installent en prévision de la poussée à venir, Fe
 
 Eh bien, c’est parti.
 
+----
 ## 37 – Alice : Récupération
 
 Feyn l’a invitée à se placer sur le siège à côté de lui. Alors qu’il l’aide à s’installer, elle se rend compte que le pelage du raton laveur est extraordinairement doux. Bien qu’elle soit encore loin d’avoir récupéré ses forces, Alice ne ressent plus cet état misérable dans lequel elle était. Ses mains ne tremblent plus et sa vision arrive à maintenir une image nette. Elle porte encore ce bracelet moniteur qui lui rappelle à quel point elle a frôlé la mort, un anneau blanc en quatre parties reliées par des rubans élastiques noirs.
@@ -1846,7 +1879,7 @@ Le vol vers Otessa Orbitals s’est montré plus rapide qu’elle ne l’aurait 
 
 Elle repense à ce que lui a dit le commandant quelques heures auparavant : l’interdiction de certaines technologies par la Terre rend certaines opérations très difficiles à effectuer. Quelque part, elle se demande à quoi ressemble la vie là-haut. Dans ces fameuses colonies extra-terrestres. Dans ce monde où ils ne craignent plus la mort.
 
-Sur son siège, Tsadir s’est isolée. Elle communique avec les autorités de la station et semble résolue à prendre contact avec les plus hauts gradés à bord. À voir sa mine, ce n’est pas encore un succès. La solar wardner projette cette impression étrange : comme si la limite de l’homme et de la machine n’avait jamais existé. Jusque là, elle n’a jamais vu la samouraï se séparer de ses sabres ce qui l’impressionne : qui se bat encore à l’arme blanche aujourd’hui ? Peut-être est-ce le symbole des solar wardners ?
+Sur son siège, Tsadir s’est isolée. Elle communique avec les autorités de la station et semble résolue à prendre contact avec les plus hauts gradés à bord. À voir sa mine, ce n’est pas encore un succès. La Solar Wardner projette cette impression étrange : comme si la limite de l’homme et de la machine n’avait jamais existé. Jusque-là, elle n’a jamais vu la samouraï se séparer de ses sabres ce qui l’impressionne : qui se bat encore à l’arme blanche aujourd’hui ? Peut-être est-ce le symbole des Solar Wardners ?
 
 Sur le link qu’on lui a donné, elle effectue une recherche : « Solar Wardners ». Immédiatement, le cache de données de l’Akasha lui renvoie de nombreux résultats. Le premier est l’espace d’accueil officiel du groupe. Divisé en plusieurs sous-espace, Alice se perd un peu dedans, errant notamment dans les sections dédiées aux interlocuteurs officiels rappelant les termes et les implications des amendements du traité des colonies. Lors de sa lecture initiale, Alice ne réalise pas qu’il s’agit du texte officiel. Loin de présenter la rigueur et l’incompréhensibilité du jargon juridique, le traité se contente d’exposer ses intentions avec une simplicité telle que pratiquement n’importe qui peut avoir une idée claire de son contenu.
 
@@ -1862,6 +1895,7 @@ Toute une série de manœuvre apparaît sur l’interface. Alice fait le lien av
 
 Si seulement Nyanya était là !
 
+----
 ## 38 – Mahertis : Une proie
 
 Les traceurs accrochés à la carcasse de la corvette onusienne tiennent encore. Les croisements avec les antennes des autres corvettes de l’opération Sköll ont permis sa localisation précise et les données radars sont formelles : une petite flotte s’est regroupée sur une orbite haute de Mercure et c’est là que le fuyard se dirige.
@@ -1884,6 +1918,7 @@ La flotte est bien trop importante pour être attaquée frontalement par les for
 
 Mahertis transmet son rapport avant de se laisser redescendre au gré de son orbite très elliptique. Il va falloir des renforts et rapidement.
 
+----
 ## 39 – Tsadir : Les échos de la guerre
 
 La station spatiale Otessa Orbitals est une ancienne station en orbite basse. Protégée par un immense bouclier thermique, cette voile réfléchissante qui s’étends sur presque un kilomètre, la station est aussi l’une des plus grandes contrôlée par Sol6.
@@ -1960,7 +1995,7 @@ Mikaël Rombes reprend et s’adresse à Alice : « Cadette Noterger, suivez-m
 
 – D’accord monsieur. », accepte-t-elle.
 
-Alice et l’administrateur s’éloignent, escortés par les deux soldats. Si tout va bien, les formalités seront rapidement réglées et la solar wardner pourra enfin poursuivre son enquête.
+Alice et l’administrateur s’éloignent, escortés par les deux soldats. Si tout va bien, les formalités seront rapidement réglées et la Solar Wardner pourra enfin poursuivre son enquête.
 
 ----
 ## 40 – Feyn : Le dernier hommage au port
@@ -1999,7 +2034,7 @@ Jetant un œil autour de lui, Feyn entre-aperçoit quelques regards furtifs dans
 
 Feyn répond ensuite à de nombreuses questions d’ordre plus administrative. Quelles marchandises, en dehors des dépouilles, transporte-t-il ? Le vaisseau présente-t-il un risque quelconque ? Quelle est la nature de la masse de propulsion de l’Akasha ? Quelle quantité en faut-il pour le ravitaillement promis ? Y a-t-il des réparations ou de l’entretien à faire ? Combien de temps, le vaisseau devra rester ici ?
 
-Pour cette dernière question, Feyn est bien embêté : maintenant que Tsadir est parvenue à poser pied dans une installation de Sol6, elle voudra reprendre sa mission. Il répond évasivement : « Je ne sais pas. Mon vaisseau et moi avons été réquisitionnés par la solar wardner Tsadir et elle ne m’a pas fait part de ses plans. »
+Pour cette dernière question, Feyn est bien embêté : maintenant que Tsadir est parvenue à poser pied dans une installation de Sol6, elle voudra reprendre sa mission. Il répond évasivement : « Je ne sais pas. Mon vaisseau et moi avons été réquisitionnés par la Solar Wardner Tsadir et elle ne m’a pas fait part de ses plans. »
 
 La réponse ne semble pas plaire à Namja, mais elle n’oppose aucune objection. Le reste de l’entretien se montre plus technique et dure encore une bonne demi-heure. Après avoir approuvé les conditions d’amarrage et confirmé sa connaissance des lois en vigueur sur la station, Feyn est finalement libéré de ses obligations administratives.
 
@@ -2021,6 +2056,7 @@ L’opération se déroule dans un calme et un silence presque religieux. Quatre
 
 Finalement, les hommes de Namja évacuent l’Akasha et laissent Feyn à son vaisseau. Namja lui souhaite un bon séjour et s’en va avec le reste de la troupe. Alors qu’il s’apprête à repartir à l’intérieur, Tsadir fait irruption sur le seuil du tunnel d’accès. La satisfaction sur son visage semble indiquer son entretien avec Jordan s’est bien passé.
 
+----
 ## 41 – Tsadir : Fibre de carbone
 
 Après le départ de Feyn et Alice, Tsadir est retournée à l’infirmerie, veiller sur son prisonnier. Alexander Donnart est un homme en apparence banal, mais sa musculature indique qu’il s’est longuement entraîné et qu’il a certainement utilisé des drogues pour compenser les effets de l’absence de gravité. En dehors de cette particularité, rien : pas d’implant, pas de modification…
@@ -2127,6 +2163,7 @@ Approchant du quai numéro cinq, la samouraï croise une quinzaine d’individus
 
 À l’entrée de l’Akasha, Feyn s’apprêtait visiblement à rentrer. Tsadir l’interpelle chaleureusement.
 
+----
 ## 42 – Alice : Réintégration
 
 Être de retour dans un environnement relativement habituel, au moins au niveau de l’architecture, produit une étrange sensation de nostalgie et de mélancolie. Même si elle n’a pas encore retrouvé la gravité, le mobilier et les logos familiers lui donnent presque l’impression d’être revenue dans le centre de formation de Kampala. Et pourtant, quelque chose lui manque.
@@ -2201,7 +2238,7 @@ Une fois complètement enveloppée de savon, Alice ressent cette sensation qu’
 
 Propre, elle retourne dans la chambre, constatant que sa tenue précédente a vaguement dérivé dans l’un des coins de la pièce. Suivant les instructions d’Ilenia, Alice ouvre le placard du haut et en sort un uniforme complet, emballé dans une pochette plastifiée pour en faciliter le rangement dans le placard.
 
-Refermant ce dernier du pied, la jeune femme extrait sa nouvelle tenue du plastique et s’en habille. Les vêtements sont un peu serrés, mais elle s’en accomodera. Revenant près du sol, elle récupère ses anciens vêtements et les range dans la pochette transparente. Après l’avoir fermée, la cadette accroche l’ensemble à la surface en dessous du terminal, maintenu par les aimants placés aux coins.
+Refermant ce dernier du pied, la jeune femme extrait sa nouvelle tenue du plastique et s’en habille. Les vêtements sont un peu serrés, mais elle s’en accommodera. Revenant près du sol, elle récupère ses anciens vêtements et les range dans la pochette transparente. Après l’avoir fermée, la cadette accroche l’ensemble à la surface en dessous du terminal, maintenu par les aimants placés aux coins.
 
 Revenant au placard du plafond, elle trouve un petit élastique dans une boîte réservée aux accessoires. Prenant soin de ne pas en éparpiller le contenu, la jeune femme extrait doucement l’élastique et referme le couvercle transparent avant de tout replacer dans son espace d’origine. Alice, luttant un peu, regroupe ses cheveux en arrière et les attache.
 
@@ -2217,6 +2254,7 @@ Reprenant son calme, comme elle a toujours su le faire, elle décide de se conce
 
 La nouvelle est très grave, mais en sa qualité de nouvelle venue, il lui semble difficile de pouvoir compter sur l’administration. Alice ira en parler à Tsadir quand elle en aura le temps. En attendant, elle pourrait peut-être garder un œil sur lui, elle-même ?
 
+----
 ## 43 – Tsadir : Poussières et cambouis
 
 Comme l’atteste les nombreuses cales sèches, Otessa Orbitals est avant tout un chantier spatial, l’un des plus grands de Sol6, seulement dépassé par ceux de la Lune. De nombreuses équipes y travaillent en permanence et depuis l’annonce du secrétaire général de l’ONU, l’activité n’y a probablement fait que croître.
@@ -2285,7 +2323,7 @@ Plus décontractée, Kim semble se détendre et sourit à Tsadir. Profitant de l
 
 Le mess : « La meilleure pièce du vaisseau », explique-t-il en plaisantant. Il leur indique l’une des deux tables pour s’y asseoir.
 
-Il est ironique de voir que siéger sur une chaise en apesanteur est parfois moins confortable que de rester au repos dans l’espace. Sans la gravité pour vous replier les jambes vers le bas, elles ont tendance à rester droite. Les chaises du mess de l’Akasha disposent d’une tige souple en dessous des pieds pour y les glisser, les retenant en place. Une petite sangle, semblable à une petite ceinture de sécurité ventrale vous maintient alors sur le siège. Le dispositif peut sembler contraignant, mais pouvoir utiliser ses deux mains sans risquer de dériver est finalement appréciable. Avec le temps, Tsadir s’est habituée à ce processus et Feyn en utilise même une variante plus contraignante dans l’atelier pour lui permettre de mettre plus de force si nécessaire.
+Il est ironique de voir que siéger sur une chaise en apesanteur est parfois moins confortable que de rester au repos dans l’espace. Sans la gravité pour vous replier les jambes vers le bas, elles ont tendance à rester droite. Les chaises du mess de l’Akasha disposent d’une tige souple en dessous des pieds pour les y glisser, les retenant en place. Une petite sangle, semblable à une petite ceinture de sécurité ventrale vous maintient alors sur le siège. Le dispositif peut sembler contraignant, mais pouvoir utiliser ses deux mains sans risquer de dériver est finalement appréciable. Avec le temps, Tsadir s’est habituée à ce processus et Feyn en utilise même une variante plus contraignante dans l’atelier pour lui permettre de mettre plus de force si nécessaire.
 
 Une fois tout le monde installé, Tsadir reprend : « Donc, nous avons un problème avec ce groupe. A-t-on une idée de leurs moyens ?
 
@@ -2323,6 +2361,7 @@ Difficile de faire plus explicite comme message.
 
 Alice… Elle est en danger !
 
+----
 ## 44 – Alice : L’ange de la guerre
 
 La cantine de la section ingénierie est suffisamment grande pour permettre à plus d’une quarantaine de personnes de manger en même temps. À côté, le mess de l’Akasha ressemble à une cabine de douche.
@@ -2401,7 +2440,7 @@ Tsadir engage la conversation immédiatement :« Alice, comment-vas-tu ?
 
 – Vole, je viens à ta rencontre ! », ordonne Tsadir.
 
-Automatiquement, l’interface de son Link trace la route vers l’Akasha. À travers les murs, elle peut voir Tsadir comme un petit point au niveau du ventre de l’Akasha. Elle doit probablement être en train d’attendre le cycle du sas. La cadette imagine que la Wardner peut la suivre de la même façon.
+Automatiquement, l’interface de son Link trace la route vers l’Akasha. À travers les murs, elle peut voir Tsadir comme un petit point au niveau du ventre de l’Akasha. Elle doit probablement être en train d’attendre le cycle du sas. La cadette imagine que la wardner peut la suivre de la même façon.
 
 Avançant raisonnablement vite, Alice sort de la section d’ingénierie. Les coursives retrouvent leur aspect plus rustique, exposant des peintures plus anciennes. Descendant vers le port, elle constate que Tsadir progresse plus rapidement encore. La cadette parvient à la zone centrale de la station : dans la grande zone ouverte, de nombreux ouvriers convoient de nombreux containers et machines. S’il y a un goulot d’étranglement sur cette station, c’est bien ici qu’il se trouve.
 
@@ -2415,7 +2454,7 @@ Arrivée au niveau de la porte, elle se sert de la même astuce pour s’assurer
 
 – On en reste au plan, enfile cette combinaison !
 
-– On a une putain de solar wardner à bord : il faut prévenir le commandement. Vous auriez dû me laisser en taule.
+– On a une putain de Solar Wardner à bord : il faut prévenir le commandement. Vous auriez dû me laisser en taule.
 
 – Quoi, tu vas nous faire croire qu’ils n’auraient pas réussi à te tirer quoi que ce soit ?
 
@@ -2451,6 +2490,7 @@ Rabaissant sa capuche, la samouraï disparaît en se fondant dans le décor. La 
 
 C’est le moment d’extraire la vérité.
 
+----
 ## 45 – Tsadir : La plume et l’épée
 
 L’entrepôt est resté éteint : seule la lumière provenant de l’entrée et celle des lampes des conspirateurs éclairent la pièce. Les caisses suspendues dans les airs projettent des ombres particulièrement denses et même Alice parvient à s’approcher d’eux sans se faire remarquer. Avec sa combinaison de camouflage, la samouraï se place si près du groupe qu’elle pourrait presque les frapper de sa lame sans avoir à se déplacer.
@@ -2537,6 +2577,7 @@ Alice l’observe un instant puis lui demande : « On va en faire quoi mainten
 
 C’est une bonne prise et la situation va évoluer beaucoup plus vite que ce que la wardner pouvait espérer.
 
+----
 ## 46 – Feyn : WTF
 
 Installé dans son siège, Feyn analyse le trafic orbital à partir des données radar. Il n’y a pas vraiment pire que d’être maintenu à quai et découragé de descendre de l’appareil. Son aventure au centre de sécurité lui a bien fait comprendre qu’il n’était pas le bienvenu à bord.
@@ -2593,6 +2634,7 @@ Reprenant son souffle Kim, fait part de son impression : « La vache ! Et tou
 
 Traçant un geste dans l’air, il transmet l’autorisation d’utiliser l’antenne à Kim.
 
+----
 ## 47 – Mahertis : Rebonds et phases
 
 Se détachant sur le fond bruité des capteurs, la flotte des Dragons reste particulièrement peu active. Certes, la frégate onusienne semble s’être amarrée à l’un des vaisseaux de Vranberg-Lytan, mais aucune autre activité n’a perturbé la formation lâche de l’escadre qui continue de dériver lentement sur son orbite lointaine.
@@ -2625,9 +2667,10 @@ Ses capteurs passifs repèrent plusieurs impulsions radar dans sa direction : l
 
 Effectuant de nouvelles manœuvres, Mahertis s’engage sur une nouvelle trajectoire pour rejoindre la flotte mère.
 
+----
 ## 48 – Grégoire : Des nouvelles de Mercure
 
-Dans son bureau, le secrétaire général des nations unies examine les dossiers fournis par les renseignements japonais sur une flotte de sous-marins prétendument chinois qui stationneraient dans le Détroit de Corée. Alors que la politique interplanétaire lui paraît à nouveau nébuleuse après la mort d’Iravat, les nations en profitent pour lui rappeler qu’elles ne sont que d’incessantes sources de troubles. Un peu comme des enfants turbulents qu’il faut gérer en pleine circulation.
+Dans son bureau, le secrétaire général des Nations Unies examine les dossiers fournis par les renseignements japonais sur une flotte de sous-marins prétendument chinois qui stationneraient dans le Détroit de Corée. Alors que la politique interplanétaire lui paraît à nouveau nébuleuse après la mort d’Iravat, les nations en profitent pour lui rappeler qu’elles ne sont que d’incessantes sources de troubles. Un peu comme des enfants turbulents qu’il faut gérer en pleine circulation.
 
 L’interphone s’allume : Samuel a quelque chose à lui transmettre. Comme pour pouvoir prendre un peu de recul sur l’affaire qu’il étudie, il accepte le message de son assistant : « Monsieur, Errance de l’ambassade d’Aesir insiste pour vous contacter. Il dit avoir des nouvelles de Mercure qui devraient vous intéresser. ».
 
@@ -2637,11 +2680,11 @@ De-Montergny considère le choix qu’il a devant lui : gérer un problème typ
 
 Sur l’écran holographique, l’avatar d’Errance s’affiche. Le visage fin et lumineux lui adresse les salutations d’usage avant d’entrer dans le vif du sujet : « Je ne sais si nos condoléances pour le général Iravat vous sont parvenues, mais je tiens à les renouveler. Pour en venir au fait, la situation sur Mercure a pris une nouvelle tournure.
 
-– Oui, je sais. », confirme Grégoire. Entre la mort d’Iravat, l’évasion du suspect principal et la venue d’une solar wardner des colonies dans les installations de Sol6, le secrétaire général peine à maintenir un certain voile de pudeur sur cette affaire qui menace d’éclater publiquement.
+– Oui, je sais. », confirme Grégoire. Entre la mort d’Iravat, l’évasion du suspect principal et la venue d’une Solar Wardner des colonies dans les installations de Sol6, le secrétaire général peine à maintenir un certain voile de pudeur sur cette affaire qui menace d’éclater publiquement.
 
 L’androïde reprend : « Plusieurs de nos agents ont étudié la situation et nos services de renseignements nous ont apporté la preuve d’un complot sur Mercure. ».
 
-Plusieurs images et photographies apparaissent dans la projection dont une image radar d’un gris si bruité qu’il serait difficile d’y identifier quoi que ce soit si elle n’avait pas été consciencieusement annotée. Parmi les photographies, on y trouve le terroriste présumé du Mona Lisa et trois autres hommes que le secrétaire ne reconnaît pas. Une image qui pourrait passer pour une constellation est annotée comme « flotte défectrice de Vranberg-Lytan », le détail supposé des vaisseaux est présenté par de nombreuses fiches reliées par des lignes de couleur.
+Plusieurs images et photographies apparaissent dans la projection dont une image radar d’un gris si bruité qu’il serait difficile d’y identifier quoi que ce soit si elle n’avait pas été consciencieusement annotée. Parmi les photographies, on y trouve le terroriste présumé du Mona Lisa et trois autres hommes que le secrétaire général ne reconnaît pas. Une image qui pourrait passer pour une constellation est annotée comme « flotte défectrice de Vranberg-Lytan », le détail supposé des vaisseaux est présenté par de nombreuses fiches reliées par des lignes de couleur.
 
 Après lui avoir laissé le temps de prendre connaissance des pièces transmises, l’ambassadeur reprend : « Notre contrôle commun sur la situation est en réalité meilleur que vous pouvez l’imaginer monsieur le secrétaire général.
 
@@ -2651,7 +2694,7 @@ Après lui avoir laissé le temps de prendre connaissance des pièces transmises
 
 Ainsi donc, la situation dégénère et ceux qui se posent ouvertement en ennemis de la Terre viennent avec un plan pour tout remettre d’équerre. Grégoire n’est pas certain d’apprécier cette nouvelle routine qui s’installe. D’abord cette Tsadir en Angleterre, puis Errance avec le Meerk et à nouveau l’androïde avec le Mona Lisa et ses retombés. À croire que la Terre n’est plus capable de gérer elle-même ses propres affaires !
 
-Le secrétaire décide d’ouvrir la négociation à venir de façon plus offensive : « C’est la seconde fois que vous intervenez pour notre soi-disant bien. N’avez-vous pas pour but de régler le “problème terrien” ? J’ai du mal à comprendre votre position, Ambassadeur. »
+Le secrétaire général décide d’ouvrir la négociation à venir de façon plus offensive : « C’est la seconde fois que vous intervenez pour notre soi-disant bien. N’avez-vous pas pour but de régler le “problème terrien” ? J’ai du mal à comprendre votre position, Ambassadeur. »
 
 Visiblement, cette ouverture laisse l’ambassadeur en porte-à-faux, indécis sur la façon de poursuivre. Comme s’il venait de recevoir de nouvelles instructions, l’androïde se ressaisit : « Vous n’êtes pas sans savoir que nous ne considérons pas le conflit comme une solution au problème. C’est le risque de l’isolement et du déclassement de l’humanité qui nous préoccupe. Mais ce débat pourrait prendre beaucoup de temps, or le vôtre est très précieux.
 
@@ -2665,15 +2708,15 @@ Visiblement, cette ouverture laisse l’ambassadeur en porte-à-faux, indécis s
 
 – Ça ne me dit toujours pas en quoi ce sont des bonnes nouvelles… dénonce Grégoire.
 
-– Et si je vous disais que quatre défecteurs de l’ONU ont tous été arrêtés par la solar wardner Tsadir alors qu’ils tentaient d’exfiltrer Alexander Donnart ? », lance l’androïde.
+– Et si je vous disais que quatre défecteurs de l’ONU ont tous été arrêtés par la Solar Wardner Tsadir alors qu’ils tentaient d’exfiltrer Alexander Donnart ? », lance l’androïde.
 
-La nouvelle frappe le secrétaire comme s’il lui avait envoyé un shuriken. Tsadir ? Une solar wardner ? Vraiment ? Mais pourquoi ne lui a-t-on pas donné cette information plus tôt ?
+La nouvelle frappe le secrétaire général comme s’il lui avait envoyé un shuriken. Tsadir ? Une Solar Wardner ? Vraiment ? Mais pourquoi ne lui a-t-on pas donné cette information plus tôt ?
 
 Alors qu’il réalise son manque d’information dans l’affaire, Errance reprend : « L’installation imagée par nos services de reconnaissance ne figurent sur aucune carte. Et c’est là que le Xavier Brown, supposé exfiltrer Donnart, s’est posé après le rendez-vous interrompu par la wardner. Nous pensons qu’il s’agit d’une base de vos défecteurs. Si vous cherchiez du matériel disparu : le voici. En vertu du traité des colonies, nous ne nous y attaquerons pas, mais nous vous savons capables de remédier à ce problème. ».
 
 L’information dispensée par Errance semble se vérifier : consultant une carte des installations sous protectorat onusien, le secrétaire général ne trouve rien à cet emplacement. Y envoyer un contingent de l’ONU pour y faire la lumière sera sans doute nécessaire.
 
-Visiblement l’androïde d’Aesir n’en a pas fini. Pointant l’image de la flotte spatiale, il reprend ses explications : « En revanche, cette flotte là est constituée de vaisseaux d’assaut de Vranberg-Lytan et leur présence viole directement le traité des colonies. Malheureusement, il s’agit de défecteurs, ce qui signifie que la corporation Vranberg-Lytan n’a plus aucun contrôle dessus. Une flotte de Mars est actuellement en route pour procéder à leur capture afin de les juger dans les colonies.
+Visiblement l’androïde d’Aesir n’en a pas fini. Pointant l’image de la flotte spatiale, il reprend ses explications : « En revanche, cette flotte-là est constituée de vaisseaux d’assaut de Vranberg-Lytan et leur présence viole directement le traité des colonies. Malheureusement, il s’agit de défecteurs, ce qui signifie que la corporation Vranberg-Lytan n’a plus aucun contrôle dessus. Une flotte de Mars est actuellement en route pour procéder à leur capture afin de les juger dans les colonies.
 
 – Pourquoi pas Aesir ? s’étonne Grégoire.
 
@@ -2687,7 +2730,7 @@ Visiblement l’androïde d’Aesir n’en a pas fini. Pointant l’image de la 
 
 – Oui, ils envoient deux porte-nefs, quatre frégates d’assaut et une dizaine de corvettes de soutien et d’abordage. Ils prennent la chose, plutôt au sérieux, ironise Errance.
 
-– Et ce n’est pas une violation du traité des colonies ça ? conteste le secrétaire.
+– Et ce n’est pas une violation du traité des colonies ça ? conteste le secrétaire général.
 
 – Pas si c’est une opération conjointe, fait remarquer le diplomate, d’où ma requête.
 
@@ -2697,6 +2740,7 @@ Visiblement l’androïde d’Aesir n’en a pas fini. Pointant l’image de la 
 
 Les Nations Unies dans une opération conjointe avec son ennemi historique. Il n’y a même pas trois ans, cette idée aurait semblé farfelue. HIARTech, avant qu’ils ne se renomment Mars, était la plus ancienne des corporations, elle est la raison même de la mutation de l’ONU et de la guerre des colonies… Bon sang ! Pourvu que ce ne soit pas l’aube d’une nouvelle guerre des colonies. Les Nations Unies ne sont pas prêtes pour ça.
 
+----
 ## 49 – Tanner : Les plumes d’Icare
 
 Les pourparlers n’ont rien donné : s’obstinant dans leur action, les forces terroristes persistent sur leur position. Pire, leurs canonnières ont ouvert le feu à plusieurs reprises dans leur direction. Évidemment, à cette distance, difficile d’atteindre une cible, même au canon électrique.
@@ -2733,6 +2777,7 @@ Les réparations à bord du GoodOmen ont commencé. L’assaut leur aura quand m
 
 Satisfait, Tanner félicite les équipages des vaisseaux de sa petite flotte : la bataille de Mercure est terminée.
 
+----
 ## 50 – Grégoire : L’ambassade
 
 « Pour rendre la guerre impossible, lions-nous à nos ennemis. »
@@ -2780,7 +2825,6 @@ Le secrétaire général de l’ONU devient un peu plus songeur. Si la crise sem
 Mais tous trois savent bien qu’il n’aura guère mieux.
 
 ----
-
 ## Épilogue – Feyn : Remonter le puits solaire
 
 L’antichambre d’accès au terminal est désormais vide : le ravitaillement offert par Sol6 a été chargé intégralement dans les soutes par l’armée robotique de l’Akasha. En quelques jours, la situation est passée de cette sorte de guerre civile aux célébrations de la réussite de l’opération conjointe entre la Terre et les colonies. Évidemment, dans les faits ça n’aura eu qu’une incidence relative : les regards pleins de haine et de mépris visant le raton laveur n’ont pas cessés pour autant.
@@ -2799,6 +2843,7 @@ Tsadir est en pleine discussion avec un homme venu de Jupiter. Feyn n’a pas en
 
 – Oh, j’espère que vous avez de quoi vous occuper, le voyage fera quand même cinq jours et demi. », annonce Feyn apportant l’hilarité des trois personnes.
 
+----
 ## Épilogue – Alice : Émergence
 
 La chambre ressemble de plus en plus à une prison. Glissée dans son hamac zéro-G, la jeune femme tente de se divertir un peu en errant dans l’incroyable base de donnée fournie par son link. Mais ses pensées reviennent toujours au même point.
@@ -2818,4 +2863,3 @@ C’est elle qui a choisi Mercure ; c’est à elle de résoudre sa situation. 
 Émergence… Ça ferait un chouette nom dans les colonies.
 
 FIN
-
