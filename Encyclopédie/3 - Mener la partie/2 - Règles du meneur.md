@@ -1,5 +1,10 @@
 # Règles du meneur
 
+> *« Ne soyez pas déçus. Le réalisme scientifique a ses limites et mes modèles ne peuvent que l'approcher. »*
+> 
+> Wolfa, première intelligence artificielle de recherche
+
+
 
 ## Déterminer la difficulté des actions
 
