@@ -8,7 +8,7 @@ Inévitablement, vous finirez par vous demander si une action réussit ou échou
 
 Évidemment, vous ne devez pas non plus utiliser ces règles pour toutes les actions entreprises par vos personnages. Par exemple, l’issue de certaines est triviale, grimper un escalier dans des conditions normales ne demande pas de jet. C’est au meneur d’estimer si une action doit être résolue avec ces règles ou non.
 
-Le fonctionnement en lui même de ces règles est simple : avec le meneur déterminez l'action et ses conséquences potentielles. Le meneur établit ensuite la difficulté et vous choississez un ou deux éléments de votre personnage avant de lancer les dés qui sont comparés à un score à battre. En fonction du résultat de ce jet, le meneur décrit les conséquences de l'action.
+Le fonctionnement en lui-même de ces règles est simple : avec le meneur déterminez l'action et ses conséquences potentielles. Le meneur établit ensuite la difficulté et vous choisissez un ou deux éléments de votre personnage avant de lancer les dés qui sont comparés à un score à battre. En fonction du résultat de ce jet, le meneur décrit les conséquences de l'action.
 
 ## Déterminer l’action
 
@@ -18,13 +18,13 @@ Pour commencer, il faut établir le but de l’action :
 * Que se passera-t-il en cas d’échec ?
 * Y a-t-il des effets secondaires possibles ?
 
-Normalement, vous établirez la première réponse et votre meneur les trois autres.Vous avez tout à fait le droit de discuter pour vous accorder. Il est en effet très important que vous ayez la même idée de ce que le personnage va tenter et des conséquences prévisibles.
+Normalement, vous établirez la première réponse et votre meneur les trois autres. Vous avez tout à fait le droit de discuter pour vous accorder. Il est en effet très important que vous ayez la même idée de ce que le personnage va tenter et des conséquences prévisibles.
 
 Précisons que nous vous déconseillons une action dont l'un des résultats serait : « Rien ne se passe ! ». Évitez autant que possible de maintenir le statu quo d'une situation après une action : qu'une action réussie ou qu'elle échoue, il doit se passer quelque chose !
 
 De plus nous recommandons d'appliquer une sorte de « règle du ko », cette règle issue jeu de go interdit de jouer un coup ramenant le jeu à un état antérieur. Concrètement pour Solaires, vous devriez vous interdire une action n'ayant pour seul but que d'annuler les conséquences d'une autre sans apporter autre chose à la situation.
 
-*Exemple, Skyline, l’enquêteur joué par Albert, tente de baratiner un pacificateur pour permettre à Downlink de pénétrer sur une scène de crime qui leur est interdite. Justine, la meneuse explique que si l’action réussit, le personnage arrivera à gagner assez de temps pour que Downlink accomplisse ce qu'il a à faire. Dans le cas contraire, son ami Decker devra décamper de la zone avant d'en avoir fini. Elle précise qu'en effet secondaire, si Albert ne réussi pas à conserver les trois dés lors du jet, le pacificateur deviendra particulièrement méfiant et ira vérifier la scène de crime après le départ de l'équipe. Pire, s'il échoue sans conserver un seul dé, le pacificateur ira vérifier la scène avant que le decker n'ai eu le temps de partir.*
+*Exemple, Skyline, l’enquêteur joué par Albert, tente de baratiner un pacificateur pour permettre à Downlink de pénétrer sur une scène de crime qui leur est interdite. Justine, la meneuse explique que si l’action réussit, le personnage arrivera à gagner assez de temps pour que Downlink accomplisse ce qu'il a à faire. Dans le cas contraire, son ami Decker devra décamper de la zone avant d'en avoir fini. Elle précise qu'en effet secondaire, si Albert ne réussi pas à conserver trois dés, le pacificateur deviendra particulièrement méfiant et ira vérifier la scène de crime après le départ de l'équipe. Pire, s'il échoue sans conserver un seul dé, le pacificateur ira vérifier la scène avant que le decker n'ai eu le temps de partir.*
 
 De plus, tant que vous n'avez pas lancé les dés, vous êtes libre de revenir sur votre choix, y compris après que le meneur vous ait indiqué la difficulté de l'action. Vous pouvez notamment redéfinir le but de l'action par exemple.
 
@@ -34,7 +34,7 @@ De plus, tant que vous n'avez pas lancé les dés, vous êtes libre de revenir s
 
 Le meneur évalue ensuite la difficulté de l’action. Pour y parvenir, il peut se servir de deux échelles de difficulté, l’une évaluant la difficulté intrinsèque de l’action, l’autre son intérêt pour l’histoire. Pour obtenir la difficulté finale, il peut simplement faire la somme de ses choix sur ces deux échelles.
 
-La difficulté intrinsèque représente la difficulté « objective » dans l'univers de jeu. Elle ne doit pas être estimée en fonction des compétences ou capacités du personnage, mais de façon absolue. il peut toutefois tenir compte de la façon dont compte s'y prendre votre personnage si vous l'avez indiqué.
+La difficulté intrinsèque représente la difficulté « objective » dans l'univers de jeu. Elle ne doit pas être estimée en fonction des compétences ou capacités du personnage, mais de façon absolue. Il peut toutefois tenir compte de la façon dont compte s'y prendre votre personnage si vous l'avez indiqué.
 
 <table>
     <tr>
@@ -116,7 +116,7 @@ Pour commencer le jet de résolution, ajoutez la difficulté au score des élém
 
 S’il est de 0 ou moins, l’action échoue automatiquement. S’il est de 6 ou plus, l’action réussie automatiquement. Dans ces deux cas, il n’est pas nécessaire de lancer les dés et il n'y aura pas d'effet secondaire.
 
-Sinon, lancez trois dés à six faces. Écartez ceux qui qui ont produit un résultat strictement suppérieur au score à battre. L’action réussit si vous avez conservé au moins deux dés, sinon elle échoue.
+Sinon, lancez trois dés à six faces. Écartez ceux qui ont produit un résultat strictement supérieur au score à battre. L’action réussit si vous avez conservé au moins deux dés, sinon elle échoue.
 
 <table>
     <tr>
@@ -168,7 +168,7 @@ Voici quelques exemples d’effets secondaires en défaveur des PJ :
 Pour les effets en faveur des PJ, nous vous proposons ces exemples :
 * **moins de ressources consommées** ou **ressources gagnées** : le personnage a été plus rapide que prévu, il a découvert un outil, etc. ;
 * **simplification de la situation** : des alliés viennent de débarquer, le personnage a découvert une information inattendue, etc. ;
-* **perte d'un état** : le personnage s'est remis de sa « Panique », il est parvenu à raccroché son lien d'EVA et n'est plus « Détaché », etc.
+* **perte d'un état** : le personnage s'est remis de sa « Panique », il est parvenu à raccrocher son lien d'EVA et n'est plus « Détaché », etc.
 
 Notez que vous pouvez utiliser un point de personnage pour décrire vous-mêmes les conséquences directes de l'action, mais cette possibilité est soumise au veto des autres participants (vous récupérerez votre point si un veto est utilisé). Dans cette description, essayez d'impliquer au mieux les éléments que vous avez utilisés et respectez l’échec ou la réussite de l’action. De plus, vous devez conserver les effets de l’altération. Par exemple, vous ne pouvez pas décrire une contrepartie bénéfique si le résultat de la résolution n'en comporte pas, ni passer sous silence un effet secondaire défavorable.
 
