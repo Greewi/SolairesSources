@@ -1,0 +1,57 @@
+{
+    "titre": "Solaires - Virgile",
+    "auteur": "Sylvain « Greewi » Dumazet",
+    "description": "Nouvelle de science fiction",
+    "structure": [
+        {
+            "source": "Couverture.png",
+            "style": "couverture",
+            "niveau": 1
+        },
+        {
+            "source": "Introduction.md",
+            "style": "recit",
+            "niveau": 1
+        },
+        {
+            "source": "0 - Avant propos.md",
+            "style": "recit",
+            "niveau": 2
+        },
+        {
+            "source": "1 - Prologue - Anomalie.md",
+            "style": "recit",
+            "niveau": 2
+        },
+        {
+            "source": "2 - Briefing - Rassemblement.md",
+            "style": "recit",
+            "niveau": 2
+        },
+        {
+            "source": "3 - Enquête - Visite inopinée.md",
+            "style": "recit",
+            "niveau": 2
+        },
+        {
+            "source": "4 - Planification - Ascension.md",
+            "style": "recit",
+            "niveau": 2
+        },
+        {
+            "source": "5 - Résolution - Brèche.md",
+            "style": "recit",
+            "niveau": 2
+        },
+        {
+            "source": "6 - Épilogue - Razors.md",
+            "style": "recit",
+            "niveau": 2
+        },
+        {
+            "source": "7 - Épilogue - Kat.md",
+            "style": "recit",
+            "niveau": 2
+        }
+    ]
+}

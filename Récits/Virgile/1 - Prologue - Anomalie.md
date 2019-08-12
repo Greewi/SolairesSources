@@ -1,3 +1,4 @@
+----
 # Prologue : Anomalie
 
 Kat se relève. Ses processus ont terminé leur initialisation et son corps semble intègre. L’appartement qui donne sur les falaises nord du canyon ne trahit aucune trace de l’incident. La moquette verte est impeccable et tous les meubles richement décorés sont encore à leur exacte place. Par automatisme, il se dirige vers la chambre de la luxueuse suite à la recherche de Mike. Mais l’enfant n’y est pas.
@@ -9,6 +10,7 @@ Le nevian resynchronise son horloge interne : elle a dévié de plus d’une de
 « Oui Kat ? » répond Georges avec un ton trahissant un certain stress. Serait-il déjà au courant ? Sans laisser de délais, le nevian répond sur un ton formel : « On a eu une brèche de sécurité. J’ai été désactivé trente-sept minutes et Mike est introuvable. Je pense qu’il a été enlevé.
 
 – Je, hésite le père. Je vais m’en charger. Écoute, reste à l’appartement et… Je vais arranger ça, inutile de t’affoler. On se voit ce soir.
+
 – D’accord. À ce soir ! », confirme Kat en mettant fin à la connexion.
 
 De toute évidence, monsieur Norway est déjà au courant, il aurait demandé des détails sinon. Et il n’a pas prévenu la sécurité, vu qu’aucun agent n’est à l’appartement. Le piratage de la surveillance est étrange : avec le délai de maintenant trente-huit minutes, une patrouille des forces de sécurité aurait déjà dû venir.
@@ -29,9 +31,9 @@ Sans se presser Kat s’approche de la source de la faille de sécurité. Il s�
 
 Voici donc le fameux noyau de la colonie : une colonne de diamant dans laquelle une centaine de plateaux de circuits électroniques spiralent et forment des motifs géométriques envoûtants. Sans attendre, Kat recherche l’émetteur correspondant à la porte dérobée. Il ne lui faut pas bien longtemps : l’engin est branché directement sur l’un des ports du noyau central. Kat le débranche soigneusement avant de se connecter sur le calculateur.
 
-C’est une IA mutilée et patchée hâtivement que découvre l’assistant domestique. La plupart des signaux arrivent dans des zones mortes : une partie du noyau a été débranché et supprimé. En l’état, l’IA de la cité est aveugle et pratiquement incapable d’agir sans ordre directs. Et avec l’émetteur en moins, ces ordres directs ont simplement cessé.
+C’est une IA mutilée et patchée hâtivement que découvre l’assistant domestique. La plupart des signaux arrivent dans des zones mortes : une partie du noyau a été débranché et supprimé. En l’état, l’IA de la cité est aveugle et pratiquement incapable d’agir sans ordre direct. Et avec l’émetteur en moins, ces ordres directs ont simplement cessé.
 
-« Bien, on va devoir réparer ça. », annonce la couche sociale de Kat avec un regain d’énergie. Suivant les instructions issues de la sagesse de la nevianDB, il commence par copier son propre noyau, la partie générique de sa propre IA et remplace celui, défaillant, de la cité. Ce ne sera plus un modèle Synchro, mais un noyau Wolfa devrait faire l’affaire… Le noyau réparé, Kat reconnecte l’exomémoire et les signaux provenant de la cité au nouveau noyau. Vient alors le temps de relancer l’IA. Kat croise les doigts comme indiqué dans la notice virtuelle. À la surface les premiers bugs doivent commencer à se manifester.
+« Bien, on va devoir réparer ça. », annonce la couche sociale de Kat avec un regain d’énergie. Suivant les instructions issues de la sagesse de la nevianDB, il commence par copier son propre noyau, la partie générique de sa propre IA et remplace celui, défaillant, de la cité. Ce ne sera plus un modèle Synchro, mais un noyau Wolfa devrait faire l’affaire… Le noyau réparé, Kat reconnecte l’exomémoire et les signaux provenant de la cité au nouveau noyau. Vient alors le temps de relancer l’IA. Kat croise les doigts comme indiqué dans la notice virtuelle. À la surface les premiers bogues doivent commencer à se manifester.
 
 « Initialisation terminée. Bienvenue Nevian. », affiche le terminal virtuel à côté du réparateur d’IA improvisé. En quelques secondes, le noyau est totalement chargé et commence à effectuer ses premières analyses. Les données de l’exomémoire affluent et la nouvelle IA reprend les tâches de la précédente, là où avaient été arrêtées. Rapidement elle s’aperçoit de la présence de Kat : « Individu non reconnu, demande d’identification, demande-t-elle à travers le réseau.
 

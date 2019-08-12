@@ -1,5 +1,9 @@
 # Avant-propos
 
-2093, Marineris, capitale de Mars. L’enlèvement du fils d’un diplomate en visite sur Mars est le début d’une nouvelle résistance et surtout la naissance d’un nouvel être.
+Écrite en août 2018, cette nouvelle sert d'introduction à l'univers de Solaires, présentant le contexte des colonies et engageant une petite équipe indépendante typique dans une affaire moins habituelle.
 
-Cette nouvelle en six chapitres sert d’introduction à l’univers de Solaires en présentant une petite aventure. Elle sera utilisée à terme comme textes d’ambiances pour le livre noyau de Solaires, le jeu de rôles. Il s’agit aussi de l’introduction de la future campagne Marineris pour ce même jeu.
+Écrite dans le but de servir de texte d'ambiance le jeu de rôles, Solaires, il s'agit aussi de l'introduction de la campagne Marineris pour ce même jeu. Chronologiquement, cette histoire se déroule avant le roman Émergence, mais les liens entre les deux n'imposent aucun ordre de lecture particulier.
+
+Bonne lecture !
+
+-- Greewi

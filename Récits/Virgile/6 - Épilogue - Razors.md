@@ -1,3 +1,4 @@
+----
 # Épilogue : Razors
 
 Accompagnée de Skyline et Downlink, Razors quitte le prestigieux dôme de l’ancien quartier des ambassades. Ses pensées sont tournées vers les implications de l’événement qu’ils ont résolu. Bien que touchantes, les retrouvailles entre Georges Norway et son fils laissent encore de trop nombreuses questions sans réponse.

@@ -1,6 +1,7 @@
+----
 # Résolution : Brèche
 
-Le robot de transport l’attend au milieu de la complexité du mobilier de la section de maintenance, principalement composé de tuyaux, câbles et réservoirs, accompagnés de témoins et lampes. La caisse de transport que l’échassier métallique a déposé au sol se déverrouille à l’approche de Skyline. Le modèle est conforme. Parfait. L’enquêteur charge les logiciels appropriés et lance l’immersion. Il active ensuite les deux aérobots de soutien qui se positionnent en formation d’escorte.
+Le robot de transport l’attend au milieu du mobilier complexe de la section de maintenance, principalement composé de tuyaux, câbles et réservoirs, accompagnés de témoins et lampes. La caisse de transport que l’échassier métallique a déposé au sol se déverrouille à l’approche de Skyline. Le modèle est conforme. Parfait. L’enquêteur charge les logiciels appropriés et lance l’immersion. Il active ensuite les deux aérobots de soutien qui se positionnent en formation d’escorte.
 
 Son contact avec SolNet rétabli, il fait le point avec le reste de l’équipe. Razors n’est pas encore en place : Downlink a été gêné par un patrouilleur inopiné. La cyber-samouraï l’a neutralisé et le decker usurpe désormais l’identité de l’agent de sécurité autonome. Un retard utile en fait.
 
@@ -30,7 +31,7 @@ Approchant de l’entrée, Skyline utilise le certificat fourni par ses contacts
 
 – J’ai brouillé ses transmissions mais ses potes vont vite s’en rendre compte, intervient Downlink. La vache ! Comment tu fais ça ? »
 
-Sur l’affichage partagé, Razors vient d’esquiver une série de coup avec une rapidité telle que le flux vidéo ne parvient pas à rendre plus que quelques images complètement floues. Puis soudain, elle chute à travers la trappe d’accès au stockage inférieur de la navette. Se raccrochant d’une main, elle tente de se hisser, mais l’humanoïde de métal lui abat un puissant coup qu’elle esquive en sautant sur la paroi opposée. Effectuant un rebond sur la surface verticale, elle remonte et escalade le robot lui-même. D’un mouvement trop rapide pour la vidéo, elle se glisse derrière. Au rétablissement de l’image, le dos de son adversaire est visible. Une large fente à travers son blindage montre la violence du premier assaut de la cyber-samouraï. D’une attaque vive et précise elle branche l’émetteur de Downlink sur un port rendu apparent par la brèche.
+Sur l’affichage partagé, Razors vient d’esquiver une série de coup avec une rapidité telle que le flux vidéo ne parvient pas à rendre plus que quelques images complètement floues. Puis soudain, elle chute à travers la trappe d’accès au stockage inférieur de la navette. Se raccrochant d’une main, elle tente de se hisser, mais l’humanoïde de métal lui abat un puissant coup qu’elle esquive en sautant sur la paroi opposée. Effectuant un rebond sur la surface verticale, elle remonte et escalade le robot lui-même. D’un mouvement trop rapide pour la vidéo, elle se glisse derrière. Au rétablissement de l’image, le dos de son adversaire est visible. Une large fente à travers son blindage montre la violence du premier assaut de la cyber-samouraï. D’une attaque vive et précise, elle branche l’émetteur de Downlink sur un port rendu apparent par la brèche.
 
 « À toi Down ! » crie-t-elle dans l’espace virtuel. D’un geste le cybernétique tente de l’envoyer valser à travers l’espace passager de la navette, mais il se fige dans l’action et s’effondre sous l’inertie.
 

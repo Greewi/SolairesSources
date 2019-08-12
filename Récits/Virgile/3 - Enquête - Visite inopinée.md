@@ -1,6 +1,7 @@
+----
 # Enquête : Visite inopinée
 
-L’entrée de l’appartement ressemble à celle de tous les autres de l’immeuble, même interphone, même panneau de technique, même façon de les pirater. Mais aujourd’hui, avec le certificat donné par leur mystérieux commanditaire, ce ne sera pas nécessaire. Dommage.
+L’entrée de l’appartement ressemble à celle de tous les autres de l’immeuble, même interphone, même panneau technique, même façon de les pirater. Mais aujourd’hui, avec le certificat donné par leur mystérieux commanditaire, ce ne sera pas nécessaire. Dommage.
 
 Razors est passée devant et Skyline lui a emboîté le pas. Le decker, resté à l’entrée, les suit à travers la réalité augmentée. Deux écrans virtuels exposent leur champ de vision partagé et de ce qu’il peut en voir, l’appartement est sens dessus dessous. En entrant, Razors a dégainé son sabre. Par mimétisme, Downlink a lui aussi sorti son pistolet shock. Ça ne fera pas autant de dégâts que le joujou de la dame, mais ça suffira si quelqu’un tente de sortir, ou d’entrer, sur cette scène de crime.
 
@@ -12,7 +13,7 @@ De son côté Downlink pénètre dans le réseau de sécurité de l’appartemen
 
 – J’crois pas non, contredit Downlink. Celui qui a foutu le bordel, là, c’est pas ceux qui enlevé le môme.
 
-– Développe ? interroge Razors.
+– Développe ? l'interroge Razors.
 
 – Bah, les enregistrements du kidnapping ont été effacés ; pas ceux du fouineur qui est passé après, complète le decker. Et je te confirme qu’il est reparti bredouille. Attendez, l’ascenseur vient de s’arrêter à notre étage et… oh, il y a du monde dedans. Armés !
 
