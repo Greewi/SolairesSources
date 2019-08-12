@@ -2,7 +2,7 @@
 
 > Sylvain « Greewi » Dumazet
 > 
-> Version 1.0
+> Version 1.0-RC1
 
 *2093, Marineris, capitale de Mars. L'enlèvement du fils d'un diplomate en visite sur Mars conduit un assistant domestique à recruter indirectement une équipe indépendante pour régler sa situation. Ne soyez pas surpris : après tout, si une IA est mise face à un problème, n'est-telle pas amenée le résoudre ?*
 
