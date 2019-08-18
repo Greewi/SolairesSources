@@ -123,7 +123,7 @@ Les IA se servent de ce mécanisme pour effectuer des tâches en parallèle ou �
 
 Le Merge est l'opération inverse : faire fusionner deux instances pour n'en obtenir qu'une seule. Le processus est naturel pour les IA et éthérés. En revanche, il requiert une puissance de calcul colossale pour les intelligences naturelles, provoluées et leurs dérivées. Pour ces derniers, les hôpitaux des colonies possèdent des centres de calcul dédiés à la psychochirurgie qui sont aussi utilisés dans ce but.
 
->> ### Exemple de situation : se transférer dans un autre corps
+>> ### Exemple d'action : se transférer dans un autre corps
 >> Tôt ou tard, les PJ seront amenés à changer de corps, que ce soit temporairement ou de façon permanente. Le cas le plus probable reste un voyage via téléchargement.
 >> 
 >> Pour commencer, assurez-vous de la compatibilité de l'intelligence du personnage avec la nouvelle enveloppe. Par exemple, une IA Wolfa ne pourra pas être installée dans un corps organique. De plus l'enveloppe de destination doit être en état de recevoir l'intelligence. Une IA ne pourra pas prendre le contrôle d'un robot si elle n'y a pas accès et devra effectuer une attaque informatique si elle veut y parvenir.

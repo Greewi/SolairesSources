@@ -124,7 +124,7 @@ Modes d'échec :
 
 Traits psychologiques : *Improvisateur, Irrationnel, Rêveur, Désorganisé*
 
->> ### Exemple de situation : utiliser une perception psi
+>> ### Exemple d'action : utiliser une perception psi
 >> 
 >> Tous les ensembles de pouvoirs octroient une forme de perception psi. Par exemple, l'ensemble de pouvoir *Matière* permet de percevoir les objets et leur composition. Les pouvoirs de perception des psions ont une portée d'une trentaine de mètres.
 >> 
@@ -132,7 +132,7 @@ Traits psychologiques : *Improvisateur, Irrationnel, Rêveur, Désorganisé*
 >> 
 >> En cas d'échec, le psion ne parvient généralement pas à trouver ce qu'il cherche avec son implant. Il peut aussi s'être trompé d'objet et avoir les informations d'autre chose. S'acharner risque de surcharger l'implant ce qui peut mener à un échec catastrophique par la suite.
 
->> ### Exemple de situation : utiliser un pouvoir psi
+>> ### Exemple d'action : utiliser un pouvoir psi
 >> 
 >> Pour utiliser un pouvoir sur un objet, le psion doit nécessairement en avoir la perception, c’est-à-dire avoir associé l'objet perçu par son implant avec les informations de ses propres sens. Si cette étape n'est pas correctement faite, le psion risque d'agir sur un autre objet que celui qu'il souhaitait manipuler.
 >>

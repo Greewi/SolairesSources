@@ -77,14 +77,12 @@ Certaines parties se déroulent en plusieurs séances, on parle alors de « sé
 
 ## Matériel de jeu
 
->> TODO : Être plus spécifique pour Solaires
-
 Typiquement, pour une partie de Solaires, vous aurez besoin :
 * d'une fiche de personnage par joueur ;
 * de trois dés classiques (à six faces, numérotées de 1 à 6), il peut être pratique de disposer de trois dés par joueur ;
 * du manuel du jeu ;
 * d'un scénario et de ses aides de jeu, connus uniquement du meneur si possible ;
-* d'un écran, pour cacher le matériel du meneur aux yeux des autres participants ;
+* d'un éventuel écran, pour cacher le matériel du meneur aux yeux des autres participants ;
 * de quoi se sustenter. Une partie de Solaires pouvant durer longtemps, pensez aussi à boire !
 
 D'autres aides de jeu peuvent être parfois utiles suivant la partie comme des cartes, des résumés de certains éléments d'univers…

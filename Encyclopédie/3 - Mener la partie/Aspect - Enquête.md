@@ -3,7 +3,7 @@
 >
 > Nightly, justicière
 
->> TODO : Réintégrer les intérrogatoires
+>> TODO : Réintégrer les interrogatoires
 
 Les enquêtes prennent souvent une place importante dans les aventures que propose Solaires. Il n’est aussi pas rare que les personnages aient à rechercher et analyser des indices pour lever le voile sur les affaires sur lesquels ils sont confrontés.
 

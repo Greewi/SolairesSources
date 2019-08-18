@@ -8,7 +8,14 @@ Les infomorphes ‑ les IA et les éthérés ‑ sont décrits comme libres su
 
 ## IA et éthérés sur le réseau
 
-En réalité, les infomorphes ne sont pas aussi libres que ça : pour pouvoir s'exécuter, ils ont besoin d'un processeur. Par convention, chaque nœud public de SolNet, en plus d'héberger le cache de données, offre quelques processeurs en libre-service pour permettre l'exécution de nombreux logiciels, notamment les agents de recherche et les êtres dépourvus de corps. Les infomorphes profitent aussi du cache de SolNet pour enregistrer leurs sauvegardes, mais celles-ci sont inertes et il est aussi nécessaire de laisser un petit agent sur place qui surveille l'éventuel signal de vie de l'IA pour pouvoir réveiller la sauvegarde. Ce dernier usage est toléré mais les caches sont régulièrement nettoyés aussi les infomorphes doivent tenir compte de cette situation.
+En réalité, les infomorphes ne sont pas aussi libres que ça : pour pouvoir s'exécuter, ils ont besoin d'un processeur. Par convention, chaque nœud public de SolNet, en plus d'héberger le cache de données, offre quelques processeurs en libre-service pour permettre l'exécution de nombreux logiciels, notamment les agents de recherche et les êtres dépourvus de corps. C'est l'équivalent des installations pressurisés pour les informorphes.
+
+Certaines zones du cache de SolNet permettent aussi de stocker les sauvegardes. Lorsqu'un infomorphe souhaite enregistrer une sauvegarde dans ce système, il l'y insère avec un agent qui surveille l'éventuel signal de vie de l'IA qui sera capable, s'il reste sans nouvelles pendant un certain temps, de réinstancier la sauvegarde sur le réseau. Ces zones du cache sont spéciales : construites sur un circuit physique spécial, il n'est pas possible d'en lire ou extraire les données depuis l'extérieur, seul l'agent associé peut le faire. Si un autre infomorphe tente d'y inserer une nouvelle sauvegarde, la précédente, et son agent, seront complètement effacée avant.
+
+ Ces zones sont verrouillées par un circuit physique qui n'en permet
+
+
+, mais celles-ci sont inertes et il est aussi nécessaire de laisser un petit agent sur place qui surveille l'éventuel signal de vie de l'IA pour pouvoir réveiller la sauvegarde. Ce dernier usage est toléré mais les caches sont régulièrement nettoyés aussi les infomorphes doivent tenir compte de cette situation.
 
 >> TODO : Problème de sécrité grave avec cette gestion des sauvegardes par les informoprhes : leurs souvenirs deviendraient bien trop faciles à obtenir.
 
