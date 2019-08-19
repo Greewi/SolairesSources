@@ -12,13 +12,13 @@ Les deux peluches rousses se glissent dans le réservoir, la première transport
 
 Trois heures plus tard, la peluche revient avec une enveloppe nevian inactive neuve : une exacte copie de ce qu’avait été le pauvre malheureux dont la fourrure autrefois blanche n’était plus qu’une soupe ensanglantée.
 
-« Et voila, Ombrenade nous doit toujours des services.
+« Et voilà, Ombrenade nous doit toujours des services.
 
 – Merci Nevi, mais j’ai d’assez mauvaises nouvelles, annonce Ney.
 
 – C’est si grave ?
 
-– Apparemment dans sa chute, il a tenté de sauvegarder un souvenir en le recopiant dans toute sa mémoire. Mais du coup, il a écrasé pas mal de données importantes et une partie de lui-même. Ajoute à ça l’état du cerveau et voila : je ne peux pas séparer le peu qui reste de Neige et de sa reconstruction de – je suppose – Myla.
+– Apparemment, dans sa chute, il a tenté de sauvegarder un souvenir en le recopiant dans toute sa mémoire. Mais, du coup, il a écrasé pas mal de données importantes et une partie de lui-même. Ajoute à ça l’état du cerveau et voilà : je ne peux pas séparer le peu qui reste de Neige et de sa reconstruction de – je suppose – Myla.
 
 – Je n’ai rien compris Ney, rétorque Nevi.
 
@@ -34,9 +34,9 @@ Nevi reste pensive un certain temps, soutenue par son amie.
 
 « D’accord, fais-le. »
 
-Les deux nevian, surtout Ney en vérité, s’affairent pendant près de quatre heures, réinstallant le système d’exploitation sur le nouveau nevian puis injectant les éléments récupérés. Et après l’application de multiples correctifs, le nouveau né est enfin initialisé.
+Les deux nevian, surtout Ney en vérité, s’affairent pendant près de quatre heures, réinstallant le système d’exploitation sur le nouveau nevian puis injectant les éléments récupérés. Et après l’application de multiples correctifs, le nouveau-né est enfin initialisé.
 
-« Et voila. Bien ! Hmm, étrange…
+« Et voilà. Bien ! Hmm, étrange…
 
 – Encore un problème Ney ? demande la guerrière.
 

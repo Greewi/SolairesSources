@@ -10,6 +10,6 @@ C’est tout ce qui lui reste : une construction artificielle qui feint d’êt
 
 Les quelques curieux qui restent gardent leur distance : en dépit de ses efforts et de son pelage hydrophobe, la peluche n’a pas réussi à retirer tout le sang. Pour tout dire, elle n’avait plus le cœur à ça.
 
-Heureusement, Myla ne le voit pas dans cet état : à ses yeux sa fourrure immaculée est encore douce et légère. Elle lui sourit et vient se blottir contre lui.
+Heureusement, Myla ne le voit pas dans cet état : à ses yeux, sa fourrure immaculée est encore douce et légère. Elle lui sourit et vient se blottir contre lui.
 
 Les passants sont partis et le chemin devant le parc est maintenant désert : ils ne sont plus que tous les deux, lui et son rêve, construit sur des souvenirs.

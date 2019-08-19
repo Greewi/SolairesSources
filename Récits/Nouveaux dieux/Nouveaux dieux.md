@@ -68,7 +68,7 @@ Une notification le prévient que l’observatoire de Pandora lui a envoyé de n
 
 ## 2 – Trend : Wardner en approche
 
-À demi-vautrée sur le banc, Ney, fait défiler les photos et vidéos du dossier au-dessus d’elle. Adossé sur le banc d’en face, Trend la regarde analyser les pièces qu’il a rassemblées. Autour d’eux, un dôme de foglets leur assure un minimum d’intimité. La semi-renarde a toujours eu une affinité pour ces brouillards utilitaires et le solar wardner lui-même reste en admiration devant le résultat. Lui-même a un peu de mal à faire la distinction entre ce qui relève des foglets et de la couche de réalité augmentée.
+À demi-vautrée sur le banc, Ney, fait défiler les photos et vidéos du dossier au-dessus d’elle. Adossé sur le banc d’en face, Trend la regarde analyser les pièces qu’il a rassemblées. Autour d’eux, un dôme de foglets leur assure un minimum d’intimité. La semi-renarde a toujours eu une affinité pour ces brouillards utilitaires et le Solar Wardner lui-même reste en admiration devant le résultat. Lui-même a un peu de mal à faire la distinction entre ce qui relève des foglets et de la couche de réalité augmentée.
 
 Autant se laisser prendre au jeu et profiter de la vue. Au-dessous d’eux, se déploie la voie lactée, immense et terriblement magnifique. Le disque de lumière, entrecoupé de nuages sombres dévoile de grands bras spiralant autour du halo central. Le cybernétique cherche Sol des yeux, mais sans illusion : si un jour il était vraiment perdu dans la galaxie, même s’il pouvait se déplacer librement dans la galaxie, il n’aurait jamais les moyens de retrouver son étoile natale. Une lueur bruitée, voilà ce que formaient ces milliards d’étoiles. Et une seule d’entre elles était la bonne.
 
@@ -84,7 +84,7 @@ La peluche rousse le regarde en souriant, tandis qu’il émerge de ses pensées
 
 – Je suppose, mais je n’ai jamais réussi à l’approcher.
 
-– Tu es un solar wardner et elle a des raisons évidentes de t’éviter.
+– Tu es un Solar Wardner et elle a des raisons évidentes de t’éviter.
 
 – Évidentes ? riposte-t-il en feignant d’être un peu vexé.
 
@@ -132,7 +132,7 @@ Ney marque une pause en se tenant le ventre et refrénant quelques éclats de ri
 
 Alors qu’il se lève, la voie lactée s’efface tandis que le dôme de foglets se désintègre comme un essaim regagnant sa ruche. Ombrenade, la première citée de Titan s’expose à nouveau à leurs yeux et la grande tour de diamant et de composites leur renvoie le reflet de la grande muraille d’habitation portant le petit parc qui les abrite.
 
-Ney jette son sac sur l’épaule, fait un petit signe de sa main gauche au solar wardner et s’en va.
+Ney jette son sac sur l’épaule, fait un petit signe de sa main gauche au Solar Wardner et s’en va.
 
 ## 3 – Feyn : Full burn
 
@@ -178,7 +178,7 @@ Ney regarde sa main, si la face interne porte un duvet blanc, le pelage du dos e
 
 – Joli. Comment as-tu deviné ? lui demande l’enfant avec attention.
 
-– « Préférence cosmétique » et « Créateur » indiquent une IA. Ton enveloppe est organique et tu portes un ordoptique lentille ce qui suggère l’absence d’implant. Il n’y a que le noyau Ley Wan qui soit implémentable sur wetware, lui explique Ney.
+– « Préférence cosmétique » et « Créateur » indiquent une IA. Ton enveloppe est organique et tu portes un link lentille ce qui suggère l’absence d’implant. Il n’y a que le noyau Ley Wan qui soit implémentable sur wetware, lui explique Ney.
 
 – Toi, tu es probablement une wolfa. Mais je triche : j’ai un dossier sur ton modèle.
 
@@ -210,7 +210,7 @@ Ney regarde sa main, si la face interne porte un duvet blanc, le pelage du dos e
 
 – Ça explique des choses. Son incapacité à parler aux gens directement. Il faut toujours que le premier contact soit mystérieux, suspect en fait.
 
-– Il était surpris que j’ai eu une réponse de ta part.
+– Il était surpris que j’aie eu une réponse de ta part.
 
 – En temps normal, je ne t’aurais pas non plus répondu, lui explique l’enfant calmement.
 
@@ -296,9 +296,9 @@ Au terminal 11, le vol orbital PSD-22F à destination de Stir-M, attend ses pass
 
 Les haut-parleurs accompagnent les flux de réalité augmentée et annoncent que leur navette est prête à recevoir ses passagers. Comme deux substances séparées par décantation, la foule commence à se diviser entre ceux qui partent et ceux venus leur dire au revoir. Ney se rapproche sensiblement de l’enfant et constate que la tutrice fait partie de la seconde catégorie.
 
-Cette première anomalie semble indiquer que les ennuis ont déjà commencé. Mais un autre détail interpelle la chimère : la peau de la femme est visiblement synthétique et le visage correspond à celui d’un syntha ordinaire. La personne emploie une enveloppe cybernétique standard, généralement empruntée par les voyageurs en upload, ou par les personnes opérant sous couverture et qui ne souhaitent pas compromettre leur enveloppe régulière.
+Cette première anomalie semble indiquer que les ennuis ont déjà commencé. Mais un autre détail interpelle la chimère : la peau de la femme est visiblement synthétique et le visage correspond à celui d’un syntha ordinaire. La personne emploie une enveloppe cybernétique standard, généralement empruntée par les voyageurs en téléversement, ou par les personnes opérant sous couverture et qui ne souhaitent pas compromettre leur enveloppe régulière.
 
-Employant ses foglets, la technophile dessine quelques motifs éphémères sur la tunique de la femme, laissant transparaître une arme illusoire. Rapidement, deux robots patrouilleurs viennent la contrôler. Ney en profite pour sniffer la requête des agents et la réponse encodée de la suspecte. Au besoin, elle aura de quoi la faire identifier si elle devait la recroiser. Et avec de la puissance de calcul et du temps, elle pourrait même s’offrir le certificat.
+Employant ses foglets, la technophile dessine quelques motifs éphémères sur la tunique de la femme, laissant transparaître une arme illusoire. Rapidement, deux robots patrouilleurs viennent la contrôler. Ney en profite pour sniffer la requête des agents et la réponse encodée de la suspecte. Au besoin, elle aurait de quoi la faire identifier si elle devait la recroiser. Et avec de la puissance de calcul et du temps, elle pourrait même s’offrir le certificat.
 
 L’incident en arrière-plan prend rapidement fin tandis que la peluche, sous son air adorable, suit les autres voyageurs et monte à bord de la navette. L’espace intérieur qui lui est accessible est organisé sur deux niveaux. Les deux principales salles contiennent de nombreux sièges organisés en arcs de cercles. L’enfant s’est installé dans un coin de la salle, comme pour être seul. Ney choisi un siège en plein milieu, encadrée par une femme imposante et un homme très – trop – bavard.
 
@@ -466,7 +466,7 @@ L’assassinat prévenu, elle serait habituellement repartie, laissant la sécur
 
 Nightly observe les alentours et aperçoit son propre reflet dans l’une des vitres de la tour de l’autre côté de la passerelle. Elle n’a pas bonne mine : son armure noire est entachée du sang qui a dégouliné et souillé les éléments de tissus, autrefois violets, qui recouvrent les jointures. Elle-même est légèrement décoiffée et la fatigue induite par les antalgiques se voit dans ses yeux, même à travers son bandeau noir qui la fait ressembler à une super-héroïne du début du siècle. Et qu’est-ce qu’elle est pâle…
 
-À travers son ordoptique, elle commande aux nanorobots responsables de sa coiffure de se réorganiser et en profite pour activer l’effet hydrophobe de sa tenue, laissant goutter le sang au sol. Ce n’est pas grand-chose, mais ce sera déjà ça. Elle se retourne à nouveau et se penche sur la rambarde en carbonates de la passerelle, attendant la suite avec attention.
+À travers son link, elle commande aux nanorobots responsables de sa coiffure de se réorganiser et en profite pour activer l’effet hydrophobe de sa tenue, laissant goutter le sang au sol. Ce n’est pas grand-chose, mais ce sera déjà ça. Elle se retourne à nouveau et se penche sur la rambarde en carbonates de la passerelle, attendant la suite avec attention.
 
 Les portes s’ouvrent et à la mine déconfite de Brawnet, elle sait que son recours a été refusé. S’arrêtant un instant, il s’adosse au garde-corps de la passerelle : ses gestes et mimiques semblent indiquer qu’il répond à un appel sur SolNet.
 
@@ -570,11 +570,11 @@ Un autre élément intéresse Ney : ils ne semblent pas contrôler non plus le 
 
 Après cet entretien particulièrement instructif, Ney quitte les deux personnes et se dirige vers sa chambre. Là, elle sort quelques outils de son petit sac et entreprend de démonter méthodiquement le relais SolNet placé juste sous le plancher. Le dispositif est standard : du matériel de Suan datant de trois ans tout au plus. Une bande passante de plusieurs centaines de pétaoctets à la seconde. Pour le réseau câblé, quelques exaoctets. De quoi faire passer une dizaine d’éthérés à la minute.
 
-La mémoire du relais extraite, Ney la connecte à un petit lecteur custom sur lequel elle lance divers tests d’intégrité. Assise sur le sol devant le trou formé par l’absence de la dalle qui repose à côté, Ney examine les données. Un virus, un simple virus a transformé tout le réseau de l’hôtel en une masse de câbles et de processeurs inertes. La mauvaise nouvelle c’est qu’il faut réinstaller les firmwares sur tous les appareils. La bonne nouvelle, c’est qu’elle peut mettre le sien et de fait gagner le contrôle absolu dessus.
+La mémoire du relais extraite, Ney la connecte à un petit lecteur custom sur lequel elle lance divers tests d’intégrité. Assise sur le sol devant le trou formé par l’absence de la dalle qui repose à côté, Ney examine les données. Un virus, un simple virus a transformé tout le réseau de l’hôtel en une masse de câbles et de processeurs inertes. La mauvaise nouvelle c’est qu’il faut réinstaller les micrologiciels sur tous les appareils. La bonne nouvelle, c’est qu’elle peut mettre le sien et de fait gagner le contrôle absolu dessus.
 
-Ney efface soigneusement la mémoire de l’appareil – et par soigneusement, elle entend un formatage bas niveau à multiples passes. Pendant le processus, elle réfléchit à un moyen d’automatiser le déploiement de son firmware : elle ne peut pas non plus démonter tous les relais de l’hôtel. Étudiant le virus, elle s’aperçoit finalement qu’il dispose d’une erreur de conception permettant un débordement de mémoire qui pourrait permettre de prendre le contrôle du programme malicieux et donc de l’appareil. Normalement, le noyau superviseur arrête automatiquement les processus qui s’adonnent à ce genre de bêtise, mais pas de chance pour lui : le virus lui a déjà fait la peau.
+Ney efface soigneusement la mémoire de l’appareil – et par soigneusement, elle entend un formatage bas niveau à multiples passes. Pendant le processus, elle réfléchit à un moyen d’automatiser le déploiement de son micrologiciel : elle ne peut pas non plus démonter tous les relais de l’hôtel. Étudiant le virus, elle s’aperçoit finalement qu’il dispose d’une erreur de conception permettant un dépassement de mémoire qui pourrait permettre de prendre le contrôle du programme malicieux et donc de l’appareil. Normalement, le noyau superviseur arrête automatiquement les processus qui s’adonnent à ce genre de bêtise, mais pas de chance pour lui : le virus lui a déjà fait la peau.
 
-La technophile met au point son firmware et l’exploit du virus. C’est une attaque simple : pas de glace à franchir, pas de superviseur, personne pour remarquer quoi que ce soit. Au bout de quelques minutes, le premier relais contaminé est sien, une demi-heure plus tard : le réseau zombi lui obéit telle une invocation à son nécromant. L’image est bien choisie pense la peluche : après tout, le réseau était mort, dévoré par des vers numériques.
+La technophile met au point son micrologiciel et l’exploit du virus. C’est une attaque simple : pas de glace à franchir, pas de superviseur, personne pour remarquer quoi que ce soit. Au bout de quelques minutes, le premier relais contaminé est sien, une demi-heure plus tard : le réseau zombi lui obéit telle une invocation à son nécromant. L’image est bien choisie pense la peluche : après tout, le réseau était mort, dévoré par des vers numériques.
 
 Une fois le réseau récupéré, Ney s’accapare les données de surveillance. Avec, elle peut suivre chaque personne dans l’immeuble, plus particulièrement l’enfant. Pour le moment, il est enfermé dans sa chambre. Aucun autre agent semble présent dans l’hôtel mais le mercenaire a un entretien avec un membre de la sécurité. Ce n’est pas une bonne nouvelle : si la sécurité de la station est de mèche, Ney ne pourra pas compter sur eux, même avec des preuves.
 
@@ -606,7 +606,7 @@ Elle rouvre les yeux : Trend la regarde interrogatif.
 
 – Comme ça ! », répond-elle sèchement, bien déterminée à ne pas le laisser engager la conversation. Trend se contente de sourire en réponse.
 
-La cabine s’immobilise : ils sont arrivés. D’une légère poussée, le solar wardner se redresse et sortant de l’ascenseur, il dégaine son arme sans se presser. « Ce machin pourrait faire des trous dans les murs », s’étonne intérieurement la justicière en observant le calibre du railgun de poche.
+La cabine s’immobilise : ils sont arrivés. D’une légère poussée, le Solar Wardner se redresse et sortant de l’ascenseur, il dégaine son arme sans se presser. « Ce machin pourrait faire des trous dans les murs », s’étonne intérieurement la justicière en observant le calibre du canon électrique de poche.
 
 Arrêtant Trend de sa main, elle lui fait un signe indiquant qu’elle a repéré du mouvement venant vers eux. Le cybernétique mandaté conserve son arme à hauteur de ceinture, mais sa prise ferme indique clairement son intention s’en servir à la première menace. La justicière profite de l’imposante carrure de son « compagnon » pour se glisser derrière, les deux armes shock dégainées.
 
@@ -712,17 +712,17 @@ Elle lui a tendu une main et lui a dit de venir vite. Trop heureux de s’en all
 
 Trébuchant sans jamais tomber grâce à la bienveillance de la peluche vivante, ils se sont retrouvés devant une chambre qu’elle a ouverte. Là, elle a soulevé une plaque du sol. Dessous se cachait des tas de machines, de tuyaux et de fils. Ils sont descendus dans cette « section de maintenance » et elle a refermé le passage au-dessus. Après, ils ont rampé, pendant tellement de temps que ça eu l’air de durer des heures. Bon, peut-être pas des vraies heures.
 
-Enfin, ils se sont arrêtés dans une sorte de placard : il y avait plein de casiers, des outils et même des vraies combinaisons d’astronautes ! Bon, elle a appelé ça des « pas-touche » alors, il en est resté loin. Elle lui a donné un ordoptique un peu trafiqué – il a des jeux mais pas de réseau – et lui a même installé une sorte de couchette pour être confortable.
+Enfin, ils se sont arrêtés dans une sorte de placard : il y avait plein de casiers, des outils et même des vraies combinaisons d’astronautes ! Bon, elle a appelé ça des « pas-touche » alors, il en est resté loin. Elle lui a donné un link un peu trafiqué – il a des jeux mais pas de réseau – et lui a même installé une sorte de couchette pour être confortable.
 
 Et elle est partie. Ça fait presque un jour complet. Elle lui avait montré où avoir de l’eau, mais pas à manger. Heureusement, d’autres peluches comme elle, des nevians comme ils disent, sont arrivés.
 
-Dans la salle de préparation des EVA, Scrap termine d’ausculter l’enfant. A priori, il est en très bonne santé, peut être juste vérifier ses vaccins, mais ça attendra. Zut de son côté a complètement désossé l’ordoptique et extrait la mémoire de l’appareil : si Ney leur a laissé un message, ils l’y trouveront sans doute. À côté, Nevi caresse furieusement la gâchette de son arme, laissant clairement exprimer ses intentions envers quiconque ferait du mal aux siens. Et une nevian colérique armée d’un fusil plus grand qu’elle, ça intimide toujours.
+Dans la salle de préparation des EVA, Scrap termine d’ausculter l’enfant. A priori, il est en très bonne santé, peut être juste vérifier ses vaccins, mais ça attendra. Zut de son côté a complètement désossé le link et extrait la mémoire de l’appareil : si Ney leur a laissé un message, ils l’y trouveront sans doute. À côté, Nevi caresse furieusement la gâchette de son arme, laissant clairement exprimer ses intentions envers quiconque ferait du mal aux siens. Et une nevian colérique armée d’un fusil plus grand qu’elle, ça intimide toujours.
 
 ## 20 – Trend : À bord du LEM
 
-Le solar wardner ne s’était pas laissé abattre par la rencontre expéditive avec Eve. Il ne pouvait que difficilement lui reprocher d’être aussi farouche. L’année passée, un groupe, armé de l’un des plus puissants calculateurs de l’histoire, était parvenu à faire tomber de nombreux agents du réseau Sentinelles dans des pièges et pratiquement aucune de leurs cibles n’avait réussi à leur échapper. Eve elle-même était tombée à l’époque.
+Le Solar Wardner ne s’était pas laissé abattre par la rencontre expéditive avec Eve. Il ne pouvait que difficilement lui reprocher d’être aussi farouche. L’année passée, un groupe, armé de l’un des plus puissants calculateurs de l’histoire, était parvenu à faire tomber de nombreux agents du réseau Sentinelles dans des pièges et pratiquement aucune de leurs cibles n’avait réussi à leur échapper. Eve elle-même était tombée à l’époque.
 
-Que Lem – ce n’est pas le nom du module de descente lors de la première mission d’exploration de la Lune ? Drôle de nom pour une station orbitant Europe – lui fasse peur est compréhensible. Mais le cybernétique n’a pas cette appréhension et il considère même qu’il faudrait être sacrément stupide pour s’en prendre à un membre du corps des solar wardners. Le groupe est soutenu par les corporations directement, chaque agent des « solar » possède même le droit de réquisition et leur parole vaut jurisprudence. Et c’est sans compter le réseau personnel de chaque agent… On n’y recrute pas n’importe qui.
+Que Lem – ce n’est pas le nom du module de descente lors de la première mission d’exploration de la Lune ? Drôle de nom pour une station orbitant Europe – lui fasse peur est compréhensible. Mais le cybernétique n’a pas cette appréhension et il considère même qu’il faudrait être sacrément stupide pour s’en prendre à un membre du corps des Solar Wardners. Le groupe est soutenu par les corporations directement, chaque agent des « solar » possède même le droit de réquisition et leur parole vaut jurisprudence. Et c’est sans compter le réseau personnel de chaque agent… On n’y recrute pas n’importe qui.
 
 En bref, si Nightly ne peut pas y aller, rien ne l’empêche d’aller y remuer les résidus qui y décantent. Vous vouliez vous faire une simple indépendante ? C’est un wardner qui va vous tomber dessus se répète Trend, comme pour se rassurer.
 
@@ -788,7 +788,7 @@ Quelques instants plus tard, l’équipe rapporte leur butin : pour Zeiner la d
 
 – On n’a pas beaucoup de temps, allez-y ! »
 
-Alors que Mag’ et Klovizz s’éloignent vers la cuisine, Toubib et Earn attrape le convalescent et commencent à le transporter vers l’entrée de l’hôtel. Le médecin ne s’était pas trompé : la moitié des muscles de son dos ne répondent pas : le système nerveux câblé a dû être salement touché, ou plus exactement, les firmwares se sont sûrement fait la malle.
+Alors que Mag’ et Klovizz s’éloignent vers la cuisine, Toubib et Earn attrape le convalescent et commencent à le transporter vers l’entrée de l’hôtel. Le médecin ne s’était pas trompé : la moitié des muscles de son dos ne répondent pas : le système nerveux câblé a dû être salement touché, ou plus exactement, les micrologiciels se sont sûrement fait la malle.
 
 À leur approche, les soldats de la sécurité se reculent pour les laisser passer. La corruption fonctionne toujours, même dans une ère « d’économie de l’abondance » certains veulent plus que le raisonnable, d’autres aiment enfreindre des règles. D’autres se menacent tout simplement. Les vieilles astuces restent et…
 
@@ -826,11 +826,11 @@ On prétend que les humains rêvent lorsqu’ils dorment, que leur esprit constr
 
 Lorsqu’elle ouvre les yeux, le soleil est en train de se coucher dans une lueur bleutée qui illumine la pénombre de son appartement : c’est le privilège des appartements orientés côté ouest. L’enfant se lève délicatement et se dirige vers la grande baie vitrée en s’étirant. Il lui faut encore un peu de temps pour que son corps ait entièrement récupéré du sommeil, c’est le prix à payer pour un implant psi et donc un corps organique.
 
-Allant dans la salle de soins, elle se passe une lingette humide sur le visage avant de récupérer ses lentilles de contact ordoptique. Ses yeux ayant repris leur vert intense, Eve se dirige vers son armurerie personnelle. Elle aurait bien pris le temps de faire une toilette complète, mais elle a déjà perdu beaucoup de temps.
+Allant dans la salle de soins, elle se passe une lingette humide sur le visage avant de récupérer ses lentilles de contact link. Ses yeux ayant repris leur vert intense, Eve se dirige vers son armurerie personnelle. Elle aurait bien pris le temps de faire une toilette complète, mais elle a déjà perdu beaucoup de temps.
 
 Ouvrant le placard sécurisé, elle sort son armure encore tâchée de son sang et commence à l’enfiler. Le plastron ajusté, elle referme les jambières soigneusement par-dessus son pantalon pourpre. Elle prendra le temps de nettoyer tout ça plus tard.
 
-Ramassant le casque sub-capillaire, elle constate concrètement les dégâts qu’il avait encaissés : pas étonnant qu’elle ait perdu conscience sur le coup. Heureusement, la justicière en possède deux autres.
+Ramassant le casque subcapillaire, elle constate concrètement les dégâts qu’il avait encaissés : pas étonnant qu’elle ait perdu conscience sur le coup. Heureusement, la justicière en possède deux autres.
 
 Glissant la protection crânienne comme un peigne aussi long que son crâne, elle commande à ses nanorobots de coiffure de restaurer ses couettes et de les teindre aux couleurs de sa tenue.
 
@@ -952,19 +952,19 @@ Une connexion entrante : le colonel Swartchy. Curieuse, la cyber-samouraï acce
 
 – La station Lem est une plateforme de communication indépendante, les forces de Waylanders ne peuvent pas s’impliquer dans une opération à son bord. La procédure impose la création d’une équipe indépendante, détourne le colonel avec un ton faussement procédurier.
 
-– Je me moque de votre procédure : c’est une opération des solar wardners. Mais sans doute souhaitez-vous que je transmette ma demande à monsieur Teadrill ? expose-t-elle.
+– Je me moque de votre procédure : c’est une opération des Solar Wardners. Mais sans doute souhaitez-vous que je transmette ma demande à monsieur Teadrill ? expose-t-elle.
 
 – Ce ne sera pas nécessaire. Je transmets les ordres nécessaires à votre réquisition. », termine l’homme à l’égo froissé.
 
 Menacer… On en revient encore au même point. Chaque demande exige des justifications inutiles provoquées par ces luttes d’égos. Ceux qui sont au pouvoir s’y accrochent tant qu’ils mettent trop souvent en péril des missions de grande importance. L’influence des habitudes terriennes est encore trop ancrée dans les mœurs.
 
-Reprenant son calme, elle se tourne vers la gamine qui l’accompagne en prenant un solide appui sur le mur. Nightly flotte dans les airs, sans dériver d’un millimètre : un privilège de son implant. Lorsqu’elle l’avait contacté, elle avait invoqué dans la même phrase deux noms importants : Trend et Ney. Que le trio se retrouve aux prises dans une affaire commune lui offre les sensations particulières de souvenirs retrouvés. La solar wardner jette un coup d’œil sur sa gauche : l’officier s’explique avec force de diplomatie avec son supérieur. Finalement, il se tourne vers elles et leur fait signe d’approcher.
+Reprenant son calme, elle se tourne vers la gamine qui l’accompagne en prenant un solide appui sur le mur. Nightly flotte dans les airs, sans dériver d’un millimètre : un privilège de son implant. Lorsqu’elle l’avait contacté, elle avait invoqué dans la même phrase deux noms importants : Trend et Ney. Que le trio se retrouve aux prises dans une affaire commune lui offre les sensations particulières de souvenirs retrouvés. La Solar Wardner jette un coup d’œil sur sa gauche : l’officier s’explique avec force de diplomatie avec son supérieur. Finalement, il se tourne vers elles et leur fait signe d’approcher.
 
 « La canonnière est prête à partir, je viens de recevoir les ordres de ma hiérarchie et je vous adresse mes excuses pour toutes ces vérifications. », tente-t-il de se rattraper. Il leur pointe le sas et les deux femmes s’y engagent.
 
 L’intérieur du vaisseau est exigu : tout l’espace interne semble avoir été optimisé en faveur des systèmes du vaisseau au détriment des passagers. On les conduit au poste de commandement où douze sièges conçus pour supporter de fortes accélérations sont installés. Normalement, l’équipage régulier est formé de huit personnes mais le vaisseau est capable d’en emporter quatre de plus.
 
-L’officier, le commandant Dannis les installe sur les sièges centraux et le reste de l’équipage les entoure. Dans le canal de réalité augmentée de nombreux écrans virtuels font leur apparition et le premier officier lance la procédure de désamarrage. L’avantage d’avoir choisi un vaisseau militaire c’est qu’ils sont toujours prêts à partir. Oh, et avoir quatre railguns capables de découper un vaisseau de ligne peut aussi avoir son utilité.
+L’officier, le commandant Dannis les installe sur les sièges centraux et le reste de l’équipage les entoure. Dans le canal de réalité augmentée de nombreux écrans virtuels font leur apparition et le premier officier lance la procédure de désamarrage. L’avantage d’avoir choisi un vaisseau militaire c’est qu’ils sont toujours prêts à partir. Oh, et avoir quatre canons électriques capables de découper un vaisseau de ligne peut aussi avoir son utilité.
 
 ## 26 – Idle : Les bégaiements de l’histoire
 
@@ -992,7 +992,7 @@ Comme pour passer le temps, Feyn affiche les enregistrements de son expédition 
 
 – Il était tout glacé comme celui-là ? demande Idle avec une certaine ironie.
 
-– Si c’était le cas, il avait dégelé avant qu’on ne le trouve. Mais ce qui était remarquable, entre autres, c’était que tout le vaisseau avait été éteint. Il n’y avait aucun dégâts et même les passagers étaient encore à leur poste, mort mais sans la moindre trace de décomposition.
+– Si c’était le cas, il avait dégelé avant qu’on ne le trouve. Mais ce qui était remarquable, entre autres, c’était que tout le vaisseau avait été éteint. Il n’y avait aucun dégât et même les passagers étaient encore à leur poste, mort mais sans la moindre trace de décomposition.
 
 – Et la mémoire des appareils a été effacé ? associe la nevian.
 
@@ -1042,7 +1042,7 @@ Le petit groupe se sépare : Nevi regarde le mercenaire et l’enfant s’éloi
 
 ## 28 – Nightly : Opération Lem 2.0
 
-Depuis le pont de commandement de la canonnière WLD-GS-59, la station Lem n’est visible qu’à travers les écrans virtuels. Sur les images, elle semble avoir été endommagée : plusieurs fissures émettant beaucoup de chaleur brillent sur les relevés thermiques. Par mesure de précautions, le vaisseau se tient à une distance de 500 m, les railguns pointés dessus.
+Depuis le pont de commandement de la canonnière WLD-GS-59, la station Lem n’est visible qu’à travers les écrans virtuels. Sur les images, elle semble avoir été endommagée : plusieurs fissures émettant beaucoup de chaleur brillent sur les relevés thermiques. Par mesure de précautions, le vaisseau se tient à une distance de 500 m, les canons électriques pointés dessus.
 
 Eve observe le gigantesque demi œil de mouche et tente de repérer les sections habitables et les points d’accès. La structure, bien que très modeste par ses dimensions, fait plusieurs fois la taille de la canonnière. Deux sous-officiers analysent aussi la station : la femme fait de nombreux signes en évoquant des concepts structuraux de la station. Du peu qu’arrive à en comprendre la justicière, le seul point d’amarrage a été saboté et la station est désormais entièrement dépressurisée. Paradoxalement, elle est encore fonctionnelle : seule la section habitable semble avoir été touchée par ce que l’experte décrit comme un incendie.
 
@@ -1064,7 +1064,7 @@ Eve observe le gigantesque demi œil de mouche et tente de repérer les sections
 
 – Il y a cinq cents mètres de vide madame, fait-il remarquer.
 
-– Ça n’est pas un problème. », termine la solar wardner avec un sourire complice en direction de l’enfant.
+– Ça n’est pas un problème. », termine la Solar Wardner avec un sourire complice en direction de l’enfant.
 
 Tsadir et Eve se détachent de leurs sièges et se laissent dériver vers l’écoutille de la passerelle, précédées de l’officier responsable de l’équipement, Dr. Emmanuel. Il les conduit au travers des coursives étroites du vaisseau pour aboutir à la salle de l’équipement d’abordage. Là plusieurs armures noires alignées sur un rack attendent leurs utilisateurs.
 
@@ -1210,7 +1210,7 @@ Soudain un autre homme apparaît, lui aussi équipé d’un respirateur et lui l
 
 – Non. Mais je peux essayer de le chercher : j’ai sa trajectoire approximative et je n’ai qu’à m’en approcher à trente mètres pour le retrouver.
 
-– Fais-le : nous on garde la navette en ligne de mire. Commandant : si jamais vous revoyez ce type, faites-en de la purée, ordonne la solar wardner.
+– Fais-le : nous on garde la navette en ligne de mire. Commandant : si jamais vous revoyez ce type, faites-en de la purée, ordonne la Solar Wardner.
 
 – Vous le connaissez ? demande le commandant.
 
@@ -1224,7 +1224,7 @@ Nightly s’élance à nouveau à travers le vide dans la direction où l’obje
 
 – Rien n’est encore joué. Il faut déjà en finir avec cette navette, indique Tsadir.
 
-– Il y a des poches sur cette combinaison ? demande Nightly
+– Il y a des poches sur cette combinaison ? demande Nightly. 
 
 – A1 : vous trouverez un compartiment pour les échantillons au niveau du ventre, explique le docteur Emmanuel.
 
@@ -1342,7 +1342,7 @@ Confirmant la réception de l’ordre, Nightly repart en arrière. Un bref flash
 
 Prenant à nouveau son élan dans l’espace, elle se demande les raisons pour lesquels le wardner a été tué. S’il s’agit bien de sa mémoire qu’elle transporte, ils devraient pouvoir en tirer une explication. À moins que Tsadir n’en sache déjà plus : elle semblait connaître l’homme de la navette. Celui qui a mystérieusement disparu quelques minutes, échappant aussi aux perceptions de son propre implant. C’est la première fois que ça lui arrive et ça ne la rassure pas vraiment.
 
-La surface externe de sa tenue affichant une température de plus de 70 degrés Celsius, on la fait attendre dans le sas d’accès soumis dans un air réfrigéré par le super climatiseur du vaisseau. Sa peau externe redescendue à une température normale, Nightly est guidée par la solar wardner dans la salle de préparation et le rituel inverse s’opère. Le froid de l’air ambiant choque l’enfant. Heureusement, l’opération est plus rapide et elle regagne rapidement ses vêtements.
+La surface externe de sa tenue affichant une température de plus de 70 degrés Celsius, on la fait attendre dans le sas d’accès soumis dans un air réfrigéré par le super climatiseur du vaisseau. Sa peau externe redescendue à une température normale, Nightly est guidée par la Solar Wardner dans la salle de préparation et le rituel inverse s’opère. Le froid de l’air ambiant choque l’enfant. Heureusement, l’opération est plus rapide et elle regagne rapidement ses vêtements.
 
 Tandis qu’elle enfile son armure personnelle, elle constate que la combinaison présente de nombreuses petites éraflures à sa surface. Le vol au travers des débris en allant à la maudite navette était plus encombré que ce qu’elle avait vu. Mais l’armure de combat de Suan était prévue pour encaisser des impacts bien pire que ça et elle-même n’avait pas ressenti le moindre choc.
 
@@ -1362,7 +1362,7 @@ De son côté Tsadir range la combinaison militaire et extrait le module mémori
 
 – Et toi, tu ne viens pas ? Je peux faire passer des gens avec moi, tu sais.
 
-– Je sais, mais j’ai encore pas mal de chose à faire : notamment trouver à qui appartient cette station, qui possède la navette, qui sont les complices de ce « Bishop », et il y a probablement une petite montagne de paperasse à mon nom. », ironise la solar wardner.
+– Je sais, mais j’ai encore pas mal de chose à faire : notamment trouver à qui appartient cette station, qui possède la navette, qui sont les complices de ce « Bishop », et il y a probablement une petite montagne de paperasse à mon nom. », ironise la Solar Wardner.
 
 Nightly la regarde interrogative alors qu’elle ajuste les derniers éléments de sa tenue de justicière. Le docteur Emmanuel arrive enfin s’assurer de sa santé mais Tsadir le repousse d’un geste calme.
 
@@ -1386,7 +1386,7 @@ Ceci fait, Scrap conduit l’enfant hors de l’appareil et lui indique la direc
 
 Pendant ce temps, Nevi télécharge l’IA de Ney et formate à bas niveau la mémoire active du mercenaire effaçant toute trace du vol de l’enveloppe. Le mercenaire, inconscient est laissé à son siège au poste de pilotage et les nevians s’enfuient en empruntant la section de maintenance, passant sous le radar de la sécurité, protégés par leur alliée omniprésente dans la cité. Quelques minutes plus tard, les systèmes de surveillances auxquelles Ney, virtualisée, s’était connecté constatent l’arrivée d’un petit commando des forces de sécurité venus sécuriser l’appareil. Les choses vont dans le bon sens.
 
-Le fantôme de Ney accompagne le groupe, émulée à travers le cerveau hyper-hybride de Nevi. N’existant que dans l’espace virtuel, l’effet lui paraît très étrange mais aussi un peu amusant. Retourner au nid lui fera du bien et Nevi a déjà envoyé Cara récupérer une enveloppe vierge à Elmtech Philorganics.
+Le fantôme de Ney accompagne le groupe, émulée à travers le cerveau hyper-hybride de Nevi. N’existant que dans l’espace virtuel, l’effet lui paraît très étrange mais aussi un peu amusant. Retourner au nid lui fera du bien et Nevi a déjà envoyé Cara récupérer une enveloppe vierge à Elmetech Philorganics.
 
 Le groupe traverse la cité et s’aventure dans les constructions périphériques datant des débuts de la colonisation. Ces installations, abandonnées, sont malgré tout restées fonctionnelles et leur petite colonie officieuse est même devenue prospère : un constructeur universel rien que pour eux, une alimentation énergétique propre et dupliquée et la protection administrative de l’IA de gestion de la cité. Une vraie petite société secrète à eux seuls.
 
@@ -1396,7 +1396,7 @@ Le petit groupe se précipite à l’intérieur pour aller constater les dégât
 
 ## 34 – Feyn : Retour de manivelle
 
-« Commandant Feyn, nos spécialistes ont avancé dans l’analyse de l’épave de vos mystérieux attaquants qui s’avère être le Leeroy. Il semble qu’elle soit rattachable aux Enfants de Monade, mais nous n’avons pas encore confirmation de tous les détails. Les archives que nous ont transmises les solar wardners indiquent qu’il est très probable que ce groupe ait possédé une frégate qui n’a pas été retrouvée et qui puisse correspondre au Bearington, lui apprend Maxine.
+« Commandant Feyn, nos spécialistes ont avancé dans l’analyse de l’épave de vos mystérieux attaquants qui s’avère être le Leeroy. Il semble qu’elle soit rattachable aux Enfants de Monade, mais nous n’avons pas encore confirmation de tous les détails. Les archives que nous ont transmises les Solar Wardners indiquent qu’il est très probable que ce groupe ait possédé une frégate qui n’a pas été retrouvée et qui puisse correspondre au Bearington, lui apprend Maxine.
 
 – Jusqu’ici je vous suis, même si je ne vois pas exactement où se situe mon implication dans l’enquête, répond très formellement le commandant.
 
@@ -1428,7 +1428,7 @@ Le petit groupe se précipite à l’intérieur pour aller constater les dégât
 
 – Mais comme ça vient de l’Akasha, ça n’est pas un de ces Enfants qui est en cause ? Déduit Feyn.
 
-– Exactement. J’en viens à une requête : une solar wardner, une certaine Sanaë, souhaite monter à votre bord accompagnée d’un spécialiste pour examiner le système informatique de l’Akasha.
+– Exactement. J’en viens à une requête : une Solar Wardner, une certaine Sanaë, souhaite monter à votre bord accompagnée d’un spécialiste pour examiner le système informatique de l’Akasha.
 
 – D’accord, si ça peut vous aider… Quand aura lieu le transfert ? accepte Feyn.
 
@@ -1448,7 +1448,7 @@ Le petit groupe se précipite à l’intérieur pour aller constater les dégât
 
 Apprendre que son sauveur n’est pas la personne qu’il croyait ébranle légèrement la confiance de Feyn en ses déductions. Ainsi, un illustre inconnu est parvenu à pénétrer dans les systèmes d’Akasha et à déployer une attaque informatique pour arrêter, et retourner, un assaut spatial. Seules les opérations spéciales de Mars avaient pu se vanter de pareils exploits, et encore, sur du matériel de l’ONU, du matériel terrien.
 
-À côté de lui, Idle dort dans son fauteuil de vol. La pauvre : le commandant de l’Akasha avait promis à Ney, une amie de Tsa‘, de prendre soin d’elle. Et la voilà prise au milieu d’une affaire impliquant les forces de sécurité de Suan, des scientifiques martiens, un groupe suprémaciste disparu, une solar wardner et un mystérieux, mais prodigieux, hacker. Même pour le commandant supercentenaire, ça fait beaucoup.
+À côté de lui, Idle dort dans son fauteuil de vol. La pauvre : le commandant de l’Akasha avait promis à Ney, une amie de Tsa‘, de prendre soin d’elle. Et la voilà prise au milieu d’une affaire impliquant les forces de sécurité de Suan, des scientifiques martiens, un groupe suprémaciste disparu, une Solar Wardner et un mystérieux, mais prodigieux, hacker. Même pour le commandant supercentenaire, ça fait beaucoup.
 
 Il vaut sans doute mieux prévenir Ney et ses autres parents. Ouvrant une communication avec l’Icordia, Feyn demande : « Icordia, j’aimerais transmettre quelques nouvelles aux parents d’Idle, ma seconde. Pouvez-vous transmettre mes mots à l’adresse suivante ? »
 
@@ -1500,7 +1500,7 @@ Elle n’a pas le temps de s’asseoir que Ney arrive, accompagnée d’un autre
 
 – Oui, tu connais Sanaë ? demande Eve sans détours.
 
-– La solar wardner ? Oui, elle est à bord de l’Akasha, lui-apprend Ney.
+– La Solar Wardner ? Oui, elle est à bord de l’Akasha, lui apprend Ney.
 
 – Je ne connais pas ce vaisseau, remarque l’enfant.
 
@@ -1538,11 +1538,11 @@ Le commandant Feyn est un de ces étranges Solaires. Né humain à la fin du vin
 
 Son visage, un raton laveur avec des traits malgré tout anthropomorphes, est rapidement sympathique. Il se présente avec une certaine familiarité – sans jamais rompre l’étiquette – et porte en son cœur la fierté d’être astronaute. Ce métier semble avoir été toute sa vie son but. Maintenant qu’il l’a atteint, il s’en délecte.
 
-L’autre passager, Idle, est une nevian. Normalement, ces assistants domestiques ne sont pas sentients, mais le comportement de cette dernière et le fait qu’elle soit enregistrée auprès de la corporation en tant que personne ne laissent aucun doute planer. Elle l’est devenue semble-t-il par faute d’abandon : certaines IA tendent naturellement à atteindre cet état si elles ne sont pas « élaguées régulièrement ». Toujours est-il qu’Idle est intriguante. Elle semble se comporter comme une enfant de 5-6 ans, mais fait preuve très régulièrement de réactions adultes et extrêmement raisonnées. Son récit du sauvetage de Feyn est précis et dénote une capacité d’observation et d’apprentissage digne de son noyau Wolfa. C’est assez simple : réussir une EVA seule sans formation est une petite prouesse ; le faire dans la situation d’urgence qu’elle a affronté est un exploit dont elle peut se vanter.
+L’autre passager, Idle, est une nevian. Normalement, ces assistants domestiques ne sont pas sentients, mais le comportement de cette dernière et le fait qu’elle soit enregistrée auprès de la corporation en tant que personne ne laisse aucun doute planer. Elle l’est devenue semble-t-il par faute d’abandon : certaines IA tendent naturellement à atteindre cet état si elles ne sont pas « élaguées régulièrement ». Toujours est-il qu’Idle est intriguante. Elle semble se comporter comme une enfant de 5-6 ans, mais fait preuve très régulièrement de réactions adultes et extrêmement raisonnées. Son récit du sauvetage de Feyn est précis et dénote une capacité d’observation et d’apprentissage digne de son noyau Wolfa. C’est assez simple : réussir une EVA seule sans formation est une petite prouesse ; le faire dans la situation d’urgence qu’elle a affronté est un exploit dont elle peut se vanter.
 
 Nodeus de son côté n’est parvenu à rien : il semble clair que le pirate n’a eu pratiquement aucune information depuis l’Akasha mais pour autant rien dans les informations de routage ne semble aller au-delà de la mémoire de l’IA de bord. Et cette IA de bord ne possède absolument aucun logiciel de guerre électronique en dehors des glaces conventionnelles. Les hypothèses de Nodeus font face à un étrange paradoxe : il faut une grande puissance de calcul pour briser un certificat et même avec le cluster principal d’une colonie, il lui faudrait une semaine. L’Akasha n’est pas un vaisseau capable d’embarquer autant de matériel, et ce d’un facteur d’échelle de plusieurs ordres de grandeur.
 
-Et il y a le Bearington. Sanaë, Nodeus mais aussi Feyn, trouvent étrange, pour ne pas dire suspecte, que la prise de contrôle des deux drones ait eu lieu juste après l’impact des torpilles. Cela ressemble beaucoup à une riposte, même si Feyn, par son esprit scientifique, considère qu’il n’y a pas assez de matière pour en savoir plus. Quoi qu’il en soit, la solar wardner ne sera rassurée que lorsque Francklin sera lui aussi là. Mais si elle a pu emprunter un corps dans la réserve de l’Icordia, son ami psion a besoin d’une enveloppe parfaitement conforme à sa précédente.
+Et il y a le Bearington. Sanaë, Nodeus mais aussi Feyn, trouvent étrange, pour ne pas dire suspecte, que la prise de contrôle des deux drones ait eu lieu juste après l’impact des torpilles. Cela ressemble beaucoup à une riposte, même si Feyn, par son esprit scientifique, considère qu’il n’y a pas assez de matière pour en savoir plus. Quoi qu’il en soit, la Solar Wardner ne sera rassurée que lorsque Francklin sera lui aussi là. Mais si elle a pu emprunter un corps dans la réserve de l’Icordia, son ami psion a besoin d’une enveloppe parfaitement conforme à sa précédente.
 
 Au milieu de toutes ces considérations et réflexions, un message leur a apporté d’autres mauvaises nouvelles. L’émetteur, une certaine Nightly que ses dossiers personnels rattachent à Eve 3C du laboratoire de Dorthown sur le projet initial de l’implant psi, lui a annoncé la « mort » de Trend, l’un des leurs.
 
@@ -1560,7 +1560,7 @@ Que faire maintenant ? Sans plus d’information difficile d’avancer. Sanaë 
 
 L’aérateur du « Nid » ronronne de son cycle lent. L’air doux porte une légère fragrance de chlorophylle et l’éclairage tamisé de la salle de repos apportent un sentiment de confort à la justicière. Alors que ses sens retrouvent leur précision et que son corps se réoxygène, Eve considère à nouveau les événements de la veille.
 
-Trend s’était jeté dans un piège. Elle avait été trouver Tsadir une ancienne coéquipière qui avait intégré les rangs des wardners. La wardner l’avait conduite sur un vaisseau de guerre et là elle avait expérimenté une escarmouche spatiale fortement asymétrique. L’opération n’avait pas apporté grand-chose si ce n’était plus de questions, un nouvel ennemi, Bishop, et l’implant mémoriel présumé de Trend. Tsadir l’avait ensuite envoyé sur Titan trouver Sanaë, une autre Wardner qui avait déjà affronté ce fameux Bishop. À Ombrenade, elle avait retrouvé Ney qui lui a permis de contacter la fameuse Wardner et puis… Il y avait eu cette réponse.
+Trend s’était jeté dans un piège. Elle avait été trouver Tsadir une ancienne coéquipière qui avait intégré les rangs des wardners. La wardner l’avait conduite sur un vaisseau de guerre et là elle avait expérimenté une escarmouche spatiale fortement asymétrique. L’opération n’avait pas apporté grand-chose si ce n’était plus de questions, un nouvel ennemi, Bishop, et l’implant mémoriel présumé de Trend. Tsadir l’avait ensuite envoyé sur Titan trouver Sanaë, une autre wardner qui avait déjà affronté ce fameux Bishop. À Ombrenade, elle avait retrouvé Ney qui lui a permis de contacter la fameuse wardner et puis… Il y avait eu cette réponse.
 
 Un message à double sens. D’un côté, il disait : « Je suis occupée, je dois gérer une autre affaire très importante, essayez de trouver plus d’informations. Ne faites pas n’importe quoi avec la mémoire de Trend. » De l’autre, Ney avait lu : « Je ne peux pas m’impliquer directement sans vous gêner. Ouvrir la mémoire de Trend est illégal, je ne peux pas l’autoriser, alors soyez discrets et trouvez ce que vous pouvez. »
 
@@ -1718,7 +1718,7 @@ Les cris d’Idle retentissent : « Laissez Feyn tranquille ! ». Tournant l
 
 – Oui ?
 
-– Votre langage… » le rappel Francklin. Haussant les épaules, le combattant blindé s’engage dans la coursive et dépasse Idle qui le contourne d’une manœuvre étonnamment vive et agile. Elle s’approche vers le médecin sans pour autant baisser sa garde.
+– Votre langage… » le rappelle Francklin. Haussant les épaules, le combattant blindé s’engage dans la coursive et dépasse Idle qui le contourne d’une manœuvre étonnamment vive et agile. Elle s’approche vers le médecin sans pour autant baisser sa garde.
 
 « Vous allez vraiment me tirer dessus ? demande le médecin avec un ton amical.
 
@@ -1868,7 +1868,7 @@ Les résultats affluent depuis plusieurs minutes, chaque station renvoyant les r
 
 Faut-il y voir de la poisse ? Un statut d’exception ? Pas vraiment et la technophile s’amuse à imaginer les effets de l’étrange et irrationnelle approche que les humains tendent à avoir avec les statistiques. Ils en viennent même à invoquer la chance, la foi et le divin. Ney se contente de considérer la situation telle qu’elle est. Pour résumer sa doctrine : « Peu importe où nous somme et ce qui nous est arrivé, ce qui compte c’est ce que nous allons faire ensuite. ».
 
-Ah, le voilà : le message tant attendu. Ney l’examine tandis qu’en arrière plan le virus déployé sur les stations efface toutes traces du méfait. La précieuse clé de décryptage semble complète et la technophile effectue quelques rapides tests pour s’assurer de son intégrité. Ceux-ci passent.
+Ah, le voilà : le message tant attendu. Ney l’examine tandis qu’en arrière-plan le virus déployé sur les stations efface toutes traces du méfait. La précieuse clé de décryptage semble complète et la technophile effectue quelques rapides tests pour s’assurer de son intégrité. Ceux-ci passent.
 
 « Bien, le temps est venu, dit-elle d’une voix qui ferait penser à une sorcière.
 
@@ -1886,13 +1886,13 @@ Ah, le voilà : le message tant attendu. Ney l’examine tandis qu’en arrièr
 
 Tous retiennent leur respiration tandis que Ney lance les premières instructions pour accéder à l’implant. Une commande plus tard et un indicateur de progression apparaît. Même pas cinq secondes après, un message annonce que neuf exaoctets ont été décryptés et rangé dans le fichier « Trend-2094-2-12.scan-sji-neural ». Un grand soupir commun de soulagement éphémère remplace le silence.
 
-Ney reprend ses opérations, contrôlant la console par la pensée. Elle lance plusieurs logiciels de son cru pour vérifier la nature et l’état du fichier supposé contenir la conscience, la mémoire de Trend et sa cohorte de logiciels intégrés. Tous ces tests passent à l’exception d’un : calibré pour les noyaux wolfa, il n’aurait d’ailleurs pas dû être exécuté. Tant pis, au moins on sait que Trend n’est pas une IA de ce type. L’avertissement a toutefois inquiété Nightly, mais un regard et un sourire de la semi-renarde ont suffi à supprimer cette peine.
+Ney reprend ses opérations, contrôlant la console par la pensée. Elle lance plusieurs logiciels de son cru pour vérifier la nature et l’état du fichier supposé contenir la conscience, la mémoire de Trend et sa cohorte de logiciels intégrés. Tous ces tests passent à l’exception d’un : calibré pour les noyaux Wolfa, il n’aurait d’ailleurs pas dû être exécuté. Tant pis, au moins on sait que Trend n’est pas une IA de ce type. L’avertissement a toutefois inquiété Nightly, mais un regard et un sourire de la semi-renarde ont suffi à supprimer cette peine.
 
 Enfin, Ney charge le programme de virtualisation, mais pas dans la console cette fois. Directement dans son propre cerveau hybride. Elle y configure un hôte humanoïde le plus proche possible de ses souvenirs. Ceci-fait, elle injecte les données fraîchement récupérées et devant les yeux ébahis de l’assemblée, le corps simulé de Trend apparaît sur le canal de réalité virtuel du nid.
 
 L’homme semble particulièrement désorienté, mais Ney ajuste rapidement de nombreux paramètres de l’enveloppe virtuelle jusqu’à ce que ses sensations satisfassent son hôte.
 
-« Bonjour Trend, lance t-elle avec un ton amical.
+« Bonjour Trend, lance-t-elle avec un ton amical.
 
 – Ney ? s’étonne le wardner constatant rapidement son intangibilité. Que m’est-il arrivé ?
 
@@ -1960,11 +1960,11 @@ Mais c’était surtout Feyn à qui on posait le plus de question. Des trucs tr�
 
 Quand tout ça s’était terminé, Feyn lui avait proposé de retourner à Ombrenade voir ses frères et ses sœurs. Et les voilà dans une navette, comme celle qu’elle avait emprunté avec Nevi et Ney quand elle est partie en vacances sur l’Akasha. Sanglée sur son siège, elle regarde Feyn perdu dans ses pensées. Son accéléromètre commence à grimper doucement : ils entrent dans l’atmosphère. Feyn lui avait expliqué qu’au plus fort de la descente, ils encaisseront un peu plus de deux G. Pour qui n’a jamais vécu au sol, c’est une accélération impressionnante. Mais Idle a déjà vécu ça à l’aller et l’Akasha peut monter à plus d’un G complet lors de ses manœuvres.
 
-Le vol va durer 4 heures. Qu’importe ce que peut dire Zut à propos des nevians et du sommeil,  elle va profiter de ce temps pour roupiller un peu, toutes ces questions en haut l’ont un peu fatiguée. Bercée par les premières vibrations de l’entrée dans l’atmosphère, Idle glisse rapidement dans les bras de Morphée.
+Le vol va durer 4 heures. Qu’importe ce que peut dire Zut à propos des nevians et du sommeil, elle va profiter de ce temps pour roupiller un peu, toutes ces questions en haut l’ont un peu fatiguée. Bercée par les premières vibrations de l’entrée dans l’atmosphère, Idle glisse rapidement dans les bras de Morphée.
 
 À son réveil, la navette est en train d’effectuer la dernière poussée pour se poser sur le pas de tir. Quelques instants plus tard, l’amortissement des trains d’atterrissage secoue les passagers au moment où la poussée s’arrête. Quelques chocs sur la coque indiquent que les bras de capture ont attrapé l’appareil pour le déplacer vers le terminal. Quelques accélérations témoignent des manœuvres externes.
 
-Enfin, l’appareil semble immobile et l’accéléromètre d’Idle indiquent un zéro point cent-trente-huit G fixe : ils sont bien sur Titan. Quelques minutes plus tard, alors que tous les passagers commencent à deserrer leurs sangles, plusieurs claquements se font entendre : le tube de connexion avec le terminal est maintenant scellé.
+Enfin, l’appareil semble immobile et l’accéléromètre d’Idle indiquent un zéro point cent-trente-huit G fixe : ils sont bien sur Titan. Quelques minutes plus tard, alors que tous les passagers commencent à desserrer leurs sangles, plusieurs claquements se font entendre : le tube de connexion avec le terminal est maintenant scellé.
 
 Comme pour les autres vaisseaux, la sortie se situe en haut et les passagers ont le choix entre emprunter rapidement l’échelle ou attendre que l’ascenseur soit installé. Idle se détache rapidement et s’approche de Feyn pour l’aider. Son ami, plus méthodique, détache chaque sangle avec soin. Il se lève ensuite et Idle tend ses bras vers lui : elle veut un câlin.
 
@@ -2056,7 +2056,7 @@ Là. Au niveau de la racine du dôme, à couvert d’un pilier porteur, le tireu
 
 Elle se pose sur le chemin de ronde et recherche l’assaillant. Il disparaît soudainement de ses perceptions exotiques. « Merde ! »
 
-Dans un élan de panique, Eve  reprend son tir de suppression en se concentrant sur la surface à côté d’elle. À peine le portail est-il ouvert qu’elle plonge dedans en arrière, bourrant l’ouverture de tirs rapides pour empêcher qui que ce soit de la suivre. Le portail se referme, mais, nerveusement, elle continue de tirer une longue dizaine de secondes.
+Dans un élan de panique, Eve reprend son tir de suppression en se concentrant sur la surface à côté d’elle. À peine le portail est-il ouvert qu’elle plonge dedans en arrière, bourrant l’ouverture de tirs rapides pour empêcher qui que ce soit de la suivre. Le portail se referme, mais, nerveusement, elle continue de tirer une longue dizaine de secondes.
 
 Haletante et paralysée par la peur, elle porte ses mains à sa poitrine. C’était Bishop et c’est la seconde fois qu’il disparaît à sa vue comme ça. Et que quelque chose puisse échapper à son implant la terrifie.
 
@@ -2150,7 +2150,7 @@ Rapidement Ney pointe plusieurs éléments qui ne lui vont pas : « Je ne suis
 
 – Comme tu veux, mais ça te fait revenir dans la partie, concède la nevian aux couleurs inversées.
 
-– Prépare-moi un tunnel SolNet, je te fais confiance pour le cryptage, demande le solar wardner.
+– Prépare-moi un tunnel SolNet, je te fais confiance pour le cryptage, demande le Solar Wardner.
 
 – Ça marche ! », termine Ney.
 
@@ -2160,13 +2160,13 @@ Bientôt, ils auront une identité sur la personne et une nouvelle piste. Une pi
 
 La base de données des forces de sécurité est normalement inaccessible à tous ceux qui ne font pas partie de la police. En fait, un certain rang est même requis : il serait dangereux de laisser un agent tout juste arrivé piller ces données pour son usage personnel. On parle des fichiers d’identité avec notamment les certificats qui y sont associés, y compris la version publique de la fameuse clé d’identité. On peut aussi y trouver les dossiers des forces de sécurité, civils comme militaires, et depuis la guerre des colonies, une majorité des citoyens a fréquenté l’une ou l’autre des branches de la sécurité. Il y a aussi le fichier des psions : une liste d’identité qui recense la totalité des psions. Pour des raisons de discrimination, cette liste requiert des privilèges encore plus élevés.
 
-Mais Trend possède un coupe file. Les solar wardners sont un corps d’élite qui possède une juridiction sur l’ensemble des colonies. Ils peuvent demander n’importe quelle donnée que peut posséder une corporation, réquisitionner n’importe quel matériel, engager temporairement n’importe quel colon, y compris des personnes de haut rang et remplacer un jugement par un autre. Leur rôle est assez simple : assurer la paix dans les colonies et fixer les limites éthiques de la société pour éviter notamment qu’un groupe ne puisse en asservir un autre. Les corporations ont désespérément besoin d’eux et leur avis est souvent consulté. C’est simple : ils sont devenus, par la force des choses, la jurisprudence éthique des colonies.
+Mais Trend possède un coupe file. Les Solar Wardners sont un corps d’élite qui possède une juridiction sur l’ensemble des colonies. Ils peuvent demander n’importe quelle donnée que peut posséder une corporation, réquisitionner n’importe quel matériel, engager temporairement n’importe quel colon, y compris des personnes de haut rang et remplacer un jugement par un autre. Leur rôle est assez simple : assurer la paix dans les colonies et fixer les limites éthiques de la société pour éviter notamment qu’un groupe ne puisse en asservir un autre. Les corporations ont désespérément besoin d’eux et leur avis est souvent consulté. C’est simple : ils sont devenus, par la force des choses, la jurisprudence éthique des colonies.
 
 Sa requête, associée à une signature de son certificat, lui a permis d’accéder au système d’information de la sécurité de Suan, dans les serveurs d’Ombrenade plus précisément. Donnant au système d’identification les éléments que Ney à récoltés, Trend obtient l’identité de la personne qui a amené Samuel au spatioport de Prettysand : Joshua Mazzy. Connu des forces de sécurité comme un contrebandier : plusieurs enquêtes indépendantes ont été stoppées suite à des interférences venant du haut de la hiérarchie. Monsieur Mazzy semble avoir son utilité aux yeux des corporations.
 
 Tiens, un rapport d’arrestation. Il s’est fait pincer hier par la sécurité en même temps qu’une équipe de mercenaire. Trafique d’arme, à Ombrenade, coïncidence ? L’homme est encore en détention : ce n’était pas une mission pour les corpos ce coup-ci. Il pourrait être intéressant d’aller y jeter un œil. Puisque le wardner à la main sur les fichiers de la sécurité, voyons les autres affaires en cours : enlèvement d’un enfant : des nevians sont recherchés, l’un des signalements… nomme directement Ney. Apparemment, il y a eu des dégâts là-haut. Voyons, des projectiles à faible densité avec une énergie cinétique estimée à plus de douze kilojoules. Avec une munition normale, l’engin utilisé relève de l’armement anti-véhicule. Un seul nom vient à l’esprit du wardner : Nevi. Les corps touchés ne devaient plus être beaux à voir.
 
-Utilisant ses prérogatives de solar wardner, l’enquêteur s’attribue l’enquête et efface les noms des nevians, impliquant un motif de sécurité. Vu les services rendus par ce petit groupuscule, qu’il s’agisse du sauvetage de l’enfant, de l’interception d’un missile tiré en pleine ville ou plus simplement des services rendus par Ney sur Terre, Trend estime que ces « actes de destruction » relèvent de dégâts collatéraux acceptables.
+Utilisant ses prérogatives de Solar Wardner, l’enquêteur s’attribue l’enquête et efface les noms des nevians, impliquant un motif de sécurité. Vu les services rendus par ce petit groupuscule, qu’il s’agisse du sauvetage de l’enfant, de l’interception d’un missile tiré en pleine ville ou plus simplement des services rendus par Ney sur Terre, Trend estime que ces « actes de destruction » relèvent de dégâts collatéraux acceptables.
 
 Profitant de l’accès illimité, mais temporaire, qui lui a été attribué, le fantôme effectue des recherches sur tous les éléments en relation avec les récentes attaques. Quelques rapports, sur les multiples attaques de Bishop démontrent à quel point les corporations sont aveugles, mais bruyante dans cette affaire. Sanaë semble faire beaucoup d’effort pour occuper l’attention, cela dessert les corporations, mais si l’ennemi perd son temps à essayer de l’atteindre, ça peut être un élément intéressant. Il est inquiétant de voir que seul Ney et Eve – Nightly, l’appeler Eve est avec du recul maladroit – semblent avoir une vision assez complète pour progresser. Le réseau Sentinelles est un allié dans cette affaire et il aura bien besoin de ces deux génies pour lire les informations qu’il leur transmet.
 
@@ -2222,7 +2222,7 @@ Tous s’équipent des appareils et s’engagent dans le tube de connexion. Feyn
 
 – C’est ma grande sœur, lui explique Idle.
 
-– Grande sœur. Vous pouvez-m’aider ? demande Akasha.
+– Grande sœur. Vous pouvez m’aider ? demande Akasha.
 
 – Oui et de plus d’une façon. Le vaisseau doit être révisé, mais vous n’avez pas besoin d’être à bord, expose la technophile.
 
@@ -2404,7 +2404,7 @@ De retour dans la salle d’attente, les agents de sécurité leur expliquent ce
 
 Trend demande à Ney, si elle peut accéder aux enregistrements de la surveillance. La position du cadavre lui paraît étrange et il aimerait vérifier quelques détails. Ney s’exécute, mais l’officier lui refuse cet accès, prétextant qu’elle ne dispose pas des autorisations nécessaires.
 
-La technophile tente un coup de bluff, expliquant qu’elle travaille pour un solar wardner, ce qui est corroboré par sa réquisition pour interroger Mazzy. Malheureusement, l’agent de la sécurité refuse, se tenant rigidement au règlement.
+La technophile tente un coup de bluff, expliquant qu’elle travaille pour un Solar Wardner, ce qui est corroboré par sa réquisition pour interroger Mazzy. Malheureusement, l’agent de la sécurité refuse, se tenant rigidement au règlement.
 
 Trend décide d’intervenir : « Ney, je crois que je vais devoir agir. Laisse-moi l’accès au canal de RA interne, je vais lui expliquer.
 
@@ -2414,9 +2414,9 @@ Trend décide d’intervenir : « Ney, je crois que je vais devoir agir. Laiss
 
 – Oui, pourquoi pas ? Voilà l’accès. », cède Ney.
 
-L’avatar de Trend apparaît sur le canal de réalité augmenté, surprenant l’agent. Sans lui laisser le temps de réagir, Trend lui ordonne : « Solar wardner ! Isolez cet établissement de SolNet immédiatement ! Voici mon accréditation.
+L’avatar de Trend apparaît sur le canal de réalité augmenté, surprenant l’agent. Sans lui laisser le temps de réagir, Trend lui ordonne : « Solar Wardner ! Isolez cet établissement de SolNet immédiatement ! Voici mon accréditation.
 
-– Bien, monsieur. », s’exécute l’homme en courant vers les services techniques. Trend profite de cet instant pour faire les présentations avec Feyn, lui aussi surpris : « Trend Murray, solar wardner et ami de Ney.
+– Bien, monsieur. », s’exécute l’homme en courant vers les services techniques. Trend profite de cet instant pour faire les présentations avec Feyn, lui aussi surpris : « Trend Murray, Solar Wardner et ami de Ney.
 
 – Feyn, commandant de l’Akasha, enchanté, se présente le raton laveur qui tente de serrer la main au fantôme par réflexe.
 
@@ -2450,7 +2450,7 @@ Ce dernier leur annonce : « L’isolement est en place, mais l’individu qui
 
 – Compris monsieur. », termine l’agent alors que l’avatar de Trend disparaît du canal de réalité augmentée. Le petit groupe fait quelques au revoir et sort de l’établissement.
 
-Dehors, Ney envoie les informations collectées aux autres Nevians. Nevi et Nightly devraient en effet pouvoir commencer les recherches. De leur côté la technophile et ses deux amis vont aller interroger un « petit appareil qui sert à renouveler l’air ».
+Dehors, Ney envoie les informations collectées aux autres nevians. Nevi et Nightly devraient en effet pouvoir commencer les recherches. De leur côté la technophile et ses deux amis vont aller interroger un « petit appareil qui sert à renouveler l’air ».
 
 Sur le chemin, Trend profite de son accès privilégié avec Ney pour lui poser les questions qui le démangent : « Je suppose que tu sais ce que cette clé hexa veut dire ?
 
@@ -2476,7 +2476,7 @@ Sur le chemin, Trend profite de son accès privilégié avec Ney pour lui poser 
 
 – Sans doute plus que toi, sans vouloir te blesser, riposte-t-elle sur un ton malgré tout gentil.
 
-– Je m’en doute. Tu as prévu des choses ? demante-t-il
+– Je m’en doute. Tu as prévu des choses ? demande-t-il
 
 – Oui : trouver le relais et voir à qui il envoie ses données. », termine Ney avec fermeté. La nevian ne tient vraiment pas à avoir une discussion sur le danger que représenterait Idle entre de mauvaises mains. Pour le moment, le wardner comprend et les facultés d’Idle pourraient continuer à se montrer très utile.
 
@@ -2682,7 +2682,7 @@ Initialement réservé sur le bien de cette opération, Phoenix semble désormai
 
 – Un brainscan est hors limite. C’est complètement illégal, conteste Phoenix.
 
-– Si vous le faisiez ? Oui, confirme-t-elle. Mais je suis solar wardner et je peux m’arroger ce droit. Je serais la seule à avoir accès à ces données, même Francklin n’y aura pas le droit.
+– Si vous le faisiez ? Oui, confirme-t-elle. Mais je suis Solar Wardner et je peux m’arroger ce droit. Je serais la seule à avoir accès à ces données, même Francklin n’y aura pas le droit.
 
 – Je suppose que je ne peux que me contenter de votre parole, indique-t-il dépité.
 
@@ -2790,7 +2790,7 @@ Les deux nevians s’asseyent contre la paroi, pour éviter de se retrouver sur 
 
 Le wardner apprécie enfin le véritable travail du médecin des nevians : comme Ney, ses doigts répondent avec une précision et une rapidité que même son enveloppe habituelle ne pourrait égaler. Ses gestes témoignent d’un savoir-faire exceptionnel, ou de logiciels à la pointe. Dans les deux cas, l’opération se déroule sans accros. Et finalement, il parvient à se connecter au module à travers un bracelet à induction et une dizaine de minutes plus tard, il annonce : « J’ai récupéré Zut. Il va bien et il me dit qu’il a eu le temps d’enregistrer quelques images de ce qu’il y a de l’autre côté. »
 
-Des peluches pour tenir compagnie à de jeunes enfants et prendre soin d’eux. Leur conception est complètement excessive, constate le wardner. Quelqu’un chez Elmtech a développé plus que de raison la prochaine étape de l’évolution des enveloppes et ces créatures ont des réflexes capables de rivaliser avec ceux des systèmes automatisés les plus optimisés.
+Des peluches pour tenir compagnie à de jeunes enfants et prendre soin d’eux. Leur conception est complètement excessive, constate le wardner. Quelqu’un chez Elmetech a développé plus que de raison la prochaine étape de l’évolution des enveloppes et ces créatures ont des réflexes capables de rivaliser avec ceux des systèmes automatisés les plus optimisés.
 
 Le nevian sort une petite console de son sac et Nevi l’aide à la démonter. À l’intérieur, une partie du système électronique a grillé et Nevi regarde Scrap avec un air voulant dire : « Tu peux le réparer, dit ? ». Mais le nevian secoue lentement la tête de gauche à droite.
 
@@ -2822,9 +2822,9 @@ En réponse, Ney se retourne et commence à se diriger vers le hangar. Elle y a 
 
 L’avertissement de Nodeus a déclenché une colère extrême chez Sanaë et Garreth qui se tient à côté d’elle la regarde manifestant de l’inquiétude à travers une mimique mécanique.
 
-« Nodeus : cible la canonnière et met moi en relation avec Liandri. Charge les railguns : je ne vais pas les laisser bombarder cette installation et effacer leurs traces. »
+« Nodeus : cible la canonnière et met moi en relation avec Liandri. Charge les canons électriques : je ne vais pas les laisser bombarder cette installation et effacer leurs traces. »
 
-Les images radars indiquent que deux appareils se sont posés près de l’installation. À proximité pour l’un et directement sur une piste atterrissage pour l’autre. Les deux vaisseaux avaient été empruntés avec des certificats de wardner : Tsadir pour la navette et… Trend pour l’ADAV. Suan va simplement bombarder des agents travaillant pour eux et la solar wardner ne le tolère simplement pas.
+Les images radars indiquent que deux appareils se sont posés près de l’installation. À proximité pour l’un et directement sur une piste atterrissage pour l’autre. Les deux vaisseaux avaient été empruntés avec des certificats de wardner : Tsadir pour la navette et… Trend pour l’ADAV. Suan va simplement bombarder des agents travaillant pour eux et la Solar Wardner ne le tolère simplement pas.
 
 « Communication établie, indique Nodeus.
 
@@ -2840,13 +2840,13 @@ Les images radars indiquent que deux appareils se sont posés près de l’insta
 
 – Si elle tente d’ouvrir le feu, il y en aura, vous pouvez en être sûr, confirme la wardner.
 
-– Attendez, notre observatoire nous indique que vous avez mis en charge vos railguns ? panique l’homme.
+– Attendez, notre observatoire nous indique que vous avez mis en charge vos canons électriques ? panique l’homme.
 
 – Oh oui, se délecte la femme furieuse. Si nous notons la même chose sur la canonnière vous noterez aussi une décharge de ces systèmes.
 
 – Vous cherchez à déclencher une guerre ? menace l’homme.
 
-– Je cherche à protéger des agents aux services des solar wardners qui enquêtent sur une saloperie que je vous avais ordonné de démanteler entièrement ! hurle la wardner. Si vous tentez de faire le ménage par-dessus nos hommes, je ferais ce qui est nécessaire pour faire disparaître les responsables et tous leurs complices. Si vous voulez jouer au jeu des menaces, n’oubliez pas qui nous donne notre pouvoir !
+– Je cherche à protéger des agents aux services des Solar Wardners qui enquêtent sur une saloperie que je vous avais ordonné de démanteler entièrement ! hurle la wardner. Si vous tentez de faire le ménage par-dessus nos hommes, je ferais ce qui est nécessaire pour faire disparaître les responsables et tous leurs complices. Si vous voulez jouer au jeu des menaces, n’oubliez pas qui nous donne notre pouvoir !
 
 – Cette communication est terminée. », coupe le responsable des forces de sécurité de Suan.
 
@@ -2874,9 +2874,9 @@ Dans la salle de commandement, les systèmes de verrouillage désignent maintena
 
 – Ce n’est pas fini Gareth, répond-elle avec un écho de sa précédente fureur. Nodeus, prépare-nous un vecteur d’approche. Gareth, Francklin, Cyntia, Amy : équipez-vous. Vous mènerez l’assaut au sol. »
 
-Meteora. Ce nom a toujours fait sourire, mais il s’agit de l’un des rares vaisseaux capable à la fois d’effectuer de l’interplanétaire et de se poser sur des planètes et lunes. Une merveille de l’ingénierie militaire d’Aesir qui l’avait conçu pour se doter d’une arme capable d’attaquer la Terre. Sanaë l’avait récupéré avant qu’une bande de tarés ne commence à s’en servir.
+Meteora. Ce nom a toujours fait sourire, mais il s’agit de l’un des rares vaisseaux capables à la fois d’effectuer de l’interplanétaire et de se poser sur des planètes et lunes. Une merveille de l’ingénierie militaire d’Aesir qui l’avait conçu pour se doter d’une arme capable d’attaquer la Terre. Sanaë l’avait récupéré avant qu’une bande de tarés ne commence à s’en servir.
 
-Une légère accélération signale le début des manœuvres de désorbitation. Le météore va bientôt tomber sur la tête de leurs adversaires, et ses railguns sont déjà chargés.
+Une légère accélération signale le début des manœuvres de désorbitation. Le météore va bientôt tomber sur la tête de leurs adversaires, et ses canons électriques sont déjà chargés.
 
 ## 63 – Nevi : La nevian et l’ouvre-boîte
 
@@ -2918,7 +2918,7 @@ Greenstar, par la force de son propre implant, soulève l’un des corps robotiq
 
 – Ça va bien se passer ! », coupe Nevi.
 
-Ney termine de reconnecter le morceau du câble tandis que Greenstar abat six autres robots. Nevi, le canon à l’épaule donne une impression de démesure et de démence : l’arme doit faire deux ou trois fois sa taille. Greenstar abat deux autre androïdes, profitant de son implant pour rapatrier quelques chargeurs ennemis vers elle.
+Ney termine de reconnecter le morceau du câble tandis que Greenstar abat six autres robots. Nevi, le canon à l’épaule donne une impression de démesure et de démence : l’arme doit faire deux ou trois fois sa taille. Greenstar abat deux autres androïdes, profitant de son implant pour rapatrier quelques chargeurs ennemis vers elle.
 
 Ney se met en position et déploie ses foglets qui passent devant l’ouverture comme un rideau transparent. De l’autre côté, il imite le hangar et si, lors du déploiement, le robot lourd a ouvert une fois le feu, les quelques déchirures se sont refermées, offrant une véritable cape d’invisibilité à Nevi qui se place devant l’ouverture non sans une petite appréhension. Le rideau holographique reproduit parfaitement ce qui se trouve de l’autre côté et elle commence à pointer le scarabée, choisissant l’endroit qui aura le meilleur impact une fois touché.
 
@@ -2930,7 +2930,7 @@ Soudain toute l’installation se retrouve plongée dans le noir. Rapidement, le
 
 Nevi remise sur pied, bien que Scrap conteste ce fait, l’équipe s’avance dans le couloir. Au fil de la progression, la guerrière constate que plusieurs androïdes ont tenté de s’engouffrer dans le couloir au moment du tir. Même les restes de Zut n’existent plus que sous forme de cendres.
 
-## 64 – Idle : Une partie de mastermind
+## 64 – Idle : Une partie de Mastermind
 
 Les deux heures s’étaient écoulées et Feyn est en train d’appeler les renforts. Idle ne peut se résoudre à abandonner ses amis dans cette base. Discrètement, elle quitte son siège et se dirige vers la salle où Ney avait préparé les combinaisons. Il y en avait une pour elle, au cas où les choses iraient mal et qu’il faudrait quitter la navette. Immédiatement Akasha lui demande ce qu’elle fait. Idle ne lui répond pas et enfile l’épaisse armure extravéhiculaire. Akasha, reliée au vaisseau, est certainement allée prévenir Feyn, mais Idle a pris assez d’avance en se préparant dans le sas.
 
@@ -2980,7 +2980,7 @@ L’IA commence à prononcer une syllabe mais s’arrête en plein milieux. Le n
 
 – Crémoche était si loin. Il n’a rien compris… Mais il est mort. Disparu. Je l’ai effacé. Comme je le ferais à tous ceux qui nous font du mal, continue la peluche blanche sur un ton monotone. Je peux la sauver, mais son corps est trop cassé. Comme moi, elle est brisée. Mais comme moi, elle renaîtra. Je vais leur laisser un message. Ils comprendront peut-être. 17 3 1 59 9 1 23 5 10 11 1 26 39 8 1 65 10 7 1 17 10 6 1 21 49 4 25 52 11 7 38 20 6 30 7 8 40 1 43 », termine Idle avant de s’effondrer.
 
-Immédiatement Ney s’interface avec elle et déploie ses propres glaces autour d’Idle. Elle coupe, immédiatement le réseau de la petite en laissant pour seul accès, le réseau privé qu’elle vient d’établir. Là, la technophile commence à circonscrire le virus qui a attaqué le noyau central de la petite peluche. Une fois les sections compromises mises en quarantaines et le processus malicieux tué, Ney comment à restaurer le noyau wolfa à partir de sa propre copie.
+Immédiatement Ney s’interface avec elle et déploie ses propres glaces autour d’Idle. Elle coupe, immédiatement le réseau de la petite en laissant pour seul accès, le réseau privé qu’elle vient d’établir. Là, la technophile commence à circonscrire le virus qui a attaqué le noyau central de la petite peluche. Une fois les sections compromises mises en quarantaines et le processus malicieux tué, Ney comment à restaurer le noyau Wolfa à partir de sa propre copie.
 
 Nevi observe la scène avec effroi, comme paralysée. Trend se tient à côté d’elle et lui dit pour la réconforter : « Si quelqu’un peut faire quelque chose, c’est sans doute Ney. ». Et il a bien raison, car Ney sait que le module de sauvegarde n’a pas été touché et que le virus s’est attaqué en premier au noyau, la seule partie impersonnelle de leurs IA. Il lui faudra encore quelques minutes, mais elle pourra ramener sa petite sœur.
 
@@ -3034,7 +3034,7 @@ Le raton laveur pousse un soupir de soulagement. Mais d’autre sons sourds se f
 
 – Il y a un problème, indique Nodeus. Un ADAV militaire vient de bombarder la navette.
 
-– Merde ! État des railguns ? demande la commandante.
+– Merde ! État des canons électriques ? demande la commandante.
 
 – Toujours chargés, indique l’IA.
 
@@ -3046,19 +3046,19 @@ Le tir secoue le vaisseau : durant une fraction de seconde, tout le vaisseau su
 
 « Atterrissage en cours, accrochez-vous ! », indique l’IA. Le vaisseau est violemment secoué alors que ses énormes trains d’atterrissage heurtent le sol. L’imagerie de proximité montre que l’équipe d’assaut s’est éjecté et les quatre commandos, accompagnés d’une vingtaine de dogbots, s’avancent vers l’installation à grand pas.
 
-« Nodeus, oriente les railguns. On va garder le ciel dégagé. »
+« Nodeus, oriente les canons électriques. On va garder le ciel dégagé. »
 
 ## 68 – Feyn : Par moins cent-quatre-vingt
 
 La peur avait commencé à le saisir mais Idle vint le réconforter dès les premiers signes. Autour de lui, les nevians commencent à retaper des combinaisons spatiales pour Scrap, Nevi et Nightly. L’enceinte de l’installation avait été compromise par un robot de sécurité qui avait transformé la porte principale du hangar à véhicule en râpe à fromage géante. Par-dessus ça, les nevians avaient été un peu excessifs pour se débarrasser dudit robot et le faisceau de l’arme ne s’était pas vraiment arrêté dans l’installation…
 
-Ney leur annonce que le réseau est à nouveau sûr. Et elle a une bonne nouvelle des renforts sont arrivés : l’équipe de Sanaë converge vers eux. Cara et Lift sont en train de gagner le vaisseau de la wardner et tous les membres de  l’équipe de Ney sont invités à faire de même, dès qu’ils le pourront.
+Ney leur annonce que le réseau est à nouveau sûr. Et elle a une bonne nouvelle des renforts sont arrivés : l’équipe de Sanaë converge vers eux. Cara et Lift sont en train de gagner le vaisseau de la wardner et tous les membres de l’équipe de Ney sont invités à faire de même, dès qu’ils le pourront.
 
 Quelques minutes plus tard quatre soldats en armure lourde débarquent le poing levé pour indiquer qu’ils n’ont pas envie de se faire tirer dessus. Derrière eux une vingtaine de robot ressemblant à des chiens métalliques d’un bon mètre au garrot, envahissent la salle et partent dans les coursives attenantes. S’il reste une présence hostile, elle ferait sans doute bien de se cacher.
 
 Une voix féminine provenant de l’intérieur d’une des armures lourdes leur explique : « Bonjour, je m’appelle Cyntia. On fait partie de l’équipe de Sanaë. Dès que vous serez prêts, on vous escorte au Meteora. Vous y serez en sécurité. Nodeus est en train de récupérer ce qu’il peut dans les serveurs alors vous en faites pas : les idiots qui sont responsables de tout ça vont mal finir. »
 
-Quelques minutes plus tard, l’équipe de Ney a terminé la dernière armure. Feyn aide les nevians à en habiller l’enfant, puis étant l’un des seuls non armé, il la porte dans ses bras. Le groupe s’éloigne ensuite vers l’entrée, retraversant les couloirs parsemés d’une bonne centaine de robots androïdes. Plus jamais Feyn ne regardera les nevians de la même façon.
+Quelques minutes plus tard, l’équipe de Ney a terminé la dernière armure. Feyn aide les nevians à en habiller l’enfant, puis étant l’un des seuls non armés, il la porte dans ses bras. Le groupe s’éloigne ensuite vers l’entrée, retraversant les couloirs parsemés d’une bonne centaine de robots androïdes. Plus jamais Feyn ne regardera les nevians de la même façon.
 
 Le Meteora est positionné à plus de sept-cent mètres de l’entrée. Il repose sur six gigantesques trains d’atterrissage, les tuyères orientées vers le bas, comme une fusée, ce qui est en fait plutôt juste. Les dissipateurs thermiques des canons de l’engin rayonnent d’un léger rouge sombre.
 
@@ -3078,7 +3078,7 @@ Heureusement, ils sont tous entre de bonnes mains désormais. Feyn se laisse all
 
 La poussée des moteurs fait trembler tout le vaisseau. Elle pourrait presque entendre le sable et les galets projetés par le souffle des réacteurs. Mais son attention est portée sur les appareils en approche : deux indiquent clairement leur appartenance et semblent poursuivre les cinq autres. Évidemment toute la formation semble converger vers eux.
 
-Grâce à la très froide et très dense atmosphère, les railguns ont eu le temps de refroidir. Dans une vingtaine de secondes ils seront chargés, il ne leur manquera plus que des cibles. La puissance de ces armes est telle que les projectiles, même tirés depuis là, continueront leur chemin vers l’espace interstellaire sans s’être véritablement aperçu qu’ils ont traversé des vaisseaux au passage.
+Grâce à la très froide et très dense atmosphère, les canons électriques ont eu le temps de refroidir. Dans une vingtaine de secondes ils seront chargés, il ne leur manquera plus que des cibles. La puissance de ces armes est telle que les projectiles, même tirés depuis là, continueront leur chemin vers l’espace interstellaire sans s’être véritablement aperçu qu’ils ont traversé des vaisseaux au passage.
 
 La poussée commence à s’accentuer : bientôt deux G, et on pourra parler. La wardner surveille ses écrans tandis que Nodeus commence à marquer les cibles. Une communication depuis l’orbite leur indique le modèle des appareils et donne le feu vert pour les abattre. La signature : Liandri lui-même. Quelqu’un l’a visiblement « fait chier ».
 
@@ -3090,7 +3090,7 @@ Les appareils en approche larguent leurs torpilles. Visiblement dépassées, ell
 
 – Compris. », notifie l’IA qui ouvre le feu.
 
-Une nouvelle fois, les tirs des quatre railguns du vaisseau le décalent avec violence secouant les passagers. Sur son écran Sanaë constate que trois des poursuivants n’iront pas plus loin. Derrière, les vaisseaux de Liandri ont gagné beaucoup de terrain.
+Une nouvelle fois, les tirs des quatre canons électriques du vaisseau le décalent avec violence secouant les passagers. Sur son écran Sanaë constate que trois des poursuivants n’iront pas plus loin. Derrière, les vaisseaux de Liandri ont gagné beaucoup de terrain.
 
 « Dommage, j’en ai raté un et je n’avais que quatre tirs possibles sur cinq, déplore Nodeus.
 
@@ -3178,7 +3178,7 @@ Un message lui parvient : une demande de communication de la part de Liandri. E
 
 – Même Aesir… », réalise Liandri.
 
-Même ces nouveaux dieux cachés dans les ombres, pense-t-elle. Nora n’est pas la présidente de la corporation pour rien et si les rapports ne mentionnent jamais concrètement les entités qui se sont affrontées, elle les aperçoit entre les lignes. Crémoche, capable de mettre en déroute les plus puissantes IA d’analyses de sa corporation, défaite par un allié que les solar wardners ne mentionnent même pas dans leurs rapports.
+Même ces nouveaux dieux cachés dans les ombres, pense-t-elle. Nora n’est pas la présidente de la corporation pour rien et si les rapports ne mentionnent jamais concrètement les entités qui se sont affrontées, elle les aperçoit entre les lignes. Crémoche, capable de mettre en déroute les plus puissantes IA d’analyses de sa corporation, défaite par un allié que les Solar Wardners ne mentionnent même pas dans leurs rapports.
 
 Même les dieux redoutent la guerre.
 
@@ -3218,7 +3218,7 @@ Un message simple : « Paix ». Pour Idle, il est d’une incongruité compl�
 
 « Alors ? Rien de grave, j’espère ? demande Feyn.
 
-– Non, rien de grave du tout, résume la nevian. Tu me passes le multitool ? Je dois dégager une entretoise qui gêne. Elle a quel âge cette sonde déjà ?
+– Non, rien de grave du tout, résume la nevian. Tu me passes le multi-tool ? Je dois dégager une entretoise qui gêne. Elle a quel âge cette sonde déjà ?
 
 – Elle a été lancée il y a cinquante-trois ans, explique Feyn.
 
