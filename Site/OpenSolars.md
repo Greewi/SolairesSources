@@ -41,4 +41,4 @@ Au niveau des textes, il manque encore d'innombrables relectures sur la plupart 
 
 Enfin, si vous écrivez des scénarios ou concevez des équipes de personnages, n'hésitez pas à nous les partager : nous les mettrons volontiers en ligne sur le site.
 
-Terminons sur un point très clair : en aucun cas vous nous cédez quoi que ce soit. Par ailleurs toute contribution sera créditée (les relecteurs seront cités dans les sections appropriées, les auteurs de personnages et de scénario associés à leurs œuvres, etc.). Si vraiment vous ne souhaitez pas voir votre nom figurer sur le site ou dans les ouvrages de Solaires, donnez-nous un pseudonyme ou un surnom.
+Terminons sur un point très clair : en aucun cas vous nous cédez quoi que ce soit. Par ailleurs toute contribution sera créditée (les relecteurs seront cités dans les sections appropriées, les auteurs de personnages et de scénarios associés à leurs œuvres, etc.). Si vraiment vous ne souhaitez pas voir votre nom figurer sur le site ou dans les ouvrages de Solaires, donnez-nous un pseudonyme ou un surnom.

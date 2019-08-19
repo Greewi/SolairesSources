@@ -6,13 +6,13 @@
 
 ## Qui peut contribuer ?
 
-Tout le monde peut contribuer. Que ce soit pour proposer de nouvelles choses, effectuer des corrections ou encore d'autres choses auquelles je n'ai pas pensé.
+Tout le monde peut contribuer. Que ce soit pour proposer de nouvelles choses, effectuer des corrections ou encore d'autres choses auxquelles je n'ai pas pensé.
 
 Évidemment, je (Greewi) reste le gardien du temple et je peux donc refuser certaines modifications, mais vous aurez toujours un retour vous expliquant pourquoi.
 
 ## Code de conduite
 
-Vous êtes grands (enfin je suppose) et j'attends un minimum de cordialité et de respect de chacun envers chacun. J'apprécierais ne pas avoir à gérer de conflits ou autres tempête de caca (j'allais dire un gros mot mais Idle m'a arrêté à temps). Les contrevenants devront voir avec Nevi et son tout dernier joujou made in nevian.
+Vous êtes grands (enfin je suppose) et j'attends un minimum de cordialité et de respect de chacun envers chacun. J'apprécierais ne pas avoir à gérer de conflits ou autres tempêtes de caca (j'allais dire un gros mot mais Idle m'a arrêté à temps). Les contrevenants devront voir avec Nevi et son tout dernier joujou made in nevian.
 
 ## Que puis-je-faire pour contribuer ?
 
@@ -34,7 +34,7 @@ Si vous souhaitez proposer du nouveau contenu, ouvrez une « Issue » avant de
 
 ## Format des textes et conventions
 
-Tous les textes de ce dépôts sont au format Markdown. Toutefois, nous avons choisis quelques conventions propres pour ce projet. Voici les principales règles.
+Tous les textes de ce dépôt sont au format Markdown. Toutefois, nous avons choisis quelques conventions propres pour ce projet. Voici les principales règles.
 
 Concernant les textes :
 * `**texte**` est utilisé pour les emphases (et non pour dire gras !) ;
@@ -54,7 +54,7 @@ Concernant les tableaux :
 Concernant les encarts :
 * Les encarts sont définis par des sections dont toutes les lignes commencent par `>> ` ;
 * Les éventuels titres des encarts doivent être de niveau 3 (`###`) ;
-* Vous pouvez utiliser les formats markdown habituels dans les encarts, mais pas de HTML (et donc pas de tableaux).
+* Vous pouvez utiliser les formats Markdown habituels dans les encarts, mais pas de HTML (et donc pas de tableaux).
 
 Dans le doute, inspirez-vous de la syntaxe des articles existants.
 
@@ -62,6 +62,6 @@ Dans le doute, inspirez-vous de la syntaxe des articles existants.
 
 C'est très simple : je refuse catégoriquement de ne pas créditer un contributeur.
 
-Aussi, lorsque vous me transmettez une pull request, indiquez-moi sous quel nom vous souhaitez être crédités. Si vous ne le faites pas, je prendrais votre pseudonyme GitHub. Les crédits sont présents dans le README du projet et dans l'article Crédit de l'encyclopédie.
+Aussi, lorsque vous me transmettez une pull request, indiquez-moi sous quel nom vous souhaitez être crédités. Si vous ne le faites pas, je prendrais votre pseudonyme GitHub. Les crédits sont présents dans le README du projet et dans l'article Crédits de l'encyclopédie.
 
 Si je vous ai oublié, contactez-moi, ce n'est certainement pas volontaire.

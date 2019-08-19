@@ -4,13 +4,13 @@
 
 Réfugiée dans les bras de son nevian, la petite fille tremble de terreur. Elle sent le sol vibrer à chaque impact sur la porte comme si elle était prise d’assaut par un monstre terrifiant. Et les hurlements de rage de son père, presque inhumains, renforcent cette terrible impression.
 
-Il était devenu plus méchant, chaque jour un peu plus. Neige avait essayé de lui épargner tout ça, en la divertissant, mais elle avait vu ces cachets que prenait Franck. Dans un premier temps ça le faisait dormir et il avait même l’air heureux, mais quand il se réveillait, il avait ce regard monstrueux.
+Il était devenu plus méchant, chaque jour un peu plus. Neige avait essayé de lui épargner tout ça, en la divertissant, mais elle avait vu ces cachets que prenait Franck. Dans un premier temps, ça le faisait dormir et il avait même l’air heureux, mais quand il se réveillait, il avait ce regard monstrueux.
 
-Un autre coup fait sursauter l’enfant, sa peluche l’enlace pour essayer de la réconforter. Les coups sont plus secs et ont un étrange bruit métallique : de toutes évidences, il n’y va plus à main nues.
+Un autre coup fait sursauter l’enfant, sa peluche l’enlace pour essayer de la réconforter. Les coups sont plus secs et ont un étrange bruit métallique : de toute évidence, il n’y va plus à main nues.
 
 Dire que sa mère est quelque part dans une autre pièce, branchée à de nombreux câbles, la conscience qui vogue dans des histoires qui n’ont plus rien de réel. L’enfant espère qu’elle se réveillera bientôt pour le calmer.
 
-Mais Neige sait que ce ne sera pas le cas : s’ils sont tout deux retranchés dans cette chambre, c’est parce qu’il l’a vu penché au-dessus de Sabrina, les mains pleines de sang et de morceaux de verre.
+Mais Neige sait que ce ne sera pas le cas : s’ils sont tous deux retranchés dans cette chambre, c’est parce qu’il l’a vu penché au-dessus de Sabrina, les mains pleines de sang et de morceaux de verre.
 
 Un ultime coup et la porte s’enfonce de plusieurs centimètres avant céder, il a la rage dans les yeux et le pied central de la table du salon dans les mains.
 
