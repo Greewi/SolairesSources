@@ -50,6 +50,7 @@ Les enveloppes provoluées sont les moins courantes de toutes et ne comptent que
 Résumé :
 * **Substrat** : Organique ;
 * **Modèles** : Descendant de chimpanzé, Descendant de pieuvre, Descendant d'humain, etc. ;
+* **Disponible depuis** : 2084 (Moonie) ;
 * **Intelligences compatibles** : Intelligences naturelles et Intelligences provoluées.
 
 >> Comme pour les enveloppes biologiques, nous déconseillons d'utiliser un provolué comme personnage. Notez d'ailleurs que les provolués ne sont pas des animaux anthropomorphes. Rassurez-vous pour créer ces derniers, les chimères et, dans une moindre mesure, les hyper-hybrides seront bien plus adaptés. Les chimères sont même pratiquement faites pour.
@@ -67,6 +68,7 @@ Malgré ces avantages, peu de solaires se tournent vers cette option. Les perfor
 Résumé :
 * **Substrat** : Organique ;
 * **Modèles** : Humain bio-modifié, Provolué bio-modifié. ;
+* **Disponible depuis** : 2050 ;
 * **Intelligences compatibles** : Intelligences naturelles et Intelligences provoluées.
 
 ## Réplicants
@@ -80,6 +82,7 @@ Toutefois, ils n'hésitent pas à y adjoindre leur collection d'implants par la 
 Résumé :
 * **Substrat** : Organique ;
 * **Modèles** : Réplicant d'humain, Psion, etc. ;
+* **Disponible depuis** : 2075 ;
 * **Intelligences compatibles** : Intelligences naturelles, Intelligences provoluées et IA de Ley-Wan.
 
 ## Chimères
@@ -93,6 +96,7 @@ Comme les réplicants, les capacités des chimères peuvent bénéficier des mei
 Résumé :
 * **Substrat** : Organique ;
 * **Modèles** : Furry, Psion, etc. ;
+* **Disponible depuis** : 2082 ;
 * **Intelligences compatibles** : Intelligences naturelles, Intelligences provoluées et IA de Ley-Wan.
 
 ## Cyborgs
@@ -106,6 +110,7 @@ La population cyborg représente une très écrasante majorité des solaires, h�
 Résumé :
 * **Substrats** : Organique et Cybernétique ;
 * **Modèles** : Humains cyborgs, Provolués Cyborgs, Réplicants Cyborgs, Chimères Cyborgs, etc. ;
+* **Disponible depuis** : 2035 ;
 * **Intelligences compatibles** : Intelligences naturelles, Intelligences provoluées, Intelligences supervisées, IA Synchro, IA Wolfa et IA de Ley-Wan.
 
 ## Cybernétique
@@ -123,6 +128,7 @@ Il n'existe pas d'autre catégorie possédant une aussi grande diversité en ter
 Résumé :
 * **Substrat** : Cybernétique ;
 * **Modèles** : Syntha (ressemble à un humain), Androïde, Spiderbot (robot de veille et de maintenance), Monkeybot (robot de maintenance), Dogbot (robot d'assaut), etc. ;
+* **Disponible depuis** : 2061 ;
 * **Intelligences compatibles** : Intelligences naturelles, Intelligences provoluées, Intelligences supervisées, IA Synchro, IA Wolfa et IA de Ley-Wan.
 
 ## Hyper-hybride
@@ -142,6 +148,7 @@ Curieusement, les premiers, et la majorité en fait, des hyper-hybrides ont repr
 Résumé :
 * **Substrat** : Hyper-hybride ;
 * **Modèles** : Androïde hyper-hybride, Furry, etc. ;
+* **Disponible depuis** : 2090 ;
 * **Intelligences compatibles** : Intelligences naturelles, Intelligences provoluées, Intelligences supervisées, IA Synchro, IA Wolfa et IA de Ley Wan.
 
 ## Infomorphe

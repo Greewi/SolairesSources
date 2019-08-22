@@ -40,15 +40,9 @@ Les intelligences humaines non modifiées restent nombreuses, mais la plupart de
 
 Aujourd'hui, les humains non modifiés sont devenus bien plus rares dans les sphères dirigeantes et tactiques du fait de leur désavantage vis-à-vis de ceux qui ont fait leur métamorphose. Ils ne sont toutefois pas considérés par les autorités comme des sous-citoyens et sont protégés de la discrimination comme le reste des solaires.
 
-<table>
-    <tr><th colspan="2">Compatibilité des intelligences naturelles</th></tr>
-    <tr><th>Biologique, provolué</th><td>Compatible</td></tr>
-    <tr><th>Bio-modifié, Réplicant, Chimère</th><td>Compatible</td></tr>
-    <tr><th>Cyborg</th><td>Compatible</td></tr>
-    <tr><th>Cybernétique</th><td>Compatible via émulation</td></tr>
-    <tr><th>Hyper-hybride</th><td>Compatible via émulation</td></tr>
-    <tr><th>Informophe</th><td>Incompatible</td></tr>
-</table>
+Résumé :
+* **Origine** : Naturelle ou simulée ;
+* **Enveloppes compatibles** : Biologiques, Provoluées, Bio-modifiées, Réplicantes, Chimères, Cyborg, Cybernétique (via émulation), Hyper-hybride (via émulation).
 
 >> Bien que jouer un humain puisse sembler être le choix par défaut, nous vous encourageons à examiner aussi les autres possibilités, notamment les *Intelligences supervisées* et les *Intelligences artificielles* qui ne sont pas nécessairement beaucoup plus difficiles à jouer tout en apportant un peu plus d'exotisme.
 
@@ -66,15 +60,10 @@ Intellectuellement, la plupart des provolués possèdent une intelligence et des
 
 Les intelligences provoluées sont compatibles avec les enveloppes provoluées, bio-modifiées, cyborgs, réplicantes et chimères. Il est aussi possible de les émuler sur un support cybernétique ou hyper-hybride.
 
-<table>
-    <tr><th colspan="2">Compatibilité des intelligences provoluées</th></tr>
-    <tr><th>Biologique, provolué</th><td>Compatible</td></tr>
-    <tr><th>Bio-modifié, Réplicant, Chimère</th><td>Compatible</td></tr>
-    <tr><th>Cyborg</th><td>Compatible</td></tr>
-    <tr><th>Cybernétique</th><td>Compatible via émulation</td></tr>
-    <tr><th>Hyper-hybride</th><td>Compatible via émulation</td></tr>
-    <tr><th>Informophe</th><td>Incompatible</td></tr>
-</table>
+Résumé :
+* **Origine** : Naturelle ou simulée ;
+* **Disponible depuis** : 2084 ;
+* **Enveloppes compatibles** : Biologiques, Provoluées, Bio-modifiées, Réplicantes, Chimères, Cyborg, Cybernétique (via émulation), Hyper-hybride (via émulation).
 
 >> Jouer un provolué peut être intéressant sur le principe, mais demande des joueurs expérimentés si vous voulez en exploiter toute la subtilité. L'expérience montre que nombre des joueurs s'intéressant initialement aux provolués souhaitent plutôt s'orienter vers des chimères avec des intelligences artificielles ou humaines et dérivées.
 
@@ -88,15 +77,10 @@ Concrètement, l'IA est capable de recentrer l'attention de son sujet, d'effacer
 
 La supervision continue, et continuera encore longtemps, à être le sujet de polémiques et de débats éthiques. Si la plupart des supervisés préfèrent conserver cet outil, certaines personnes choisissent de désinstaller définitivement leur IA de supervision. Malheureusement, au fil du temps, cette opération devient de plus en plus difficile car l'esprit s'habitue à ce fonctionnement symbiotique.
 
-<table>
-    <tr><th colspan="2">Compatibilité des intelligences supervisées</th></tr>
-    <tr><th>Biologique, provolué</th><td>Incompatible</td></tr>
-    <tr><th>Bio-modifié, Réplicant, Chimère</th><td>Incompatible</td></tr>
-    <tr><th>Cyborg</th><td>Compatible</td></tr>
-    <tr><th>Cybernétique</th><td>Compatible via émulation</td></tr>
-    <tr><th>Hyper-hybride</th><td>Compatible via émulation</td></tr>
-    <tr><th>Informophe</th><td>Incompatible</td></tr>
-</table>
+Résumé :
+* **Origine** : Naturelle ou simulée ;
+* **Disponible depuis** : 2083 ;
+* **Enveloppes compatibles** : Cyborg, Cybernétique (via émulation), Hyper-hybride (via émulation).
 
 >> Jouer un personnage supervisé n'est pas fondamentalement différente de jouer un humain dans la plupart des situations. Voyez la supervision comme l'augmentation de l'esprit humain de la même manière que les cyborgs sont une augmentation du corps humain. Un joueur, même débutant, n'aura pas de problème pour jouer un personnage disposant de ce type d'esprit.
 
@@ -110,15 +94,10 @@ Initialement, le phénomène d'embodiment est particulièrement fort et le sujet
 
 Les éthérés sont très peu nombreux et ne dépassent que les provolués en nombre. Le caractère pratiquement irréversible de l'informorphisation est sans doute le facteur le plus décisif.
 
-<table>
-    <tr><th colspan="2">Compatibilité des intelligences infomorphisées</th></tr>
-    <tr><td>Biologique, provolué</td><td>Incompatible</td></tr>
-    <tr><td>Bio-modifié, Réplicant, Chimère</td><td>Incompatible</td></tr>
-    <tr><td>Cyborg</td><td>Incompatible</td></tr>
-    <tr><td>Cybernétique</td><td>Compatible</td></tr>
-    <tr><td>Hyper-hybride</td><td>Compatible</td></tr>
-    <tr><td>Informophe</td><td>Compatible</td></tr>
-</table>
+Résumé :
+* **Origine** : Naturelle ou simulée ;
+* **Disponible depuis** : 2081 ;
+* **Enveloppes compatibles** : Infomorphe.
 
 >> Jouer un éthéré, ou tout autre être infomorphe, est un exercice particulier dans le sens ou le personnage interagit indirectement avec le monde. Les éthérés se spécialise généralement dans le domaine de l'information et de l'informatique, reléguant le monde physique au second plan. Nous ne les conseillons qu'aux joueurs expérimentés.
 
@@ -148,29 +127,24 @@ Il existe de nombreux modèles d'IA et concernant les IA sentientes, il en exist
 
 Historiquement, la première famille d'intelligence artificielle générale sont le type Synchro. Synchro est la première intelligence artificielle générale de l'histoire de l'humanité. Hiartech, la société qui l'a créé s'en est servir pour sa gestion ce qui lui a, semble-t-il, donné un avantage significatif. Synchro n'était pas sentient et la première IA sentiente est Leena, qui aura joué, malgré elle, un rôle important dans l'initialisation du conflit entre Mars et l'ONU. Les intelligences artificielles Synchro sont encore massivement utilisées dans les colonies car elles possèdent les meilleures capacités de prévision et de structuration. Par ailleurs, leur stabilité est telle qu'a moins de les concevoir dans ce but, elles ne dérivent pas vers la sentience. Les IA Synchro sentientes, sont parfois décrites comme distantes et froides, mais c'est un constat généralement faux.
 
+IA de type Synchro :
+* **Origine** : Artificielle ;
+* **Disponible depuis** : 2060 (pour la version sentiente) ;
+* **Enveloppes compatibles** : Cybernétique, Hyper-hybride, Infomorphe.
+
 La seconde famille d'intelligence artificielle générale, les IA Wolfa, a été mis au point par l'ingénieur Frédéric Wolfa et son équipe. Travaillant sur un nouveau noyau d'IA générale, dédié à la recherche, ils sont parvenus à concevoir une intelligence artificielle d'un nouveau type. Involontairement quasi-sentiente, l'IA accède à la sentience quelques mois plus tard et choisi le nom de son créateur Wolfa. Ses premiers travaux aboutissent six ans plus tard en unifiant la mécanique quantique et la relativité générale. Depuis, le nom Wolfa est désormais plus fortement attribué à l'IA qu'a son créateur qui n'en a pas souffert pour autant. Comme l'histoire l'a démontré plus d'une fois, les IA Wolfa sont extrêmement douées pour l'innovation, la recherche, l'exploration et la construction de modèles et systèmes de lois. Pour exploiter au mieux ces capacités, il est toutefois généralement nécessaire de s'approcher de la quasi-sentience or ce modèle a déjà démontré de nombreuses fois qu'en l'absence de maintenance, elle dérivait alors naturellement vers la sentience avec tout ce que ça implique. Curieusement, les IA Wolfa sentientes se montrent souvent très empathiques, optimistes et parfois mêmes "plus humaines que les humains" en termes de sentiments affichés. Elles font aussi souvent preuve d'une forme de curiosité passionnée.
+
+IA de type Wolfa :
+* **Origine** : Artificielle ;
+* **Disponible depuis** : 2070 ;
+* **Enveloppes compatibles** : Cybernétique, Hyper-hybride, Infomorphe.
 
 La dernière famille découverte, les IA de Ley-Wan, est le résultat des recherches sur le couplage de l'intelligence artificielle et des contraintes des réseaux de neurones biologiques. Le créateur de cette nouvelle famille Ley-Wan a mis au point un premier prototype non-sentient. Ce prototype n'aura pas le destin prestigieux des premiers des autres familles car son réseau biologique sera détruit lors des expérimentations. La preuve ayant été fournie, ce modèle d'IA sera très fortement employé notamment pour piloter des corps de réplicants. Avec la découverte de l'implant psi, ce type d'IA devient l'un des trois piliers de la combinaison implant psi/réplicant/Ley-Wan qui reste le meilleur moyen d'accéder à cette technologie. Les IA de Ley-Wan se distingue principalement par le fait qu'il s'agit du seul type d'IA générale implémentable sur un substrat organique. C'est aussi le seul type d'IA qui ne puisse pas être implémenté sous une forme informorphe. Elles possèdent aussi une capacité d'introspection inégalées, pouvant ainsi modifier leur fonctionnement directement et en temps réel. C'est d'ailleurs la raison pour laquelle ces IA sont capables de maîtriser l'implant psi en quelques mois quand plusieurs années sont à peine suffisante pour un esprit humain. Les IA de Ley-Wan sont malheureusement très sensible à la dérive imposée par la nature vivante de leur substrat et, à moins d'une maintenance régulière, elles finissent systématiquement par devenir sentientes.
 
-<table>
-    <tr><th colspan="2">Compatibilité des IA Synchro et Wolfa</th></tr>
-    <tr><td>Biologique, provolué</td><td>Incompatible</td></tr>
-    <tr><td>Bio-modifié, Réplicant, Chimère</td><td>Incompatible</td></tr>
-    <tr><td>Cyborg</td><td>Incompatible</td></tr>
-    <tr><td>Cybernétique</td><td>Compatible</td></tr>
-    <tr><td>Hyper-hybride</td><td>Compatible</td></tr>
-    <tr><td>Informophe</td><td>Compatible</td></tr>
-</table>
-
-<table>
-    <tr><th colspan="2">Compatibilité des IA de Ley-Wan</th></tr>
-    <tr><td>Biologique, provolué</td><td>Incompatible</td></tr>
-    <tr><td>Bio-modifié, Réplicant, Chimère</td><td>Compatible</td></tr>
-    <tr><td>Cyborg</td><td>Incompatible</td></tr>
-    <tr><td>Cybernétique</td><td>Compatible via émulation</td></tr>
-    <tr><td>Hyper-hybride</td><td>Compatible via émulation</td></tr>
-    <tr><td>Informophe</td><td>Incompatible</td></tr>
-</table>
+IA de type Wolfa :
+* **Origine** : Artificielle ;
+* **Disponible depuis** : 2074 ;
+* **Enveloppes compatibles** : Bio-modifié, Réplicant, Chimère, Cyborg, Cybernétique (via émulation), Hyper-hybride (via émulation).
 
 Les intelligences artificielles Synchro et Wolfa sont compatibles avec toutes les enveloppes cybernétiques et hyper-hybride. Elles peuvent aussi être infomorphes.
 

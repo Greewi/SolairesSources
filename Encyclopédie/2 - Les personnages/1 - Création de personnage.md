@@ -17,7 +17,7 @@ En plus de ces éléments, le personnage est aussi défini par son identité, se
 
 ## Les éléments
 
-Un élément est une sorte de mot-clé auquel on a attribué un score allant de **1** à **3**. Pour Solaires, nous les classons parmi 6 catégories. Il s’agit avant tout d’une question de présentation : le système de résolution les utilise tous de la même façon, sans considération aucune pour leur catégorie. Un trait ou une carrière peuvent tous deux être utilisés en jeu pour peu qu’ils soient adaptés à l’action à résoudre.
+Un élément est une sorte de mot-clé auquel on a attribué un score allant de **0** à **3**. Pour Solaires, nous les classons parmi 6 catégories. Il s’agit avant tout d’une question de présentation : le système de résolution les utilise tous de la même façon, sans considération aucune pour leur catégorie. Un trait ou une carrière peuvent tous deux être utilisés en jeu pour peu qu’ils soient adaptés à l’action à résoudre.
 
 Voici une petite description des différents catégories :
 * **les traits** : traits de caractère et ses points particuliers, physiques comme mentaux ;
@@ -67,11 +67,11 @@ Une fois ces deux aspects définis, vous devez veiller à ce que l’équipe des
 
 >> Pour vous aider à mieux cerner ce que ces rôles recouvrent, en voici une description plus précise :
 >> * **Combat** : particulièrement mis en avant dans les jeux de rôles en général, le combat n’est qu’un des nombreux aspects développés dans Solaires. *(Verbes : combattre, défendre, faire la guerre, etc.)*
->> * **Enquête** : l’enquête tient une place importante dans la plupart des scénarios. Les personnages s’occupant de cet aspect sont confrontés à la recherche d’indices et leur analyse. Ils s'occupent aussi des interrogatoires. *(Verbes : chercher des indices ou des preuves, interroger des témoins ou des suspects.)*
->> * **Espace** : l’espace est un environnement intrinsèquement hostile et il est suicidaire de sy aventurer sans y être préparé. Et l’espace est pratiquement omniprésent dans les colonies. *(Verbes : faire une sortie, appliquer les procédures spatiales, gérer une catastrophe, piloter, etc.)*
+>> * **Enquête** : l’enquête tient une place importante dans la plupart des scénarios. Les personnages s’occupant de cet aspect sont confrontés à la recherche d’indices et leur analyse. Ils s'occupent aussi des interrogatoires. *(Verbes : chercher des indices ou des preuves, interroger des témoins ou des suspects, etc.)*
+>> * **Espace** : l’espace est un environnement intrinsèquement hostile et il est suicidaire de s'y aventurer sans y être préparé. Et l’espace est pratiquement omniprésent dans les colonies. *(Verbes : faire une sortie, appliquer les procédures spatiales, gérer une catastrophe, piloter, etc.)*
 >> * **Infiltration** : agir sans se faire repérer est indispensable pour de nombreuses missions et ceux qui excellent dans cet art sont très recherchés. Même les corporations se livrent à cette guerre invisible. *(Verbes : agir discrètement, s'infiltrer dans un lieu, se faire passez pour quelqu'un d'autre, etc.)*
 >> * **Informatique** : l’informatique est omniprésente dans la société des solaires et ceux qui savent s’en servir et la maîtrisent disposent de moyens qui débordent très largement du cadre virtuel. Qu’il s’agisse de récupérer des données ou de prendre le contrôle d’une infrastructure, c’est souvent la voie la plus directe pour y parvenir. *(Verbes : récupérer des données, traiter des données, pirater des serveurs, combattre sur la matrice, etc.)*
->> * **Négociation** : à part les sauvages, la plupart des gens préfèrent dialoguer avant d’envisager d’autres solutions, notamment la violence, du simple marchandage à la haute diplomatie. *(Verbes : négocier, convaincre, faire de la politique ou de la diplomatie, etc.)*
+>> * **Négociation** : à part les sauvages, la plupart des gens préfèrent dialoguer avant d’envisager d’autres solutions, notamment la violence. C'est une voie qui va du simple marchandage à la haute diplomatie. *(Verbes : négocier, convaincre, faire de la politique ou de la diplomatie, etc.)*
 >> * **Relation** : avoir le bras long est un avantage indéniable. Connaître des gens de tout milieu permet d’obtenir des informations, des services ou du soutien en cas de coup dur. *(Verbes : posséder un réseau de contact, savoir à qui demander, être connu, etc.)*
 >> * **Technologie** : la technologie est un domaine vaste qui entre les bonnes mains permet pratiquement de réaliser n’importe quoi. Celui qui le maîtrise peut possède un grand pouvoir dans les colonies. *(Verbes : réparer, soigner, saboter, construire, inventer, connaitre la technologie et la science, etc.)*
 
@@ -110,13 +110,13 @@ Notez que les personnages construits par ces différentes méthodes sont totalem
 
 ## Créer autre chose que des personnages
 
-Vous aurez peut-être envie de créer d'autres choses que des personnages. Par exemple, vous pourriez souhaiter créer un vaisseau spatial pour vote équipe ou un jeu d'enveloppes particulières pour un Émissaire (un personnage habitué à changer souvent d'enveloppe), ou un personna pour un espion ?
+Vous aurez peut-être envie de créer d'autres choses que des personnages. Par exemple, vous pourriez souhaiter créer un vaisseau spatial pour vote équipe ou un jeu d'enveloppes particulières pour une IA, ou un personna pour un espion ?
 
 Ces entités peuvent être construites simplement en employant la méthode descriptive, ou via un questionnaire adapté. Bien entendu, elles ne possèdent pas toutes les catégories d'éléments des personnages, et peuvent même posséder des catégories propres.
 
 Voici quelques exemples pour de tels types d'entités :
-* **Enveloppe** : ces corps, robotique ou non, peuvent être utilisé par un personnage. Les enveloppes peuvent posséder les catégories : **Traits** (uniquement physiques), **Modifications**, **Équipement** et **Logiciels** (si applicable).
+* **Enveloppe** : ces corps, robotiques ou non, peuvent être utilisés par un personnage. Les enveloppes peuvent posséder les catégories : **Traits** (uniquement physiques), **Modifications**, **Équipement** et **Logiciels** (si applicable).
 * **Personna** : ces identités alternatives, généralement contrefaites, sont souvent utilisées par les espions. Elles possèdent les catégories : **Traits** (uniquement mentaux et sociaux) et **Relations**.
-* **Vaisseau spatial** : ces véhicules permettent de voyager dans l'espace et peuvent aussi servir de base d'opération. Ils peuvent posséder les catégories : **Systèmes** (équivalent d'**équipement**), **Modification**, **Logiciels** et **Équipage** (qui regroupe les membres non-joueurs de l'équipage).
+* **Vaisseau spatial** : ces véhicules permettent de voyager dans l'espace et peuvent aussi servir de base d'opération. Ils peuvent posséder les catégories : **Systèmes** (équivalent d'**équipement**), **Modifications**, **Logiciels** et **Équipage** (qui regroupe les membres non-joueurs de l'équipage).
 
 Précisons qu'il n'est normalement pas nécessaire de définir aussi précisément la plupart de ces entités et que ces règles ne devraient être employée que pour ce qui a vraiment de l'importance. Très souvent attribuer un score à l'entité directement suffit.
