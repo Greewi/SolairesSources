@@ -4,7 +4,7 @@
 >
 > Hito « Blades » Hirotomi, leader des Soleils
 
-En plus d'interagir avec l'histoire à travers votre personnages, vous disposé d'un moyen plus direct de le faire par le biais des points de personnage. Ces points vous permettent ainsi d'endosser brièvement une posture d'auteur, apportant votre patte au récit.
+En plus d'interagir avec l'histoire à travers votre personnages, vous disposez d'un moyen plus direct de le faire par le biais des points de personnage. Ces points vous permettent ainsi d'endosser brièvement une posture d'auteur, apportant votre patte au récit.
 
 ## Les points de personnage
 
@@ -35,7 +35,7 @@ Voici une liste de modifications mineures :
 Voici une liste de modifications majeures :
 * **Lier un élément scénaristique** : liez un élément scénaristique à votre personnage. *Par exemple, alors que l'équipe tente d'entrer dans une boîte de nuit, un videur les arrête au prétexte que la salle est pleine. Sophie, qui joue Razors, utilise la relation **École militaire de Mars** de son personnage et propose que Razors connaîsse le videur.*
 * **Créer un élément scénaristique** : créez un élément scénaristique ayant un lien avec votre personnage. *Par exemple, alors qu'une fusillade a éclaté dans un bar, Nicolas qui joue Downlink, propose d'utiliser son trait **Débrouillard** pour découvrir une arme cachée sous le comptoir où il est retranché.*
-* **Faire un Flashback** : demandez au meneur un bref flashback pour apporter un élément nouveau ou altérer légèrement certains faits qui n'ont pas été joués à l'écran. *Par exemple, que l'équipe se prépare à questionner un membre des Phobos' Heigths, ce dernier réussi à prendre la fuite, la joueuse de Razors décide d'utiliser la carrière **Solar Wardners** et explique qu'avant de venir, elle a demandé aux forces de sécurité de se préparer à intervenir vu la réputation du triste sire qui court désormais droit dans un cordon de la sécurité.*
+* **Faire un Flashback** : demandez au meneur un bref flashback pour apporter un élément nouveau ou altérer légèrement certains faits qui n'ont pas été joués à l'écran. *Par exemple, que l'équipe se prépare à questionner un membre des Phobos' Heigths, ce dernier réussi à prendre la fuite, la joueuse de Razors décide d'utiliser la carrière **Solar Wardners** et explique qu'avant de venir, elle a demandé aux forces de sécurité de se préparer à intervenir vu la réputation du triste sire. Ce dernier court désormais droit dans un cordon de la sécurité.*
 * **Événement inattendu** : faites intervenir un événement inattendu pour forcer la (non) résolution d'une situation. *Par exemple, alors que des négociations avec l'équipe de sécurité s'embourbent, le joueur de Feyn utilise sa carrière **Astronaute** et propose qu'une alarme se déclenche à cause du début de la dépressurisation du module où ils sont. Une micrométéorite vient visiblement de faire des dégâts.*
 
 >> La liste de modification que nous proposons est indicative et vous pouvez y ajouter vos propres modifications. Gardez en tête toutefois que ce qui ajoute, supprime ou modifie la nature d'un élément scénaristique doit être considéré comme une modification majeure et coûter un point de personnage pour l'utiliser.

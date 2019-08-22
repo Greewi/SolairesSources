@@ -96,11 +96,11 @@ Notez que si le meneur juge une action impossible (ou triviale), il ne fait pas 
 
 ## Choix des éléments
 
-Une fois la difficulté établie, ainsi que l’éventuelle altération, devez doit choisir un élément de votre personnage. Les éléments sont tout ce qui possède un score sur la fiche du personnage, que ce soit des traits, du matériel, etc. L’élément choisi doit avoir, en toute logique, un impact sur l'action.
+Une fois la difficulté établie, vous devez choisir un élément de votre personnage. Les éléments sont tout ce qui possède un score sur la fiche du personnage, que ce soit des traits, du matériel, etc. L’élément choisi doit avoir, en toute logique, un impact sur l'action.
 
 Vous pouvez vous servir d’éléments qui ne sont pas directement possédés par votre personnage, tant qu’il sont impliqués dans l’action. Par exemple, un pilote peut se servir d’un élément associé au vaisseau qu’il pilote, un technicien peut utiliser un trait prêté par un personnage qui l’aide, etc.
 
-Si l’action est typique pour cet élément – par exemple soigner quelqu'un avec la carrière *« Médecin »* ou pirater une porte avec un *« décodeur »* – vous pouvez choisir un second élément. Celui-ci n’a pas besoin d’être typique mais doit quand même avoir un impact sur l’action. Même si ce second est typique, vous ne pouvez jamais utiliser plus de deux éléments pour une même action.
+Si l’action est typique pour cet élément – par exemple soigner quelqu'un avec la carrière *« Médecin »* ou pirater une porte avec un *« Décodeur »* – vous pouvez choisir un second élément. Celui-ci n’a pas besoin d’être typique mais doit quand même avoir un impact sur l’action. Même si ce second est typique, vous ne pouvez jamais utiliser plus de deux éléments pour une même action.
 
 *Exemple : Nicolas choisi la carrière « Decker » de son personnage Downlink pour effectuer un piratage. Comme l'action est typique pour cette carrière, il peut choisir un second élément. Il choisit alors sa « Console de décryptage modifiée » en plus.*
 
@@ -114,29 +114,23 @@ Un état handicapant ne modifie pas vos chances de réussir votre action mais pe
 
 Pour commencer le jet de résolution, ajoutez la difficulté au score des éléments que vous avez choisis. Ce sera le score à battre.
 
-S’il est de 0 ou moins, l’action échoue automatiquement. S’il est de 6 ou plus, l’action réussie automatiquement. Dans ces deux cas, il n’est pas nécessaire de lancer les dés et il n'y aura pas d'effet secondaire.
+S’il est de 0 ou moins, l’action échoue automatiquement. S’il est de 6 ou plus, l’action réussit automatiquement. Dans ces deux cas, il n’est pas nécessaire de lancer les dés et il n'y aura pas d'effet secondaire.
 
 Sinon, lancez trois dés à six faces. Écartez ceux qui ont produit un résultat strictement supérieur au score à battre. L’action réussit si vous avez conservé au moins deux dés, sinon elle échoue.
 
 <table>
     <tr>
         <th>Dés conservés</th>
-        <th>Résultat</th>
-    </tr>
-    <tr>
         <th>3</th>
-        <td>Réussite</td>
-    </tr>
-    <tr>
         <th>2</th>
-        <td>Réussite</td>
-    </tr>
-    <tr>
         <th>1</th>
-        <td>Échec</td>
+        <th>0</th>
     </tr>
     <tr>
-        <th>0</th>
+        <th>Résultat</th>
+        <td>Réussite</td>
+        <td>Réussite</td>
+        <td>Échec</td>
         <td>Échec</td>
     </tr>
 </table>
@@ -160,9 +154,9 @@ Une fois l’action résolue, le meneur peut décrire les conséquences de l’a
 Des effets secondaires peuvent survenir mais ils ne doivent pas remettre en question la réussite ou l'échec de l'action ni la moduler directement. C'est notamment le cas si votre personnage avait un état handicapant et que vous n'aviez pas conservé strictement plus de dés que le score de ce handicap.
 
 Voici quelques exemples d’effets secondaires en défaveur des PJ :
-* **plus de ressources consommées** : le personnage a perdu beaucoup de temps, endommagé ses outils, utilisés trop de munitions, etc. ;
-* **complication de la situation** : le personnage a été pris en pris en flagrant délit, renforts adverses viennent d'arriver, le personnage s'est décrédibilisé, dégâts collatéraux sont à déplorer, etc. ;
-* **gain d'état** : le personnage a été « Blessé », est victime du « Mal de l'embodiement », est « Désorienté », etc. ;
+* **plus de ressources consommées** : le personnage a perdu beaucoup de temps, il a endommagé ses outils, il a utilisés trop de munitions, etc. ;
+* **complication de la situation** : le personnage a été pris en pris en flagrant délit, des renforts adverses viennent d'arriver, le personnage s'est décrédibilisé, es dégâts collatéraux sont à déplorer, etc. ;
+* **gain d'état** : le personnage a été « Blessé », il est victime du « Mal de l'embodiement », il est « Désorienté », etc. ;
 * **aggravation d'un état** : une blessure devient plus grave, un personnage « Détaché » se retrouve « À la dérive dans l'espace », etc.
 
 Pour les effets en faveur des PJ, nous vous proposons ces exemples :
@@ -174,7 +168,7 @@ Notez que vous pouvez utiliser un point de personnage pour décrire vous-mêmes 
 
 ## Cas particuliers
 
-Les règles de résolution gèrent toutes les situations et actions que vous rencontrerez. Malgré tout, il existe quelques cas où les le meneur peut rechercher des règles plus précises :
+Les règles de résolution gèrent toutes les situations et actions que vous rencontrerez. Malgré tout, il existe quelques cas où le meneur peut rechercher des règles plus précises :
 * **Action collaborative** : il s'agit des actions où plusieurs personnages collaborent. Dans ce cas, l'action est résolue normalement par l'initiateur, mais ceux qui l'aident peuvent lui prêter un élément. Les règles restent les mêmes : deux éléments maximums et au moins un des deux éléments doit être typique s'il y en a plusieurs.
 * **Action de groupe à échec individuel** : dans de nombreux cas, le groupe de personnage veut effectuer une action qui doit être réussie par tous les personnages. *Par exemple, escalader une falaise, contourner une patrouille furtivement, garder son sang froid dans une situation critique, etc.* Il est naturel de vouloir un jet pour chaque personnage, mais ceci réduit considérablement les chances de réussite de l'action globale. Nous vous proposons plutôt de procéder comme pour une action collaborative, à la différence près que les deux éléments éventuels ne doivent pas provenir du même personnage. En cas d'échec, l'un des personnages dévisse, se fait repérer, panique, etc. Le meneur devrait choisir de préférence celui dont l'échec entrainera la situation la plus intéressante.
 * **Action en réaction** : dans certains cas, il est possible qu'une action ne soit pas à l'initiative d'un personnage et que ce dernier doive réagir à un événement. Par exemple, des adversaires viennent de lui tendre une embuscade et le meneur souhaite que le personnage réagisse. Dans ces situations, même si l'action n'est pas à l'initiative du joueur, le processus reste le même : le joueur indique ce que son personnage va essayer de faire en réaction et l'action est résolue comme habituellement.
@@ -191,7 +185,7 @@ La meneuse estime ensuite la difficulté. Que l'action réussisse ou échoue, la
 
 Sophie propose d'utiliser son *Camouflage thermo-optique (2)* pour cette action tandis que Nicolas veut lui prêter la carrière *Decker (3)*. Justine confirme que l'action est typique pour le camouflage et permet bien d'utiliser ces deux éléments.
 
-La difficulté (**-2**) et les deux éléments (**2** et **3**) choisis, le score à battre est de **3** (2+3-2). Albert lance les trois dés qui font **5**, **2** et **3**. Il conserve donc deux dés : c'est une réussite.
+La difficulté (**-2**) et les deux éléments (**2** et **3**) choisis, le score à battre est de **3** (2+3-2). Sophie lance les trois dés qui font **5**, **2** et **3**. Elle conserve donc deux dés : c'est une réussite.
 
 Justine décrit alors ce qui se produit : aidé par Downlink qui brouille sa présence sur le réseau, Razors parvient à pénétrer dans le chantier spatial. Elle y aperçoit leur suspect qui semble travailler sur le cablage d'une batterie de navette.
 

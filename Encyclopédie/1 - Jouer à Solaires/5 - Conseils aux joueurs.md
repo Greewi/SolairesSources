@@ -2,7 +2,7 @@
 
 > *« Ne restez pas là comme ça ! Faites des choses ! »*
 >
-> Herniz, réalisateur de Stim
+> Henriz, réalisateur de Stim
 
 Trop souvent, le meneur est vu comme le responsable de la qualité de la partie. Ce n’est pas le cas : même s’il a un rôle important, n’oubliez pas que le jeu de rôles est un jeu coopératif. Tous les participants doivent œuvrer de concert pour passer un bon moment. Voici quelques conseils et astuces pour de meilleures parties.
 
