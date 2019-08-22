@@ -19,4 +19,4 @@ Le logiciel s’initialise et le nouvel avatar apparaît, tel un dieu de la Grè
 
 – Oui, bien sûr. », acquiesce Kat, trop conscient des dangers qui pointent à l’horizon. Bien qu’il semble intangible et dépasse les maigres compétences de la petite peluche, le plan de Virgile reste l’option avec la meilleure chance de succès. Et seul le temps permettra de tester cette hypothèse.
 
-**FIN**
+> **FIN**

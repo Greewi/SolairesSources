@@ -1,3 +1,5 @@
+----
+
 # Nostalgie d’un monde bleu
 
 Assise sur la couverture, Myla observe les petites silhouettes des gens qui se promènent en contrebas. C’était une idée de Neige : un pique-nique dans l’un des petits parcs accrochés à la grande muraille au-dessus des habitations qui encerclent la ville. De là, toute la ville se révèle et la grande tour, qui transperce même le grand dôme d’Ombrenade, offre un spectacle impressionnant.

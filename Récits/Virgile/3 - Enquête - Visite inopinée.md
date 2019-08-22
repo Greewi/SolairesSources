@@ -27,7 +27,7 @@ Rengainant son sabre, la cyber-samouraï reprend le contact : « Ceux-là ne r
 
 – J’arrive. La vache, tu leur as carrément roulé dessus ! », s’exclame-t-il.
 
-Le decker examine le robot le moins endommagé. Il ressemble à ceux de la sécurité, mais son identification a été offusquée. Ouvrant délicatement le centre informatique, Downlink extrait le stockage principal : une petite carte de moins d’un centimètre carré de surface. L’intégrant dans sa console, il lance une série de tests pour en vérifier son état. Une fois assuré que rien de dangereux n’y est caché, il commence l’exploration des données.
+Le decker examine le robot le moins endommagé. Il ressemble à ceux de la sécurité, mais son identification a été offusquée. Ouvrant délicatement le centre informatique, Downlink extrait le stockage principal : une petite carte de moins d’un centimètre carré de surface. L’intégrant dans sa console, il lance une série de tests pour en vérifier l'état. Une fois assuré que rien de dangereux n’y est caché, il commence l’exploration des données.
 
 De son côté, Skyline poursuit ses observations, imperturbable. S’approchant de l’entrée, il intervient alors : « J’ai quelque chose !
 
@@ -43,7 +43,7 @@ De son côté, Skyline poursuit ses observations, imperturbable. S’approchant 
 
 – Logique, acquiesce Skyline en sortant de l’appartement. Les commanditaires ont certainement employé les Phobos’ Height. Ils ont leurs accès dans la zone de fret. Après tout, leur spécialité, c’est le marché noir. Par contre, j’ai aucune idée de ce que ce fouineur faisait ici.
 
-– Notre priorité reste Mikael, recentre Razors. Downlink, tu as les coordonnées de ce hangar ?
+– Notre priorité reste Mickael, recentre Razors. Downlink, tu as les coordonnées de ce hangar ?
 
 – Oui, je vous les passe, confirme-t-il.
 

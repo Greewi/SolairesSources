@@ -1,0 +1,17 @@
+{
+    "titre": "Solaires - Nouveaux dieux",
+    "auteur": "Sylvain « Greewi » Dumazet",
+    "description": "Roman de science-fiction",
+    "structure": [
+        {
+            "source": "Couverture.png",
+            "style": "couverture",
+            "niveau": 1
+        },
+        {
+            "source": "Nouveaux dieux.md",
+            "style": "recit",
+            "niveau": 1
+        }
+    ]
+}

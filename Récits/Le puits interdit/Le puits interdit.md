@@ -1,12 +1,12 @@
 # Le puits interdit
 
-Sylvain “Greewi” Dumazet
+> Sylvain “Greewi” Dumazet
+> 
+> Version 1.1-RC1
 
-Version 0.4
+*Un diplomate terrien, retrouve enfin sa femme sur Mars, dans les colonies. Mais sans son fils resté sur Terre. Pour retrouver ce dernier, les puissantes corporations envoient alors une cyborg, en direction de la Terre. Évidemment, elle se doute déjà qu'il ne s'agit pas d'une simple mission de baby-sitting et l'agent des colonies découvrira bien assez vite que l'humanité n'a pas pas perdu ses mauvaises habitudes…*
 
-Texte placé sous les termes de la licence Creative Common BY-NC-SA 3.0 [fr]
-
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr
+Cette œuvre est mise à disposition sous licence Attribution – Pas d’Utilisation Commerciale – Partage dans les Mêmes Conditions 3.0 France. Pour voir une copie de cette licence, visitez http://creativecommons.org/licenses/by-nc-sa/3.0/fr/ ou écrivez à Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
 ## Avant-propos
 
@@ -20,7 +20,8 @@ Pour les curieux, Solaires est avant tout un jeu de rôle sur table que vous pou
 
 Note : les commentaires entre crochets, [], sont des notes destinées à aider le lecteur sur des termes particuliers ou trop pointus.
 
-## Retrouvailles
+----
+## 1 – Retrouvailles
 
 À mi-hauteur de la tour d'or et de saphir, le balcon surplombe le grand parc émeraude du cercle extérieur. L'étendue verte illuminée par les puissants éclairages d'appoints s'étend jusqu'à la bordure parfaite du dôme. Au-delà, à travers le mille-feuille de diamant et de matériaux composites, les roches ocre prennent le relais et occupent l'espace jusqu'à l'horizon fracturé par le mont Elysium. La femme aux yeux iridescents regarde l'invité franchissant le seuil de son bureau. Chassant ses souvenirs, elle l'accueille : « Bonjour Thibault. Je n'aurais pas pensé que tu serais venu. »
 
@@ -46,7 +47,7 @@ L’attaque aiguisé comme une lame d'obsidienne laisse Verner interdit quelques
 
 Feignant de se rendre, non sans une pointe de colère, le diplomate termine : « Très bien, je vais voir ce que je peux faire… » avant de franchir à nouveau le seuil doré.
 
-## Rencontre avec les diplomates
+## 2 – Rencontre avec les diplomates
 
 Confortablement assise, au milieu de l'environnement virtuel matérialisé par les foglets [nuage de nanorobots capable de matérialiser toute sorte d’objets, pratiquement impalpables, à la manière d’une illusion], elle écoute longuement les dignitaires lui expliquer l'affaire. Rien de compliqué en réalité, mais chaque détail compte. Son métier lui a si souvent rappelé que la moindre petite chose pouvait complètement transformer la situation.
 
@@ -70,7 +71,7 @@ Avec complicité, les diplomates sourient. Nonchalamment, l'éthéré reprend :
 
 Profitant de la faible gravité, Tsadir se lève d'un seul mouvement lent et gracieux : « J'ai donc quelques affaires à préparer. Est-il possible de rencontrer ce Verner ? »
 
-## Le diplomate
+## 3 – Le diplomate
 
 Dans le silence, les foglets se réorganisent complètement : un nouvel interlocuteur, un nouvel environnement. Assise sur un banc, elle perçoit la chaleur du soleil virtuel à travers les feuilles des arbres, dans ce parc baigné par une brise fraîche. Le son de la circulation routière mué en un étrange bruit blanc renforce l'impression d’être proche d'un centre-ville. Heureusement, les hauts platanes, dont le vent fait chuchoter les feuilles sont aussi remarquablement chargés en oiseaux chantants.
 
@@ -104,7 +105,8 @@ La jeune femme quitte sa chambre, désormais plongée dans l’obscurité et tra
 
 Tsadir y jette un dernier regard émerveillé puis se concentre sur son objectif : le centre de téléversement.
 
-## L'ange d'Ombrenade
+----
+## 4 – L'ange d'Ombrenade
 
 Soixante-douze minutes lumière… Un modeste trajet au sein du majestueux système solaire et pourtant l’esprit humain est absolument incapable de se représenter une pareille distance. Sans le téléversement, ce voyage demanderait des semaines à bords des imposants vaisseaux interplanétaires.
 
@@ -126,7 +128,7 @@ Initialement, Aurore avait eu quelques doutes sur la créature que ses contacts 
 
 Ils avaient eu raison, et au bout d'une heure passé dans le sanctuaire virtuel, les deux solaires se sont accordées sur la mission. Désormais, il est temps de passer à la phase suivante : revenir sur Mars ; y assembler une nouvelle enveloppe à l’identique pour Ney ; et enfin, préparer le voyage vers la Terre.
 
-## Firewall
+## 5 – Firewall
 
 Quand la corporation Aesir prépare une expédition vers la Terre, elle ne plaisante pas. Sous ses formes anguleuses, la corvette cache un véritable avant-poste de surveillance. Doté d'un camouflage radar, radio et thermo-optique ce type de vaisseau est conçu pour pouvoir s'approcher suffisamment d'un autre et lire le journal du capitaine par-dessus son épaule. Durant la guerre, ce type de vaisseau embarquait parfois des commandos furtifs pour détourner des vaisseaux de ravitaillements. Certains avaient même effectués des opérations bien plus audacieuses, comme la prise du dreadnought onusien Élisabeth, triomphe de la politique militaire de la Dame de Fer.
 
@@ -162,7 +164,7 @@ Du côté des colonies, Verner, soutenu par la diplomatie coloniale, s'active et
 
 L'ironie de Mahertis semble partagée. La guerre ne s'est terminée que deux ans auparavant et la victoire des colonies est restée une blessure profonde dans l'ego des terriens. Avec la signature du traité des colonies, un mur moral et éthique s'est dressé entre les deux univers. Pour être franc, sans cette autorisation particulière, les trois seraient en danger dès leur arrivée dans le système terrien.
 
-## Un ciel de coton
+## 6 – Un ciel de coton
 
 Comme suspendue dans les airs, à une distance impalpable, une étendue de coton s'étend : pratiquement tout l'hémisphère sud est en proie à un immense et impressionnant cyclone, prêt à exploser. Après s'être amarrée par le biais d'un sas intelligent, l'équipe, à l'exception de l'IA pilote, est transférée à bord de la station indienne Saraswati. Un officier, visiblement peu à l'aise, les accueille : « Bienvenue à bord. Nous devons vous scanner afin de déterminer si vous transportez des armes. »
 
@@ -194,7 +196,7 @@ Les hommes d'en face se regardent comme s'ils essayaient de se concerter, mais l
 
 La peluche commence par expliquer l’importance de la mission et les risques diplomatiques avec précision, elle dévie ensuite rapidement et Tsadir perd le fil de la discussion : le dialogue, proche de la manipulation mentale, ne lui est pas destiné. Si les mots et phrases ne lui font pas sens, ils finissent par produire un effet impressionnant sur les trois terriens qui passent successivement par une étape de doute, de remise en question et finalement l'aveu : « On ne sait pas où se trouve Alexandre Verner. Il a juste disparu. »
 
-## La nouvelle mission
+## 7 – La nouvelle mission
 
 Respectant le protocole, Mahertis avaient envoyé un message interplanétaire à destination des colonies et la réponse des diplomates Martiens, commanditaires, ne s'était pas faite attendre. Selon eux, la mission continuait et ils feraient pression, en utilisant entre autres le réseau de Verner, pour accélérer la résolution de la situation.
 
@@ -220,7 +222,7 @@ Dernière occasion de se synchroniser avec ses sauvegardes, la cyborg lance la p
 
 Il est l'heure de faire le grand saut !
 
-## Le plongeon
+## 8 – Le plongeon
 
 Le vaisseau qui leur permet de se rendre sur Terre ne possède pas les qualités de Mahertis : vétuste, particulièrement étroit et visiblement uniquement prévu pour effectuer une désorbitation, entrer dans l'atmosphère et se poser. En fait, il rappelle furieusement à la cyborg les capsules de sauvetage servant à l'évacuation des stations orbitales ; encore que ces dernières soient généralement utilisées pour se placer sur une autre orbite en attendant les secours.
 
@@ -238,7 +240,8 @@ Au fur et à mesure, le son sifflant et assourdissant de l'air circulant le long
 
 Nez détache son harnais et se tourne vers Tsadir, procédant à la même manœuvre, et annonce avec une voix enjouée : « Bienvenue sur Terre ! »
 
-## Sauts de puces
+----
+## 9 – Sauts de puces
 
 La capsule repose au milieu des steppes ougandaises, le soleil déclinant éclaire encore généreusement la région. Les parachutes étalés au sol se gonflent à intervalle régulier sous l'action du vent chaud qui parcourt ces terres. Au loin, un vrombissement puissant : les hélicoptères de Sol6 approchent avec leur escorte onusienne.
 
@@ -258,7 +261,8 @@ Après une demi-heure de vol, l'appareil se pose au nouvel aéroport internation
 
 À l'écart des pistes principales et du bâtiment principal, un flash presque aveuglant accompagné du cri d'un puissant réacteur attire l'attention de Tsadir. Propulsée par un panache de fumée, une navette suborbitale prend son envol verticalement. La fumée blanche enveloppe rapidement le pas de tir miniature et l'engin s'éloigne de plus en plus dans les airs.
 
-## Africa et Europa
+----
+## 10 – Africa et Europa
 
 Les solaires sont conduites vers l'une des pistes secondaires près de laquelle un petit jet onusien les attend. Un officiel s'approche et leur demande si elles sont prêtes pour un voyage de près de sept heures. L'avion, plutôt ancien aux vues de son appareillage, dispose d'une quinzaine de sièges, tous inoccupés. Invitées à s'installer, Ney et Tsadir s'asseyent dans la dernière rangée.
 
@@ -280,7 +284,7 @@ L'avion se pose sans encombre et, après quelques minutes de roulement pour quit
 
 Conduit par l'officier, Julian Prest, les deux descendent enfin de l'oiseau composite. Dehors l'air frais l'air frais de la nuit leur rappelle que d'après l'heure locale, il n'est que quatre heures du matin et que la cité dort encore.
 
-## Le grand Londres
+## 11 – Le grand Londres
 
 Conduite jusqu'à un tout terrain noir, les solaires évitent une fois encore tous les checkpoints et la foule. Elles s'installent dans le véhicule à l'arrière et Prest leur tends deux sandwichs. Ney refuse, expliquant que sa biologie simplifiée ne peut assimiler ceci. Tsadir accepte et pendant que l'homme leur explique la situation, elle dévore son premier repas depuis plus d'une dizaine d'heure.
 
@@ -308,7 +312,7 @@ C'est le moment de se tenir prête. Son IA de supervision se met alors à accent
 
 Alors que Ney entre sans se rendre compte de quoi que ce soit dans le parking, Tsadir se fige à l'entrée observant les traces et indices se trouvant devant elle. Son logiciel de reconstitution assemble les pièces du puzzle et d'un coup la conclusion de l'imposture s'impose.
 
-## Trahison
+## 12 – Trahison
 
 Ney aurait bien été mal de dire qui initia véritablement le combat. Elles étaient entrées dans la salle, mais Tsadir s'était immobilisée à l'entrée. Elle avait repéré la disposition des 4 soldats qui ne correspondait pas à une formation défensive mais une formation d'embuscade. Dès les premières contractions musculaires des soldats, les logiciels de combats de la cyborg avaient décomposés chaque mouvement à venir et avant de leur donner le temps d’agir, elle traversa l'espace d'un bon surnaturel.
 
@@ -326,7 +330,7 @@ Tsadir remonte furtivement la descente menant au parking. Rejointe quelques seco
 
 Dans l'obscurité de la cité fantôme, la transhumaine et la chimère s'enfuient, passant de jardins en jardins.
 
-## Intrus
+## 13 – Intrus
 
 Le directeur se tient devant les éléments qu'il a secrètement réunis. Il lui semble maintenant certain que quelqu'un dans sa sous-hiérarchie a agi en marge de l'organisation.
 
@@ -336,7 +340,7 @@ Grégoire ne peut pas encore interroger les gens de la section ougandaise sous p
 
 Ne pouvant progresser plus avant sans une confrontation, le directeur De-Montergny commande à son secrétaire : « Faites-moi venir Prest, dites-lui que j'ai besoin de son aide. »
 
-## Dans la cité des disparus
+## 14 – Dans la cité des disparus
 
 Les deux solaires ont déjà parcouru un demi kilomètre lorsque Tsadir s'aperçoit que Ney peine à suivre malgré ses affirmations. Elle s'arrête alors et la prends dans ses bras ; la semi-renarde s'accroche alors fermement à la sur-armure de la guerrière avec ses pattes gecko.
 
@@ -354,7 +358,7 @@ La lame, longue de vingt-cinq centimètres, possède une structure composite par
 
 Pendant que Tsadir explore l'habitation, Ney examine le circuit électrique, se demandant s'il ne serait pas possible de pirater la grille énergétique locale. Prévenant l'autre solaire, elle ressort et escalade le mur puis le toit de l'habitation. S'asseyant au sommet, elle observe le grand Londres et ses grandes tours de lumière à l'horizon.
 
-## Sol 1
+## 15 – Sol 1
 
 Ney disparu plusieurs heures et ne revint qu'une demi-heure avant que le terminateur ne les dépasse et noie le ciel de brume et d'étoile dans la lumière. Elle avait alors expliqué à Tsadir ce qu'elle avait fait.
 
@@ -374,7 +378,7 @@ En revanche, la nouvelle équipe semble bien plus prudente, et certains messages
 
 Au bout de quatre heures, l'agent d'Aesir décide d'aller rencontrer l'un des fondateurs, Jeremy Malles, pour éclaircir la situation et obtenir les quelques informations qui leur échappent encore comme la disposition des lieux. Ney se tiendra à proximité pour aider la guerrière dans cette tâche.
 
-## L'homme qui rêvait de coopération
+## 16 – L'homme qui rêvait de coopération
 
 Jeremy Malles avait été diagnostiqué par Ney comme le plus fragile et le plus impressionnable des fondateurs. Malgré cela, il se montrait digne de son grand savoir scientifique et, avant que le fablab lui échappe, il possédait un très grand optimiste, sans doute un peu naïf.
 
@@ -414,7 +418,7 @@ Pour qui est né dans les colonies, la destruction d'un constructeur universel n
 
 Avant qu'elles ne partent, Jeremy leur donne un second sac et quelques provisions pour Tsadir. Ney regagne son sac à dos que la cyborg ramasse. Les deux quittent ainsi Jeremy, qui ne les reverra probablement jamais. Sauf s'il accepte la dernière proposition de la semi-renarde de rejoindre les colonies.
 
-## La guerre invisible
+## 17 – La guerre invisible
 
 L'isolement relatif du complexe associatif, vis-à-vis des autres bâtiments municipaux joue en leur faveur. Depuis son sac, Ney scanne les réseaux et récupère le maximum d'information concernant la sécurité des lieux. C'est une petite ville de banlieue et même si elles ne disposent pas, pour le moment, d'un équipement conséquent, les sécurités électroniques ne devraient pas leur poser de problème, Ney disposant désormais des codes pour y entrer la nuit.
 
@@ -454,7 +458,8 @@ Aussi discrètement qu'à l'arrivée, les filles sortent du bâtiment et un nouv
 
 Plutôt que de perdre du temps à chercher la cause de tout ceci, les solaires courent se replier dans leur refuge à travers le quartier inhabité. En vérité, Ney continue de construire des hypothèses dans des processus parallèles.
 
-## Reconnexion
+----
+## 18 – Reconnexion
 
 De retour au refuge, Ney prépare l'antenne de communication pendant que Tsadir vérifie les alentours, surveillant toute potentielle intrusion dans le périmètre de sécurité.
 
@@ -486,7 +491,7 @@ Les foglets manifestent un nouvel envoi vers l'orbite, Mahertis envoyant les nou
 
 Tsadir relance la conversation en indiquant : « La mission doit continuer, la vie d'un enfant est probablement en jeu. »
 
-## Au cœur de Londres
+## 19 – Au cœur de Londres
 
 Depuis leur repaire, les hors-mondes planifient leurs prochaines actions. Il semble clair que Prest est au centre de cette affaire. Pour autant, les solaires n'ont encore aucune certitude sur la place que ce complot occupe au sein de l'ONU. La prochaine étape revient à en apprendre plus sur De-Montergny, s'il s'avère qu'il n'est pas mêlé à l'affaire, il pourrait devenir un allié de poids.
 
@@ -500,7 +505,7 @@ Une seconde équipe, composée de Ney, ira se placer de l'autre côté de la Tam
 
 Mahertis les accompagne en leur laissant à chacune une instance.
 
-## Réveil
+## 20 – Réveil
 
 Tsadir, passant devant l'armurerie, hésite, elle emporterait bien quelque chose… mais ce serait sans doute très mal vu par les terriens et puis, comme L'IA de bord lui rappelle, les solaires seront escortés par les troupes onusiennes. Mahertis continue en lui indiquant que de toute façon, même désarmée, elle reste capable de bien plus de choses que ceux d'en bas qui refusent l'avancée de la technologie.
 
@@ -530,7 +535,7 @@ La guerrière se relève et franchis le sas menant aux couloirs du centre de ré
 
 Après quelques minutes subjectives que son IA de supervision condensa en quelques secondes, Tsadir décide de se mettre en route pour entendre les diplomates et avoir le fin de mot de cette résurrection prématurée.
 
-## Sous les projecteurs de la Tamise
+## 21 – Sous les projecteurs de la Tamise
 
 Arriver jusqu'au centre de Londres ne fut pas compliqué, avec le déguisement de Ney et les patchs comportementaux, personne ne faisait vraiment attention à elle. Dire que l'artisan de ces artifices doit passer par les eaux descendant plusieurs kilomètres de canal avant de remonter la tamise sur plusieurs centaines de mètres puis de suivre une voie ferrée sur plus de quatre kilomètres…
 
@@ -554,7 +559,7 @@ Les éléments placés, Tsadir repart, utilisant le réseau de surveillance pour
 
 De là, elle rejoint le métro pour rentrer : le reste de la mission est entre les mains de Ney.
 
-## Le cours de natation
+## 22 – Le cours de natation
 
 La combinaison de Ney est certes lourde mais ses activateurs lui procurent une force prodigieuse. Évoluant au fond de l'eau trouble, elle est invisible. Contrairement à ce que Mahertis lui avait promis, la sensation de la plongée sous-marine n'est pas comparable à l'apesanteur : ici l'eau la porte et elle ressent toujours son propre poids.
 
@@ -580,7 +585,7 @@ Une fois sur le toit elle déploie son nuage de foglets pour lui assurer un abri
 
 Vu l'heure Tsadir doit être en route pour le repaire.
 
-## Des nouvelles d'Ouganda
+## 23 – Des nouvelles d'Ouganda
 
 La rencontre avec Prest n'avait rien donné, il avait, bien sûr, pris l'affaire au sérieux et allait mener une enquête pour déterminer qui jouait leur dos avec les affaires de l'ONU. Les deux hommes s'étaient finalement quittés.
 
@@ -606,7 +611,7 @@ C'est une affaire si importante, que De-Montergny hésite à faire appel au bure
 
 Il lui faut une assurance.
 
-## Sous le toit du monde
+## 24 – Sous le toit du monde
 
 La chimère avait installé son matériel ; aligné la première antenne vers les bureaux onusiens ; la seconde vers le sommet de The Shard. Plus tard, Ney irait placer une antenne relais là-haut à plus de trois cents mètres du sol.
 
@@ -628,7 +633,7 @@ Il est donc temps d'y aller. La petite créature redescend sans que personne ne 
 
 Dans ce sens le chemin sera bien plus long, mais elle restera à l'abri sous l'eau, dans cet environnement reposant.
 
-## Débriefing
+## 25 – Débriefing
 
 Traversant le dôme des ambassades Tsadir se dirige depuis la gare urbaine vers l'ambassade d'Aesir. Elysium est une cité très paisible mais qui porte malgré tout la gloire de Mars avec ses grandes tours d'or et de saphir et ses nombreux espaces. Les dômes sont exempts de structure porteuse démonstration de force du savoir-faire de la corporation en matière de construction.
 
@@ -650,7 +655,8 @@ Pour la suite de la mission l'éthéré insiste sur un point : « Nous n'avons
 
 Rien que ça.
 
-## Surveillance
+----
+## 26 – Surveillance
 
 La semi-renarde était revenue après une aventure de plus de vingt heures. Tout le dispositif était récent et Mahertis circulait librement sur leur nouveau réseau.
 
@@ -666,7 +672,7 @@ Pour l'IA c'est à la fois une bonne et une mauvaise nouvelle : d'un côté De-
 
 Tsadir se montre plus pessimiste et explique que Prest pourrait se montrer dangereux, particulièrement envers De-Montergny avec son excès de zèle. Il faut absolument maintenir une surveillance du directeur et mettre en place un moyen d'intervenir.
 
-## Le retour depuis le royaume des morts
+## 27 – Le retour depuis le royaume des morts
 
 « Bonjour monsieur Verner. »
 
@@ -686,7 +692,7 @@ La cyborg avait reçu sa nouvelle mission : escorter, protéger mais surtout su
 
 Profitant de cet instant de repos, Tsadir se demande comment elle s'en sort là-bas, sur Terre. Une intuition irrationnelle lui rappelle la présence de Ney, qui doit probablement l'épauler avec grand soin.
 
-## L'enquête progresse
+## 28 – L'enquête progresse
 
 Un appel. Dans son bureau, De-Montergny est soucieux. L'affaire n'a pas beaucoup progressé. Le directeur ouvre la communication et reçoit, virtuellement, Prest qui apparaît sur l'écran holographique.
 
@@ -708,7 +714,7 @@ Prest, invite De-Montergny à s'asseoir et commencer à lui expliquer les tenant
 
 C'est le moment pour une intervention divine.
 
-## La poursuite
+## 29 – La poursuite
 
 L'appel de Prest avait été parfaitement enregistré et le message laissé au secrétaire du directeur aussi. Mahertis s'était alors alarmé.
 
@@ -734,7 +740,7 @@ Une fois aux abords de leur destination, Tsadir ralenti et le véhicule électri
 
 Les deux sortent par la porte opposée et attendent sous le couvert de leur champ d'invisibilité. Finalement, la voiture noire de l'ONU arrive et se gare en face. De-Montergny descend, accompagné d'un garde du corps : deux hommes restant à bord du véhicule. C'est le moment d'agir.
 
-## L'intervention divine
+## 30 – L'intervention divine
 
 De-Montergny n'a pas fini de formuler intérieurement son souhait que la poste s'ouvre d'un coup et que de nombreux traits violets, frappent les hommes de Prest. Ce dernier tente de sortir une arme à son tour mais un tir l'emporte aussi.
 
@@ -754,7 +760,7 @@ Les renforts onusiens débarquent ensuite avec les équipes de spécialistes. Un
 
 Il invite alors les solaires à le suivre et tous les trois montent à bord d'une jeep aux couleurs onusiennes. Sur un signe de tête de De-Montergny le conducteur démarre et la voiture repart vers le centre londonien.
 
-## L'alliance
+## 31 – L'alliance
 
 L'homme affalé en position semi-couché, ne s'attendait pas à recevoir ce genre de message. La capture de Prest met en danger leurs opérations et les rumeurs sur la mise sous surveillance de Verner n'arrangent pas non la situation. Ils s'étaient dispersés pour limiter la casse, mais ce n'est clairement plus suffisant.
 
@@ -786,7 +792,8 @@ Trahison, les choses vont vraiment mal. Heureusement, l'ONU ne pratique la peine
 
 Sans la surveillance qui entoure Verner, sa prochaine étape aurait été de le contacter. Ce qui est faux en y repensant : si Verner n'était pas sous surveillance, il ne s'en soucierait pas. Au fur et à mesure que le délicieux met coule dans sa gorge, il se décide : il doit réactiver le réseau et préparer quelques coups d'avance : il serait bête de laisser les choses empirer ainsi.
 
-## L'interrogatoire
+----
+## 32 – L'interrogatoire
 
 Prest et ses hommes, avaient été conduits en salle d'interrogatoire dès leur arrivée au siège onusien. Les solaires cordialement invitées par De-Montergny, attendait son retour dans le bureau du directeur.
 
@@ -814,7 +821,7 @@ On en revient encore au même point : les humains ne veulent pas de la technolo
 
 Ney donne le “go” à Mahertis.
 
-## Le vieux réseau
+## 33 – Le vieux réseau
 
 Internet qu'ils l'appellent. Les couches de bas niveau n'ont pas vraiment évolué depuis que la norme IP V6 a été choisie. On trouve bien ci et là quelques fragments de réseau du type SolNet, mais il ne s'agit que d'infrastructures privées que quelques idéalistes ont tenté de construire ou de reliquats oubliés de l'âge d'or des corporations sur Terre.
 
@@ -836,7 +843,7 @@ Durant ses débats internes et au fil des intrusions dans d'innombrables serveur
 
 Durant ce temps, Ney et Tsadir mettent au point le logiciel qui servira à analyser tout ceci. Les preuves algorithmiques et les premiers essais annoncent des résultats intéressants.
 
-## Des nouvelles de la Terre
+## 34 – Des nouvelles de la Terre
 
 Tsadir avait reçue des nouvelles réjouissantes de la Terre. Elle et Ney ont ainsi réussi à stabiliser leur situation, faisant du directeur régional de la section “Europe de l'Ouest” un allié précieux. Elles avaient en outre défait un complot qui aurait bien pu faire perdre la face à l'ONU et tendre les relations entre la Terre et les colonies. Bien joué !
 
@@ -852,7 +859,7 @@ Par mesure de précaution, elle commande une arme shock au cas où et vérifie �
 
 Enfin, elle retourne voir Verner pour s'assurer de son confort illusoire.
 
-## Mission to Mars
+## 35 – Mission to Mars
 
 L'équipe est enfin prête, la réunir à distance en moins de quinze heures est un petit exploit, mais avec l'aide de son ancien réseau, la tâche est accomplie. Les agents sont encore en train de se placer mais l'opération sera terminée d'ici une heure.
 
@@ -872,7 +879,8 @@ Et aujourd'hui, lui-même emploie cette force obscure que sont les psions. Ne de
 
 Contemplant la surface tourmentée de la géante gazeuse, l'homme continue de dériver dans ses considérations, ses alliés travaillent quelque part et lorsque ce sera fait, ils lui apporteront son vieil ami Verner.
 
-## Inférences
+----
+## 36 – Inférences
 
 Par la faute du réseau indigent de la Terre, Mahertis mis près de huit heures pour assembler le réseau relationnel de Prest et environ six minutes pour en extraire les informations recherchées.
 
@@ -890,7 +898,8 @@ Ney propose enfin de se rendre à l'hôpital où était soigné l'enfant. Même 
 
 À la place le directeur va les convoquer ici, dans les bureaux onusiens. En attendant, il propose aux solaires de prendre un peu de repos, un des agents va leur monter un repas et elles pourront s'étendre dans la salle de réunion au bout du couloir.
 
-## Prières
+----
+## 37 – Prières
 
 Verner était sous surveillance, il le savait bien : les corporations sont très intelligentes et elles devaient déjà enquêter sur lui. En fin de compte, partir pour les colonies était une erreur. Ces adversaires-là ne s'affrontent pas.
 
@@ -904,7 +913,7 @@ En attendant, et il déplore cette unique solution, il ne peut que continuer à 
 
 À l'apogée de sa paranoïa, le diplomate captif s’endort sur le divan de sa chambre. Pendant ce temps-là ses vœux sont en passe d'être exaucés.
 
-## Un trou dans la matrice
+## 38 – Un trou dans la matrice
 
 Les deux sophontes, des IA sentientes qui ont élu domiciles dans de puissants robots d'assaut, attendent. La réplicante se concentre : la surface sur laquelle elle tente de lier son trou de ver n'est pas encore entrée dans sa perception. L'espace autour d'elle, chaque objet, est une donnée, une sensation sans étiquette et c'est dans ce fouillis qu'elle doit trouver une surface bien précise.
 
@@ -922,7 +931,7 @@ Le portail s'ouvre à nouveau sur une salle visiblement en orbite autour d'Io. A
 
 Tsadir contemple le mur tout en envoyant un message au diplomate Ethéré et au Solar Wardner. Verner s'est échappé, mais elle tient une de ses alliées. En passant, il lui faudrait du sédatif et une salle d'opération ; c'est pour désactiver un implant psi.
 
-## Le point de rupture
+## 39 – Le point de rupture
 
 Quand la direction mondiale de l'ONU recherche quelqu'un elle n'y va pas par quatre chemins et rapidement un mandat d'arrêt international pour complicité de trahison et enlèvement d'enfant est lancé. La nouvelle est relayée sur les réseaux publics, l'affaire n'étant plus du ressort de la discrétion. Les médias ont toutefois été conviés à la modération sur l'affaire.
 
@@ -942,7 +951,7 @@ Ce dernier point n'est pas entièrement vrai : entre Mars et Aesir, des solaire
 
 La singularité s'est produite, mais rien n'a vraiment changé sur ce petit point bleu pâle.
 
-## Game over
+## 40 – Game over
 
 La gamine est assise dans la salle d'interrogatoire. On lui a retiré son implant psi et l'absence des sensations exotiques provoque en elle un grand vide. Ceux qui l'ont capturé ne souhaitent visiblement pas la voir s'enfuir. Peu importe elle a rempli la mission et elle aura ses points quand elle reviendra.
 
@@ -974,7 +983,7 @@ La mission indiquait qu'un homme avait été emprisonné dans l'ambassade. L'op�
 
 Enfin, on leur annonce l'arrivée de Zuko qui souhaite questionner elle-même, sous la surveillance des deux autres, sa protégée. Et avec la ferme intention de trouver celui qui avait détourné l'un de ses enfants perdus et déshonoré sa mission.
 
-## Convalescence
+## 41 – Convalescence
 
 Comme promis, le personnel médical convoqué est entendu par les deux solaires et les agents de l'ONU. Pour des raisons pratiques Ney observe la scène depuis la salle d'observation et transmet ses questions à Tsadir via leur mini réseau.
 
@@ -1004,7 +1013,7 @@ Les autres entretiens apportent les mêmes informations et la matinée se termin
 
 Le médecin doit repasser dans la soirée, après son service. Tsadir demande à ce qu'il soit surveillé et cette précaution est appuyée par Grégoire.
 
-## Game play
+## 42 – Game play
 
 D'ordinaire, discuter avec des gamers est problématique tant leur approche du monde est basée sur le jeu. Pourtant avec Zuko, le dialogue est plus simple. Comme elle l'explique souvent, elle organise le jeu, elle ne joue pas, enfin pas tout le temps. Pour choisir les objectifs de ses cercles et assurer leur bien fait, elle effectue un travail plus rigoureux et bien réel.
 
@@ -1022,7 +1031,7 @@ Avec la précision de l'ordre de mission qui a très clairement été construit 
 
 Dommage pour eux que le Wardner cybernétique ait accepté le plan de Tsadir.
 
-## Un secret qui dérange
+## 43 – Un secret qui dérange
 
 Vous êtes dans la cuisine et vous avez le corps de votre voisin mort au sol devant vous. Vos invités sont arrivés et vous entendez votre femme vous appeler pour les accueillir. Comment faites-vous pour vous débarrasser du corps ?
 
@@ -1038,7 +1047,7 @@ Mais revenons à notre question, que faire ? Inévitablement, vos invités vont
 
 Nemja, elle, s'apprête à le préparer, restant dans la cuisine en prétextant qu'elle s'occupe du repas. Et ils le mangeront, oh oui…
 
-## Attraction
+## 44 – Attraction
 
 Les recherches de Trend avaient abouti sur un piratage des données de Greenstar sur Callisto. La nouvelle rassure évidemment la Game Master, mais elle soulève d'autres questions. D'une part, s'il est aussi aisé de falsifier les informations de ses cercles, combien d'autres missions du genre ont été menées par ses enfants à son nez ?
 
@@ -1078,7 +1087,7 @@ Trend les conduits vers le centre de sécurité et se présente aux forces en pr
 
 C'est l'heure de faire les courses.
 
-## Serment d'hypocrite
+## 45 – Serment d'hypocrite
 
 Le médecin était finalement venu à sa seconde convocation, les solaires s'étaient demandées s'il viendrait finalement. On l'avait installé dans la salle d'interrogatoire et il attendait depuis.
 
@@ -1106,7 +1115,8 @@ Le directeur et Tsadir tentent d'aller plus loin, mais Ney sait déjà que le m�
 
 Jusqu'à ce fameux message reçu par De-Montergny.
 
-## Trous de vers
+----
+## 46 – Trous de vers
 
 Le constructeur universel de la station, un engin capable d'assembler un tout ce qui est nécessaire pour maintenir la station, y compris des morceaux de la station elle-même, travaille devant eux assemblant couche par couche les éléments qui semblent naître de la lumière. Les nanorobots forment des motifs particulièrement complexes et fascinants.
 
@@ -1132,7 +1142,7 @@ Tsadir termine le bond qu'elle avait entamé en direction du robot et sa lame le
 
 Trend annonce alors à l'équipe : « Comme prévu, ils s'étaient préparés à nous recevoir. »
 
-## Whisky écossais
+## 47 – Whisky écossais
 
 Peu après l'entretien avec le Docteur Meline, le directeur avait été contacté par son secrétaire : un message de son supérieur lui était parvenu et il peut la recontacter dans l'heure. Il s'était donc rendu à son bureau avec Tsadir et Ney.
 
@@ -1168,7 +1178,7 @@ L'appareil prend son envol et quitte rapidement l'espace aérien londonien. Cap 
 
 Tsadir médite et Ney passe en mode économie d'énergie : l'horloge tourne.
 
-## Raid HM, need de tout
+## 48 – Raid HM, need de tout
 
 Greenstar avait déployé ses drones, des robots arachnoïdes semblables à des faucheux dont les huit pattes peuvent se déployer dans toutes les directions pour lui permettre de naviguer parfaitement dans l'espace, se servant du sol mais aussi des murs et du plafond : des engins parfaitement adaptés pour se déplacer très rapidement dans les lieux clos comme les stations spatiales. Pour eux, la présence ou non de gravité n'est pas un facteur significatif tant qu'elle ne dépasse pas les zéro point huit “g” ce qui n'est jamais le cas dans les colonies et les stations orbitales.
 
@@ -1196,7 +1206,7 @@ Le silence revient et une fois Zuko assurée de la sécurisation de la petite in
 
 La scène de crime sécurisée, l'équipe peut maintenant enquêter, non sans mettre “au frais” les témoins ou complices potentiels.
 
-## Nocturne
+## 49 – Nocturne
 
 Après avoir survolé une grande partie de l'Angleterre et de l'Écosse, l'appareil furtif s'était posé près de la côte ouest de l'île de Hoy. Ces terres à la végétation rase ont une allure dévastée et le sol rocailleux baigné par l'air marin semblent vide de population, abandonné. L'air particulièrement froid semble être l'une des principales causes de la désertion de ces terres.
 
@@ -1236,7 +1246,7 @@ Lorsqu'elle arrive sur place Ney juste derrière elle. La chimère observe les c
 
 La guerrière garde ses réflexions pour elle, Ney étant probablement arrivée aux mêmes conclusions, et retourne vers l'équipe médicale.
 
-## La porte des dieux
+## 50 – La porte des dieux
 
 Les premiers interrogatoires furent rapides : les cyborgs expliquèrent rapidement que leur rôle était d'arrêter ou de ralentir au maximum toute personne qui pénétrerait dans la station pour laisser le champ libre à EagleNest et Vener qui sont passé quelques heures plus tôt.
 
@@ -1266,7 +1276,7 @@ Lorsque les forces de sécurité arrivent, la navette manquante n'a toujours pas
 
 En revanche, la trajectoire descendante ne permet pas, à moins d'effectuer de très fortes et coûteuses corrections après la perte du signal, d'atteindre une colonie et seule une installation minière automatisée pourrait être atteinte avec une déviation très minime. Selon toutes vraisemblances c'est par là qu'ils doivent aller et Trend s'apprête à négocier un vaisseau avec le commandant Pluralis.
 
-## return null;
+## 51 – return null;
 
 L'extraction de l'enfant est rapidement exécutée et l'équipe reprend son vol en direction de la capitale. De son côté, De-Montergny s'évertue à contacter les colonies pour transmettre la mauvaise nouvelle aux parents. L'ambiance à bord est lourde : le carnage là-bas indique clairement qu'un complot est à l'œuvre sur Terre et peut-être même dans les colonies selon la part de responsabilité Verner dans l'affaire.
 
@@ -1294,7 +1304,7 @@ Tsadir berce sa renarde puis elle fournit la liste des ingrédients nécessaires
 
 Dans une demi-heure, l'appareil se posera sur l'un des héliports de l'aéroport de la City. En attendant, Tsadir choisi d'accompagner Ney dans son économie des forces.
 
-## Touch down
+## 52 – Touch down
 
 Le vaisseau emprunté est une navette de transport civile Flipper. Capable d'effectuer le décollage et la mise en orbite sur Ganymède, la plus grande lune de Jupiter, elle est bien évidement aussi capable d'effectuer le vol retour comprenant la désorbitation et l'atterrissage. Quand la réplicante lui demande pourquoi la mise en avant de cette dernière particularité, Zuko explique qu'atterrir est ici aussi coûteux en carburant que le décollage car l'atmosphère inexistante d'Io ne permet pas de freiner l'appareil avec la friction de l'air.
 
@@ -1320,7 +1330,7 @@ Nonchalamment, la samouraï demande pourquoi la réplicante n'ouvre pas un porta
 
 Cette solution sera plus rapide et paradoxalement moins destructrice pour l'installation.
 
-## Déité
+## 53 – Déité
 
 La quatrième fortune du monde était tombée. Le cours des actions de Josuante, une société de nanotechnologie aux méthodes particulièrement controversées, vient de faire une chute si impressionnante qu'il ne semble même plus possible de la sauver. Pourtant rien ne semble indiquer que la société allait mal ; au contraire, certains experts affirmaient même qu'il s'agissait d'un des placements les plus sûrs, bien plus que les obligations des quelques nations encore “triple A”.
 
@@ -1348,7 +1358,7 @@ La société de biotechnologie ne pourra plus obtenir son monopole sur les conne
 
 Et jubilant dans la victoire, le nouveau Dieu se tourne vers une nouvelle affaire : une conspiration à l'échelle planétaire gangrenant le gardien de la planète. Il y a toutefois cet allié, celui qui lui a donné ce coup de pouce voici deux jours et dont la signature numérique l'associe au nom de Mahertis.
 
-## Home sweet home
+## 54 – Home sweet home
 
 Le retour vers Londres touche à sa fin. Les grandes tours de lumière éclairent encore les ombres de la nuit et l'aéroport, très fortement éclairé, semble encore désert, les vols commerciaux n'ayant pas encore repris. À mesure que l'appareil s'approche des héliports, Tsadir observe le cortège onusien qui les attends. De-Montergny, encadré par de solides gardes du corps, les attends et ses hommes déployés autour comme pour protéger l'aéroport d'une menace visant l'hélicoptère et ses passagers.
 
@@ -1380,7 +1390,7 @@ Retour temporel. Ney est au sol, les soldats autour d'elle commencent à peine �
 
 Elle la prend dans ses bras et la conduit à l'intérieur. Non, la mission ne semble pas encore terminée.
 
-## Mécanismes
+## 55 – Mécanismes
 
 La pression intérieure s'était stabilisée en moins d'une minute, ce qui implique que seul une coursive a été dépressurisée. Parfait. Trend donne feu vert à Greenstar pour ouvrir le portail devant lui. La psion s'exécute rapidement, elle avait déjà préparé cette ouverture.
 
@@ -1420,7 +1430,7 @@ Tsadir arrive enfin à la zone de stockage : il y a visiblement eu du grabuge. 
 
 Expliquant que l'installation est sous contrôle, ils conduisent tout le monde vers la salle de vie, Trend traînant d'une main l'exo-armure dont les motivateurs ont été détruits par plusieurs impacts.
 
-## Recovery
+## 56 – Recovery
 
 On avait conduit Ney à l'infirmerie mais rapidement les médecins avaient abandonné face à une biologie qu'ils ne comprennent pas. Opaque aux rayons X, la fusion organique-cybernétique rendait la chose encore plus difficile encore. Malgré la blessure qui lui avait traversé ce qui aurait pu correspondre au poumon droit sur un être humain, la créature ne semblait pas souffrir et continuait à parler avec la cyborg. Elle prétendait que la blessure n'était pas grave et que son enveloppe survivrait sans mal à court terme.
 
@@ -1444,7 +1454,7 @@ Avec la réponse affirmative de Tsadir, le directeur lance un appel sur son ordi
 
 Il semble qu'il ait beaucoup à expliquer.
 
-## Le plan
+## 57 – Le plan
 
 L'argent a toujours été le nerf de la guerre. Tant d'effort sont fait pour l'acquérir, tant d'effort sont fait pour le dissimuler, tant d'effort sont fait pour le tracer… Dire que le fonctionnement terrien repose sur la circulation, ou la non circulation, de ces devises serait un prétexte valable pour invoquer le célèbre Captain Obvious.
 
@@ -1472,7 +1482,7 @@ Ce qui est dommage avec les flux financiers, c'est qu'on ne peut pas avoir les d
 
 Dix heures : record à battre.
 
-## Nous ne pouvons plus nous mentir
+## 58 – Nous ne pouvons plus nous mentir
 
 Le Solar Wardner mène l'interrogatoire sans prendre de pincettes. Ses premières cibles sont les mercenaires, toujours aussi impressionnés par la mise au sol de leur camarade qui avait eu l'imprudence de charger le cybernétique avec son exosquelette.
 
@@ -1512,7 +1522,7 @@ L'explosion de plasma produit un intense flash de lumière blanche, légèrement
 
 Retour à la navette, heureusement indemne.
 
-## Intrusion extérieure
+## 59 – Intrusion extérieure
 
 Après le récent attentat qui avait échoué, Mahertis avait choisi violer le traité des colonies avec le consentement du directeur. Avec le réseau zombi qu'il avait réussi à monter et son ami Pax, un étrange informateur, l'IA avait totalement ébranlé le “réseau financier” d'Actual Communication. Les retombées seraient importantes, mais avec les preuves et simulations qu'on lui avait fournies, le directeur ne pouvait plus ignorer le complot à l'œuvre.
 
@@ -1566,7 +1576,7 @@ Curieusement, le commandant de la section, William Sandtree, semble avoir chang�
 
 En attendant, son logiciel de reconstitution travail à recréer les lieux et à analyser tout ce qu'elle n'a pas eu le temps d'étudier.
 
-## Boomerang
+## 60 – Boomerang
 
 Les solaires se sont installés à bord de la navette, Trend s'est placé aux commandes et Tsadir occupe le siège du co-pilote. Derrière, deux des soldats ont ouvert un kit médical et commencent à soigner leur collègue.
 
@@ -1590,7 +1600,7 @@ Le Solar Wardner revient vers le groupe et leur annonce qu'il est grand temps de
 
 Tsadir se dirige vers les prisonniers et leur fait signe d'avancer : cette fois-ci, Verner ne pourra plus s'échapper.
 
-## Exhumation
+## 61 – Exhumation
 
 Finalement, la zone est officiellement sécurisée plus d'une heure après le lancement de l'assaut initial. Les pertes des casques bleus comptent une douzaine de femmes et d'hommes, des pauvres gens qui n'auront pas le droit à une seconde vie. Pour Tsadir les conditions de vie sur cette planète sont toujours aussi inacceptables.
 
@@ -1622,7 +1632,7 @@ Enfin, sauf erreur, la mission des solaires semble belle et bien terminée et d'
 
 Il reste donc un peu de travail à accomplir, mais à l'image du fusil traceur de Ney, ce ne sera pas long et il ne restera qu'un peu de poussière de nanite. Il ne manque que le signal, lorsque leur pilote sera prêt.
 
-## Back and again
+## 62 – Back and again
 
 Le retour se déroula sans encombre. Certes la sécurité de la station martienne avait rappliqué dès que le portail s'était ouvert, mais le statut particulier de Trend avait provoqué l'avortement de toute complication. En prime, quatre soldats pour garder un œil sur les prisonniers.
 
@@ -1666,7 +1676,7 @@ Dans tous les cas, si c'est la voie qu'elle souhaite suivre, il est très probab
 
 Sur ces paroles, Zuko souhaite un bon repos à l'oisillon qui s'apprête à s'envoler et elle part se coucher, pour reposer son corps fatigué. La réplicante gagne sa propre chambre et s'assied sur son lit. Elle médite quelques minutes avant de se décider d'imiter la maîtresse des jeux et de se coucher. Elle trouve rapidement le repos.
 
-## Un socle de sable et de fantômes
+## 63 – Un socle de sable et de fantômes
 
 Le signal était remonté au Shard et comme prévu d'un seul coup, une puissante impulsion envoya le signal d'autodestruction. L'antenne de l'éclat se change immédiatement en un nuage de nanite accompagné presque simultanément par l'antenne relais et le dispositif d'espionnage du siège onusien. Les traceurs se changent en structures inertes et l'intégralité du havre des solaires s'effondre ne laissant qu'un tapis de poussière et de gel technologique au sol que la nature colonisera bien assez vite. Enfin, le réseau de surveillance de Wembley se vaporise, disparaissant plus vite qu'il ne fut posé.
 
@@ -1696,7 +1706,7 @@ L'exposé de Ney fit son effet rapidement et le directeur prépare un nouveau pl
 
 De-Montergny commande à son secrétaire de transmettre un message à Nemja Mahut.
 
-## Rédemption dérobée
+## 64 – Rédemption dérobée
 
 Le message lui était parvenu en urgence. Le pantin placé à la tête de la région ouest de l'Europe avait finalement réussi à découvrir leurs sombres secrets. Il s'était obstiné à lui tenir tête et était même parvenu à lui faire perdre son poste de secrétaire.
 
@@ -1724,7 +1734,7 @@ Déshonorée, elle se lève et se dirige vers son bureau. Tel le cliché de ces 
 
 Le coup de feu résonne dans tout l'appartement.
 
-## Évaluation
+## 65 – Évaluation
 
 Dès son éveil, elle part voir Tsadir, mais la guerrière est déjà partie pour les interrogatoires. Elle retourne alors voir son mentor méditant sur la terrasse qui fait face aux jardins. Le dôme des ambassades est le seul dôme d'Elysium à ne pas avoir de grande tour en son centre. Il semble plus à un anneau de tours plantées dans un grand parc. Elle demande à la maîtresse des jeux si elle peut lui obtenir l'accès aux entretiens, mais Zuko lui répond par la négative.
 
@@ -1760,7 +1770,7 @@ Le Solar Wardner s'assied enfin et propose à tout le monde de se préparer pour
 
 « Qui est Ney ? », demande la réplicante.
 
-## Adieux
+## 66 – Adieux
 
 La chimère est furieuse, tout du moins le laisse-t-elle visiblement comprendre. Le petit message du directeur, qu'elle avait désapprouvé, avait mis à mort Nemja. Tsadir, en apprenant cette nouvelle, exprime sa plus profonde déception. Mais le directeur ne tient pas compte de ses remarques et se contente de les ignorer. Après-tout, dit-il, la secrétaire était responsable d'un grand nombre de morts. La justice terrienne n'est après tout qu'une forme de vengeance ironise la cyborg.
 
@@ -1816,7 +1826,7 @@ Viens alors le compte à rebours final suivit de la phénoménale poussée, à p
 
 C'est fini : elles ne sont plus sur Terre.
 
-## Une dernière bonne action
+## 67 – Une dernière bonne action
 
 Le réseau des solaires avait été détruit comme prévu et bien malin serait celui qui trouverait une preuve de leur présence.
 
@@ -1844,7 +1854,7 @@ Mahertis fait enfin remarquer au contrôleur que ses manœuvres l'ont complètem
 
 Ce n'est pas grave : Ney et Tsadir sont très patientes.
 
-## Rendez-vous
+## 68 – Rendez-vous
 
 L'amarrage avec la station s'effectue sans le moindre souci et les occupants sont rapidement invités à quitter la capsule et à gagner la section sécurisée de l'installation. On les y débarrasse des imposantes tenues spatiales et, à nouveau, Ney crée la surprise avec sa frimousse.
 
@@ -1882,7 +1892,7 @@ L'opération supervisée par Mahertis et Pax se déroule sans encombre : les na
 
 Le vaisseau continue sa puissante accélération et devrait atteindre Mars d'ici un peu moins de quatre jours.
 
-## Welcome back
+## 69 – Welcome back
 
 Le rendez-vous avait été pris à la station Jotun. Une vaste installation civile récemment assemblée. Deux gigantesques anneaux parallèles tournent rapidement, simulant une gravité d'un tiers de celle de la Terre. À l'intérieur l'équipe des colonies assiste à l'arrimage de Mahertis par la grande baie vitrée qui couvre tout le plafond de la grande rue circulaire.
 
@@ -1914,7 +1924,8 @@ Le débriefing terminé, il en vient alors aux Tsadir et leur indique que leur a
 
 Les deux jumelles se lèvent et partent discuter de leur côté.
 
-## Intrication
+----
+## 70 – Intrication
 
 La technologie a ouvert de nombreuses nouvelles possibilités. Pourtant certaines ne sont finalement que des copies ou des variantes de ce qui se produit “naturellement”. Par exemple, prenons les processus en informatique : un processus est un programme qui s'exécute. De façon plus imagée : si le code informatique est l'ADN, le processus est l'animal vivant.
 
@@ -1928,6 +1939,7 @@ Après plusieurs heures et de nombreuses simulations destinées à vérifier la 
 
 Elle se relève sous les yeux des deux équipes. Quand on lui demande ce qu'il faut faire avec l'autre corps, elle demande simplement à ce qu'il soit gardé, au cas où elle en aurait besoin. Elle se tourne vers les autres et marche vers Trend. Elle souhaite savoir où en est son épreuve.
 
+----
 ## Épilogue
 
 Ney se repose tranquillement dans l'un des parcs d'Ombrenade. Le grand dôme ne laisse passer qu'une maigre lueur ocre qui diffuse à travers les nuages épais de la lune. Elle a un rendez-vous un peu spécial et son hôte arrive.
@@ -1942,5 +1954,4 @@ Il commence plus sérieusement à enquêter sur ce groupe et a repéré une de l
 
 Une nouvelle mission ? Une nouvelle aventure ? Et Ney qui commençait à se demander si après l'affaire de la Terre, elle ne risquerait pas de s'ennuyer !
 
-FIN
-
+> **FIN**

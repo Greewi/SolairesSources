@@ -1,0 +1,52 @@
+{
+    "titre": "Solaires - Idle",
+    "auteur": "Sylvain « Greewi » Dumazet",
+    "description": "Nouvelle de science-fiction",
+    "structure": [
+        {
+            "source": "Couverture.png",
+            "style": "couverture",
+            "niveau": 1
+        },
+        {
+            "source": "Introduction.md",
+            "style": "recit",
+            "niveau": 1
+        },
+        {
+            "source": "0 - Avant propos.md",
+            "style": "recit",
+            "niveau": 2
+        },
+        {
+            "source": "1 - Un nouveau dans la famille.md",
+            "style": "recit",
+            "niveau": 2
+        },
+        {
+            "source": "2 - Nostalgie d'un monde bleu.md",
+            "style": "recit",
+            "niveau": 2
+        },
+        {
+            "source": "3 - La rage et les coups.md",
+            "style": "recit",
+            "niveau": 2
+        },
+        {
+            "source": "4 - Petit fantôme.md",
+            "style": "recit",
+            "niveau": 2
+        },
+        {
+            "source": "5 - Régulateurs.md",
+            "style": "recit",
+            "niveau": 2
+        },
+        {
+            "source": "6 - Idle.md",
+            "style": "recit",
+            "niveau": 2
+        }
+    ]
+}

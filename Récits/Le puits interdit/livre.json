@@ -1,0 +1,17 @@
+{
+    "titre": "Solaires - Le puits interdit",
+    "auteur": "Sylvain « Greewi » Dumazet",
+    "description": "Roman de science-fiction",
+    "structure": [
+        {
+            "source": "Couverture.png",
+            "style": "couverture",
+            "niveau": 1
+        },
+        {
+            "source": "Le puits interdit.md",
+            "style": "recit",
+            "niveau": 1
+        }
+    ]
+}

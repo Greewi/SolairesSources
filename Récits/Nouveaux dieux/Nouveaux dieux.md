@@ -1,13 +1,18 @@
 # Nouveaux dieux
 
-Sylvain “Greewi” Dumazet
+> Sylvain “Greewi” Dumazet
+> 
+> Version 1.1-RC1
 
-Version 1.0
+*« Donnez à une IA forte un constructeur universel, et vous aurez créé un nouveau dieu. »*
 
-Texte placé sous les termes de la licence Creative Common BY-NC-SA 3.0 [fr]
+*Ce dicton bien naïf est malgré tout un mème récurrent dans la société des Solaires. Nous sommes en 94… 2094. La technologie n'a plus de repères comparables avec celle du début du siècle : ces fameux constructeurs universels ne sont plus des éléments de fiction et les intelligences artificielles imprègnent la société extra-terrestre à tout niveau. La mort a été vaincue, plusieurs planètes et lunes ont été colonisées et de nouveaux êtres sont même nés.*
 
-http://creativecommons.org/licenses/by-nc-sa/3.0/fr
+*Et pourtant, rien de véritablement semblable à ces hypothétiques nouveaux dieux.*
 
+Cette œuvre est mise à disposition sous licence Attribution – Pas d’Utilisation Commerciale – Partage dans les Mêmes Conditions 3.0 France. Pour voir une copie de cette licence, visitez http://creativecommons.org/licenses/by-nc-sa/3.0/fr/ ou écrivez à Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+
+----
 ## Avant-propos
 
 « Donnez à une IA forte un constructeur universel, et vous aurez créé un nouveau dieu. »
@@ -26,6 +31,7 @@ Note : quelques scènes sont susceptibles de mettre mal à l’aise certaines p
 
 Et maintenant, place à l'histoire.
 
+----
 ## 1 – Chute libre
 
 Flottant, attaché dans son siège zéro-G, le contrôleur examine les derniers relevés. Son champ de vision est pratiquement entièrement rempli par une projection en réalité augmentée de la magnifique Saturne. De nombreuses trajectoires symbolisées par des courbes vertes et rouges, enlacent l’astre et passent bien au-delà des limites de la salle de contrôle.
@@ -228,6 +234,7 @@ Ney regarde sa main, si la face interne porte un duvet blanc, le pelage du dos e
 
 Ney s’empare des données et les éparpille dans son espace proche, classant et regroupant les doublons. Son contact se lève, puis lui adresse un petit signe amical de la main avant de s’éloigner. La semi-renarde lui répond d’un hochement de tête et d’un sourire aimable avant de se replonger dans ses devoirs.
 
+----
 ## 5 – Feyn : Extra Vehicular Activity
 
 « Feyn ! Tu es dehors ? »
@@ -288,6 +295,7 @@ La petite fée projette alors de nombreux petits marqueurs en réalité augment�
 
 – Merci Akasha. Idle, je vais bientôt rentrer ! »
 
+----
 ## 6 – Ney : Pas de bagages, pas de problèmes
 
 Le spatioport de Pretty Sand est directement connecté à la gare qui relie la cité à Ombrenade, Tandjan et Krissem. Vu du ciel, il ressemble à un grand triangle sombre dont les bords se fragmentent en d’autres triangles, le processus se répétant plusieurs fois à la manière d’une fractale. De cet amas, d’autres grands triangles, beaucoup plus clairs, émergent et constituent les pistes d’atterrissage. Vu du sol, de l’intérieur même, on aurait dit l’un de ces grands centres commerciaux, tout en vitrines et escalators.
@@ -306,6 +314,7 @@ L’incident en arrière-plan prend rapidement fin tandis que la peluche, sous s
 
 Connectée au réseau de surveillance de la navette, ainsi qu’à tous les systèmes de contrôle, la peluche observe avec attention les événements à venir. De toute évidence, l’enfant qui donne un peu de fil à retordre au préparateur tentant de l’aider à ajuster son siège n’est pas très à l’aise. « Ce n’est que le début du voyage. », lui adresse-t-elle en pensée.
 
+----
 ## 7 – Nightly : À travers le glacier
 
 « Edward Brawnet. 2094-02-13 21:12:04 Sol/Jov/Eur/Essiert »
@@ -392,6 +401,7 @@ Malgré la gravité, marcher peut se révéler un peu traître : la force de Co
 
 Heureusement, Trend lui avait affecté quelques ressources. Des vacances aux frais des Wardners !
 
+----
 ## 10 – Nightly : Sous les glaces d’un autre monde
 
 La terrasse offre une vue dégagée sur le grand axe qui traverse tout le niveau supérieur de la cité. L’architecture déconcertante joue sur l’inversion : une cité suspendue au plafond, encastrée dans une bulle de matériaux composites dont l’épaisseur est difficile à deviner : la pression de l’eau salée à l’extérieur est telle que même les sensations de l’implant ne permettent pas de distinguer l’interface entre les deux matières.
@@ -456,6 +466,7 @@ Sans lâcher sa prise sur l’armure, Idle se blottit quelque seconde contre le 
 
 Elle le regarde, une boule au ventre, pénétrer dans le sas qui conduit à ce vaisseau qui dérivait très certainement pour une bonne raison.
 
+----
 ## 12 – Nightly : Sous pression
 
 Le médigel et les antalgiques font leur effet alors que la douleur se dissipe lentement. La lame, légèrement déviée par l’armure, avait quand même causé beaucoup de dégâts. Heureusement, ils s’avèrent sans gravité immédiate. Alors que les tissus, réassemblés par le gel, ont cessés de saigner, Nightly sait qu’elle ne coupera pas à un passage à l’infirmerie une fois l’affaire terminée.
@@ -472,6 +483,7 @@ Les portes s’ouvrent et à la mine déconfite de Brawnet, elle sait que son re
 
 Alors que la justicière se relève, un flash éblouissant remplace le petit pont où s’était arrêté sa cible. L’instant d’après une onde de choc prodigieuse décroche la passerelle sur laquelle l’enfant se tenait. Alors que différents éléments de structures s’effondrent, Nightly se concentre, ignorant la panique naissante, cherchant sa sensation à travers son implant. Une attache, provenant d’une passerelle plus haut encore, la frappe en pleine tête et la conscience lui échappe.
 
+----
 ## 13 – Ney : Ingénierie sociale
 
 Comme la plupart des hôtels des stations de transit, tout le fonctionnement aussi bien technique, logistique ou même commercial, est géré par des systèmes automatisés. Malgré la centaine de chambres affichées par l’établissement, Ney ne rencontre finalement personne. Rien d’illogique en y repensant : sur une station de transit, il n’y a pas vraiment de rythme général. Chaque voyageur vivant au rythme du vaisseau précédent ou se préparant au prochain vol, c’est plus d’une dizaine de cycles décalés qui cohabitent. Celui de Ney est bien particulier car, profitant de sa nature d’hyper-hybride, elle ne dort pas et se contente de laisser ses muscles synthétiques se reposer de temps en temps.
@@ -492,6 +504,7 @@ Le mercenaire conserve une expression impassible tandis que l’enfant semble r�
 
 Et ce livre semble dire : « Je suis prisonnier et ils ne veulent pas me laisser rentrer chez moi. »
 
+----
 ## 14 – Trend : État d’urgence
 
 L’explosion avait pratiquement balayé tout un niveau. Ce n’était pas une bombe au plasma, mais un explosif conventionnel : il s’agissait de se faire remarquer, d’importer la terreur dans la cité de la nuit. Elle était passée près de lui, accompagnant des débris venant des niveaux supérieurs. Une bonne chute de trente mètres. Heureusement avec la faible gravité, la rattraper ne lui aura causé qu’une fracture au poignet.
@@ -520,6 +533,7 @@ L’enfant déguisée en super héroïne se réveille péniblement, Trend se tou
 
 L’enfant émet un long soupir en guise de réponse. Le wardner la suit avec un air nonchalant, les mains dans les poches, écartant les rabats de son manteau brun. La nuit ne fait que commencer sous les eaux et la glace d’Europe.
 
+----
 ## 15 – Feyn : Abordage
 
 L’écoutille externe du sas termine son ouverture. Devant l’astronaute, le tube composite déplié comme un origami s’étend jusqu’au sas du Bearington. Avançant prudemment, les éléments géométriques, principalement des triangles et des quadrilatères blancs, défilent autour de lui, Certains portent des flèches rouges qui indiquent la direction de l’Akasha.
@@ -586,6 +600,7 @@ Neutraliser le mercenaire sera la première étape : le prendre par surprise et
 
 Maintenant, reste l’exécution.
 
+----
 ## 17 – Nightly : Le leurre
 
 L’ascenseur les conduit au neuvième étage, la numérotation inversée partant du plafond de la cité le panneau de contrôle de la cabine lui semble étrangement désorganisé. La douleur à la hanche s’est estompée mais celle au poignet continue de pulser au gré des battements de cœur.
@@ -700,6 +715,7 @@ La froideur procédurale produit un choc dans la psyché de la nouvelle commanda
 
 Ce n’est plus l’enfant apeurée qui parle : ils ont réveillé le monstre que Ney et Nevi avaient mis à l’abri. Les drones reviennent ? Elle n’a plus peur, la rage a tout remplacé.
 
+----
 ## 19 – Samuel : École buissonnière
 
 Zeiner est encore venu le chercher pour aller manger. Ça fait déjà deux jours que ce type en armure le garde dans l’hôtel. Ici au moins, la gravité est un peu plus forte qu’en bas, mais le Coriolis ou ce qu’a inventé ce type est assez pénible quand on marche ou, pire, si on court.
@@ -840,6 +856,7 @@ Prise d’un doute, Eve invoque son interface RA et commence à rechercher des i
 
 Et prévenir les wardners eux-mêmes ? L’option ne plaît guère à la justicière, mais après tout elle leur doit bien ça.
 
+----
 ## 23 – Nevi : La nevian qui rêvait d’un lance-roquette
 
 Leur première étape : la cantine. Ney est une adorable fille et jamais elle n’aurait laissé l’enfant sans provision aussi longtemps. Il lui est arrivé quelque chose et Nevi jure intérieurement que ce quelque chose aura à répondre. Passant devant avec le vingt-quatre millimètres antichar à l’épaule, la première nevian ne laisse pas le temps à ses camarades pour contester son avancé.
@@ -906,6 +923,7 @@ Le petit groupe traverse les couloirs de l’hôtel se dirigeant vers la chambre
 
 Ironiquement, Ney prend la peluche dans ses bras et le groupe repart vers la section de maintenance.
 
+----
 ## 24 – Feyn : Douceurs
 
 Le bruit réconfortant de l’aérateur berce ses pensées. Doucement, il revient à la conscience. Ses sens lui indiquent qu’il n’est plus dans sa combinaison. Une masse chaleureuse l’enserre et l’accompagne dans sa lente respiration.
@@ -966,6 +984,7 @@ L’intérieur du vaisseau est exigu : tout l’espace interne semble avoir ét
 
 L’officier, le commandant Dannis les installe sur les sièges centraux et le reste de l’équipage les entoure. Dans le canal de réalité augmentée de nombreux écrans virtuels font leur apparition et le premier officier lance la procédure de désamarrage. L’avantage d’avoir choisi un vaisseau militaire c’est qu’ils sont toujours prêts à partir. Oh, et avoir quatre canons électriques capables de découper un vaisseau de ligne peut aussi avoir son utilité.
 
+----
 ## 26 – Idle : Les bégaiements de l’histoire
 
 Au grand réconfort d’Idle, Feyn s’est très rapidement remis sur pied. Avoir été commandante quelques heures lui a plu, mais elle-même l’avoue : seule Akasha savait quoi faire. Et même si ça s’est plutôt bien passé sous son commandement, la nevian manque d’assurance pour occuper cette fonction. C’est un fait : les responsabilités ne sont pas pour elle.
@@ -1740,6 +1759,7 @@ Les cris d’Idle retentissent : « Laissez Feyn tranquille ! ». Tournant l
 
 Guidés par l’officier de la wardner, l’équipe remonte le tube de connexion pour aller à la rencontre de la représentante du corps des solars, dans sa propre enveloppe cette fois-ci.
 
+----
 ## 39 – Garreth : Le marteau et l’enclume
 
 Ils avaient été prévenus par Nodeus : la sécurité avait laissé passer deux équipes vers l’Akasha, ce qui était particulièrement irrégulier. Sanaë l’avait envoyé avec Francklin pour aller y jeter un œil et ils étaient tombés sur l’homme-raton laveur qui dérivait dans le tube de connexion dispersant un peu de sang dans l’espace.
@@ -1764,6 +1784,7 @@ Remontant le tube de connexion, il se retrouve face à trois robots des forces d
 
 Alors qu’ils s’éloignent, Garreth remarque un bleu naissant sur la joue de l’un des faux techniciens. La forme de l’hématome ressemble au motif sur la crosse du plasgun. Il se rapproche de l’arme improvisée et examine le chargeur. Deux charges manquantes et le plastique de la crosse est effectivement fêlée. Oh qu’elle va lui plaire cette petite.
 
+----
 ## 40 – Nightly : Shopping industriel
 
 Chaque cité dans les colonies présente deux faces. La première est celle que tout le monde voit : les sections privées et publiques où les solaires vivent. Mais aussi vaste soit elle, elle ne représente qu’une partie de la seconde. Pour faire vivre un solaire ce sont des centaines de robots et de systèmes automatisés qui sont utilisés. Beaucoup d’habitants sont évidemment conscient de ce fait, mais assez peu d’entre eux, en dehors des bâtisseurs et concepteurs des cités extraterrestres, parviennent à considérer cette facette au-delà des sections de maintenances passant sous leur appartement.
@@ -1952,6 +1973,7 @@ La technophile sait qu’il n’y a pas de réponse simple au problème. La plup
 
 Finalement, c’est peut-être pour ça que les humains conservent encore une certaine foi en la chance.
 
+----
 ## 43 – Idle : Return to Castle Nevian
 
 On leur avait posé plein de question : à propos du Bearington, de l’attaque. L’homme en métal lui avait aussi demandé pourquoi, elle ne leur avait pas dit qu’elle avait neutralisé les deux sales types dans le vaisseau. Sur le coup, elle n’avait simplement pas eu confiance en lui.
@@ -2482,6 +2504,7 @@ Sur le chemin, Trend profite de son accès privilégié avec Ney pour lui poser 
 
 Crémoche. Bon sang, que ce nom est… Ok, c’est une enfant qui fait des jeux de mot. Juste une enfant.
 
+----
 ## 55 – Sanaë : l’armée des morts
 
 La nouvelle lui est parvenue rapidement, aussi inattendue qu’inquiétante : plus de cent vingt instances de Bishop avaient tenté de se rendre ou de se supprimer dans l’heure. Avec les ordres donnés précédemment, un seul a survécu, pris en charge par des mercenaires indépendants. Curieusement, aucune de ces instances n’a cherché à provoquer des dégâts et aucune perte militaire ou civile n’a été rapporté. Vu de l’extérieur, les forces de sécurité passent pour des bouchers sanguinaires.
@@ -2548,6 +2571,7 @@ Dernier à fermer son sac, Scrap a lui aussi fini de s’équiper. Mais contrair
 
 Eve regarde l’horloge de son interface virtuelle : plus que quarante-cinq minutes avant le vol. En route !
 
+----
 ## 57 – Ney : nouveau joueur
 
 Déçue, Ney referme le panneau du recycleur atmosphérique. La restauration de la mémoire n’aura rien donné. Le logiciel qui a fait le ménage à suffisamment détruit les données pour que ce qui reste soit indiscernable du bruit.
@@ -3182,6 +3206,7 @@ Même ces nouveaux dieux cachés dans les ombres, pense-t-elle. Nora n’est pas
 
 Même les dieux redoutent la guerre.
 
+----
 ## Épilogue – Ney : La messagère
 
 Profitant du calme du Nid, Ney se concentre sur sa nouvelle réalisation : à la manière des nanorobots de la matrice défensive de Crémoche, elle tente concevoir ce qu’elle appelle son « Manipulateur de Matière ». Une sorte de constructeur universel à ciel ouvert. Malheureusement, jusqu’ici elle n’a essuyé que des échecs. Mais peu importe : si c’est possible elle y arrivera.
@@ -3212,6 +3237,7 @@ Arrivée au restaurant, Nightly la salue. Ney lui saute dans les bras et l’enl
 
 – Non mais, il n’a pas beaucoup de sens. Sauf si le réseau est vraiment effrayé. »
 
+----
 ## Épilogue – Idle : La trêve
 
 Un message simple : « Paix ». Pour Idle, il est d’une incongruité complète : depuis quand serait-elle en guerre ? Des fois les « grands » ont de bien étranges réactions.
@@ -3240,4 +3266,4 @@ Alors qu’il sort des locaux de DeepOne, son propre avatar lui fait face.
 
 « Bonjour Trend. On a beaucoup de choses à se dire. »
 
-FIN
+> **FIN**
