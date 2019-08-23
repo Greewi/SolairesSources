@@ -2,7 +2,7 @@
 
 > Sylvain « Greewi » Dumazet
 > 
-> Version 1.0-RC1
+> Version 1.0-RC2
 >
 > Remerciements spéciaux à Morvan
 

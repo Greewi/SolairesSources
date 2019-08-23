@@ -4,7 +4,7 @@
 
 Assise sur la couverture, Myla observe les petites silhouettes des gens qui se promènent en contrebas. C’était une idée de Neige : un pique-nique dans l’un des petits parcs accrochés à la grande muraille au-dessus des habitations qui encerclent la ville. De là, toute la ville se révèle et la grande tour, qui transperce même le grand dôme d’Ombrenade, offre un spectacle impressionnant.
 
-Frank et Sabrina n’étaient pas emballés par l’aventure, mais Neige était quand même parvenu à les convaincre de la laisser sortir. Il avait rapidement expliqué qu’il y aurait Matt et Delinda, les meilleurs amis de Myla, accompagnés de leurs parents. Et les voilà qui s’amusent sur cette terrasse éclairée par les spots vifs qui parsèment le dôme, formant des constellations géométriques.
+Franck et Sabrina n’étaient pas emballés par l’aventure, mais Neige était quand même parvenu à les convaincre de la laisser sortir. Il avait rapidement expliqué qu’il y aurait Matt et Delinda, les meilleurs amis de Myla, accompagnés de leurs parents. Et les voilà qui s’amusent sur cette terrasse éclairée par les spots vifs qui parsèment le dôme, formant des constellations géométriques.
 
 Durant ces dernières semaines, Neige pensait à tout et ne loupait pas une seule occasion pour sortir Myla, et parfois ses parents, de cette nostalgie lancinante : leur vie sur la Terre leur manquait encore beaucoup et la petite peluche faisait d’énormes efforts pour leur apporter un peu de renouveau.
 
