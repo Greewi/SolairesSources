@@ -34,7 +34,7 @@ Nevi reste pensive un certain temps, soutenue par son amie.
 
 « D’accord, fais-le. »
 
-Les deux nevian, surtout Ney en vérité, s’affairent pendant près de quatre heures, réinstallant le système d’exploitation sur le nouveau nevian puis injectant les éléments récupérés. Et après l’application de multiples correctifs, le nouveau-né est enfin initialisé.
+Les deux nevians, surtout Ney en vérité, s’affairent pendant près de quatre heures, réinstallant le système d’exploitation sur le nouveau nevian puis injectant les éléments récupérés. Et après l’application de multiples correctifs, le nouveau-né est enfin initialisé.
 
 « Et voilà. Bien ! Hmm, étrange…
 
