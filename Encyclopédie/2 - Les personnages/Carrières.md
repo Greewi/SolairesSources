@@ -43,236 +43,293 @@ Matériel courant : Combinaison spatiale, jet-pack, multitool, logiciels de mai
 
 ## Commando spatial
 
-Ces soldats sont formés et entraînés pour les combats spatiaux, que ce soit à l’intérieur d’une station, lors de l’abordage d’un vaisseau ou dans le vide spatial. L'environnement extra-véhiculaire et l'absence de gravité remettent en question les méthodes conventionnelles des infanteries régulières. Lors de leur missions, ces agents savent que l'espace peut rapidement devenir plus dangereux que l'ennemi même.
+Les commandos spatial sont des soldats formés et entraînés pour les combats spatiaux, que ce soit à l’intérieur d’une station, lors de l’abordage d’un vaisseau ou dans le vide spatial. L'environnement extra-véhiculaire et l'absence de gravité remettent en question les méthodes conventionnelles des infanteries régulières. Lors de leur missions, ces agents savent que l'espace peut rapidement devenir plus dangereux que l'ennemi même.
 
 Aspects : Espace, Combat.
+
+Exemples d'actions typiques : Effectuer une sortie spatiale, Combattre dans l'espace, Aborder un vaisseau, Attaquer une installation extérieure, etc.
 
 Matériel courant : combinaison spatiale, jet-pack, fusil pulseur, armure lourde, etc.
 
 ## Contrebandier
 
-Ces trafiquants sont les as du transport clandestin de matériel illégal. Habitués à contourner les postes de sécurités par de nombreuses façons, ils disposent aussi de relations susceptibles de leur ouvrir certaines portes. 
+Les contrebandiers sont des trafiquants, des as du transport clandestin de matériel illégal. Habitués à contourner les postes de sécurités par de nombreuses façons, ils disposent aussi de relations susceptibles de leur ouvrir certaines portes. Ceux qui travaillent directement dans les corporations sont souvent appelés logisticiens.
 
 Aspects : Infiltration, Négociations, Relation.
 
-Materiel courant : 
+Exemples d'actions typiques : Camoufler du matériel, Corrompre un agent, Échapper à un contrôle de sécurité, Se procurer du matériel illégal, etc.
+
+Matériel courant : décodeur, combinaison de camouflage thermo-optique, lecteur d'intention, etc.
 
 ## Cyber-Mécanicien
 
-Ces spécialistes de la technologie sont amenés à devoir réparer ou modifier un très vaste panel de matériels, véhicules et installations. Certains sont parfois amenés à effectuer quelques sabotages.
-
-Employé lorsque spiders bots et mokenbots ne sont plus suffisants.
+Les cyber-mécaniciens sont des spécialistes de la technologie, amenés à devoir réparer ou modifier un très vaste panel de matériels, véhicules et installations. Certains sont parfois amenés à effectuer quelques sabotages. La maintenance de base est assurée par les spiderbots et les monkeybots, mais lorsqu'ils ne sont plus suffisants, ce sont les cyber-mécaniciens qui sont envoyés.
 
 Aspects : Technologie.
 
-Materiel courant : multitool, robots de maintenance, logiciels de maintenance, etc.
+Exemples d'actions typiques : Réparer du matériel, Installer une modification, Piloter un robot de maintenance, etc.
+
+Matériel courant : multitool, robots de maintenance, logiciels de maintenance, etc.
 
 ## Cyber-Samouraï
 
-ces experts en art martiaux recherchent une forme de perfection dans l’art du combat. Hautement modifiés, ils privilégient le corps à corps et la furtivité aux armes conventionnelles avec un succès certain.
+Les cyber-samouraïs sont des experts en art martiaux aux enveloppes fortement modifiées qui recherchent une forme de perfection dans l’art du combat. Ils privilégient le corps à corps et la furtivité aux armes conventionnelles avec un succès certain. Souvent employés pour des missions spéciales, ils sont la hantise des spécialistes de la sécurité.
 
 Aspects : Combat, Infiltration.
 
-Materiel courant : armes blanches, combinaison de camouflage thermo-optique, vision augmentée, logiciels de combats, etc.
+Exemples d'actions typiques : Combattre à l'arme blanche, Contourner furtivement l'ennemi, Tuer sa cible, etc.
+
+Matériel courant : armes blanches, combinaison de camouflage thermo-optique, vision augmentée, logiciels de combat, etc.
 
 ## Decker
 
-ces pirates informatiques s’injectent directement dans le réseau et forcent les infrastructures informatiques pour en prendre le contrôle, effacer ou récupérer des données. 
+Les deckers sont des pirates informatiques qui s’injectent directement dans le réseau et forcent les infrastructures informatiques pour en prendre le contrôle, ou pour effacer ou récupérer des données. Dans un monde où l'informatique est omniprésente et contrôle pratiquement tout, ces combattants matriciels ne se contentent pas de vols de données et ils ont la capacité de causer de lourds dégâts.
 
 Aspects : Informatique.
 
-Materiel courant : console de décryptage, logiciels de piratage, brise-glace, etc.
+Exemples d'actions typiques : Passer à travers une GLACE, Voler des données, Prendre le contrôle d'un appareil, Neutraliser un autre decker ou un informorphe, etc.
+
+Matériel courant : console de décryptage, logiciels de piratage, brise-glace, etc.
 
 ## Détective
 
-ces enquêteurs sont spécialisés dans la recherche d’indices et l’examen des scènes de crimes. Aucun détail ne leur échappe et sont particulièrement recherchés pour leurs qualités par les forces de sécurités des différentes corporations.
+Les détectives sont des enquêteurs spécialisés dans la recherche d’indices, l’examen des scènes de crimes et l'interrogation des témoins et suspects. Leur travail leur demande de savoir recouper des pistes et des indices pour établir des preuves. Aucun détail ne leur échappe. Ils sont particulièrement recherchés pour leurs qualités par les forces de sécurités des différentes corporations.
 
 Aspects : Enquête.
 
-Materiel courant : logiciel de reconstitution, scanner Wolfa portatif, etc.
+Exemples d'actions typiques : Relever des indices ou des preuves, Analyser une scène de crime, Interroger un témoin, Confronter un suspect, Faire des déductions, etc.
+
+Matériel courant : logiciel de reconstitution, scanner Wolfa portatif, etc.
 
 ## Diplomate
 
-ces négociateurs portent la diplomatie dans les colonies. Adepte des tractations et échanges de haute portée, ils disposent aussi de réseaux de contacts très étendus.
+Les diplomates sont des négociateurs qui se voient confier la responsabilité des échangent diplomatie dans les colonies. Adepte des négociations et tractations de haute portée entre les corporations et l'ONU, ils disposent aussi de réseaux de contacts très étendus. Ils sont aussi beaucoup ammenés à voyager car les corporations les envoient à travers tout le système solaire pour les représenter.
 
 Aspects : Négociations, Relations.
 
-Materiel courant : Matériel : lecteur d’intention, divers cadeaux, etc.
+Exemples d'actions typiques : Négocier un accord, Défendre une position, Analyser une situation politique, etc.
+
+Matériel courant : lecteur d’intention, divers cadeaux, etc.
 
 ## Enquêteur de la Sûreté spatiale
 
-ces enquêteurs spécialisés sont des experts de la technologie. Ils sont systématiquement appelés pour faire la lumière sur les accidents et actes de sabotages
+Les enquêteurs de la Sûreté spatiale sont des experts de la technologie spatiale et des procédures de sûreté. Ils sont systématiquement appelés pour faire la lumière sur les accidents et actes de sabotages, mais les corporations les emploient aussi pour l'établissement des certifications et la prévention des incidents. Que ce soit sur une installation au sol ou à bord d'un vaisseau, leurs connaissances et leurs capacités d'analyse en font des experts cruciaux pour éviter de graves accidents.
 
 Aspects : Enquête, Technologie.
 
-Materiel courant : logiciel de reconstitution, scanner Wolfa portatif, multi-tool, etc.
+Exemples d'actions typiques : Analyser les restes d'un incident, Faire un audit technique, Vérifier l'application d'une norme, Délivrer une certification, etc.
+
+Matériel courant : logiciel de reconstitution, scanner Wolfa portatif, multi-tool, etc.
 
 ## Espion
 
-ces hommes de l’ombre sont les spécialistes de la récupération d’information, de façon discrète. Un bon espion, c’est celui qui a récupéré l’information sans l’ennemi sache qu’on y a accédé.
+Les espions sont des agents de l'ombre, spécialistes des opérations furtives et de l'infiltration. Un bon espion, c’est celui qui a opéré sans l’ennemi ne l'apprenne. Leurs missions les conduits souvent à voler des informations, détourner des ressources ennemies, désinformer, saboter, etc. Que ce soit à travers l'usage de personna, d'ingénierie sociale ou de furtivité, ils sont capables d'utiliser de très nombreuses approches pour accomplir leur missions.
 
 Aspects : Infiltration.
 
-Materiel courant : combinaison de camouflage thermo-optique, gants gecko, décodeur, console de décryptage, brise-glaces, etc.
+Exemples d'actions typiques : Se faire passer pour quelqu'un d'autre, Obtenir une information via l'ingenierie sociale, Contourner une sécurité, S'infiltrer furtivement, etc.
+
+Matériel courant : combinaison de camouflage thermo-optique, décodeur, personna, etc.
 
 ## Fixeur
 
-ces hommes possèdent un réseau impressionnant et se spécialisent dans la résolution des problèmes. Quelque-soit votre problème, ils connaissent quelqu’un susceptible de le résoudre ou de vous fournir les informations ou le matériel dont vous avez besoin.
+Les fixeurs sont des agents qui possèdent un réseau impressionnant et se spécialisent dans la résolution des problèmes. Ils sont une source d'information et de contacts presque illimité. Quelque-soit votre problème, soit ils savent comment le résoudre, soit ils connaissent quelqu'un qui le peut. Les agents des corporations font souvent appel à ces informateurs, notamment lorsque la situation commence à leur échapper.
 
 Aspects : Relations, Technologie.
 
-Materiel courant : scanner Wolfa, lecteur d’intention, décodeur, divers matériels destinés à ses clients, etc.
+Exemples d'actions typiques : Trouver un spécialiste d'un domaine, Reconnaitre une technologie, Couvrir ses arrières, etc.
+
+Matériel courant : scanner Wolfa, lecteur d’intention, décodeur, divers matériels destinés à ses clients, etc.
 
 ## Hacker
 
-ces bricoleurs adorent détourner la technologie et l’informatique pour la mettre au service du plus grand nombre. Certains aiment aussi en éprouver les limites et sont souvent employés par les corporations pour faire l’audit des nouveaux systèmes.
+Les hackers sont des bricoleurs qui adorent détourner la technologie et l’informatique pour la mettre au service du plus grand nombre. Certains aiment aussi en éprouver les limites et sont souvent employés par les corporations pour faire l’audit des nouveaux systèmes. Ils sont souvent mal vu par les services de sécurités car leurs expérimentations flirtent allègrement avec le risque.
 
 Aspects : Informatique, Technologie.
 
-Materiel courant : multi-tool, console de décryptage, scanner Wolfa, constructeur universel, etc.
+Exemples d'actions typiques : Modifier un appareil, Réparer un appareil, Concevoir un logiciel, Tester une nouvelle technologie, etc.
+
+Matériel courant : multi-tool, console de décryptage, scanner Wolfa, synthétiseur, constructeur universel, etc.
 
 ## Infiltrateur spatial
 
-ces agents sont les meilleurs pour pénétrer dans des installations spatiales sans se faire repérer. Souvent éclaireurs ou espions, ils sont généralement envoyés pour récupérer des informations, mais il arrive parfois qu’on leur donne des missions plus actives.
+Les infiltrateurs spatiaux sont les meilleurs agents pour pénétrer dans des installations spatiales sans se faire repérer. Arrivant par des voies souvent détournées, ils n'hésitent pas à procéder à une sortie spatiale pour parvenir à leur fins. Souvent éclaireurs ou espions, ils sont généralement envoyés pour récupérer des informations, mais il arrive parfois qu’on leur donne des missions plus actives.
 
 Aspects : Espace, Infiltration.
 
-Materiel courant : combinaison spatiale, camouflage thermo-optique, gant-gecko, décodeur, etc.
+Exemples d'actions typiques : Faire une sortie spatiale, Forcer une sécurité, Se faire passer pour quelqu'un d'autre, S'infiltrer furtivement, etc.
+
+Matériel courant : combinaison spatiale, camouflage thermo-optique, gant-gecko, décodeur, etc.
 
 ## Interrogateur
 
-ces enquêteurs se sont spécialisés dans les interrogatoires et connaissent de nombreuses méthodes pour obtenir des informations de ceux qu’ils ont en face d’eux. La violence physique ne leur est que rarement nécessaire.
+Les interrogateurs sont des enquêteurs spécialisés dans les interrogatoires et connaissent de nombreuses méthodes pour obtenir des informations de ceux qu’ils ont en face d’eux. La violence physique ne leur est que rarement nécessaire car ils maitrisent et comprennent la psychologie des humains et même des IAs. Les services de sécurité des corporations comprennent de nombreux interrogateurs.
 
 Aspects : Enquête, Négociation.
 
-Materiel courant : lecteur d’intention, logiciel de reconstitution, etc.
+Exemples d'actions typiques : Interroger un témoin, Confondre un suspect, Faire avouer un criminel, etc.
+
+Matériel courant : lecteur d’intention, logiciel de reconstitution, etc.
 
 ## Juriste
 
-Aspects : .
+Les juristes sont des spécialistes des lois qui travaillent sur les textes, apportant leur expertise pour concevoir ou évaluer les contrats, arrangements et autres actes légaux dans les colonies. Ils travaillent principalement pour les des sociétés des colonies mais sont aussi appelés pour assister les solaires dans leurs démarches administratives.
 
-Materiel courant : 
+Aspects : Négociation.
+
+Exemples d'actions typiques : Étudier un contrat, Valider un arrangement, Vérifier la légalité d'une action, etc.
+
+Matériel courant : textes de lois et historique légal des colonies.
 
 ## Justicier
 
-ces enquêteurs indépendants sont aussi les défenseurs engagés de leurs clients. Ils n’hésitent pas à prendre part directement aux combats pour défendre leurs idéaux.
+Les justiciers sont des enquêteurs indépendants et les défenseurs engagés de leurs clients. N"hésitant par à prendre part directement aux combats pour défendre leurs idéaux, ils ont une approche très directe concernant leurs affaires. Ils opèrent en marge des forces de sécurités régulières et s'ils opèrent généralement en solitaire, ils reçoivent parfois leurs missions des corporations qui tentent de canaliser leur besoin d'action en profitant de leurs capacités souvent atypiques. D'autres trouvent leurs sources d'aventure par des moyens moins avouables, principalement grâce à des alliés mieux renseignés.
 
-Aspects : Combat, Enquête.
+Aspects : Combat, Enquête, Infiltration.
 
-Materiel courant : armes shock, armure légère, logiciel de reconstitution, etc.
+Exemples d'actions typiques : Se battre, Interroger un suspect, S'introduire dans un domicile, Échapper aux forces de sécurité, etc.
+
+Matériel courant : armes shock, armure légère, logiciel de reconstitution, décodeur, etc.
 
 ## Hygiéniste
 
+Les hygiénistes sont des experts médicaux spécialisés dans la prévention et la gestion des risques sanitaires et épidémiques. Bien qu'ils s'occupent entre autre de l'administratif de leur service, ils travaillent aussi régulièrement au contact des patients et dirigent l'armée de robots médicaux qui constituent son service. Les corporations les emploient pour garder sous contrôle le risque d'épidémie et pouvoir répondre convenablement aux incidents qui pourraient s'avérer critiques dans les colonies.
 
-Aspects : .
+Aspects : Technologie, Négociation.
 
-Materiel courant : 
+Exemples d'actions typiques : Diagnostiquer un patient, Prédire un risque sanitaire, Piloter un robot médical, etc.
+
+Matériel courant : robots médical, station médicale, scanner wolfa, synthétiseur, medikit, etc.
 
 ## Medic de combat
 
-
-Aspects : .
-
-Materiel courant : 
-
-## Mercenaire
-
-ces hommes à tout faire sont très prisés par les corporations. Acceptant la plupart des missions, des plus dangereuses aux moins légales, ces solaires ne manquent jamais de travail.
+Les medics de combat sont des médecins de terrain employés directement sur le champ de bataille. Entrainés pour soigner et restaurer les capacités des soldats blessés, leurs compétences recouvrent non seulement la médecine et la psychologie, mais aussi la mécanique et la cybernétique. En seconde ligne, ils participaient aussi aux combats lorsqu'ils ne traitaient pas un patient. Durant la guerre, toutes les unités d'infanterie comportaient au moins un de ces agents. Depuis, on les retrouve surtout dans les infirmeries des avant-postes et vaisseaux spatiaux.
 
 Aspects : Combat, Technologie.
 
-Materiel courant : armure lourde, fusil pulseur, multi-tool, etc.
+Exemples d'actions typiques : Diagnostiquer un patient, Apporter des soins, Réparer une protèse, Remplacer un implant, etc.
+
+Matériel courant : medibot, medikit, multitool, fusil pulseur, armure légère, etc.
+
+## Mercenaire
+
+Les mercenaires sont des agents polyvalents employés pour effectuer le travail dangereux des corporations, dans des cadres trop sensibles qu'elles puissent employer leurs agents réguliers. Acceptant la plupart des missions, des plus dangereuses aux moins légales, ces solaires ne manquent jamais de travail.
+
+Aspects : Combat, Technologie.
+
+Exemples d'actions typiques : Combattre, Détruire un appareil, Exfiltrer un agent, Défendre une position, etc.
+
+Matériel courant : armure lourde, fusil pulseur, multi-tool, etc.
 
 ## Négociateur
 
-ces médiateurs sont capables de démêler des situations inextricables. Employés par les forces de sécurités, on les envoie pour négocier lors des prises d’otages ou pour faire reprendre raison aux forcenés retranchés.
+Les négociateurs sont des médiateurs capables de démêler des situations inextricables. Employés par les forces de sécurités, on les envoie pour négocier lors des prises d’otages ou pour faire reprendre raison aux forcenés retranchés. Pour accomplir leurs missions, ils possèdent de solides connaissances de psychologies et un entrainement très avancé en négociations. Ils sont aussi les yeux des forces de sécurités une fois en contact avec leurs adversaires.
 
 Aspects : Négociation.
 
-Materiel courant : armure légère, lecteur d’intention, etc.
+Exemples d'actions typiques : Gagner du temps, Calmer un individus, Mémoriser une situation, Communiquer des informations discrètement, etc.
+
+Matériel courant : armure légère, lecteur d’intention, logiciel de communication informelle, noyau de sauvegarde, etc.
 
 ## Officier de liaison
 
-ces soldats sont de véritables coordinateurs. Dirigeant les escouades sur le terrain, ils font le relais avec le reste de la hiérarchie. Avec l’isolement relatif des colonies, on attend généralement une grande autonomie de leur part.
+Les officiers de liaisons sont des coordinateurs et des facilitateurs. Leur principal travail consiste à servir d'intermédiaire entre deux forces étrangères lors d'une opération commune. Pour y parvenir efficacement, ils possèdent une formation qui met l'accent sur la communication et l'apprentissage des coutumes méthodes employées par les autres forces militaires. Pouvant être amené à opérer directement sur le terrain, ils possèdent aussi une formation martiale conséquente. Durant la guerre des colonies, ils ont été très employés pour coordonner les opérations, notamment sur les nombreuses batailles de Jupiter.
 
 Aspects : Combat, Relations.
 
-Materiel courant : armure légère, fusil pulseur, etc.
+Exemples d'actions typiques : Transmettre et traduire des ordres, Contribuer à une tactique, Combattre, etc.
+
+Matériel courant : armure légère, fusil pulseur, etc.
 
 ## Pacificateur
 
-ces hommes de l’ordre sont appelés pour contrôler les foules, notamment lors des émeutes ou des mouvements de panique. Ils savent se faire écouter mais n’hésitent pas non plus à employer la force lorsque ça devient nécessaire.
+Les pacificateurs sont des agents de maintient de l'ordre spécialisés dans le contrôle des foules. Ils sont principalement employés pour gérer les émeutes et les mouvements de panique. S'ils savent se faire écouter, ils n'hésitent pas non plus à employer la force lorsque ça devient nécessaire et sont les agents des forces de sécurité les plus lourdement équipés au contact des civils.
 
 Aspects : Combat, Négociation.
 
-Materiel courant : armure légère, bouclier anti-émeute, pistolet shock, grenade shock, etc.
+Exemples d'actions typiques : Retenir une foule, Intimider des individus, Neutraliser un agitateur, Combattre en milieu urbain, etc.
+
+Matériel courant : armure légère, bouclier anti-émeute, pistolet shock, grenade shock, etc.
 
 ## Pilote
 
-ces techniciens maîtrisent les procédures appropriées gérer toutes les phases d’un vol spatial. Souvent confrontés à divers incidents, ils sont aussi formés pour y faire face au pire. Car une erreur au mauvais moment et le vaisseau est perdu.
+Les pilotes sont des techniciens qui maîtrisent les procédures appropriées gérer toutes les phases d’un vol spatial. Ils sont aussi formé à la maintenance des appareils et comme ils sont susceptible d'être confronté à des incidents, cette formation couvre aussi les procédures d'urgences pour faire face au pire : une erreur au mauvais moment et le vaisseau est perdu. Avec le volume des échanges entre les colonies, les pilotes sont très demandé par les corporations.
 
 Aspects : Espace, Technologie.
 
-Materiel courant : véhicules, combinaison spatiale, multi-tool, etc.
+Exemples d'actions typiques : Commander un vaisseau, Effectuer des réparations, Piloter un véhicule, Faire une sortie, etc.
+
+Matériel courant : véhicules, combinaison spatiale, multi-tool, etc.
 
 ## Idole
 
-ces artistes touchent une grande communauté de fans et sont souvent connus à travers tout le système solaire. Ces personnages bénéficient d’un réseau de relations qui peuvent parfois rendre des diplomates envieux.
+Les idoles sont des artistes iconiques adulés par de grandes communautés de fans. Ils sont souvent connus à travers tout le système solaire et bénéficient de réseaux de relations qui peuvent parfois même rendre des diplomates envieux. Souvent spécialisés, leurs expertise couvrent de nombreux domaines tels que les stims, les jeux virtuels, la musique, la dance, la vulgarisation, etc. Les corporations mettent allègrement en avant ceux qui développent les aspects qu'elle souhaitent promouvoir dans sa population.
 
 Aspects : Relations.
 
-Materiel courant : matériel multimédia, matériel musical, etc.
+Exemples d'actions typiques : Se produire sur une scène, Promouvoir quelque chose, Faire appel à ses fans, etc.
+
+Matériel courant : matériel multimédia, matériel musical, etc.
 
 ## Privé
 
-ces enquêteurs privés sont principalement amenés mener les enquêtes dont les corporations se désintéressent. Malgré tout, les corporations les emploient dès qu’elles soupçonnent un problème de corruption ou une trahison en interne.
+Les privés sont des enquêteurs indépendants qui sont principalement amenés à mener les enquêtes dont les corporations se désintéressent. Devant souvent agir à la limite de la légalité, ils sont régulièrement confronté aux forces de sécurité régulière. Même si leurs missions provient le plus souvent de particulier, les corporations les emploient dès qu’elles soupçonnent un problème de corruption ou une trahison en interne.
 
 Aspects : Enquête, Infiltration, Négociations.
 
-Materiel courant : lecteur d’intention, logiciel de reconstitution, décodeur, scanner Wolfa portatif, etc.
+Exemples d'actions typiques : Prendre en filature, Pénétrer dans un lieu privé, Interroger un suspect, Négocier avec les forces de sécurité, etc.
+
+Matériel courant : lecteur d’intention, logiciel de reconstitution, décodeur, scanner Wolfa portatif, etc.
 
 ## Procureur
 
-ces brillants orateurs sont aussi des experts des lois qui défendent leurs clients lors des procès. Ils sont aussi appelés dans certains cas pour affronter les administrations les plus tordues. Leur utilité dans les colonies est toutefois relative.
+Les procureurs sont de brillants orateurs et experts des lois qui défendent leurs clients lors des procès. Dans les démarches judiciaires, tout solaire a en effet le droit d'être assisté d'un avocat et les corporations s'assurent que ce doit soit respecté. Parfois, il arrive aussi qu'ils soient appelés pour affronter les administrations les plus tordues, notamment celle relatives avec la Terre, en particulier pour les récents arrivants.
 
 Aspects : Négociation.
 
-Materiel courant : un beau costume, lecteur d’intention, etc.
+Exemples d'actions typiques : Plaidoyer devant une cours, Comprendre un texte de loi, Conseiller un client, Construire une défense légale, Convaincre un jury etc.
+
+Matériel courant : un beau costume, lecteur d’intention, etc.
 
 ## Psion
 
-ces êtres possèdent un implant psi. Cet implant leur octroie des capacités surnaturelles encore inexpliquées. En fonction de la nature de l’implant, ils peuvent déplacer des objets, se soustraire à la perception des autres, projeter des éclairs… 
+Les psions sont simplement des solaires possédant l'implant psi. Cet implant leur octroie des capacités surnaturelles encore inexpliquées qui font fie de certaines loies de la physique. Ainsi, en fonction de la nature de l’implant, ils peuvent déplacer des objets, se soustraire à la perception des autres, projeter des éclaire, etc.
 
-Aspects : Variable.
+Aspects : Varie en fonction de l'ensemble de pouvoir.
 
-Materiel courant : implant psi, etc.
+Exemples d'actions typiques : Percevoir à travers l'implant, Utiliser une capacité de l'implant, Récupérer d'une surcharge, etc.
 
->> Energie/Espace/Biologie
->> Information/Meta
->> Matière
+Matériel courant : implant psi.
 
 ## Recruteur clandestin
 
+Les recruteurs clandestins sont des agents spécialisés dans la construction de réseau de résistance et terroristes. Capables de travailler seuls, ils savent recruter les bonnes personnes et les convaincre d'agir. La logistique ne leur fait pas non plus peur et ils savent profiter des réseaux de marché noirs qui existent, quand ils n'en sont pas directement à l'origine. Agissant sur le territoire adverse, ils savent se construire une couverture et peuvent opérer en toute discrétion. Ces agents ont été très employés durant la guerre des colonies pour préparer la reprise des colonies envahies par l'ONU.
 
-Aspects : .
+Aspects : Relation, Négociation, Infiltration.
 
-Materiel courant : 
+Exemples d'actions typiques : Recruter un agent, Transmettre un message secret, Récupérer du matériel illégal, Organiser un réseau secret, etc.
+
+Matériel courant : logiciel de lecture d'intention, logiciels de cryptographie, personna, etc.
 
 ## Récupérateur spatial
 
-ces spécialistes polyvalents sont parfois surnommés « ferrailleurs ». Depuis leurs vaisseaux, ils récupèrent les débris qui encombrent les orbites et les livrent aux installations orbitales pour recyclage.
+Les récupérateurs spatial sont des spécialistes polyvalents de la récupération parfois surnommés « ferrailleurs ». Travaillant principalement dans l'espace, ils récupèrent les débris qui encombrent les orbites et les livrent aux installations orbitales pour recyclage. Parfois confrontés à d'anciennes technologies datant de la guerre, leurs opérations sont parmis les plus dangereuses laissées à des êtres sentients. Ils assistent aussi les vaisseaux en perdition et accourent à l'aide lorsqu'un vaisseau ou une installation est victime d'un incident. La sûreté spatiale des corporations repose significativement sur les épaules de ces véritables anges gardiens.
 
 Aspects : Espace, Technologie.
 
-Materiel courant : combinaison spatiale, multi-tool, décodeur, etc.
+Exemples d'actions typiques : Capturer une épave à la dérive, Inspecter un débris, Faire une sortie spatiale, Sécuriser un véhicule endommagé, etc.
+
+Matériel courant : vaisseau de récupération, drone d'inspection, combinaison spatiale, multi-tool, décodeur, etc.
 
 ## Représentant
 
-ces personnes sont d’excellents négociateurs dont le but est de vous vendre les produits ou services de leur société. Connaissant toutes les ficelles de la psychologie ils emploient parfois des méthodes un peu douteuses.
+Les représentants sont des négociateurs d'excellence dont le but est de promouvoir et de représenter une société ou un groupe. 
+
+ vous vendre les produits ou services de leur société. Connaissant toutes les ficelles de la psychologie ils emploient parfois des méthodes un peu douteuses.
 
 Aspects : Négociation.
 
-Materiel courant : un beau costume, lecteur d’intention, etc.
+Matériel courant : un beau costume, lecteur d’intention, etc.
 
 ## Saboteur
 
@@ -280,20 +337,20 @@ ces agents furtifs sont spécialisés dans la destruction et la neutralisation d
 
 Aspects : Infiltration, Technologie.
 
-Materiel courant : accréditation universelle, etc.
+Matériel courant : accréditation universelle, etc.
 
 ## Secouriste « De terrain »
 
 
 Aspects : .
 
-Materiel courant : 
+Matériel courant : 
 
 ## Secouriste « Superviseur/Ange »
 
 Aspects : .
 
-Materiel courant : 
+Matériel courant : 
 
 ## Solar Wardner [1]
 
@@ -301,7 +358,7 @@ ces gardiens de la paix sont des agents au service des colonies. Leaders d’exc
 
 Aspects : Négociations, Relations.
 
-Materiel courant : accréditation universelle, etc.
+Matériel courant : accréditation universelle, etc.
 
 ## Soldat d’infanterie
 
@@ -309,7 +366,7 @@ ces combattants forment le gros des forces sentientes lors des affrontements de 
 
 Aspects : Combat.
 
-Materiel courant : Armure lourde, fusil pulseur, armes blanches, etc.
+Matériel courant : Armure lourde, fusil pulseur, armes blanches, etc.
 
 ## Technophile
 
@@ -317,4 +374,4 @@ ces passionnés de technologie passent leur temps à découvrir, disséquer et i
 
 Aspects : Technologie.
 
-Materiel courant : multi-tool, scanner Wolfa portatif, constructeur universel, foglets, des tas de gadgets fait sur mesure, etc.
+Matériel courant : multi-tool, scanner Wolfa portatif, constructeur universel, foglets, des tas de gadgets fait sur mesure, etc.

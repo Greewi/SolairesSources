@@ -9,8 +9,11 @@
 
 Voici la méthode de création des personnages guidée. Des trois méthodes proposées, il s’agit certainement de la plus proche de ce que connaissent les joueurs et meneurs qui connaissent d’autres jeux de rôle. Nous pensons aussi que cette méthode est la plus appropriée pour des joueurs ne connaissant pas encore le jeu, notamment son univers.
 
-Cette création commence par une série de choix et sélection :
-* les rôles du personnage, généralement faite en coordination avec les autres joueurs ;
+## En résumé
+
+La méthode de création de personnage guidée commence par la constitution du groupe nous l'avons décrite dans le chapitre *Création de personnage*. À l'issue de cette première étape vous aurez normalement choisi la nature du groupe et ses objectifs ainsi que la pace de votre personnage dans ce groupe et donc les rôles de votre personnage. Notez ces informations dans le cartouche *Identité* de votre personnage.
+
+La création de votre personnage se poursuit par une série de choix et sélection :
 * la nature de l’esprit du personnage et son enveloppe, qui détermine la nature du personnage ;
 * ses carrières, qui définissent ses métiers, loisirs et autres activités ;
 * ses relations, c’est-à-dire de ses contacts, ses alliés, ses affiliations ;
@@ -26,30 +29,11 @@ Elle continue avec une partie plus descriptive :
 * sa motivation, déterminant les raisons pour lesquelles il est actif ;
 * son histoire, qui explique comment il en est arrivé là.
 
-
 >> Dans le cas d’une série, vous définirez aussi une intrigue pour le personnage qui servira lui donner un objectif secondaire et un moyen d’évoluer. Cette étape est décrite dans la section *Évolution des personnages*.
 
-## Rôles du personnage
-Pour commencer, vous devez choisir les rôles de votre personnage. Les rôles sont les aspects d’une aventure que le personnage est capable de gérer. Il en existe huit : *Combat, Enquête, Espace, Infiltration, Informatique, Négociation, Relation et Technologie*.
-
-Si tous les personnages sont créés en même temps, nous vous conseillons de distribuer les rôles sur les personnages pour éviter des lacunes dans le groupe et lui permettre d’être capable de faire face aux situations rencontrées. Un peu de redondance est aussi une bonne idée. De façon générale nous recommandons que chaque personnage soit capables de gérer trois rôles.
-
-
->> Notez les rôles de votre personnage sur la fiche du personnage, dans le champ correspondant du cartouche *Identité*.
-
-Pour vous aider à mieux cerner ce que ces rôles recouvrent, en voici une description plus précise :
-* **Combat** : particulièrement mis en avant dans les jeux de rôles en général, le combat n’est qu’un des nombreux aspects développés dans Solaires. Il s’agit ici de gérer les affrontements armés et la guerre.
-* **Enquête** : l’enquête tient une place importante dans la plupart des scénarios. Les personnages s’occupant de cet aspect sont confrontés à la recherche d’indices et leur analyse. Ils sont particulièrement doués pour repérer les détails qui échapperaient à d’autres personnages.
-* **Espace** : l’espace est un environnement intrinsèquement hostile. Ceux qui y sont régulièrement confrontés savent se préparer pour les sorties et connaissent toutes les procédures pour en revenir vivant. N’oubliez pas : l’espace est pratiquement omniprésent dans les colonies.
-* **Infiltration** : agir sans se faire repérer est indispensable pour de nombreuses missions et ceux qui excellent dans cet art sont très recherchés. Récupérer quelque chose, effectuer un sabotage, extraire quelqu’un, etc. voila des choses que l’on peut faire sans bruit.
-* **Informatique** : l’informatique est omniprésente dans la société des solaires et ceux qui savent s’en servir et la maîtrisent disposent de moyens qui débordent très largement du cadre virtuel. Qu’il s’agisse de récupérer des données ou de prendre le contrôle d’une infrastructure, c’est souvent la voie la plus directe pour y parvenir.
-* **Négociation** : à part les sauvages, la plupart des gens préfèrent dialoguer avant d’envisager d’autres solutions, notamment la violence. La négociation représente les conflits sociaux, qu’il s’agisse de demander des faveurs, des services, ou de se disculper. Convaincre, négocier, marchander.
-* **Relation** : avoir le bras long est un avantage indéniable. Connaître des gens de tout milieu permet d’obtenir des informations, des services ou du soutien en cas de coup dur.
-* **Technologie** : la technologie est un domaine vaste qui entre les bonnes mains permet pratiquement de réaliser n’importe quoi. Celui qui le maîtrise peut comprendre le fonctionnement d’un appareil étrange, assembler un outil dans l’urgence, neutraliser un système automatisé, etc.
-
 ## Nature du personnage
-La nature d’un personnage repose sur deux concepts : son esprit et son enveloppe. L’enveloppe est le corps du personnage son incarnation physique. L’esprit, lui, peut être résumé par sa nature : il s’agit du moteur de la conscience du personnage, de son intelligence, de sa capacité à faire plus de choses qu’une brique. Ainsi l’esprit pilote l’enveloppe et perçoit à travers lui. Il s’agit toutefois d’une simplification : il existe un phénomène appelé « embodiement » qui rend la séparation plus difficile.
 
+La nature d’un personnage repose sur deux concepts : son esprit et son enveloppe. L’enveloppe est le corps du personnage son incarnation physique. L’esprit, lui, peut être résumé par sa nature : il s’agit du moteur de la conscience du personnage, de son intelligence, de sa capacité à faire plus de choses qu’une brique. Ainsi l’esprit pilote l’enveloppe et perçoit à travers lui. Il s’agit toutefois d’une simplification : il existe un phénomène appelé « embodiement » qui rend la séparation plus difficile.
 
 >> Notez la nature d’esprit et l’enveloppe usuelle dans leurs champs respectifs du cartouche *Identité*.
 >> 
@@ -64,6 +48,8 @@ Voici la liste de ces natures d’esprit, aussi appelées intelligences (les dat
 * **Supervision (Modificateur)** *(Depuis 2083)* : les IA de supervision sont des logiciels associés à des intelligences naturelles, ou provoluées, qui octroient des capacités mentales surhumaine et une intégration parfaite aux couches virtuelles. Nécessite une enveloppe Biomodifiée (avec un système de calcul sur wetware), Cyborg ou Cybernétique. *Variantes : Intelligence naturelle supervisée, Intelligence provoluée supervisée*.
 * **Infomorphisation (Modificateur)** *(Depuis 2081)* : l’infomorphisation consiste à prendre une intelligence naturelle ou provoluée et à la transformer en une intelligence infomorphe. Ce processus reste exceptionnellement rare. Naturellement infomorphes, elles peuvent toutefois être instanciées sur des enveloppes cybernétiques ou hyper-hybrides. *Variantes : Intelligence naturelle infomorphisée, Intelligence provoluée infomorphisée.*
 
+>> Vous trouverez plus d'informations sur les types de nature d'esprit dans le chapitre *Intelligences* de la partie *Les personnages*.
+
 ----
 Après la nature de l’esprit du personnage, voyons les différents types d’enveloppes (nous avons précisé la date du premier exemplaire ou prototype quand cela était pertinent) :
 * **Biologique** : parfois appelées « naturelles », ces enveloppes sont les premières historiquement. Dépassées sur de nombreux points, ces enveloppes n’existent plus dans les colonies que sous des formes modifiées (voir. biomodifié et cyborgs). Elles restent toutefois majoritaires sur Terre. *Modèles : humain.*
@@ -76,9 +62,10 @@ Après la nature de l’esprit du personnage, voyons les différents types d’e
 * **Biomodification (Modificateur)** *(Depuis 2050)* : la biomodification d’une enveloppe biologique ou provoluée permet d’y ajouter des améliorations ou de les spécialiser à travers des modifications organiques comme la reprogrammation génétique, la greffe ou le remplacement d’organes améliorés, etc. *Variantes : Biologique biomodifié, Provolué biomodifié. Modèles : humain bio-modifié, provolué bio-modifié.*
 * **Cybernétisation (Modificateur)** *(Depuis 2035)* : les cyborgs sont des enveloppes originellement organiques dans lesquelles on a intégré des implants cybernétiques pour en améliorer les capacités. La grande majorité des solaires utilisent des enveloppes cyborg. *Variantes : Cyborg (biologique), Provolué cyborg. Modèles : cyborg, provolué cyborg.*
 
+>> Vous trouverez plus d'informations sur les types d'enveloppe dans le chapitre *Enveloppes* de la partie *Les personnages*.
 
 >> ### Psions
->> Les psions sont un élément de la nature des personnages un peu particulier. Théoriquement, tout être ayant une enveloppe disposant d’un centre nerveux organique (ceci inclus les biomodifiés, les cyborgs et les chimères), peut se faire installer un implant psi et devenir un psion. Toutefois, les répercussions sur les capacités du personnage sont telles qu’il convient d’inclure cette propriété comme faisant partie de la nature du personnage.
+>> Les psions sont un élément de la nature des personnages un peu particulier. Théoriquement, tout être ayant une enveloppe disposant d’un centre nerveux organique (ceci inclus les biomodifiés, les cyborgs, les réplicants et les chimères), peut se faire installer un implant psi et devenir un psion. Toutefois, les répercussions sur les capacités du personnage sont telles qu’il convient d’inclure cette propriété comme faisant partie de la nature du personnage.
 >> 
 >> Si vous choisissez de créer un psion, notez-le avec l’enveloppe (par exemple *« Chimère psion »*). Nous vous conseillons ensuite de choisir le domaine de votre implant dés l’étape du concept, car ce choix interfère avec les rôles du personnage, mais aussi ses traits de caractère.
 >> 
@@ -95,25 +82,22 @@ Après la nature de l’esprit du personnage, voyons les différents types d’e
 ## Carrières
 Les carrières sont des métiers, vocations et autres occupations que votre personnage a été amené à pratiquer au cours de sa vie. Il n’existe pas de liste exhaustive et définitive de ces carrières. Toutefois, pour vous aider, nous vous proposons une liste des carrières les plus courantes dans Solaires.
 
->> Notez les carrières de votre personnage dans le cartouche correspondant. Essayez de respecter au mieux les rôles que vous avez choisis. Nous vous avons indiqué, à titre d’exemple, les rôles couverts par ces carrières.
+>> Notez les carrières de votre personnage dans le cartouche correspondant. Essayez de respecter au mieux les rôles que vous avez choisis. Nous vous avons indiqué, à titre d’exemple, les rôles couverts par ces carrières. Vous trouverez aussi des courtes listes de matériel utilisé pour ces carrières : elles vous seront utiles lorsque vous choisirez votre matériel plus tard.
 >> 
->> Vous trouverez aussi des courtes listes de matériel utilisé pour ces carrières : elles vous seront utiles lorsque vous choisirez votre matériel plus tard.
+>> Pour plus de détails sur les carrières, voyez le chapitre *Carrières* de la partie *Les personnages*.
 
 Voici donc cette liste :
-* **Analyste** *(Enquête, Informatique)* : ces experts du traitement de données excellent à mettre au jour les anomalies qui se cachent parmi elles. Ils sont aussi souvent amenés à forcer des systèmes informatiques pour y récupérer des preuves. *Matériel : console de décryptage, logiciel de reconstitution, logiciel de piratage, etc.*
-* **Astronaute** *(Espace)* : ces prestigieux opérateurs ont vu leur métier pratiquement disparaître avec la colonisation et la spécialisation. Malgré tout, quelques solaires continuent de se revendiquer astronaute, en particulier d’anciens terriens. *Matériel : combinaison spatiale, jet-pack, multitool, logiciels de maintenance, etc.*
-* **Avocat** *(Négociation)* : ces brillants orateurs sont aussi des experts des lois qui défendent leurs clients lors des procès. Ils sont aussi appelés dans certains cas pour affronter les administrations les plus tordues. Leur utilité dans les colonies est toutefois relative. *Matériel : un beau costume, lecteur d’intention, etc.*
-* **Commando spatial** *(Espace, Combat)* : ces soldats sont formés et entraînés pour les combats spatiaux, que ce soit à l’intérieur d’une station, lors de l’abordage d’un vaisseau ou dans le vide spatial. *Matériel : combinaison spatiale, jet-pack, fusil pulseur, armure légère, etc.*
-* **Commercial** *(Négociation)* : ces personnes sont d’excellents négociateurs dont le but est de vous vendre les produits ou services de leur société. Connaissant toutes les ficelles de la psychologie ils emploient parfois des méthodes un peu douteuses. *Matériel : un beau costume, lecteur d’intention, etc.*
-* **Contrebandier** *(Infiltration, Négociations, Relation)* : ces spécialistes du transport en toute discrétion sont capables de vous fournir ou de vous transporter n’importe quoi. Ceux qui travaillent directement dans les corporations sont souvent appelés logisticiens. *Matériel : lecteur d’intention, tenue de camouflage thermo-optique, décodeur, etc.*
+* **Analyste** *(Enquête, Informatique)* : Les analystes sont des experts du traitement des données. Ils savent extraire des tendances, mettre en évidence des motifs, et repérer les anomalies au sein de quantités de données colossales. *Matériel : console de décryptage, logiciel de reconstitution, logiciel de piratage, etc.*
+* **Astronaute** *(Espace)* : Les astronautes sont des opérateurs dans le domaine spatial très lourdement entraînés. Leur formation leur a appris à gérer toutes les situations spatiales, qu'elles soient normales ou non. *Matériel : combinaison spatiale, jet-pack, multitool, logiciels de maintenance, etc.*
+* **Commando spatial** *(Espace, Combat)* : Ces soldats sont formés et entraînés pour les combats spatiaux, que ce soit à l’intérieur d’une station, lors de l’abordage d’un vaisseau ou dans le vide spatial. *Matériel : combinaison spatiale, jet-pack, fusil pulseur, armure légère, etc.*
+* **Contrebandier** *(Infiltration, Négociations, Relation)* : Ces trafiquants sont les as du transport clandestin de matériel illégal. Habitués à contourner les postes de sécurités par de nombreuses façons, ils disposent aussi de relations susceptibles de leur ouvrir certaines portes. *Matériel : lecteur d’intention, tenue de camouflage thermo-optique, décodeur, etc.*
 * **Cyber-Mécanicien** *(Technologie)* : ces spécialistes de la technologie sont amenés à devoir réparer ou modifier un très vaste panel de matériels, véhicules et installations. Certains sont parfois amenés à effectuer quelques sabotages. *Matériel : multitool, robots de maintenance, logiciels de maintenance, etc.*
-* **Cyber-Medic** *(Technologie)* : ces spécialistes sont autant des réparateurs que des soigneurs. Avec les solaires, la médecine a beaucoup évoluée et ces hommes sont capables de remettre en état aussi bien un humain malade qu’un cybernétique endommagé. *Matériel : médigel, station médicale, multi-tool, nano-robots, etc.*
 * **Cyber-Samouraï** *(Combat, Infiltration)* : ces experts en art martiaux recherchent une forme de perfection dans l’art du combat. Hautement modifiés, ils privilégient le corps à corps et la furtivité aux armes conventionnelles avec un succès certain. *Matériel : armes blanches, combinaison de camouflage thermo-optique, vision augmentée, logiciels de combats, etc.*
 * **Decker** *(Informatique)* : ces pirates informatiques s’injectent directement dans le réseau et forcent les infrastructures informatiques pour en prendre le contrôle, effacer ou récupérer des données. *Matériel : console de décryptage, logiciels de piratage, brise-glace, etc.*
 * **Détective** *(Enquête)* : ces enquêteurs sont spécialisés dans la recherche d’indices et l’examen des scènes de crimes. Aucun détail ne leur échappe et sont particulièrement recherchés pour leurs qualités par les forces de sécurités des différentes corporations. *Matériel : logiciel de reconstitution, scanner Wolfa portatif, etc.*
 * **Diplomate** *(Négociations, Relations)* : ces négociateurs portent la diplomatie dans les colonies. Adepte des tractations et échanges de haute portée, ils disposent aussi de réseaux de contacts très étendus. *Matériel : lecteur d’intention, divers cadeaux, etc.*
+* **Enquêteur de la Sûreté spatiale** *(Enquête, Technologie)* : ces enquêteurs spécialisés sont des experts de la technologie. Ils sont systématiquement appelés pour faire la lumière sur les accidents et actes de sabotages. *Matériel : logiciel de reconstitution, scanner Wolfa portatif, multi-tool, etc.*
 * **Espion** *(Infiltration, Informatique)* : ces hommes de l’ombre sont les spécialistes de la récupération d’information, de façon discrète. Un bon espion, c’est celui qui a récupéré l’information sans l’ennemi sache qu’on y a accédé. *Matériel : combinaison de camouflage thermo-optique, gants gecko, décodeur, console de décryptage, brise-glaces, etc.*
-* **Expert technique** *(Enquête, Technologie)* : ces enquêteurs spécialisés sont des experts de la technologie. Ils sont systématiquement appelés pour faire la lumière sur les accidents et actes de sabotages. *Matériel : logiciel de reconstitution, scanner Wolfa portatif, multi-tool, etc.*
 * **Fixeur** *(Relations, Technologie)* : ces hommes possèdent un réseau impressionnant et se spécialisent dans la résolution des problèmes. Quelque-soit votre problème, ils connaissent quelqu’un susceptible de le résoudre ou de vous fournir les informations ou le matériel dont vous avez besoin. *Matériel : scanner Wolfa, lecteur d’intention, décodeur, divers matériels destinés à ses clients, etc.*
 * **Hacker** *(Informatique, Technologie)* : ces bricoleurs adorent détourner la technologie et l’informatique pour la mettre au service du plus grand nombre. Certains aiment aussi en éprouver les limites et sont souvent employés par les corporations pour faire l’audit des nouveaux systèmes. *Matériel : multi-tool, console de décryptage, scanner Wolfa, constructeur universel, etc.*
 * **Infiltrateur spatial** *(Espace, Infiltration)* : ces agents sont les meilleurs pour pénétrer dans des installations spatiales sans se faire repérer. Souvent éclaireurs ou espions, ils sont généralement envoyés pour récupérer des informations, mais il arrive parfois qu’on leur donne des missions plus actives. *Matériel : combinaison spatiale, camouflage thermo-optique, gant-gecko, décodeur, etc.*
@@ -138,6 +122,8 @@ Voici donc cette liste :
 Les relations sont les contacts et alliés dont dispose votre personnage au sein des différentes factions du jeu. Une relation peut désigner une faction, indiquant que votre personnage connaît des gens à l’intérieur susceptible de l’aider, ou directement une personne.
 
 >> Notez les relations de votre personnage dans le cartouche correspondant.
+>>
+>> Vous trouverez des informations beaucoup plus complètes sur les factions principales de Solaires dans le chapitre *Factions principales* de la partie *Le contexte*.
 
 De nombreuses factions œuvrent dans le système solaire : nations, corporations, organisation indépendantes, organisations criminelles, etc. En voici la liste des plus connues, et des plus puissantes :
 * **L’ONU** *(Organisation terrienne, force spatiale depuis 2072)* : cette organisation représente la Terre et les nations terriennes dans l'espace. Responsable de la guerre, l'ONU ne représente plus vraiment une menace pour les colonies et l'organisation mondiale ne sert finalement plus qu'à représenter les intérêts des Terriens auprès des colonies.
@@ -159,6 +145,8 @@ De nombreuses factions œuvrent dans le système solaire : nations, corporation
 Les modifications sont classées en deux familles, selon qu’elles sont organiques ou cybernétiques. Choisissez vos modifications de façon à soutenir vos carrières : ainsi un Cyborg Decker devrait prendre la Console de décryptage intégrée.
 
 >> Notez les modifications et les implants de votre personnage dans le cartouche correspondant. Faites attentions à la compatibilité : par exemple les modifications organiques ne peuvent pas être prises sur une enveloppe cybernétique.
+>>
+>> Vous trouverez des informations plus complètes sur les modifications et implants dans les chapitres correspondants de la partie *Le catalogue*.
 
 Les modifications cybernétiques prennent la forme d’implants ou de modules électroniques et mécaniques remplaçant des parties du corps ou intégrée dans une enveloppe cybernétique. Les versions pour hyper-hybride elles semblent plus organiques mais restent mixtes. Seules les enveloppes cyborgs, cybernétiques et hyper-hybrides peuvent intégrer de telles modifications.
 
@@ -212,6 +200,8 @@ Voici une liste, elle aussi non exhaustive, des modifications organiques les plu
 L'équipement est le matériel que transporte et utilise votre personnage régulièrement. Il est probable qu'il n'emporte pas tout ce matériel : un astronaute en vacances ne se balade pas en combinaison spatiale. Là encore choisissez l’équipement en rapport avec les carrières de votre personnage : par exemple, un technophile devrait toujours prendre un *Multi-tool*, mais probablement pas une *Grenade shock*.
 
 >> Notez l’équipement de votre personnage dans le cartouche correspondant.
+>>
+>> Vous trouverez des informations plus complètes sur l'équipment dans les chapitres correspondants de la partie *Le catalogue*.
 
 Voici une liste, non exhaustive, du matériel le plus courant dans les colonies :
 * **Arme pulseur** : arme propulsant des munitions de nanite à des vitesses supersoniques. Attention : les versions lourdes sont susceptibles de traverser murs et cloisons d’étanchéités.
@@ -241,6 +231,8 @@ Voici une liste, non exhaustive, du matériel le plus courant dans les colonies�
 Comme dirait quelqu’un de mort il y a très longtemps : « Quelle que soit la tâche à accomplir, il y a un logiciel pour ça. ». Les logiciels sont des programmes ou applications directement liés à votre personnage généralement chargé dans son link. Ces logiciels permettent d'effectuer des taches particulièrement spécialisées et pointues.
 
 >> Notez les logiciels de votre personnage dans le cartouche correspondant.
+>>
+>> Vous trouverez des informations plus complètes sur les logiciels dans les chapitres correspondants de la partie *Le catalogue*.
 
 Les logiciels sont omniprésents dans les colonies. Voici les plus utiles pour des personnages joueurs :
 * **Agent de recherche** : de base tout le monde en possède, ce sont simplement les successeurs des moteurs de recherche.
@@ -266,11 +258,11 @@ Les particularités physiques elles aussi peuvent être des qualificatifs comme 
 ## Chiffrage des éléments
 Les carrières, relations, traits, modifications, équipement et logiciels sont les éléments de votre personnage qui seront utilisés par le système de résolution. Toutefois pour qu’il puisse y parvenir, vous devez encore leur attribuer un score.
 
-Ces scores vont de 1 à 3 inclus et ne pourront jamais sortir de cet intervalle. Chaque palier à une signification en fonction de sa nature :
-* **Trait** : Léger (1), Important (2), Extrême (3) ;
-* **Carrière** : Débutant (1), Professionnel (2), Expert (3) ;
-* **Relation** : Connaissance (1), Allié (2), Ami (3) ;
-* **Équipement/Modification/Logiciels** : Standard (1), Amélioré ou intégré (2), A la pointe (3).
+Ces scores vont de 0 à 3 inclus et ne pourront jamais sortir de cet intervalle. Chaque palier à une signification en fonction de sa nature :
+* **Trait** : Insignifiant (0), Léger (1), Important (2), Extrême (3) ;
+* **Carrière** : Profane (0), Débutant (1), Professionnel (2), Expert (3) ;
+* **Relation** : Connu (0), Favorable (1), Allié (2), Dévoué (3) ;
+* **Équipement/Modification/Logiciels** : Ordinaire ou Standard (0), Amélioré ou spécial (1), À la pointe (2), Prochaine génération (3).
 
 >> Par défaut le système n'impose aucun mécanisme pouvant limiter les scores des éléments : l'objectif est de reproduire le plus fidèlement le personnage imaginé initialement.
 >> 
@@ -297,7 +289,6 @@ Indiquez ensuite son affiliation actuelle. Qu’il s’agisse d’une corporatio
 
 Enfin, choisissez le genre de votre personnage. Initialement basée sur le sexe, cette notion a toutefois beaucoup perdu en sens : choisie de plus en plus arbitrairement, notamment par les IA, cette notion ne revêt plus la même importance dans la société des solaires. Les valeurs les plus représentées restent *« neutre »*, *« féminin »* et *« masculin »*. On trouve aussi de nombreuses variantes comme *« mixte »*, *« fluide »*, *« indéfini »*, etc.
 
-
 >> Dans Solaires, et les jeux de rôles en général, il n’y a aucune obligation de jouer un personnage du même genre que le sien.
 >> 
 >> Par ailleurs, la civilisation des colonies ne fait aucune discrimination entre les différents genres, que ce soit au niveau des postes ou de la représentation au sein des différentes structures sociales.
@@ -318,24 +309,25 @@ Cette description se termine par le visage. Ici aussi, exposez ses particularit�
 >> 
 >> Note : durant cette description, il est permis, et même recommandé, d'y faire figurer les traits physiques pertinents.
 
-La seconde description concerne l’avatar de votre personnage. Avec l’omniprésence de SolNet, les solaires communiquent beaucoup à travers le réseau, que ce soit en direct ou à travers des messages asynchrones, et l’avatar reste la principale forme de représentation des utilisateurs. Les infomorphes en utilisent aussi beaucoup en les projetant directement sur la couche de réalité augmenté. Si le physique d'un personnage est contraint par la physique, les avatars disposent de design bien plus libres encore.
+La seconde description concerne l’avatar de votre personnage. Avec l’omniprésence de SolNet, les solaires communiquent beaucoup à travers le réseau, que ce soit en direct ou à travers des messages asynchrones, et l’avatar reste la principale forme de représentation des utilisateurs. Les infomorphes en utilisent aussi beaucoup en les projetant directement sur la couche de réalité augmenté. Si le physique d'un personnage est contraint par la physique, les avatars disposent d'une conception artistique bien plus libres encore.
 
 >> Décrivez l’avatar de votre personnage dans le cartouche correspondant. Cet avatar peut être une copie conforme de l'enveloppe du personnage ou quelque chose de totalement nouveau !
 
 ## Motivation
+
 Les colonies jouissent d'une économie de l'abondance et le travail y est devenu quelque chose de complètement optionnel : plus de 90 % de la population sentiente y est « oisive ». Pourtant votre personnage refuse de rester inactif et effectue des missions pour le compte des corporations ou de façon indépendante.
 
 Définissez sa motivation, les raisons pour lesquelles il a décidé de prendre une part active dans la vie des colonies et accepte d’effectuer des missions dangereuses. Pour vous aider, voici quelques exemples de motivation :
 * **Le personnage en veut plus** : le traitement de base des colonies ne lui suffit pas et il s’est mis en activité pour bénéficier d’un meilleur traitement. Notez que le traitement de base est déjà particulièrement généreux et que le personnage recherche un train de vie particulièrement riche.
-* **Le personnage veut être actif** : il n’arrive pas à se satisfaire d’une vienormale et recherche l’aventure.
-* **Le personnage veut avoir un rôle à jouer** : il considère qu’ildoit jouer son rôle dans les colonies et ne pas simplement être un spectateur des événements.
-
+* **Le personnage veut être actif** : il n’arrive pas à se satisfaire d’une vie normale et recherche l’aventure.
+* **Le personnage veut avoir un rôle à jouer** : il considère qu’il doit jouer son rôle dans les colonies et ne pas simplement être un spectateur des événements.
 
 >> Notez la motivation de votre personnage dans le cartouche Motivations – Objectifs.
 
 Évitez de faire reposer cette motivation sur une quête personnelle – par exemple : *« Faire libérer sa sœur. »* – ou sur une contrainte – par exemple : *« Subit le chantage du commanditaire. »* – car ces motivations sont éphémères et oriente le personnage vers des objectifs qui ne sont pas nécessairement compatibles avec ceux du groupe. Dans le second exemple, le personnage pourrait même chercher à régler le problème directement et entrer en conflit avec les autres personnages non joueurs.
 
 ## Opinions
+
 Approfondissons la façon dont le personnage considère le monde en notant son opinion générale vis-à-vis de divers aspects de la société des solaires : la technologie, les êtres biologiques, les êtres modifiés, les êtres artificiels, les psions, les religions, la Terre et les colonies. Il n’est pas nécessaire de développer les réponses à ces questions : la simple appréciation suffit. En réalité ces questions servent surtout à initier le questionnement du joueur sur la perception du personnage sur des éléments de sa vie courante.
 
 
