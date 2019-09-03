@@ -323,55 +323,70 @@ Matériel courant : vaisseau de récupération, drone d'inspection, combinaison 
 
 ## Représentant
 
-Les représentants sont des négociateurs d'excellence dont le but est de promouvoir et de représenter une société ou un groupe. 
-
- vous vendre les produits ou services de leur société. Connaissant toutes les ficelles de la psychologie ils emploient parfois des méthodes un peu douteuses.
+Les représentants sont des négociateurs d'excellence dont le but est de promouvoir et de représenter une société ou un groupe. Habitué à démarcher les potentiels collaborateurs et clients de la société, ce sont des agents commerciaux très proactifs qui connaissent toutes les ficelles de la psychologie y compris celle des IA. Si les corporations leur préfèrent les diplomates, toutes les sociétés et petits groupes en ont beaucoup l'usage.
 
 Aspects : Négociation.
+
+Exemples d'actions typiques : Négocier un contrat, Atteindre un interlocuteur, Démarcher un client, etc.
 
 Matériel courant : un beau costume, lecteur d’intention, etc.
 
 ## Saboteur
 
-ces agents furtifs sont spécialisés dans la destruction et la neutralisation du matériel adverse. Leurs méthodes discrètes leur permettent d’agir sans se faire remarquer.
+Les saboteurs sont des agents furtifs spécialisés dans la destruction et la neutralisation du matériel adverse. Utilisants des approches furtives et un peu d'ingenierie sociale pour atteindre leur objectifs, ils possèdent des connaissances très avancées sur le fonctionnement des appareils et plus particulièrement sur les moyens de les endommager ou de les détruire. Bien sûr, au besoin il reste les explosifs. Évidemment, les corporations ont beaucoup eu besoin d'eux au cours de la guerre des colonies et on pourrait imaginer qu'ils ont cessé leurs activité à la fin, mais force est de constater qu'il semble rester une demande.
 
 Aspects : Infiltration, Technologie.
 
+Exemples d'actions typiques : Pénétrer dans un lieu sécurisé, Saboter un appareil, Manipuler des explosifs, etc.
+
 Matériel courant : accréditation universelle, etc.
 
-## Secouriste « De terrain »
+## Sauveteur
 
+Les sauveteurs sont des agents entraînés pour effectuer des sauvetages dans les conditions difficiles de l'espace et les environnements dangereux de la surface des planètes. Disposant d'enveloppes spécialisées, ils bénéficient d'outils perfectionnés pour opérer des extractions, réanimations et autres opérations de secours. Les forces de sécurités des colonies en emploient de nombreux pour assurer la sécurité de leurs citoyens.
 
-Aspects : .
+Aspects : Espace, Négociation.
 
-Matériel courant : 
+Exemples d'actions typiques : évoluer dans un environnement accidenté, sécuriser un blessé, assister une victime, etc.
 
-## Secouriste « Superviseur/Ange »
+Matériel courant : médikit, multitool, robot d'inspection, médibot, etc.
 
-Aspects : .
+## Solar Wardner
 
-Matériel courant : 
-
-## Solar Wardner [1]
-
-ces gardiens de la paix sont des agents au service des colonies. Leaders d’exception, ils s’entourent généralement d’équipes polyvalentes et font faces aux dangers qui menacent les colonies.
+Les Solar Wardners sont des gardiens de la paix au service des colonies. Leaders d’exception, ils s’entourent généralement d’équipes polyvalentes et font faces aux dangers qui menacent les colonies. Être un Solar Wardner est surtout un titre associé à un important carnet de contact et un poid non négligeable dans toute négociation. Tous les Solar Wardners brillent par leurs autres carrières. Leurs autres compétences sont même un critère de sélection. Les corporations évitent tant que possible d'avoir affaire à eux, mais ceux-ci n'ont pas besoin d'être appelé pour opérer, parfois au grand déplaisir des corporations.
 
 Aspects : Négociations, Relations.
+
+Exemples d'actions typiques : faire pression dans une négociation, obtenir du matériel, recruter un agent, etc.
 
 Matériel courant : accréditation universelle, etc.
 
 ## Soldat d’infanterie
 
-ces combattants forment le gros des forces sentientes lors des affrontements de surface. Formés au maniement de nombreuses armes, ils ne délaissent pas pour autant le corps à corps.
+Les soldats d'infanterie sont les combattants qui forment le gros des forces sentientes lors des affrontements de surface. Formés au maniement de nombreuses armes, ils ne délaissent pas pour autant le corps à corps. Bien qu'en première ligne, ils sont épaulés par les robots d'assaut et de soutien. Depuis la fin de la guerre des colonies, les corporations n'en conservent que des effectifs réduits.
 
 Aspects : Combat.
 
+Exemples d'actions typiques : Combattre, Défendre une position, etc.
+
 Matériel courant : Armure lourde, fusil pulseur, armes blanches, etc.
+
+## Superviseur d'opération de sécurité
+
+Les superviseurs d'opération de sécurité, surnomés « anges », sont des commandants qui dirigent à distance des équipes de sécurité, contrôlant notamment les robots de sécurité et de sauvetage. Ils sont en contact direct avec les agents sur le terrain qu'il s'agisse de pacificateurs ou de sauveteurs. Les forces de sécurités des colonies diposent de nombreuses unités spécialisées où servent ces agents, bien que les plus petites équipes disposent de plus d'autonomie.
+
+Aspects : Négociation, Relation.
+
+Exemples d'actions typiques : diriger une équipe à distance, préparer une expédition, gérer une situation d'urgence, etc.
+
+Matériel courant : logiciels de reconstitution, logiciels prédictifs, logiciels de maintenance, etc.
 
 ## Technophile
 
-ces passionnés de technologie passent leur temps à découvrir, disséquer et inventer de nouveaux appareils. Ils sont persuadés que la maîtrise de la technologie leur permettra de résoudre les problèmes qu’ils rencontreront.
+Les technophiles sont des passionnés de technologie passent leur temps à découvrir, disséquer et inventer de nouveaux appareils. Ils sont persuadés que la maîtrise de la technologie leur permettra de résoudre les problèmes qu’ils rencontreront. Leurs connaissances débordent généralement du seul domaine technologique et couvre aussi les sciences. Pour leurs propres développement, les corporations leur préfèrent les chercheurs, mais les découvertes qu'ils peuvent apporter justifient souvent de les laisser en activité.
 
 Aspects : Technologie.
+
+Exemples d'actions typiques : Concevoir un gadget, Réparer un appareil, Améliorer un outil, Faire de la rétro-ingénierie, etc.
 
 Matériel courant : multi-tool, scanner Wolfa portatif, constructeur universel, foglets, des tas de gadgets fait sur mesure, etc.
