@@ -1,8 +1,8 @@
 # Mener
 
-> *« Il y aura des conséquences… »*
->
-> Marth « Iron Lady », leader d'Aesir
+> *« Ne soyez pas déçus. Le réalisme scientifique a ses limites et mes modèles ne peuvent que l'approcher. »*
+> 
+> Wolfa, première intelligence artificielle de recherche
 
 Être meneur, ou meneuse, peut être intimidant les premières fois. On pose sur vos épaules la charge de l'univers du jeu et on vous place garant de la cohérence de l'histoire qui va se dérouler durant la partie. Mais en quoi consiste vraiment tout ça ? Nous vous donnons ici les explications qui devraient vous aider à y voir plus clair.
 

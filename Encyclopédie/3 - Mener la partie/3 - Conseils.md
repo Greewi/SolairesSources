@@ -9,7 +9,7 @@ Une fois la partie lancée, votre principale tâche est de faire évoluer l’un
 
 Parfois, les joueurs peuvent bloquer dans l’histoire : ils ont peut-être manqué d’idée, raté un élément important ou oublié une information essentielle. Dans ces cas, aidez-les : rappelez-leur cette information importante, suggérez-leur une piste qu’ils ont négligée, etc. Ne prenez pas pour autant la main sur leurs décisions : vous risqueriez de rendre la partie bien plus rigide que vous ne le souhaiteriez, avec le risque de placer les joueurs en simple spectateur !
 
-Voici une règle essentielle : vous n’êtes pas l’adversaire des joueurs ! Soyez leur complice. Mais n’hésitez pas à rendre la vie de leur personnage compliquée : tant qu’ils ont des ennuis, ils ont une raison d’avancer.
+Voici une règle essentielle : vous n’êtes pas l’adversaire des joueurs ! Soyez leur complice. Mais n’hésitez pas à compliquer la vie de leur personnage : tant qu’ils ont des ennuis, ils ont une raison d’avancer.
 
 Enfin, vous aurez parfois le rôle d’arbitre : lors d’un conflit autour de la table, à propos d’un point de règle ou de l’interprétation d’un élément de jeu, c’est à vous que revient le droit et le devoir de trancher.
 
