@@ -4,7 +4,7 @@
 >
 > Trend, Solar Wardner
 >
-> *« Comme ça ! »*
+> *« Comme ça ! »*
 >
 > Nightly, justicière psion
 
@@ -109,7 +109,7 @@ Traits psychologiques : *Empathique, Délicat, Sensible, Manipulateur*
 
 ----
 ## Pouvoirs : Méta
-Les pouvoirs méta permettent d'interagir avec les pouvoirs des autres implants psi.
+Les pouvoirs « méta » permettent d'interagir avec les pouvoirs des autres implants psi.
 
 Capacités :
 * **Percevoir les implants psi et connaître les pouvoirs qui y sont associés**.

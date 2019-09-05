@@ -4,9 +4,6 @@
 >
 > Jova, vulgarisatrice scientifique
 
->> TODO : Préciser que les carrières contiennent des relations anonymes
->> 
-
 Pour créer vos personnages, vous disposez de plusieurs méthodes que nous décrivons dans les sections suivantes. Mais avant de plonger dans celles-ci, nous vous présentons les règles générales qui permettent de définir ce que sont les personnages et que vous retrouverez dans les différentes méthodes de création.
 
 ## De quoi est fait un personnage ?
@@ -26,6 +23,8 @@ Voici une petite description des différents catégories :
 * **les modifications** : les implants et autres fonctionnalités particulières de l’enveloppe du personnage ;
 * **l’équipement** : le matériel usuel du personnage ;
 * **les logiciels** : les logiciels spécialisés du personnage.
+
+>> Notez que les carrières contiennent aussi des relations « annonymes », c'est-à-dire des relations qui ne sont pas nécessairement décrites parmis les relations du personnage. Il s'agit principalement des collègues et autres personnes fréquentées durant la pratique de la carrière.
 
 ## Évaluer les éléments
 

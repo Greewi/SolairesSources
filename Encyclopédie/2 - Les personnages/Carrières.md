@@ -1,25 +1,10 @@
 # Carrières
 
-> «  »
+> *« Tu sais, dans les colonies tu peux vivre avec les allocations de base et être épanouie. Mais si tu veux vraiment être active, les corporations ne s'y opposeront pas. Bien au contraire ! »*
 > 
-> 
+> Snack, assistant domestique
 
 Malgré l'automatisation extrême, il existe un très grand nombre de professions et de vocations dans les colonies. Il serait impossible de toutes les décrire ici, mais nous pouvons quand même vous présenter les carrières les plus courantes et utiles pour vos personnages.
-
->> Pour donner un aperçu des compétences et savoirs nécessaires apportés par ces carrières, nous leur avons associé un petit graphique apportant des précisions. Nous avons estimé ces compétences sur l'échelle suivante : **Non-pertinente** (0), **Occasionnelle** (1), **Importante** (2), **Essentielle** (3).
->>
->> Pour vous aider à lire ces graphiques, voici ce que recouvre chaque super-compétence :
->> * **Artisanat** : le bricolage, la construction, la conception, l'estimation, la programmation ;
->> * **Combat** : les arts-martiaux, les armes à distances, la défense ;
->> * **Éloquence** : le baratin, la comédie, la persuasion, la séduction ;
->> * **Sens** : la discrétion, la furtivité, l'observation, la vigilance ;
->> * **Sport** : l'acrobatie, l'athlétisme, l'endurance ;
->> * **Connaissances générales** : l'administration, la culture, les études générales, la justice, les langues ;
->> * **Sciences** : la biologie, la chimie, la géologie, les mathématiques, la physique ;
->> * **Sciences sociales** : la géographie, l'histoire, la psychologie ;
->> * **Technologie** : l'électronique, l'informatique, la mécanique, la médecine.
->>
->> Ces graphiques servent avant tout à permettre aux participants de partager une image proche de ce que recouvrent ces carrières. En particulier, les règles de résolution n'utilisent ces compétences. Ces graphiques seront en revanche utiles pour avoir une idée si une carrière peut être utilisé lors d'une action.
 
 ## Analyste
 
@@ -183,7 +168,7 @@ Matériel courant : textes de lois et historique légal des colonies.
 
 ## Justicier
 
-Les justiciers sont des enquêteurs indépendants et les défenseurs engagés de leurs clients. N"hésitant par à prendre part directement aux combats pour défendre leurs idéaux, ils ont une approche très directe concernant leurs affaires. Ils opèrent en marge des forces de sécurités régulières et s'ils opèrent généralement en solitaire, ils reçoivent parfois leurs missions des corporations qui tentent de canaliser leur besoin d'action en profitant de leurs capacités souvent atypiques. D'autres trouvent leurs sources d'aventure par des moyens moins avouables, principalement grâce à des alliés mieux renseignés.
+Les justiciers sont des enquêteurs indépendants et les défenseurs engagés de leurs clients. N'hésitant par à prendre part directement aux combats pour défendre leurs idéaux, ils ont une approche très directe concernant leurs affaires. Ils opèrent en marge des forces de sécurités régulières et s'ils opèrent généralement en solitaire, ils reçoivent parfois leurs missions des corporations qui tentent de canaliser leur besoin d'action en profitant de leurs capacités souvent atypiques. D'autres trouvent leurs sources d'aventure par des moyens moins avouables, principalement grâce à des alliés mieux renseignés.
 
 Aspects : Combat, Enquête, Infiltration.
 

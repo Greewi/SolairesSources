@@ -1,4 +1,5 @@
 # Intelligences
+
 > *« Réunir les deux mondes de la physique n'aura pas été le plus compliqué. Vous en donner les intuitions pour le comprendre est bien plus difficile : je n'y suis d'ailleurs pas encore parvenu. »*
 > 
 > Wolfa, intelligence artificielle de recherche
@@ -6,6 +7,7 @@
 L'esprit, ou l'intelligence, est un composant clé des personnages. C'est son moteur de décision et de compréhension. Qu'il s'agisse d'un programme informatique ou d'un processus biologique, il est la source des actions d'une enveloppe ou d'un processus logique.
 
 ## Les grandes catégories
+
 Il existe de nombreuses catégories d'intelligences que nous détaillerons par la suite. En voici un court résumé :
 * Intelligences naturelles (humains) ;
 * Intelligences provoluées ;
