@@ -2,7 +2,7 @@
 
 > Sylvain “Greewi” Dumazet
 > 
-> Version 1.1-RC1
+> Version 1.1
 
 *Un diplomate terrien, retrouve enfin sa femme sur Mars, dans les colonies. Mais sans son fils resté sur Terre. Pour retrouver ce dernier, les puissantes corporations envoient alors une cyborg, en direction de la Terre. Évidemment, elle se doute déjà qu'il ne s'agit pas d'une simple mission de baby-sitting et l'agent des colonies découvrira bien assez vite que l'humanité n'a pas pas perdu ses mauvaises habitudes…*
 

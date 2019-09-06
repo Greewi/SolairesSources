@@ -2,7 +2,7 @@
 
 > Sylvain “Greewi” Dumazet
 > 
-> Version 1.1-RC1
+> Version 1.1
 
 *« Donnez à une IA forte un constructeur universel, et vous aurez créé un nouveau dieu. »*
 
