@@ -12,7 +12,7 @@ Voici la méthode de création des personnages guidée. Des trois méthodes prop
 
 ## En résumé
 
-La méthode de création de personnage guidée commence par la constitution du groupe nous l'avons décrite dans le chapitre *Création de personnage*. À l'issue de cette première étape vous aurez normalement choisi la nature du groupe et ses objectifs ainsi que la pace de votre personnage dans ce groupe et donc les rôles de votre personnage. Notez ces informations dans le cartouche *Identité* de votre personnage.
+La méthode de création de personnage guidée commence par la constitution du groupe nous l'avons décrite dans le chapitre *Création de personnage*. À l'issue de cette première étape vous aurez normalement choisi la nature du groupe et ses objectifs ainsi que la place de votre personnage dans ce groupe et donc les rôles de votre personnage. Notez ces informations dans le cartouche *Identité* de votre personnage.
 
 La création de votre personnage se poursuit par une série de choix et sélection :
 * la nature de l’esprit du personnage et son enveloppe, qui détermine la nature du personnage ;
@@ -45,11 +45,11 @@ Voici la liste de ces natures d’esprit, aussi appelées intelligences (les dat
 * **Les intelligences provoluées** *(Depuis 2084)* : similaire aux naturelles, elles sont le résultat d’une évolution artificielle d’une intelligence animale jusqu’à atteindre un niveau de conscience similaire à celui d’un humain. Elles peuvent être instanciées sur tous les substrats organiques et être émulées sur les substrats cybernétiques ou hyper-hybrides. Elles ne peuvent pas être infomorphe.
 * **Intelligence artificielle de type Synchro** *(Depuis 2060 pour la version sentiente)* : premier type d’intelligence artificielle inventé, ces IA possèdent les meilleures capacités de prévision et de structuration. Naturellement infomorphes, elles peuvent être instanciées sur des enveloppes cybernétiques ou hyper-hybrides.
 * **Intelligence artificielle de type Wolfa** *(Depuis 2070)* : ces IA ont été conçues pour la recherche et possèdent les plus grandes capacités d’innovation, d’exploration et de modélisation. Naturellement infomorphes, elles peuvent être instanciées sur des enveloppes cybernétiques ou hyper-hybrides.
-* **Intelligence artificielle de type Ley-Wan** *(Depuis 2074)* : ces IA atypiques possèdent des capacités d’introspection – la capacité de s’auto-altérer – inégalées. Ce sont les seules intelligences artificielles qui peuvent être implémentée sur wetware et donc être instanciées sur des réplicants et chimères. Elles peuvent être émulées sur des substrats cybernétiques et hyper-hybrides. Il s'agit des seules intelligences artificielles qui ne pevent pas être infomorphes.
+* **Intelligence artificielle de type Ley-Wan** *(Depuis 2074)* : ces IA atypiques possèdent des capacités d’introspection – la capacité de s’altérer consciemment – inégalées. Ce sont les seules intelligences artificielles qui peuvent être implémentée sur wetware et donc être instanciées sur des réplicants et chimères. Elles peuvent être émulées sur des substrats cybernétiques et hyper-hybrides. Il s'agit des seules intelligences artificielles qui ne peuvent pas être infomorphes.
 * **Supervision (Modificateur)** *(Depuis 2083)* : les IA de supervision sont des logiciels associés à des intelligences naturelles, ou provoluées, qui octroient des capacités mentales surhumaine et une intégration parfaite aux couches virtuelles. Nécessite une enveloppe Biomodifiée (avec un système de calcul sur wetware), Cyborg ou Cybernétique. *Variantes : Intelligence naturelle supervisée, Intelligence provoluée supervisée*.
 * **Infomorphisation (Modificateur)** *(Depuis 2081)* : l’infomorphisation consiste à prendre une intelligence naturelle ou provoluée et à la transformer en une intelligence infomorphe. Ce processus reste exceptionnellement rare. Naturellement infomorphes, elles peuvent toutefois être instanciées sur des enveloppes cybernétiques ou hyper-hybrides. *Variantes : Intelligence naturelle infomorphisée, Intelligence provoluée infomorphisée.*
 
->> Vous trouverez plus d'informations sur les types de nature d'esprit dans le chapitre *Intelligences* de la partie *Les personnages*.
+>> Vous trouverez plus d'informations sur les types de nature d'esprit dans le chapitre *Intelligences* du livre *Le catalogue*.
 
 ----
 Après la nature de l’esprit du personnage, voyons les différents types d’enveloppes (nous avons précisé la date du premier exemplaire ou prototype quand cela était pertinent) :
@@ -63,7 +63,7 @@ Après la nature de l’esprit du personnage, voyons les différents types d’e
 * **Biomodification (Modificateur)** *(Depuis 2050)* : la biomodification d’une enveloppe biologique ou provoluée permet d’y ajouter des améliorations ou de les spécialiser à travers des modifications organiques comme la reprogrammation génétique, la greffe ou le remplacement d’organes améliorés, etc. *Variantes : Biologique biomodifié, Provolué biomodifié. Modèles : humain bio-modifié, provolué bio-modifié.*
 * **Cybernétisation (Modificateur)** *(Depuis 2035)* : les cyborgs sont des enveloppes originellement organiques dans lesquelles on a intégré des implants cybernétiques pour en améliorer les capacités. La grande majorité des solaires utilisent des enveloppes cyborg. *Variantes : Cyborg (biologique), Provolué cyborg. Modèles : cyborg, provolué cyborg.*
 
->> Vous trouverez plus d'informations sur les types d'enveloppe dans le chapitre *Enveloppes* de la partie *Les personnages*.
+>> Vous trouverez plus d'informations sur les types d'enveloppe dans le chapitre *Enveloppes* du livre *Le catalogue*.
 
 >> ### Psions
 >> Les psions sont un élément de la nature des personnages un peu particulier. Théoriquement, tout être ayant une enveloppe disposant d’un centre nerveux organique (ceci inclus les biomodifiés, les cyborgs, les réplicants et les chimères), peut se faire installer un implant psi et devenir un psion. Toutefois, les répercussions sur les capacités du personnage sont telles qu’il convient d’inclure cette propriété comme faisant partie de la nature du personnage.
@@ -76,17 +76,17 @@ Après la nature de l’esprit du personnage, voyons les différents types d’e
 >> * **Matière** *(Créatif, Expansif, Orgueilleux, Charismatique)* : perçoit les objets et la matière. Déforme les objets et change leur matière ou les dématérialise temporairement.
 >> * **Énergie** *(Impulsif, Vif, Téméraire, Agressif)* : perçoit les énergies. Crée, détruit et déplace l’énergie ou rend des objets « transparents » aux énergies.
 >> * **Espace** *(Rigoureux, Précis, Réfléchi, Rigide)* : perçoit la position des objets. Déplace les objets et relie des lieux par des portails.
->> * **Information** *(Curieux, Observateur, Paranoïaque, Dominateur)* : lit l’information ou les pensées superficielles d’un simple regard. Occulte temporairement la présence d’un objet à l’univers entier ou altère complètement la perception que l’univers en a. Envoie des messages sur les sens d’autre êtres. Dispose d’une mémoire infinie et de capacités de calcul mental équivalente à un super calculateur.
+>> * **Information** *(Curieux, Observateur, Paranoïaque, Dominateur)* : lit l’information ou les pensées superficielles d’un simple regard. Occulte temporairement la présence d’un objet à l’univers entier ou altère complètement la perception que l’univers en a. Envoie des messages sur les sens d’autre êtres. Dispose d’une mémoire infinie et de capacités de calcul mental équivalentes à un super calculateur.
 >> * **Biologie** *(Empathique, Délicat, Sensible, Manipulateur)* : perçoit les formes de vie organiques et hyper-hybrides et lit leurs variables vitales. Améliore les capacités physiques et mentales d’organiques ou hyper-hybrides. Régénère une enveloppe organique ou hyper-hybride en moins d’une heure.
 >> * **Méta** *(Improvisateur, Irrationnel, Rêveur, Désorganisé)* : perçoit les autres psions et leur implant. Aide ou bloque l’utilisation des autres implants psi. Copie et reproduit les pouvoirs actifs des autres implants psi.
 
 ## Carrières
 
-Les carrières sont des métiers, vocations et autres occupations que votre personnage a été amené à pratiquer au cours de sa vie. Il n’existe pas de liste exhaustive et définitive de ces carrières. Toutefois, pour vous aider, nous vous proposons une liste des carrières les plus courantes dans Solaires.
+Les carrières sont des métiers, vocations et autres occupations que votre personnage a été amenés à pratiquer au cours de sa vie. Il n’existe pas de liste exhaustive et définitive de ces carrières. Toutefois, pour vous aider, nous vous proposons une liste des carrières les plus courantes dans Solaires.
 
 >> Notez les carrières de votre personnage dans le cartouche correspondant. Essayez de respecter au mieux les rôles que vous avez choisis. Nous vous avons indiqué, à titre d’exemple, les rôles couverts par ces carrières. Vous trouverez aussi des courtes listes de matériel utilisé pour ces carrières : elles vous seront utiles lorsque vous choisirez votre matériel plus tard.
 >> 
->> Pour plus de détails sur les carrières, voyez le chapitre *Carrières* de la partie *Les personnages*.
+>> Pour plus de détails sur les carrières, voyez le chapitre *Carrières* du livre *Le catalogue*.
 
 Voici donc cette liste :
 * **Analyste** *(Informatique, Enquête)* : Les analystes sont des experts du traitement des données. Ils savent extraire des tendances, mettre en évidence des motifs, et repérer les anomalies au sein de quantités de données colossales. *Matériel courant : Logiciel d'analyse, Logiciels de reconstitution, etc.*
@@ -134,7 +134,7 @@ Les relations sont les contacts et alliés dont dispose votre personnage au sein
 
 >> Notez les relations de votre personnage dans le cartouche correspondant.
 >>
->> Vous trouverez des informations beaucoup plus complètes sur les factions principales de Solaires dans le chapitre *Factions principales* de la partie *Le contexte*.
+>> Vous trouverez des informations beaucoup plus complètes sur les factions principales de Solaires dans le chapitre *Factions principales* du livre *Le contexte*.
 
 De nombreuses factions œuvrent dans le système solaire : nations, corporations, organisation indépendantes, organisations criminelles, etc. En voici la liste des plus connues, et des plus puissantes :
 * **L’ONU** *(Organisation terrienne, force spatiale depuis 2072)* : cette organisation représente la Terre et les nations terriennes dans l'espace. Responsable de la guerre, l'ONU ne représente plus vraiment une menace pour les colonies et l'organisation mondiale ne sert finalement plus qu'à représenter les intérêts des Terriens auprès des colonies.
@@ -158,7 +158,7 @@ Les modifications sont classées en deux familles, selon qu’elles sont organiq
 
 >> Notez les modifications et les implants de votre personnage dans le cartouche correspondant. Faites attentions à la compatibilité : par exemple les modifications organiques ne peuvent pas être prises sur une enveloppe cybernétique.
 >>
->> Vous trouverez des informations plus complètes sur les modifications et implants dans les chapitres correspondants de la partie *Le catalogue*.
+>> Vous trouverez des informations plus complètes sur les modifications et implants dans les chapitres correspondants du livre *Le catalogue*.
 
 Les modifications cybernétiques prennent la forme d’implants ou de modules électroniques et mécaniques remplaçant des parties du corps ou intégrée dans une enveloppe cybernétique. Les versions pour hyper-hybride semblent plus organiques mais restent mixtes. Seules les enveloppes cyborgs, cybernétiques et hyper-hybrides peuvent intégrer de telles modifications.
 
@@ -214,7 +214,7 @@ L'équipement est le matériel que transporte et utilise votre personnage régul
 
 >> Notez l’équipement de votre personnage dans le cartouche correspondant.
 >>
->> Vous trouverez des informations plus complètes sur l'équipment dans les chapitres correspondants de la partie *Le catalogue*.
+>> Vous trouverez des informations plus complètes sur l'équipment dans les chapitres correspondants du livre *Le catalogue*.
 
 Voici une liste, non exhaustive, du matériel le plus courant dans les colonies :
 * **Arme pulseur** : arme propulsant des munitions de nanite à des vitesses supersoniques. Attention : les versions lourdes sont susceptibles de traverser murs et cloisons d’étanchéités.
@@ -246,7 +246,7 @@ Comme dirait quelqu’un de mort il y a très longtemps : « Quelle que soit l
 
 >> Notez les logiciels de votre personnage dans le cartouche correspondant.
 >>
->> Vous trouverez des informations plus complètes sur les logiciels dans les chapitres correspondants de la partie *Le catalogue*.
+>> Vous trouverez des informations plus complètes sur les logiciels dans les chapitres correspondants du livre *Le catalogue*.
 
 Les logiciels sont omniprésents dans les colonies. Voici les plus utiles pour des personnages joueurs :
 * **Agent de recherche** : de base tout le monde en possède, ce sont simplement les successeurs des moteurs de recherche.

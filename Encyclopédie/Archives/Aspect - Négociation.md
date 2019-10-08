@@ -1,4 +1,5 @@
 # Aspect : Négociation
+
 > *« Je n'avais encore jamais vu quelqu'un lire les gens aussi bien qu'elle. »*
 >
 > Grégoire de Montergny, cadre onusien à propos de Ney

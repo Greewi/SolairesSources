@@ -1,7 +1,9 @@
 # Matériel d’ingénierie
+
 > « Nous avons bâti des vaisseaux d’une taille prodigieuse et même des villes à la surface d’autres mondes. Mais avec quels outils ? »
 
 ## Batterie à antimatière
+
 Une batterie à antimatière est un accumulateur qui stocke de l’énergie sous la forme d’antimatière, généralement de positrons et la libère sous forme d’électricité.
 
 Contrairement aux suppositions que pourrait entraîner son nom, cette batterie n’est absolument pas plus dangereuse qu’une batterie d’un autre type. En revanche, elles sont bien plus compactes que la plupart des autres formes de batteries ou de piles et peuvent emmagasiner de très grandes quantités d’énergie.
@@ -24,11 +26,12 @@ Utilisées en parallèle avec les générateurs à fusions et SolNet, elles assu
     </tr>
     <tr>
         <th>Prix</th>
-        <td></td>
+        <td>Généralement négligeable</td>
     </tr>
 </table>
 
 ## Générateur à fusion
+
 Les générateurs à fusion sont des appareils transformant de l’énergie électrique et thermique à partir de réactions de fusion nucléaire. À quelques exceptions près, ces appareils consomment de l’hydrogène-1 et le transforment en hélium-4. Le processus génère une grande quantité d’énergie dont près de la moitié est effectivement transformé en électricité, la chaleur restant est généralement évacuée par de grands panneaux radiatifs en dehors des installations.
 
 Ne dégageant pas de fumée et ne produisant qu’une faible radioactivité, cette énergie est considérée comme propre et fiable. De plus, la conception des réacteurs actuels ne permet pas de phénomène d’emballement ou d’explosion cataclysmique comme le peuvent les réacteurs fission.

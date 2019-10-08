@@ -1,6 +1,6 @@
 # Conseils aux joueurs
 
-> *« Ne restez pas là comme ça ! Faites des choses ! »*
+> *« Ne restez pas là comme ça ! Faites des choses ! »*
 >
 > Henriz, réalisateur de Stim
 
@@ -31,7 +31,7 @@ Prenez toutefois garde à ne pas écraser les autres joueurs, notamment en vous 
 
 Votre personnage sera régulièrement confronté à des situations dangereuses et critiques. Vous serez sans doute souvent tenté de laisser les choses se faire, voir de fuir ces « ennuis ». Ne laissez pas ces tentations prendre le dessus : votre personnage est un héros. Il est plus grand que nature : ça signifie qu’il a les moyens d’agir.
 
-N’ayez pas peur de prendre des risques pour lui. Votre personnage est de toutes façons immortel en pratique. L’enjeu est rarement placé sur sa survie, mais sur celle des autres et la résolution de vos affaires.
+N’ayez pas peur de prendre des risques pour lui. Votre personnage est, de toute façon, immortel en pratique. L’enjeu est rarement placé sur sa survie, mais sur celle des autres et la résolution de vos affaires.
 
 Mais ne soyez pas stupide pour autant, réfléchissez à votre approche : ce n’est parce qu’on n’a qu’un marteau et que tous les problèmes ressemblent à des clous que ce sont effectivement des clous. Se jeter dans un piège sans aucune préparation ne vous apportera rien.
 
@@ -45,7 +45,7 @@ C’est pourquoi, avant une partie, il est souvent préférable que vous révisi
 
 Connaître son personnage est le premier élément à connaître. C’est quelque chose qui peut sembler trivial, mais dans Solaires, et les jeux basés sur le Système Féerie : ce n’est pas le meneur qui vous indiquera les éléments du personnage à utiliser lors des actions. Avoir une idée de ce que peut faire votre personnage raccourcira aussi beaucoup le temps de vos prises de décisions, notamment durant les scènes d’actions où la fluidité du jeu est particulièrement recherchée.
 
-Comprendre les règles et l’univers est aussi quelque chose d’utile qui évite de perdre beaucoup de temps. Évidemment, on ne vous demandera pas la même connaissance de l’univers que le MJ qui a pour tache de maintenir la cohérence de l’histoire, mais ça reste un point utile.
+Comprendre les règles et l’univers est aussi quelque chose d’utile qui évite de perdre beaucoup de temps. Évidemment, on ne vous demandera pas la même connaissance de l’univers que le MJ qui a pour tâche de maintenir la cohérence de l’histoire, mais ça reste un point utile.
 
 Bien sûr, nous ne vous suggérons pas de devenirs des avocats des règles du jeu, interrompant la partie à chaque petit écart ou erreur vis-à-vis des règles, ou provoquant d’incessants débats sur ce qui est possible ou ce qui devait se passer. Sur ce dernier point, nous vous rappelons que le meneur à un rôle d’arbitre et que ses décisions sont à considérer comme finales.
 

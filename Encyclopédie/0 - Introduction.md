@@ -30,15 +30,15 @@ Plus précisément, nous nous intéressons à cinq thèmes forts :
 
 ## Le système de jeu
 
-Solaires utilise la cinquième version du Système Féerie pour la mécanique de jeu. Il s'agit d'un système simple et léger qui se base en grande partie sur le sens des actions et leur description. Il met l'accent sur la narration et privilégie le bon sens à un corpus de règles de simulations exaustif.
+Solaires utilise la cinquième version du Système Féerie pour la mécanique de jeu. Il s'agit d'un système simple et léger qui se base en grande partie sur le sens des actions et leur description. Il met l'accent sur la narration et privilégie le bon sens à un corpus de règles de simulations exhaustif.
 
 Au cœur du système, vous trouverez une mécanique de résolution polyvalente qui permet de gérer la plupart des actions sans avoir à faire de distinction sur la nature de l'action. Notamment, contrairement à de nombreux jeux, il n'y a pas un corpus de règles dédiées au combat.
 
-La définition des personnages permet une grande souplesse. Ainsi, vous pouvez créer votre personnage à partir d'une description libre dans laquelle vous aurez souligné les mots clés, avant de conclure en leur donnant une valeur estimée à partir de règles simples. Solaires propose aussi d'autres méthodes compatibles entre-elles pour créer vos personnages.
+La définition des personnages permet une grande souplesse. Ainsi, vous pouvez créer votre personnage à partir d'une description libre dans laquelle vous aurez souligné les mots clés, avant de conclure en leur donnant une valeur estimée à partir de règles simples. Solaires propose aussi d'autres méthodes compatibles entre elles pour créer vos personnages.
 
 Enfin, le Système Féerie propose quelques éléments de narration partagée. En plus d'agir au travers de leur personnage, les joueurs ont accès à des points de personnage qui leur permettent de prendre la main sur le récit. D'autres, comme celles des états, leur propose aussi de décrire eux même les conséquences de certaines actions.
 
->> En plus d’être décrit dans ce livre, le Système Féerie est disponible en version « générique » sur https://systeme.feerie.net.
+>> En plus d’être décrit dans ce livre, le Système Féerie est disponible en version « générique » sur [https://systeme.feerie.net](https://systeme.feerie.net).
 
 ## Note d'intention
 En créant Solaires, nous avons souhaité concevoir un jeu de rôles traitant de la science-fiction de façon sérieuse sans toutefois tomber dans la noirceur d'un univers cyberpunk.
@@ -65,7 +65,7 @@ Enfin, les jeux vidéos ont été aussi une très grande source d'inspiration. E
 
 Mais s'arrêter là, ce serait ignorer l'importance de la recherche et des sciences dans le monde réel. Nous devons aussi louer la NASA, l'ESA, les transhumanistes… Car même s'ils traitent de notre vrai monde, ils ont eu, sans doute aucun, un impact majeur sur ce qu'est devenu Solaires. Et puis l'un des auteurs de Solaires pourrait facilement être classé parmi les physics nerds…
 
-Concernant, le système de règle, là aussi nous avons tiré notre inspiration de nombreux autres jeux. Citons ceux dont l'influence a été la plus grande : *Risus, the Anything RPG* (S. John Ross) qui a ouvert la porte à la définition plus libre des personnages en faisant abstraction des listes de caractéristiques et compétences fixes, *7th sea* (John Wick) dont le système de progression a permis de combler un trou important dans le Système Féerie, et *Supers! Revised Edition* (Aldo Regalado, Russell Boyd) qui nous a inspiré les effets des états.
+Concernant, le système de règle, là aussi nous avons tiré notre inspiration de nombreux autres jeux. Citons ceux dont l'influence a été la plus grande : *Risus, the Anything RPG* (S. John Ross) qui a ouvert la porte à la définition plus libre des personnages en faisant abstraction des listes de caractéristiques et compétences fixes, *7th sea* (John Wick) dont le système de progression a permis de combler un trou important dans le Système Féerie, et *Supers! Revised Edition* (Aldo Regalado, Russell Boyd) qui nous a inspiré une version des effets des états.
 
 ## Remerciements
 
@@ -73,9 +73,9 @@ Solaires est le fruit de plus de douze ans de travail qui a commencé en novembr
 
 J'adresse aussi un grand merci à tous les joueurs et meneurs qui, au cours de cette décennie allongée, sont l'une des principales raisons de mon obstination sur ce projet.
 
-Je pense notamment aux camarades de l'université de Marne la Vallée, à l'association TNT et son activité Troll de Jeux (merci Feriel, Guillaume, Jean, Julien, Lucile, Manu, Nico, Roland, Samuel et tous ceux que j'ai pu oublier), à l'association Opale Roliste (Beaucoup trop de monde pour les citer, mais merci à vous !), à l'Anneau de Melian de Gagny (Merci à Claire, Corwyn, Olivia et Tierry) et à mes collègues de Celsius Online (Coucou Arthur, Chloé, Chloé ‑ ce n'est pas une répétition ‑, Florent, Guillaume, Lévan, Mathias, Roman). Je n'oublie pas non plus ces amis rencontrés au fil du temps Yann, Titi et tant d'autres. Et évidemment, il y a la famille, merci à mes parents et mon frère pour leur soutien dans mes projets, plus particulièrement à mon père qui m'a fait découvrir ce loisir.
+Je pense notamment aux camarades de l'université de Marne la Vallée, à l'association TNT et son activité Troll de Jeux (merci Feriel, Guillaume, Jean, Julien, Lucile, Manu, Morvan, Nico, Roland, Samuel et tous ceux que j'ai pu oublier), à l'association Opale Rôliste (Beaucoup trop de monde pour les citer, mais merci à vous !), à l'Anneau de Melian de Gagny (Merci à Claire, Corwyn, Olivia et Tierry) et à mes collègues de Celsius Online (Coucou Arthur, Chloé, Chloé ‑ ce n'est pas une répétition ‑, Florent, Guillaume, Lévan, Mathias, Roman). Je n'oublie pas non plus ces amis rencontrés au fil du temps Yann, Titi et tant d'autres. Et évidemment, il y a la famille, merci à mes parents et mon frère pour leur soutien dans mes projets, plus particulièrement à mon père qui m'a fait découvrir ce loisir.
 
-Je renouvelle mes félicitations aux organisateurs des conventions parcourues au fil de ces années, aux regrêtées CJDRA et Objectif Jeux, à Ludicité, aux ELFICS et à la RJDRA.
+Je renouvelle mes félicitations aux organisateurs des conventions parcourues au fil de ces années, aux regrettées CJDRA et Objectif Jeux, à Ludicité, aux ELFICS et à la RJDRA.
 
 Enfin, je dédie ce jeu à l'Humanité, puisse-t-elle mieux traiter ses enfants que dans cette œuvre.
 
@@ -84,7 +84,7 @@ Enfin, je dédie ce jeu à l'Humanité, puisse-t-elle mieux traiter ses enfants 
 >> * Sylvain « Greewi » Dumazet
 >>
 >> Conception additionnelle et premier relecteur :
->> * Morvan
+>> * Morvan (Un très grand merci à toi, l'ami)
 >>
 >> Relecteurs :
 >> * Venez nous aider sur opensolars.feerie.net !
@@ -127,22 +127,21 @@ Enfin, je dédie ce jeu à l'Humanité, puisse-t-elle mieux traiter ses enfants 
 * **Système de résolution** : règles du jeu destinées à déterminer la réussite ou l'échec des actions.
 * **Traité des Colonies** : traité de paix signé à la fin de la guerre des Colonies par les corporations et les nations unies.
 * **Transhumain** : humain transformé par la technologie.
-* **Urania** : récente corporation issue de la scission de Vranger-Lytan. S'est donné comme objectif la colonisation des lunes d'Uranus et Neptune.
+* **Urania** : récente corporation issue de la scission de Vranberg-Lytan. S'est donné comme objectif la colonisation des lunes d'Uranus et Neptune.
 * **Upload** : pour les entités ayant une enveloppe, pratique consistant à téléverser son esprit d'un site à un autre. 
 * **Vranberg-Lytan** : ancienne corporation, la plus puissante avant une scission dues à des objectifs internes divergents.
 * **Waylanders** : ancienne corporation, actuellement la plus grande force militaire du système solaire.
 * **Wetware** : circuit informatique organique.
 
-
 >> ### Organisation de ce livre
 >> Ce livre contient les règles du jeu ainsi qu’une présentation complète de l’univers que nous espérons suffisante pour vous permettre de jouer.
 >> 
->> Le premier chapitre, *Jouer à Solaires*, traite des règles du jeu. Elles présentent le jeu de rôles et ses mécaniques de base avant d’attaquer les règles de résolution des actions. Le chapitre continue en décrivant les règles des états, des effets pouvant handicaper les personnages, et celles des points de personnage qui permettent aux joueurs d’altérer directement l’histoire. Vous trouverez ensuite un ensemble de conseils adressés aux joueurs et meneurs. Enfin, Le chapitre se termine sur une série d'articles détaillants des aspects particulier du jeu et ses éléments les plus exotiques.
+>> Le premier livre, *Jouer à Solaires*, traite des règles du jeu. Elles présentent le jeu de rôles et ses mécaniques de base avant d’attaquer les règles de résolution des actions. Le livre continue en décrivant les règles des états, des effets pouvant handicaper les personnages, et celles des points de personnage qui permettent aux joueurs d’altérer directement l’histoire. Vous trouverez ensuite un ensemble de conseils adressés aux joueurs et meneurs. Enfin, Le livre se termine sur une série d'articles détaillants des aspects particulier du jeu et ses éléments les plus exotiques.
 >> 
->> Le second chapitre, *Les personnages*, traite des personnages. Il commence par présenter les règles de création des personnages puis propose trois méthodes compatibles pour y parvenir. Le chapitre se termine sur les règles d’évolution des personnages avec les intrigues des personnages.
+>> Le second livre, *Les personnages*, traite des personnages. Il commence par présenter les règles de création des personnages puis propose trois méthodes compatibles pour y parvenir. Le livre se poursuit sur les règles d’évolution des personnages avec les intrigues des personnages. Enfin, les derniers chapitres présentent les principaux éléments des personnages : les intelligences, les enveloppes et les carrières.
 >> 
->> Le troisième chapitre, *Le contexte*, présente l’univers de Solaires à une échelle globale. Il commence par expliquer les événements clés de l’histoire de Solaires puis enchaîne sur la chronologie. Il décrit ensuite le système solaire et les principaux astres qui le composent. Ceci fait, c’est au tour des principales factions d’être présentées. Le chapitre se termine sur l’état de l’art de la science et de la technologie dans les colonies.
+>> Le troisième livre, *Le contexte*, présente l’univers de Solaires à une échelle globale. Il commence par expliquer les événements clés de l’histoire de Solaires puis enchaîne sur la chronologie. Il décrit ensuite le système solaire et les principaux astres qui le composent. Ceci fait, c’est au tour des principales factions d’être présentées. Le livre se termine sur l’état de l’art de la science et de la technologie dans les colonies.
 >> 
->> Le quatrième chapitre, *Vies de solaires*, expose la vie dans les colonies. Il commence par présenter la civilisation de l’abondance, puis le fonctionnement des corporations, véritables nations extraterrestres et celui des colonies. Il décrit ensuite l’habitat type des solaires avant de présenter les rites de vie quotidiens dans les colonies, puis d’exposer les grandes étapes dans la vie des solaires. Le chapitre se termine sur les voyages et la communication dans le système solaire.
+>> Le quatrième livre, *Vies de solaires*, expose la vie dans les colonies. Il commence par présenter la civilisation de l’abondance, puis le fonctionnement des corporations, véritables nations extraterrestres et celui des colonies. Il décrit ensuite l’habitat type des solaires avant de présenter les rites de vie quotidiens dans les colonies, puis d’exposer les grandes étapes dans la vie des solaires. Le livre se termine sur les voyages et la communication dans le système solaire.
 >> 
->> Le cinquième et dernier chapitre, *Le catalogue*, décrit les principaux objets, outils et artefacts utilisés dans les colonies : les outils du quotidien, le matériel d’ingénierie, le matériel extravéhiculaire, le matériel médical, le matériel d’espionnage, le matériel militaire, les véhicules, les implants cybernétiques, les modifications organiques, les implants psi, les logiciels et les robots.
+>> Le cinquième et dernier livre, *Le catalogue*, décrit les principaux objets, outils et artefacts utilisés dans les colonies : les outils du quotidien, le matériel d’ingénierie, le matériel extravéhiculaire, le matériel médical, le matériel d’espionnage, le matériel militaire, les véhicules, les implants cybernétiques, les modifications organiques, les implants psi, les logiciels et les robots.
