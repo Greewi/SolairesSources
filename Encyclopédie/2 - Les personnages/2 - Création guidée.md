@@ -73,11 +73,11 @@ Après la nature de l’esprit du personnage, voyons les différents types d’e
 >> En effet, selon l’individu, cet outil offre des capacités surnaturelles différentes a son possesseur. Plus précisément, en fonction des traits de personnalités principaux de son utilisateur, l’implant octroie des pouvoirs liés à un domaine.
 >> 
 >> Voici une description de ces domaines, avec les traits associés :
->> * **Matière** *(Créatif, Expansif, Orgueilleux, Charismatique)* : perçoit les objets et la matière. Déforme les objets et change leur matière ou les dématérialise temporairement.
+>> * **Biologie** *(Empathique, Délicat, Sensible, Manipulateur)* : perçoit les formes de vie organiques et hyper-hybrides et lit leurs variables vitales. Améliore les capacités physiques et mentales d’organiques ou hyper-hybrides. Régénère une enveloppe organique ou hyper-hybride en moins d’une heure.
 >> * **Énergie** *(Impulsif, Vif, Téméraire, Agressif)* : perçoit les énergies. Crée, détruit et déplace l’énergie ou rend des objets « transparents » aux énergies.
 >> * **Espace** *(Rigoureux, Précis, Réfléchi, Rigide)* : perçoit la position des objets. Déplace les objets et relie des lieux par des portails.
 >> * **Information** *(Curieux, Observateur, Paranoïaque, Dominateur)* : lit l’information ou les pensées superficielles d’un simple regard. Occulte temporairement la présence d’un objet à l’univers entier ou altère complètement la perception que l’univers en a. Envoie des messages sur les sens d’autre êtres. Dispose d’une mémoire infinie et de capacités de calcul mental équivalentes à un super calculateur.
->> * **Biologie** *(Empathique, Délicat, Sensible, Manipulateur)* : perçoit les formes de vie organiques et hyper-hybrides et lit leurs variables vitales. Améliore les capacités physiques et mentales d’organiques ou hyper-hybrides. Régénère une enveloppe organique ou hyper-hybride en moins d’une heure.
+>> * **Matière** *(Créatif, Expansif, Orgueilleux, Charismatique)* : perçoit les objets et la matière. Déforme les objets et change leur matière ou les dématérialise temporairement.
 >> * **Méta** *(Improvisateur, Irrationnel, Rêveur, Désorganisé)* : perçoit les autres psions et leur implant. Aide ou bloque l’utilisation des autres implants psi. Copie et reproduit les pouvoirs actifs des autres implants psi.
 
 ## Carrières
