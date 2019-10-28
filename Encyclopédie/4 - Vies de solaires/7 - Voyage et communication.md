@@ -84,19 +84,6 @@ Pour les vols interplanétaires :
 * 2 jours pour les premiers 250 sl ;
 * 1 jour pour parcourir 250 sl ensuite.
 
-## Dangers de l’espace
-Puisqu’il est question de voyage spatiaux, abordons rapidement les dangers que représente l’environnement spatial, en dehors des dangers liés aux opérations des Solaires en elles-mêmes (guerre, piraterie…).
-
-L’espace reste un environnement particulièrement hostile à la vie, et le premier danger qui vient en tête, principalement pour les organiques, reste la dépressurisation. Exposé au vide, un humain moyen perd conscience en moins d’une dizaine de seconde et meurt en quelques minutes. Il existe deux sortes de dépressurisation : la dépressurisation lente, qui ne cause que très peu de dégâts structurels sur les engins mais aussi à ses occupants, et la dépressurisation explosive, qui correspond à une baisse de la pression atmosphérique importante et très rapide. Cette seconde forme est très destructrice. Par exemple, un humain qui tenterait de retenir son souffle subirait une déformation importante du thorax et un déchirement des poumons pour finalement mourir aussi vite…
-
-Il existe quelques moyens de se protéger en partie de ce type d’accident. S’il est possible de la voir arriver, il est conseillé de faire le vide dans ses poumons autant que possible. Ensuite, l’utilisation d’un respirateur permet de survivre quelques minutes en restant conscient en apportant un air peu pressurisé mais riche en oxygène et d’autres produits stabilisants.
-
-Le second danger inhérent à l’espace provient des radiations. Il s’agit principalement du rayonnement provenant du soleil, capable de provoquer des blessures graves à court terme, mais aussi d’engendrer des conséquences tels que des dysfonctionnements électroniques et des cancers. Ces rayonnements traversent la plupart des matériaux utilisés dans les colonies sans grand mal, c’est pourquoi elles disposent de protections spécifiques et sont souvent enterrées. Heureusement, les occupants d’un vaisseau, et son propre matériel, sont toujours protégés par un puissant bouclier magnétique émulant une magnétosphère capable de réfléchir une très grande proportion de ces rayonnements.
-
-En plus de ces rayonnements, il existe un autre danger moins constant : les vents solaires et les fameux électrons tueurs. On cite généralement le soleil comme principale source de ces phénomènes, mais les magnétosphères de nombreuses planètes, comme Jupiter ou la Terre, en sont aussi de formidables concentrateurs. Là, les risques concernent principalement l’appareil en lui-même : extrêmement ionisant, ces vents solaires peuvent générer des courants forts sur la surface de l’appareil et donc des champs magnétiques importants. Une fois de plus, seuls les boucliers magnétiques de ces vaisseaux peuvent offrir une protection efficace.
-
-Un autre danger souvent surestimé concerne la température. Il faut bien comprendre que le vide de matière fait partie des meilleurs isolants thermiques, car il ne permet pas les échanges de chaleur par contact ni par convection. Seul le rayonnement, comme celui du soleil, peut permettre de tels échanges. Ainsi, en dehors des régions très proches du soleil, il faudra plusieurs heures pour qu’un corps à la dérive change de température dans des proportions importantes. Les vaisseaux sont par ailleurs équipés d’isolations bien plus efficace qu’un simple corps et de dispositifs pour réguler la température.
-
 ## Un mot sur les psions
 Nous avons présenté la vitesse de la lumière comme la limite ultime pour les voyages. Et d’après les lois connues de la physique, c’est effectivement le cas.
 
