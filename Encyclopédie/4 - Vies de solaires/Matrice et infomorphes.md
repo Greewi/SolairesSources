@@ -1,4 +1,4 @@
-# Informorphes
+# Matrice et infomorphes
 
 > *« Il est mort. Disparu. Je l’ai effacé. Comme je le ferais à tous ceux qui nous font du mal. »*
 >
