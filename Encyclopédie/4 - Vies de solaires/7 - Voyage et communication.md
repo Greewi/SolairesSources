@@ -44,7 +44,7 @@ Il est évident que ce mode de transport requiert d’avoir une grande confiance
 
 Lors de l’upload, l’original est généralement mis en stase dès l’envoi, sauf pour les infomorphes expédiant un fork. Si aucun message de confirmation n’est reçu par l’expéditeur au bout de trois fois le temps de trajet (soit 3 secondes par seconde-lumière de distance), l’original est normalement réveillé et prévenu du problème. Lors du retour du voyageur, son esprit est alors fusionné (merge) avec l’original.
 
-Voyager physiquement
+## Voyager physiquement
 
 La plupart des voyages ne revêtent pas des dimensions interplanétaires et peuvent se limitent à une même planète, ou lune, et son orbite basse. En fonction de l’échelle de ces voyages, plusieurs moyens s’offrent aux solaires.
 

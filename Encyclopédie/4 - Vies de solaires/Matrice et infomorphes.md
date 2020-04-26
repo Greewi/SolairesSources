@@ -40,7 +40,7 @@ Une grande partie du travail d’un decker consiste à écouter le réseau et à
 
 Pour explorer la matrice, les deckers partent nécessairement de leur point d’injection : le nœud de leur console, ou celui où ils s’exécutent dans le cadre d’un informorphe. De là, ils peuvent envoyer des messages adressés aux différents systèmes du réseau. Mais généralement, un decker n’a pas envie que quelqu’un puisse aisément associer ses messages à son point d’injection. Aussi, ils installent des relais – des agents logiciels spécialisés – sur les nœuds proches par lesquels ils font passer leurs messages pour faire croire à la destination que leur message provient de ces nœuds-ci.
 
-En avançant de nœuds en nœuds, les deckers constituent ce qu’ils appellent leur « fil d’Ariane ». Ces fils ne sont que rarement linéaires et ressemblent le plus souvent à des labyrinthes avec des culs de sac et des boucles. Tant que ce fil d’Ariane n’est pas coupé par un adversaire, le decker peut opérer comme s’il se trouvait en n’importe quel point de son fil d’Ariane.
+En propageant leur relais de nœuds en nœuds, les deckers constituent ce qu’ils appellent le « fil d’Ariane ». Ces fils ne sont que rarement linéaires et ressemblent le plus souvent à des labyrinthes avec des culs de sac et des boucles. Tant que ce fil d’Ariane n’est pas coupé par un adversaire, le decker peut opérer comme s’il se trouvait en n’importe quel point de son fil d’Ariane.
 
 En observant les informations de routage des messages sur le réseau, les informations qui indiquent d’où le message est partie et où il doit aller, un decker peut se faire une bonne idée des logiciels et informorphes présent sur le réseau. En restant vigilant, le decker réduit considérablement les chances d’être pris par surprise.
 
@@ -68,7 +68,7 @@ Certaines glaces ont la capacité de riposter si elles sont directement attaqué
 
 La plupart des affrontements matriciels commencent lorsque l’activité d’un pirate s’est fait repérer par un système de sécurité ou un autre decker, le défenseur. Normalement le système déclenché commence par rechercher l’importun, notamment en essayant de remonter son fil d’Ariane. Évidemment en le faisant, il risque de déclencher certains pièges laissés par le pirate qui risque d’être prévenu. D’ordinaire, le défenseur possède encore l’avantage à ce moment, car le pirate n’a pas encore commencé à le rechercher. Mais cet avantage est bien faible, car le défenseur n’a pas eu le temps de déployer un fil d’Ariane complexe.
 
-Au fil de leur progression, les deux camps peuvent couper le fil d’Ariane de l’autre, réduisant considérablement la liberté d’action de son adversaire. Dès que l’un des deux belligérants parvient à atteindre le point d’injection de l’autre, il peut l’attaquer plus directement.
+Au fil de leur progression, les deux camps peuvent couper le fil d’Ariane de l’autre, réduisant considérablement la liberté d’action de leur adversaire. Dès que l’un des deux belligérants parvient à atteindre le point d’injection de l’autre, il peut l’attaquer plus directement.
 
 Généralement, l’attaque finale revient à attaquer la glace protégeant la console ou l’infomorphe de l’adversaire et de détruire ce qu’elle protégeait. Si c’était un informorphe, il sera effacé. Si c’est un decker connecté à une console, il est éjecté de la matrice. D’ailleurs, un organique qui se déconnecte brutalement, volontairement ou suite à la destruction de sa console, peut subir un contre-coup important impliquant nausées et désorientation.
 

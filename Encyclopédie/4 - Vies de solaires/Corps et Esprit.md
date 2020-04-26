@@ -80,13 +80,13 @@ Première raison pour laquelle les solaires changent de corps, le voyage par té
 
 >> Les informorphes n’ont évidemment pas besoin d’être réintégrés et tous leurs déplacements sur le réseau sont similaires à ce type de transfert, si ce n’est qu’ils n’ont pas besoin de passer par le réseau interplanétaire pour les plus petits trajets.
 
-## Métamorphose
+## Transfiguration
 
 Changer d’enveloppe est un choix pour de nombreux solaires. Souvent, il s’agit du passage de son corps d’origine à une enveloppe conçue et améliorée. D’autres fois, la précédente enveloppe était trop endommagée et il était plus simple de la recycler et d’en produire une nouvelle. Dans ces cas, l’enveloppe finale reste, du point de vue de ces solaires, à peu près la même.
 
-Mais la métamorphose, qui consiste effectivement à changer d’enveloppe pour quelque chose de différents est un phénomène de plus en plus courant mais qui présente néanmoins des risques. Pour commencer le mal de l’embodiment peut y être considérablement plus accentué et durable. Ensuite, ce nouveau choix peut finalement se révéler décevant voir profondément frustrant : certains solaires peuvent ainsi changer régulièrement d’enveloppe sans jamais être satisfait.
+Mais la transfiguration, qui consiste effectivement à changer d’enveloppe pour quelque chose de différents est un phénomène de plus en plus courant mais qui présente néanmoins des risques. Pour commencer le mal de l’embodiment peut y être considérablement plus accentué et durable. Ensuite, ce nouveau choix peut finalement se révéler décevant voir profondément frustrant : certains solaires peuvent ainsi changer régulièrement d’enveloppe sans jamais être satisfait.
 
-Malgré tout, la métamorphose est un choix de plus en plus courant et quitte à devoir changer d’enveloppe, de plus en plus de solaires choisissent d’essayer quelque chose de nouveau. Et avec les avancées dans les domaines de la technologie et de la science, les enveloppes continuent d’évoluer et les solaires d’en changer.
+Malgré tout, la transfiguration est un choix de plus en plus courant et quitte à devoir changer d’enveloppe, de plus en plus de solaires choisissent d’essayer quelque chose de nouveau. Et avec les avancées dans les domaines de la technologie et de la science, les enveloppes continuent d’évoluer et les solaires d’en changer.
 
 L’esprit lui-même peut aussi être modifié et il existe principalement trois façons de procéder :
 * **L’émulation** : qui consiste à simuler informatiquement le fonctionnement du substrat d’origine de l’esprit dans une enveloppe cybernétique ou hyper-hybride. Cette transformation est parfaitement réversible.
@@ -127,7 +127,7 @@ Le Merge est l’opération inverse : faire fusionner deux instances pour n’e
 
 ## Le cas de la Terre
 
-Sur Terre, et dans les colonies de Sol6, les êtres non-humains (tout ce qui n’est ni un humain biologique ou un cyborg) sont strictement interdit. Les changements de corps, les métamorphoses et autres résurections sont de fait tout aussi illégaux. Un solaire de ce type court un grand danger s’il est trouvé dans le giron de l’ONU.
+Sur Terre, et dans les colonies de Sol6, les êtres non-humains (tout ce qui n’est ni un humain biologique ou un cyborg) sont strictement interdit. Les changements de corps, les transfigurations et autres résurections sont de fait tout aussi illégaux. Un solaire de ce type court un grand danger s’il est trouvé dans le giron de l’ONU.
 
 À travers le comité de prévention des risques existentiels, l’organisation des nations unies a même développé une unité internationnale pour gérer le problème que poseraient les solaires non-humains sur Terre. Cette unité est souvent surnommée « Blade runner » en référence à une œuvre du vingtième siècle.
 
