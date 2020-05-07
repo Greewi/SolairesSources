@@ -64,7 +64,7 @@ Tous ces corps n’orbitent pas Sol à la même vitesse et au fil du temps, leur
 >> * L’année sidérale est le temps nécessaire pour que l’astre effectue un tour complet autour du soleil. Ces temps sont exprimés en jours solaires terrestres (ceux de 24 h) et en années stellaires terrestres (celle de 365,25 jours).
 >> * Toutes les lunes du système solaire sont en rotation synchrone, c’est-à-dire qu’elle présente toujours la même face à leur planète et que donc leur période de révolution est la même que celle de la rotation autour de leur axe. Nous désignons ici ces deux valeurs sous l’appellation « période ».
 >>
->> Les colonies font évidemment partie de la fiction. Nous donnons ici leur nom et leur année d’inauguration. Pour celles inaugurées en 2187, il est très probable qu’elles soient encore en construction pendant les aventures de vos personnages. La plupart des colonies, en dehors de la Lune et Mars, ont été construites dans des cratères ou à proximité particularités géologiques visibles depuis l’espace. Dans le cas de Mercure il s’agit avant tout d’abriter les colonies dans l’ombre des cartères polaires. Dans les autres cas, il s’agissait surtout de profiter de ces repères visuels notamment pour la navigation.
+>> Les colonies font évidemment partie de la fiction. Nous donnons ici leur nom et leur année d’inauguration. Pour celles inaugurées en 2187, il est très probable qu’elles soient encore en construction pendant les aventures de vos personnages. La plupart des colonies, en dehors de la Lune et Mars, ont été construites dans des cratères ou à proximité particularités géologiques visibles depuis l’espace. Dans le cas de Mercure il s’agit avant tout d’abriter les colonies dans l’ombre des cratères polaires. Dans les autres cas, il s’agissait surtout de profiter de ces repères visuels notamment pour la navigation.
 
 ## Mercure, la première planète
 
@@ -76,7 +76,7 @@ Tous ces corps n’orbitent pas Sol à la même vitesse et au fil du temps, leur
 >> * Jour solaire : 176,6 j
 >> * Année sidérale : 87,7 j
 
-Mercure est la planète la plus proche du soleil. Sa proximité avec le soleil, sa lente rotation et l’absence d’atmosphère font de sa surface un endroit particulièrement dangereux. Toutefois, plusieurs cratères aux pôles bénéficient d’une obscurité permanente, abaissant considérablement la température jusqu’à -180° Celsius (comparé aux 430° Celsius de la surface exposée à l’équateur) et préservant une réserve de glace d’eau dans leur fond.
+Mercure est la planète la plus proche du soleil. Sa proximité avec le soleil, sa lente rotation et l’absence d’atmosphère font de sa surface un endroit particulièrement dangereux. Toutefois, plusieurs cratères aux pôles bénéficient d’une obscurité permanente, abaissant considérablement la température jusqu’à −180° Celsius (comparé aux 430° Celsius de la surface exposée à l’équateur) et préservant une réserve de glace d’eau dans leur fond.
 
 La colonisation de Mercure est relativement récente et les quelques colonies de Mercure sont abrités au fond de ces fameux cratères polaires : les trois premières au nord et la plus récente au sud. Par convention, ces cités portent le nom de leur cratère de résidence qui ont été nommés eux-mêmes en référence à des poètes, peintres, écrivains et autres artistes.
 
@@ -106,8 +106,6 @@ Seconde planète, Vénus est l’astre le plus brillant dans le ciel de la Terre
 
 La Terre est une planète très singulière : c’est la seule à posséder de l’eau liquide à sa surface et la seule planète connue sur laquelle la vie est apparu. Planète mère de l’humanité, elle possède une atmosphère respirable pour les humains et toutes les conditions propices à la vie. C’est aussi une planète possédant de très nombreux biomes et climats. Malgré ses très nombreuses cités et une population humaine de plusieurs milliards d’habitants, la Terre n’est pas considérée comme colonisée, étant donné que sa population est endémique.
 
-La Terre possède une lune simplement nommée la Lune. Celle-ci est la cinquième plus grande du système solaire, et sa proximité avec le monde mère de l’humanité en a évidemment fait le premier astre visité par l’humanité et le premier à avoir été colonisé. Ne disposant pas d’atmosphère, sa surface morte et désertique reste un endroit dangereux et le régolite composé principalement de micro-éclats minéraux pose souvent des problèmes lors des opérations extérieures. Les colonies lunaires portent le nom des régions qu’elles occupent. Tranquillitatis, la première des colonies abrite notamment le siège du conseil des colonies, ce qui en fait le centre diplomatique du système solaire. Notez aussi que le siège de HIARTech est installé à Crisium. Il s’agit du seul siège de corporation situé en dehors de la Terre.
-
 >> ### La Lune
 >>
 >> Propriétés :
@@ -118,6 +116,8 @@ La Terre possède une lune simplement nommée la Lune. Celle-ci est la cinquièm
 >> * Période : 29,53 j
 >>
 >> Colonies de la Lune : Tranquillitatis (2132), Serenitatis (2139), Fecunditatis (2144), Crisium (2149), Imprium (2153), Insularium (2156), Drygalsky (2159), Cognitum (2162), Moscoviense (2164), Nubium (2166), Temporis (2167), Frigoris (2169), Smythii (2170), Peary (2174), Roris (2177), Procellarum (2181), Nectaris (2184), Humorum (2187), Humboldtianum (2187).
+
+La Terre possède une lune simplement nommée la Lune. Celle-ci est la cinquième plus grande du système solaire, et sa proximité avec le monde mère de l’humanité en a évidemment fait le premier astre visité par l’humanité et le premier à avoir été colonisé. Ne disposant pas d’atmosphère, sa surface morte et désertique reste un endroit dangereux et le régolite composé principalement de micro-éclats minéraux pose souvent des problèmes lors des opérations extérieures. Les colonies lunaires portent le nom des régions qu’elles occupent. Tranquillitatis, la première des colonies abrite notamment le siège du conseil des colonies, ce qui en fait le centre diplomatique du système solaire. Notez aussi que le siège de HIARTech est installé à Crisium. Il s’agit du seul siège de corporation situé en dehors de la Terre.
 
 ## Mars, la planète rouge
 
@@ -183,14 +183,6 @@ Si cette planète naine a été colonisée c’est principalement pour sa proxim
 
 Jupiter est la plus grande planète du système solaire. Sa surface parsemée d’ouragans et de tempêtes cataclysmiques est découpée en bandes de couleurs orangées et blanches et se mélangent au gré de turbulences colossales. Géante gazeuse, Jupiter ne possède pas de surface solide et tout appareil qui tenterait de plonger dans son atmosphère subirait un destin funeste. Cette planète possède un puissant champ magnétique qui interagit avec les rejets des volcans d’Io la première des lunes majeures du système planétaire. Si Jupiter possède de très nombreuses lunes, les quatre plus massives sont appelées les lunes galiléennes. En tant que tel, Jupiter n’est pas colonisé, mais ses lunes portent de nombreuses colonies.
 
-Io, la première des lunes galiléennes est tiraillée par la gravité de la planète géante et celle des autres lunes galiléennes. Les déformations dues aux forces de marées provoquent un échauffement très important de son intérieur et Io présente un volcanisme très actif. Les particules projetées par le panache de ses volcans interagissent avec le champ magnétique de la planète produisant d’importants niveaux de radiations dans les orbites croisant celle de la lune. Pour ces raisons, Io ne porte aucune colonie bien qu’on puisse y trouver plusieurs avant-postes.
-
-Europe est la seconde lune galiléenne. Sa surface complètement glacée abrite un océan liquide. Comme pour Io, ce sont les forces des marées dues à la gravité de jupiter et celle des autres lunes galiléennes qui produisent la chaleur nécessaire pour maintenir cet océan souterrain. La surface d’Io est composée de glaces blanches, parcourue par de gigantesques stries brunes semblables à des fractures. Europe possède plusieurs colonies à sa surface qui portent le nom des particularités géologiques proches desquelles elles ont été bâties.
-
-Ganymède est la plus massive et la plus grande des lunes du système solaire. Sa surface semble composée de grandes plaques fracturées dont un tiers semble particulièrement sombre. Comme Europe, Ganymède possède un vaste océan liquide sous sa surface. C’est en revanche la seule lune du système solaire qui possède son propre champ magnétique. Ganymède est la lune du système jovien qui porte le plus grand nombre de colonie. Celles-ci portent les noms des cratères dans lesquelles elles ont été érigées.
-
-Enfin Callisto est la quatrième et dernière lune galiléenne. Sa surface sombre est recouverte de cratères et elle est la seule à ne pas être en résonance orbitale avec les trois autres. Sa surface est très ancienne et la lune, non différentiée, possède beaucoup de roches à sa surface. Callisto porte de nombreuses colonies dont les noms correspondent aux cratères où elles ont été installées.
-
 >> ### Io
 >>
 >> Propriétés :
@@ -199,6 +191,8 @@ Enfin Callisto est la quatrième et dernière lune galiléenne. Sa surface sombr
 >> * Gravité : 0,18 g
 >> * Rayon orbital : 1,41 sl
 >> * Période : 1 j 18 h 27 min
+
+Io, la première des lunes galiléennes est tiraillée par la gravité de la planète géante et celle des autres lunes galiléennes. Les déformations dues aux forces de marées provoquent un échauffement très important de son intérieur et Io présente un volcanisme très actif. Sa surface ne porte pratiquement aucun cratère d’impact et offre des couleurs ocre allant du jaune au rouge. Les particules projetées par le panache de ses volcans interagissent avec le champ magnétique de la planète produisant d’importants niveaux de radiations dans les orbites croisant celle de la lune. Pour ces raisons, Io ne porte aucune colonie bien qu’on puisse y trouver plusieurs avant-postes.
 
 >> ### Europe
 >>
@@ -211,6 +205,8 @@ Enfin Callisto est la quatrième et dernière lune galiléenne. Sa surface sombr
 >>
 >> Colonies d’Europe : Pwyll (2154), Govannan (2161), Tegid (2166), Cormac (2171), Lug (2177), Delphi (2183), Angus (2186).
 
+Europe est la seconde lune galiléenne. Sa surface complètement glacée abrite un océan liquide. Comme pour Io, ce sont les forces des marées dues à la gravité de Jupiter et celle des autres lunes galiléennes qui produisent la chaleur nécessaire pour maintenir cet océan souterrain. La surface d’Io est composée de glaces blanches, parcourue par de gigantesques stries brunes semblables à des fractures. Europe possède plusieurs colonies à sa surface qui portent le nom des particularités géologiques proches desquelles elles ont été bâties.
+
 >> ### Ganymède
 >>
 >> Propriétés :
@@ -221,6 +217,8 @@ Enfin Callisto est la quatrième et dernière lune galiléenne. Sa surface sombr
 >> * Période : 7 j 3 h 42 min
 >>
 >> Colonies de Ganymède : Danel (2150), Kittu (2158), Diment (2164), Nah-Hunte (2169), We-Ila (2174), Dendera (2178), Anubis (2182), Nut (2185) Asîma (2187).9
+
+Ganymède est la plus massive et la plus grande des lunes du système solaire. Sa surface semble composée de grandes plaques fracturées dont un tiers semble particulièrement sombre. Comme Europe, Ganymède possède un vaste océan liquide sous sa surface. C’est en revanche la seule lune du système solaire qui possède son propre champ magnétique. Ganymède est la lune du système jovien qui porte le plus grand nombre de colonie. Celles-ci portent les noms des cratères dans lesquelles elles ont été érigées.
 
 >> ### Callisto
 >>
@@ -233,6 +231,8 @@ Enfin Callisto est la quatrième et dernière lune galiléenne. Sa surface sombr
 >>
 >> Colonies de Callisto : Nar (2155), Egdir (2161), Uksakka (2167), Agloolik (2173), Haki (2176), Alfr (2180), Njord (2184).
 
+Enfin Callisto est la quatrième et dernière lune galiléenne. Sa surface sombre est recouverte de cratères et elle est la seule à ne pas être en résonance orbitale avec les trois autres. Sa surface est très ancienne et la lune, non différentiée, possède beaucoup de roches à sa surface. Callisto porte de nombreuses colonies dont les noms correspondent aux cratères où elles ont été installées.
+
 ## Saturne, la planète aux anneaux
 
 >> Propriétés :
@@ -243,9 +243,9 @@ Enfin Callisto est la quatrième et dernière lune galiléenne. Sa surface sombr
 >> * Jour solaire : 10 h 39 min
 >> * Année sidérale : 29 ans 165 j
 
-Saturne est la dernière planète visible à l’œil nu depuis la Terre. Comme Jupiter, Saturne est une planète géante gazeuse entourée d’une myriade de lunes.
+Sixième planète du système solaire, Saturne est la dernière planète visible à l’œil nu depuis la Terre. Comme Jupiter, Saturne est une planète géante gazeuse entourée d’une myriade de lunes. Mais ce qui la rend exceptionnelle sont ses grands anneaux. Certes, toutes les géantes gazeuses en possèdent, mais ceux de Saturne sont immenses et extrêmement denses. Ils sont composés de particules de glace et, dans une moindre mesure, de roches qui mesurent entre un centimètre et une dizaine de mètres de diamètre. Les anneaux sont fins et ne mesurent qu’un kilomètre d’épaisseur environ. Par sa nature gazeuse, cette planète n’est pas colonisée, mais elle possède plusieurs colonies sur ses lunes.
 
-Mais ce qui la rend exceptionnelle sont ses grands anneaux. Certes, toutes les géantes gazeuses en possèdent, mais ceux de Saturne sont immenses et extrêmement denses. Ils sont composés de particules de glace et, dans une moindre mesure, de roches qui mesurent entre un centimètre et une dizaine de mètres de diamètre. Les anneaux sont fins et ne mesurent qu’un kilomètre d’épaisseur environ.
+Les anneaux de Saturne sont tous organisés dans le même plan suivant l’équateur de la planète. Les premiers, et les plus denses, des anneaux se situent bien à l’intérieur de l’orbite de Mimas et sont composés de particules macroscopiques allant de quelques centimètres à quelques mètres. Cette dernière orbite au début de l’anneau E, un très grand anneau diffus qui s’étend au-delà de l’orbite de Rhéa. L’anneau E est lui composé de particules microscopiques.
 
 >> ### Mimas
 >>
@@ -258,6 +258,8 @@ Mais ce qui la rend exceptionnelle sont ses grands anneaux. Certes, toutes les g
 >>
 >> Colonies de Mimas : Herschel (2161).
 
+Mimas est la première des lunes de Saturne ayant une masse suffisante pour être un ellipsoïde. Recouverte de cratère, sa surface accidentée est marquée par un cratère d’impact géant qui abrite l’unique colonie de Mimas : Herschel. Cette colonie porte le nom du cratère et fut la tout première à être établie dans le système planétaire de Saturne pour préparer la colonisation plus délicate de Titan.
+
 >> ### Encelade
 >>
 >> Propriétés :
@@ -266,6 +268,8 @@ Mais ce qui la rend exceptionnelle sont ses grands anneaux. Certes, toutes les g
 >> * Gravité : 0,012 g
 >> * Rayon orbital : 0,79 sl
 >> * Période : 1 j 53 min
+
+Encelade est une petite lune possédant une surface relativement jeune et très réfléchissante. Elle porte de nombreux faille tectoniques et son pôle nord est recouvert de cratères. La lune possède aussi des régions de plaines lisses. Encelade possède une activité cryovolcanique et est responsable de l’approvisionnement en matière de l’anneau E de saturne, le plus diffus et le plus étendu. Encelade ne porte pas de colonie.
 
 >> ### Téthys
 >>
@@ -276,6 +280,8 @@ Mais ce qui la rend exceptionnelle sont ses grands anneaux. Certes, toutes les g
 >> * Rayon orbital : 0,98 sl
 >> * Période : 1 j 21 h 18 min
 
+Téthys est une lune à la surface accidentée. Cette lune possède une coloration légèrement bleutée sur son côté qui fait face à son déplacement et une coloration un peu plus rouge et foncée sur la face opposée. On suspecte les particules de l’anneau E d’être à l’origine de cette coloration plus clair. Téthys n’a pas encore été colonisée.
+
 >> ### Dioné
 >>
 >> Propriétés :
@@ -285,6 +291,8 @@ Mais ce qui la rend exceptionnelle sont ses grands anneaux. Certes, toutes les g
 >> * Rayon orbital : 1,26 sl
 >> * Période : 2 j 17 h 41 min
 
+Dioné une lune semblable à Téthys, couverte de cratères et possédant une coloration différentiée par sa traversée de l’anneau E de Saturne. Cette lune porte de grandes lignes de fracture. Dioné n’est pas non plus colonisée.
+
 >> ### Rhéa
 >>
 >> Propriétés :
@@ -293,6 +301,8 @@ Mais ce qui la rend exceptionnelle sont ses grands anneaux. Certes, toutes les g
 >> * Gravité : 0,027 g
 >> * Rayon orbital : 4,08 sl
 >> * Période : 4 j 12 h 26 min
+
+Rhéa est la deuxième plus grande lune de Saturne et possède des caractéristiques géologiques similaires à celle de Dioné. Elle ne porte pas non plus de colonie.
 
 >> ### Titan
 >>
@@ -305,6 +315,8 @@ Mais ce qui la rend exceptionnelle sont ses grands anneaux. Certes, toutes les g
 >>
 >> Colonies de Titan : Tollan (2164), Yalaing (2168), Hetpet (2172), Antilia (2175), Crete (2178), Veles (2181), Oahu (2183), Kronin (2186), Eir (2186).
 
+Titan est la plus grande lune de Saturne et la seconde plus grande de tout le système solaire. C’est aussi la seule lune du système solaire qui possède une atmosphère dense. De l’espace, sa surface est complètement masquée par une couche nuageuse orangée, composée principalement de méthane et d’éthane. La pression atmosphérique à la surface est d’environ 1,45 fois celle de la Terre. Bien que la vie en soit absente, Titan possède un véritable cycle du méthane, similaire au cycle de l’eau sur Terre. On y trouve des rivières, des lacs et même des mers. Titan porte la majorité des colonies du système saturnien, nommée en fonction des régions où elles ont été construites.
+
 >> ### Japet
 >>
 >> Propriétés :
@@ -313,6 +325,8 @@ Mais ce qui la rend exceptionnelle sont ses grands anneaux. Certes, toutes les g
 >> * Gravité : 0,14 g
 >> * Rayon orbital : 4,08 sl
 >> * Période : 79 j 7 h 42 min
+
+Japet est la troisième plus grande lune de Saturne. Composée principalement de glaces cette lune présente des particularités géologiques singulières. Si l’hémisphère qui fait face au déplacement de la lune est très sombre, tandis que la face arrière est dix fois plus réfléchissante. Japet possède aussi d’impressionnants cratères d’impact et une crête équatoriale de près de treize kilomètre de haut. Japet n’a pas encore été colonisé.
 
 ## Uranus, la géante bleue
 
@@ -324,8 +338,7 @@ Mais ce qui la rend exceptionnelle sont ses grands anneaux. Certes, toutes les g
 >> * Jour solaire : 17 h 12 min
 >> * Année sidérale : 84 ans 27 j
 
-Uranus est la troisième géante gazeuse et la première planète à ne pas être visible à l’œil nu depuis la Terre. Elle possède un aspect bleu pâle uniforme.
-
+Uranus est la troisième géante gazeuse et la dernière planète à être visible à l’œil nu depuis la Terre, bien que très difficilement. Elle possède un aspect bleu pâle uniforme qui peut sembler complètement dépourvu de particularité. Son axe de rotation, mais aussi celui de révolution de ses principales lunes, est oblique, presque compris dans le plan de son orbite. Ceci produit des saisons particulièrement contrastées, même si la période de révolution d’Uranus rend celles-ci particulièrement longues. Si Uranus n’est pas colonisable, l’une de ses lunes, Titania, porte la première colonie de ce système planétaire.
 
 >> ### Miranda
 >>
@@ -336,6 +349,8 @@ Uranus est la troisième géante gazeuse et la première planète à ne pas êtr
 >> * Rayon orbital : 0,43 sl
 >> * Période : 1 j 9 h 55 min
 
+Miranda est la plus petite des cinq plus grandes lunes d’Uranus. C’est aussi l’un des plus petits corps en équilibre hydrostatique. La lune présente une surface brisée par de nombreuses failles concentriques et une surface particulièrement irrégulière. Miranda n’a pas encore été colonisée.
+
 >> ### Ariel
 >>
 >> Propriétés :
@@ -345,6 +360,8 @@ Uranus est la troisième géante gazeuse et la première planète à ne pas êtr
 >> * Rayon orbital : 0,64 sl
 >> * Période : 2 j 12 h 28 min
 
+Ariel est la quatrième plus grande lune d’Uranus et présente une surface parcourue par de larges et profond canyons. Elle possède aussi des plaines et des cratères en nombre. Cette lune n’a pas encore été colonisée.
+
 >> ### Umbriel
 >>
 >> Propriétés :
@@ -353,6 +370,8 @@ Uranus est la troisième géante gazeuse et la première planète à ne pas êtr
 >> * Gravité : 0,023 g
 >> * Rayon orbital : 0,89 sl
 >> * Période : 4 j 3 h 27 min
+
+Umbriel est la troisième plus grande des lunes d’Uranus et sa surface couverte par de nombreux cratères est aussi la plus sombre. Sa surface qui semble particulièrement homogène ne porte pour le moment aucune colonie.
 
 >> ### Titania
 >>
@@ -365,6 +384,8 @@ Uranus est la troisième géante gazeuse et la première planète à ne pas êtr
 >>
 >> Colonies de Titania : Valeria (2185).
 
+Titania est la plus grande des lunes d’Uranus et la huitième plus grande du système solaire. Sa surface est plus jeune que celle des autres principales lunes d’Uranus comme l’attestent le nombre plus réduit de cratère d’impact. Un réseau de chasmas parcourt sa surface. Titania porte la seule colonie du système uranien Valeria située au fond du cratère éponyme.
+
 >> ### Obéron
 >>
 >> Propriétés :
@@ -373,6 +394,8 @@ Uranus est la troisième géante gazeuse et la première planète à ne pas êtr
 >> * Gravité : 0,035 g
 >> * Rayon orbital : 1,95 sl
 >> * Période : 13 j 11 h 7 min
+
+Obéron est la plus externe et la seconde plus grande lune d’Uranus. Sa surface sombre porte une couleur très légèrement rougeâtre et est recouverte de très nombreux cratères ce qui semble en faire la plus ancienne surface de toutes les lunes d’Uranus. Obéron possède aussi quelques chasma bien qu’elles soient moins étendues que celles de Titania.
 
 ## Neptune, la profonde
 
@@ -384,7 +407,7 @@ Uranus est la troisième géante gazeuse et la première planète à ne pas êtr
 >> * Jour solaire : 16 h 06 min
 >> * Année sidérale : 164 ans 323 j
 
-Le système neptunien est le système planétaire du système solaire le plus éloigné du soleil. Il marque aussi la fin de la tranche des systèmes externes et le début de la ceinture de Kuiper.
+Neptune est la huitième et dernière planète du système solaire. Invisible à l’œil nu depuis la Terre, cette géante gazeuse est pourtant la troisième plus grande planète du système. D’une couleur bleu foncé, sa surface est parcourue par des ouragans blancs et de grandes taches sombres qui la rende considérablement plus contrastée qu’Uranus. Comme toutes les autres géantes gazeuses, Neptune est entourée de nombreuses lunes. Seules trois dépassent les cent-cinquante kilomètres de rayon. Ce système ne possède pas encore de colonie active, mais une cité est en cours de construction sur Triton.
 
 >> ### Protée
 >>
@@ -394,6 +417,8 @@ Le système neptunien est le système planétaire du système solaire le plus é
 >> * Gravité : 0,008 g
 >> * Rayon orbital : 0,39 sl
 >> * Période : 1 j 2 h 56 min
+
+Protée est la deuxième plus grande lune de Neptune. Sa forme irrégulière et sa surface porte de très nombreux cratères. Le plus grand des cratères possède même un diamètre supérieur au rayon de la lune. Protée n’est pas colonisée.
 
 >> ### Triton
 >>
@@ -406,6 +431,8 @@ Le système neptunien est le système planétaire du système solaire le plus é
 >>
 >> Colonies de Triton : Ryugu (2187).
 
+Triton est la plus grande lune de Neptune et la septième plus grande du système solaire. Cette lune possède une orbite rétrograde, c’est-à-dire qu’elle tourne en sens inverse par rapport à la rotation de la planète et de la majorité des autres lunes. Triton possède un cryovolcanisme et une surface relativement jeune. La majorité de ces cratères se situent sur l’hémisphère qui fait face à son sens de révolution. Ses pôles sont couverts d’une calotte de glace d’azote ponctuée de traînées provoquées par des geysers. De grandes lignes de fracture traversent la surface de la lune. Une première colonie est en cours de construction dans la plaine Ryugu et devrait porter le nom de cette région.
+
 >> ### Néréide
 >>
 >> Propriétés :
@@ -414,3 +441,5 @@ Le système neptunien est le système planétaire du système solaire le plus é
 >> * Gravité : 0,006 g
 >> * Rayon orbital : 18,39 sl
 >> * Période : 360 j
+
+Néréïde est la troisième plus grande lune de Neptune. Irrégulière, elle possède aussi une orbite plus elliptique que les autres. Néreïde n’est pas colonisée.
