@@ -54,58 +54,24 @@ La situation est différente au sol. Même si aucune autre monde avec une surfac
 * Le poids des objets est proportionnel à la gravité. Par exemple, une masse de 100 kg n’en pèse que 37 sur mars ou 16 sur Callisto. Ceci fait qu’il est plus simple de transporter du matériel lourd dans les colonies. C’est en revanche un facteur de perte musculaire pour les organiques non modifiés.
 * La hauteur d’un saut est divisé par la valeur de la gravité. Ainsi avec une gravité martienne (0.38 g), il est possible de sauter 2.7 fois plus haut.
 * De la même façon, lors d’une chute, le choc à l’arrivée est proportionnel à la gravité, ce qui signifie qu’une chute d’une certaine hauteur sur un astre doit être multipliée par la gravité pour obtenir son équivalent sur la Terre. Ainsi, une chute de 5 mètres sur Mars correspond à une chute d’un peu moins de deux mètres sur Terre.
-* En revanche, la marche est plus difficile et plus lente à mesure que la gravité décline et en dessous de 10-15 % il n’est plus véritablement possible de marcher sans assistance. Toutes les colonies sur les astres les moins massifs (Téthys, Dioné, Rhéa, Japet, Titania et Triton) proposent une architecture proche de celles des stations orbitales avec des volumes réduits et des rambardes pour assister les déplacements.
+* En revanche, la marche est plus difficile et plus lente à mesure que la gravité décline et en dessous de 10-15 % il n’est plus véritablement possible de marcher sans assistance. Toutes les colonies sur les astres les moins massifs (Mimas, Titania et Triton) proposent une architecture proche de celles des stations orbitales avec des volumes réduits et des rambardes pour assister les déplacements.
 
-<table>
-    <tr>
-    <th>Astre</th><th>Gravité de surface</th><th>Facteur de poids</th><th>Facteur de saut</th>
-    </tr>
-    <tr>
-        <th>Mercure</th><td>0,38 g</td><td>38 %</td><td>×2,6</td>
-    </tr>
-    <tr>
-        <th>Terre</th><td>1 g</td><td>100 %</td><td>×1</td>
-    </tr>
-    <tr>
-        <th>Lune (Terre)</th><td>0,17 g</td><td>17 %</td><td>×5,9</td>
-    </tr>
-    <tr>
-        <th>Mars</th><td>0,38 g</td><td>38 %</td><td>×2,7</td>
-    </tr>
-    <tr>
-        <th>Io (Jupiter)</th><td>0,18 g</td><td>18 %</td><td>×5,5</td>
-    </tr>
-    <tr>
-        <th>Europe (Jupiter)</th><td>0,13 g</td><td>13 %</td><td>×7,7</td>
-    </tr>
-    <tr>
-        <th>Ganymède (Jupiter)</th><td>0,15 g</td><td>15 %</td><td>×6,6</td>
-    </tr>
-    <tr>
-        <th>Callisto (Jupiter)</th><td>0,12 g</td><td>12 %</td><td>×8,3</td>
-    </tr>
-    <tr>
-        <th>Téthys (Saturne)</th><td>0,015 g</td><td>1,5 %</td><td>×66</td>
-    </tr>
-    <tr>
-        <th>Dioné (Saturne)</th><td>0,024 g</td><td>2,4 %</td><td>×41</td>
-    </tr>
-    <tr>
-        <th>Rhéa (Saturne)</th><td>0,027 g</td><td>2,7 %</td><td>×37</td>
-    </tr>
-    <tr>
-        <th>Titan (Saturne)</th><td>0,14 g</td><td>14 %</td><td>×7,1</td>
-    </tr>
-    <tr>
-        <th>Japet (Saturne)</th><td>0,023 g</td><td>2,3 %</td><td>×43</td>
-    </tr>
-    <tr>
-        <th>Titania (Uranus)</th><td>0,039 g</td><td>3,9 %</td><td>×25</td>
-    </tr>
-    <tr>
-        <th>Triton (Neptune)</th><td>0,08 g</td><td>8 %</td><td>×12</td>
-    </tr>
-</table>
+>> Voici une liste des principaux astres, leur gravité et l'effet sur le poids et la hauteur de saut :
+>> * **Mercure** : 0,38 g (poid relatif : 38 %, hauteur de saut : ×2,6)
+>> * **Terre** : 1 g (poid relatif : 100 %, hauteur de saut : ×1)
+>> * **Lune (Terre)** : 0,17 g (poid relatif : 17 %, hauteur de saut : ×5,9)
+>> * **Mars** : 0,38 g (poid relatif : 38 %, hauteur de saut : ×2,7)
+>> * **Io (Jupiter)** : 0,18 g (poid relatif : 18 %, hauteur de saut : ×5,5)
+>> * **Europe (Jupiter)** : 0,13 g (poid relatif : 13 %, hauteur de saut : ×7,7)
+>> * **Ganymède (Jupiter)** : 0,15 g (poid relatif : 15 %, hauteur de saut : ×6,6)
+>> * **Callisto (Jupiter)** : 0,12 g (poid relatif : 12 %, hauteur de saut : ×8,3)
+>> * **Téthys (Saturne)** : 0,015 g (poid relatif : 1,5 %, hauteur de saut : ×66)
+>> * **Dioné (Saturne)** : 0,024 g (poid relatif : 2,4 %, hauteur de saut : ×41)
+>> * **Rhéa (Saturne)** : 0,027 g (poid relatif : 2,7 %, hauteur de saut : ×37)
+>> * **Titan (Saturne)** : 0,14 g (poid relatif : 14 %, hauteur de saut : ×7,1)
+>> * **Japet (Saturne)** : 0,023 g (poid relatif : 2,3 %, hauteur de saut : ×43)
+>> * **Titania (Uranus)** : 0,039 g (poid relatif : 3,9 %, hauteur de saut : ×25)
+>> * **Triton (Neptune)** : 0,08 g (poid relatif : 8 %, hauteur de saut : ×12)
 
 ## Faire une sortie
 
