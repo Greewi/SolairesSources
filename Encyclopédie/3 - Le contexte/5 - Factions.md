@@ -14,27 +14,11 @@ L’Organisation des Nations Unies représente la Terre et ses nations dans l’
 
 Historiquement constituée pour éviter les guerres sur Terre, mission dont la réussite fut relative, l’ONU, du point de vue des colonies, s’est surtout fait remarquer pour son opposition aux corporations. Elle est aussi tenue pour responsable de la Guerre des Colonies par ces dernières.
 
-<table>
-    <tr>
-        <th colspan="2">Organisation des nations unies</th>
-    </tr>
-    <tr>
-        <th>Type</th>
-        <td>Organisation mondiale terrienne</td>
-    </tr>
-    <tr>
-        <th>Premier secrétaire</th>
-        <td>Nemja Mahut, Grégoire de Montergny (mi-2093)</td>
-    </tr>
-    <tr>
-        <th>Fondation</th>
-        <td>1945</td>
-    </tr>
-    <tr>
-        <th>Puissance</th>
-        <td>Moyenne puissance</td>
-    </tr>
-</table>
+>> ### Organisation des nations unies
+>> * **Type** : Organisation mondiale terrienne
+>> * **Premier** : Nemja Mahut, Grégoire de Montergny (mi-2093)
+>> * **Fondation** : 1945
+>> * **Puissance** : Moyenne puissance
 
 Organisation destinée au maintien de la paix, l’ONU se voit renforcée au fil du temps pour lutter contre les corporations. Peu après la seconde vague de fondation de ces super-groupes, l’Organisation de Régulation des Super-Économies (ORSE) est constituée sur décision du conseil de sécurité. À partir de ce moment, les nations unies deviennent capables de bloquer la formation de nouvelle corporation, sans, pour autant, pouvoir démanteler celles en place. Cette mesure met durablement fin à la genèse des corporations.
 
@@ -58,58 +42,13 @@ L’ONU, défaite, est remise en cause sur Terre. L’issue de la guerre, mais a
 ## Mars (HIARTech)
 Mars, anciennement HIARTech (High Intelligence And Rocket Technology), est la seule corporation disposant d’un territoire clairement définit : Mars. Historiquement la première corporation au sens moderne, HIARTech est aussi l’initiateur de la colonisation du système solaire. À cet égard, il est naturel que la corporation soit, encore aujourd’hui, considérée comme l’avant-garde de la technologie spatiale et de la colonisation.
 
-<table>
-    <tr>
-        <th colspan="2">Mars (HIARTech)</th>
-    </tr>
-    <tr>
-        <th>Forme de l’État</th>
-        <td>Oligarchie</td>
-    </tr>
-    <tr>
-        <th>Leaders</th>
-        <td>Conseil secret de trois personne</td>
-    </tr>
-    <tr>
-        <th>Modèle économique</th>
-        <td>Proche du communisme d’état à économie virtuelle</td>
-    </tr>
-    <tr>
-        <th>Capitale</th>
-        <td>Marineris (Mars)</td>
-    </tr>
-    <tr>
-        <th>Fondation</th>
-        <td>2049</td>
-    </tr>
-    <tr>
-        <th>Puissance</th>
-        <td>Grande puissance</td>
-    </tr>
-</table>
-
-<table>
-    <tr>
-        <th>Astre</th>
-        <th>Colonies</th>
-        <th>Population</th>
-    </tr>
-    <tr>
-        <th>Mars</th>
-        <td>45</td>
-        <td>1 650 000</td>
-    </tr>
-    <tr>
-        <th>Phobos</th>
-        <td>1</td>
-        <td>30 000</td>
-    </tr>
-    <tr>
-        <th>Total</th>
-        <td>46</td>
-        <td>1 680 000</td>
-    </tr>
-</table>
+>> ### Mars (HIARTech)
+>> * **Forme** : Oligarchie
+>> * **Leaders** : Conseil secret de trois personne
+>> * **Modèle** : Proche du communisme d’état à économie virtuelle
+>> * **Capitale** : Marineris (Mars)
+>> * **Fondation** : 2049
+>> * **Puissance** : Grande puissance
 
 Fondée en 2049, HIARTech doit sa direction historique à son PDG, Alfred Johnwen, souvent considéré soit comme un visionnaire, soit comme un dément. Son discours historique, après l’abandon de l’exploration spatiale par les agences nationales, lance la corporation sur une quête que beaucoup considèrent alors comme impossible : la colonisation de Mars. Dans ce domaine, HIARTech ne fera qu’aller de succès en succès.
 
@@ -133,68 +72,13 @@ Désormais, Mars est vue comme la grande sœur des corporations, sage et avancé
 ## Waylanders
 Waylanders est sur certains aspects une corporation de taille moyenne : si elle ne possède pas autant de colonie que HIARTech ou Suan, son industrie et sa force militaire sont parmi les plus importantes du système solaire.
 
-<table>
-    <tr>
-        <th colspan="2">Waylanders</th>
-    </tr>
-    <tr>
-        <th>Forme de l’État</th>
-        <td>Aristocratie dirigée par les actionnaires majoritaires</td>
-    </tr>
-    <tr>
-        <th>Leaders</th>
-        <td>Robert Teadrill (Président du conseil)</td>
-    </tr>
-    <tr>
-        <th>Modèle économique</th>
-        <td>Système capitaliste mixte où la monnaie est introduite et régulée par la corporation</td>
-    </tr>
-    <tr>
-        <th>Capitale</th>
-        <td>Zitzca (Ganymède)</td>
-    </tr>
-    <tr>
-        <th>Fondation</th>
-        <td>2063</td>
-    </tr>
-    <tr>
-        <th>Puissance</th>
-        <td>Grande puissance</td>
-    </tr>
-</table>
-
-<table>
-    <tr>
-        <th>Astre</th>
-        <th>Colonies</th>
-        <th>Population</th>
-    </tr>
-    <tr>
-        <th>Io</th>
-        <td>3</td>
-        <td>110 000</td>
-    </tr>
-    <tr>
-        <th>Europe</th>
-        <td>4</td>
-        <td>150 000</td>
-    </tr>
-    <tr>
-        <th>Ganymède</th>
-        <td>9</td>
-        <td>330 000</td>
-    </tr>
-    <tr>
-        <th>Callisto</th>
-        <td>8</td>
-        <td>300 000</td>
-    </tr>
-    <tr>
-        <th>Total</th>
-        <td>24</td>
-        <td>890 000</td>
-    </tr>
-</table>
+>> ### Waylanders
+>> * **Forme** : Aristocratie dirigée par les actionnaires majoritaires
+>> * **Leaders** : Robert Teadrill (Président du conseil)
+>> * **Modèle** : Système capitaliste mixte où la monnaie est introduite et régulée par la corporation
+>> * **Capitale** : Zitzca (Ganymède)
+>> * **Fondation** : 2063
+>> * **Puissance** : Grande puissance
 
 Comme les autres corporations, l’action de Waylanders a été fortement inspiré par HIARTech. La corporation a été fondée par des groupes ayant une croyance forte dans l’avenir de la colonisation spatiale. Dès le début de son programme, Waylanders décide de miser sur le développement des colonies avec un minimum d’envoi. Préférant assurer ses arrières, la corporation conclue un pacte avec Vranberg-Lytan et Suan pour installer sa première colonie à proximité de celles des deux autres corporations.
 
@@ -229,78 +113,13 @@ Depuis la fin de la Guerre, Waylanders a repris sa stratégie initiale : dével
 ## Suan
 Suan est la seconde plus grande corporation en termes de population. Principalement établie dans le système saturnien, elle est souvent citée comme l’archétype typique des corporations même si elle est tout aussi unique que les autres.
 
-<table>
-    <tr>
-        <th colspan="2">Suan</th>
-    </tr>
-    <tr>
-        <th>Forme de l’État</th>
-        <td>Démocratie participative</td>
-    </tr>
-    <tr>
-        <th>Leaders</th>
-        <td>Nora « Pelican » (Présidente)</td>
-    </tr>
-    <tr>
-        <th>Modèle économique</th>
-        <td>Système capitaliste mixte où la monnaie est introduite par des instituts financiers internes</td>
-    </tr>
-    <tr>
-        <th>Capitale</th>
-        <td>Ombrenade (Titan)</td>
-    </tr>
-    <tr>
-        <th>Fondation</th>
-        <td>2063</td>
-    </tr>
-    <tr>
-        <th>Puissance</th>
-        <td>Grande puissance</td>
-    </tr>
-</table>
-
-<table>
-    <tr>
-        <th>Astre</th>
-        <th>Colonies</th>
-        <th>Population</th>
-    </tr>
-    <tr>
-        <th>Ganymède</th>
-        <td>3</td>
-        <td>110 000</td>
-    </tr>
-    <tr>
-        <th>Thétys</th>
-        <td>5</td>
-        <td>180 000</td>
-    </tr>
-    <tr>
-        <th>Dioné</th>
-        <td>5</td>
-        <td>180 000</td>
-    </tr>
-    <tr>
-        <th>Rhéa</th>
-        <td>4</td>
-        <td>150 000</td>
-    </tr>
-    <tr>
-        <th>Titan</th>
-        <td>20</td>
-        <td>730 000</td>
-    </tr>
-    <tr>
-        <th>Japet</th>
-        <td>3</td>
-        <td>110 000</td>
-    </tr>
-    <tr>
-        <th>Total</th>
-        <td>40</td>
-        <td>1 460 000</td>
-    </tr>
-</table>
+>> ### Suan
+>> * **Forme** : Démocratie participative
+>> * **Leaders** : Nora « Pelican » (Présidente)
+>> * **Modèle** : Système capitaliste mixte où la monnaie est introduite par des instituts financiers internes
+>> * **Capitale** : Ombrenade (Titan)
+>> * **Fondation** : 2063
+>> * **Puissance** : Grande puissance
 
 Fondée durant la seconde vague, Suan vise immédiatement deux fronts : Jupiter et Saturne. Pour ce premier système, elle joue la carte de la sécurité et installe sa première cité près de celles de Vranberg-Lyan et de Waylanders. En revanche, pour Saturne, elle est la première et Titan représente un défi certain : doté d’une épaisse et opaque atmosphère et isolé dans un système encore non colonisé, Suan mettra un an de plus pour mettre au point son plan.
 
@@ -327,73 +146,13 @@ Malgré la distance et les événements, Suan a conservé d’excellents rapport
 ## Vranberg-Lytan
 Vranberg-Lytan est l’une des corporations externes et possède de nombreuses colonies dans le système jovien et le système saturnien. Elle a longtemps eu une vision intéressée de la colonisation et occupe principalement des sites riches en ressources.
 
-<table>
-    <tr>
-        <th colspan="2">Vranberg-Lytan</th>
-    </tr>
-    <tr>
-        <th>Forme de l’État</th>
-        <td>Dictature militaire</td>
-    </tr>
-    <tr>
-        <th>Leaders</th>
-        <td>Conseil composé des amiraux et généraux</td>
-    </tr>
-    <tr>
-        <th>Modèle économique</th>
-        <td>Économie virtuelle et militariste basé sur un calcul félicifique</td>
-    </tr>
-    <tr>
-        <th>Capitale</th>
-        <td>Zergnest (Ganymède)</td>
-    </tr>
-    <tr>
-        <th>Fondation</th>
-        <td>2062</td>
-    </tr>
-    <tr>
-        <th>Puissance</th>
-        <td>Moyenne puissance</td>
-    </tr>
-</table>
-
-<table>
-    <tr>
-        <th>Astre</th>
-        <th>Colonies</th>
-        <th>Population</th>
-    </tr>
-    <tr>
-        <th>Io</th>
-        <td>3</td>
-        <td>110 000</td>
-    </tr>
-    <tr>
-        <th>Europe</th>
-        <td>4</td>
-        <td>150 000</td>
-    </tr>
-    <tr>
-        <th>Ganymède</th>
-        <td>12</td>
-        <td>440 000</td>
-    </tr>
-    <tr>
-        <th>Callisto</th>
-        <td>3</td>
-        <td>110 000</td>
-    </tr>
-    <tr>
-        <th>Titan</th>
-        <td>1</td>
-        <td>40 000</td>
-    </tr>
-    <tr>
-        <th>Total</th>
-        <td>23</td>
-        <td>850 000</td>
-    </tr>
-</table>
+>> ### Vranberg-Lytan
+>> * **Forme** : Dictature militaire
+>> * **Leaders** : Conseil composé des amiraux et généraux
+>> * **Modèle** : Économie virtuelle et militariste basé sur un calcul félicifique
+>> * **Capitale** : Zergnest (Ganymède)
+>> * **Fondation** : 2062
+>> * **Puissance** : Moyenne puissance
 
 Seconde corporation à s’être formée, en 2062, Vranberg-Lytan marche initialement dans les pas de HIARTech. Proposé à l’origine comme un objectif de prestige, Vranberg-Lytan vise le système jovien. Le succès des missions vers Mars indique très clairement la viabilité et la maturité des technologies de colonisation et le conseil de direction est persuadé qu’une civilisation spatiale est sur le point d’émerger. Or, Vranberg-Lytan veut faire partie des premiers, car ils auront un avantage indéniable.
 
@@ -426,73 +185,13 @@ Diplomatiquement, Vranberg-Lytan reste en très bon terme avec Mars, Waylanders 
 ## Aesir
 Aesir est une petite corporation fortement militarisée, issue d’une scission avec Vranberg-Lytan. Fondée par Marth « Iron Lady », l’IA conçue pour gagner la guerre des colonies, la corporation s’est fixé le but de « résoudre le problème terrien »
 
-<table>
-    <tr>
-        <th colspan="2">Aesir</th>
-    </tr>
-    <tr>
-        <th>Forme de l’État</th>
-        <td>Dictature militaire</td>
-    </tr>
-    <tr>
-        <th>Leaders</th>
-        <td>Marth « Iron Lady » (Leader)</td>
-    </tr>
-    <tr>
-        <th>Modèle économique</th>
-        <td>Économie virtuelle et militariste basé sur un réseau social</td>
-    </tr>
-    <tr>
-        <th>Capitale</th>
-        <td>Neo-Leanor (Callisto), à partir de mi-2093</td>
-    </tr>
-    <tr>
-        <th>Fondation</th>
-        <td>2091</td>
-    </tr>
-    <tr>
-        <th>Puissance</th>
-        <td>Moyenne puissance</td>
-    </tr>
-</table>
-
-<table>
-    <tr>
-        <th>Astre</th>
-        <th>Colonies</th>
-        <th>Population</th>
-    </tr>
-    <tr>
-        <th>Io</th>
-        <td>1</td>
-        <td>40 000</td>
-    </tr>
-    <tr>
-        <th>Europe</th>
-        <td>3</td>
-        <td>110 000</td>
-    </tr>
-    <tr>
-        <th>Ganymède</th>
-        <td>6</td>
-        <td>220 000</td>
-    </tr>
-    <tr>
-        <th>Callisto</th>
-        <td>3</td>
-        <td>110 000</td>
-    </tr>
-    <tr>
-        <th>Titan</th>
-        <td>5</td>
-        <td>180 000</td>
-    </tr>
-    <tr>
-        <th>Total</th>
-        <td>18</td>
-        <td>660 000</td>
-    </tr>
-</table>
+>> ### Aesir
+>> * **Forme** : Dictature militaire
+>> * **Leaders** : Marth « Iron Lady » (Leader)
+>> * **Modèle** : Économie virtuelle et militariste basé sur un réseau social
+>> * **Capitale** : Neo-Leanor (Callisto), à partir de mi-2093
+>> * **Fondation** : 2091
+>> * **Puissance** : Moyenne puissance
 
 Au lendemain de la guerre, Vranberg-Lytan qui s’était fortement militarisé décide revenir à un fonctionnement civil et le conseil veut démanteler son imposante armée qu’il juge caduque. Cette décision ne plaît pas à de nombreux militaire et Marth, dont les décisions ont fait pencher le cours de la guerre, fait campagne pour conserver une force suffisante au cas où une nouvelle menace émergerait. Elle s’appuie notamment sur plusieurs analyses qui indiquent que la situation de la Terre s’est fortement dégradée et que les politiques anti-colonies ont de grandes chances de mener à une nouvelle guerre.
 
@@ -507,63 +206,13 @@ Malgré tout, les autres corporations continuent de se méfier d’Aesir et de n
 ## Urania
 Urania est une des plus petites corporations et la plus jeune. Formée à partir des scissions de Vranberg-Lytan, elle se concentre sur la colonisation des systèmes les plus externes : Uranus et Neptune. Pour l’heure le plus gros de ses forces reste encore sur Titan.
 
-<table>
-    <tr>
-        <th colspan="2">Urania</th>
-    </tr>
-    <tr>
-        <th>Forme de l’État</th>
-        <td>Démocratie représentative directoriale indirecte</td>
-    </tr>
-    <tr>
-        <th>Leaders</th>
-        <td>Evan « Thighstone », Louise Verdner et Œuria (Conseillers)</td>
-    </tr>
-    <tr>
-        <th>Modèle économique</th>
-        <td>Proche du communisme d’état à économie virtuelle</td>
-    </tr>
-    <tr>
-        <th>Capitale</th>
-        <td>Stull (Titan)</td>
-    </tr>
-    <tr>
-        <th>Fondation</th>
-        <td>2091</td>
-    </tr>
-    <tr>
-        <th>Puissance</th>
-        <td>Petite puissance</td>
-    </tr>
-</table>
-
-<table>
-    <tr>
-        <th>Astre</th>
-        <th>Colonies</th>
-        <th>Population</th>
-    </tr>
-    <tr>
-        <th>Titan</th>
-        <td>3</td>
-        <td>100 000</td>
-    </tr>
-    <tr>
-        <th>Titania</th>
-        <td>1</td>
-        <td>30 000</td>
-    </tr>
-    <tr>
-        <th>Triton</th>
-        <td>1</td>
-        <td>30 000</td>
-    </tr>
-    <tr>
-        <th>Total</th>
-        <td>5</td>
-        <td>160 000</td>
-    </tr>
-</table>
+>> ### Urania
+>> * **Forme** : Démocratie représentative directoriale indirecte
+>> * **Leaders** : Evan « Thighstone », Louise Verdner et Œuria (Conseillers)
+>> * **Modèle** : Proche du communisme d’état à économie virtuelle
+>> * **Capitale** : Stull (Titan)
+>> * **Fondation** : 2091
+>> * **Puissance** : Petite puissance
 
 Avec la scission d’Aesir, le conseil de Vranberg-Lytan se retrouve débordé. Alors qu’une partie de ses incorporés attendent une réaction de sa part, le conseil s’enlise dans une posture conservatrice. Plusieurs voix s’élèvent alors, demandant un plan d’action et craignant que la stagnation ne provoque le déclin de la corporation.
 
@@ -582,40 +231,11 @@ Si Urania reste la plus petite corporation avec seulement cinq colonies, elle es
 ## Sol6
 Sol6 est la seule corporation à posséder un appui sur Terre et à travailler avec l’ONU. Elle ne dispose pas d’armée et n’a pas signé le traité des Colonies : c’est encore une corporation selon l’ancien sens qui se contente d’extraire des ressources de Mercure pour approvisionner ses installations orbitales.
 
-<table>
-    <tr>
-        <th colspan="2">Sol6</th>
-    </tr>
-    <tr>
-        <th>Type</th>
-        <td>Société privée</td>
-    </tr>
-    <tr>
-        <th>Siège social</th>
-        <td>Kampala (Ouganda, Terre)</td>
-    </tr>
-    <tr>
-        <th>Fondation</th>
-        <td>2063</td>
-    </tr>
-    <tr>
-        <th>Puissance</th>
-        <td>Petite puissance</td>
-    </tr>
-</table>
-
-<table>
-    <tr>
-        <th>Astre</th>
-        <th>Colonies</th>
-        <th>Population</th>
-    </tr>
-    <tr>
-        <th>Mercure</th>
-        <td>21</td>
-        <td>760 000</td>
-    </tr>
-</table>
+>> ### Sol6
+>> * **Type** : Société privée
+>> * **Siège** : Kampala (Ouganda, Terre)
+>> * **Fondation** : 2063
+>> * **Puissance** : Petite puissance
 
 Première corporation de la seconde vague, Sol6 lance rapidement son propre programme spatial. Un temps intéressé par la Lune, elle n’y installe pourtant que quelques bases et installations de recherche et s’oriente vers Mercure où les ressources l’intéressent bien plus.
 
@@ -640,27 +260,11 @@ Les Solar Wardners sont totalement autonomes et ne reçoivent d’ordres d’auc
 
 Note : « wardner » est un mot d’anglais des colonies qui mélange « warden » et « warder » qui lie les notions de garde et de gardien.
 
-<table>
-    <tr>
-        <th colspan="2">Les Solar Wardners</th>
-    </tr>
-    <tr>
-        <th>Type</th>
-        <td>Groupe indépendant</td>
-    </tr>
-    <tr>
-        <th>Leader</th>
-        <td>Aucun, les Solar Wardners ont une hiérarchie horizontale</td>
-    </tr>
-    <tr>
-        <th>Fondation</th>
-        <td>2081, indépendance 2083</td>
-    </tr>
-    <tr>
-        <th>Puissance</th>
-        <td>Grande puissance</td>
-    </tr>
-</table>
+>> ### Les Solar Wardners
+>> * **Type** : Groupe indépendant
+>> * **Leader** : Aucun, les Solar Wardners ont une hiérarchie horizontale
+>> * **Fondation** : 2081, indépendance 2083
+>> * **Puissance** : Grande puissance
 
 En 2081, alors que le conseil directoire de HIARTech vient d’être reformé, il compose un groupe d’enquête employant les meilleurs agents qu’il possède pour faire la lumière sur l’attentat qui a anéanti précédent conseil. C’est la fondation des Solar Wardners. Dès le début de leur enquête, les corporations accordent à cette commission d’enquête toutes les autorisations nécessaires, aucune n’ayant envie de faire figure de traître dans cette affaire.
 
@@ -689,27 +293,11 @@ Les Soleils (en français dans le texte) sont le plus prestigieux des groupes de
 
 C’est le groupe de mercenaire le plus respecté et sans doute l’un des plus puissants. C’est par ailleurs le seul groupe indépendant capable d’aligner deux vaisseaux de lignes en cas de besoin.
 
-<table>
-    <tr>
-        <th colspan="2">Les Soleils</th>
-    </tr>
-    <tr>
-        <th>Type</th>
-        <td>Groupe de mercenaires indépendant</td>
-    </tr>
-    <tr>
-        <th>Leader</th>
-        <td>Hito « Blades » Hirotomi</td>
-    </tr>
-    <tr>
-        <th>Fondation</th>
-        <td>2081</td>
-    </tr>
-    <tr>
-        <th>Puissance</th>
-        <td>Moyenne puissance</td>
-    </tr>
-</table>
+>> ### Les Soleils
+>> * **Type** : Groupe de mercenaires indépendant
+>> * **Leader** : Hito « Blades » Hirotomi
+>> * **Fondation** : 2081
+>> * **Puissance** : Moyenne puissance
 
 L’histoire des Soleils commence pendant la crise consécutive à l’anéantissement du conseil directoire de HIARTech en 2081. Dans quelques colonies, c’est une véritable guerre civile qui prend place. Ce conflit commence lorsque Kertzan, le maire d’Arabia, décide d’imposer un régime dictatorial dans sa cité et de s’unir avec deux autres colonies pour faire sécession avec le reste de Mars.
 
@@ -732,27 +320,11 @@ S’il existe un groupe de mercenaire qui se vante de pouvoir frapper n’import
 
 Mais ce qui distingue le groupe des autres sont ses méthodes. Son premier principe repose sur le fait que tous ses agents sont sacrifiables : en quatre ans d’activité, les rumeurs de la capture d’un agent du Neo Control sont considérées comme des légendes sans crédit. Des enveloppes volées avec le centre mémoriel détruit, ça en revanche, on en retrouve à la pelle.
 
-<table>
-    <tr>
-        <th colspan="2">Le Neo Control</th>
-    </tr>
-    <tr>
-        <th>Type</th>
-        <td>Groupe de mercenaires indépendant</td>
-    </tr>
-    <tr>
-        <th>Leader</th>
-        <td>Inconnu</td>
-    </tr>
-    <tr>
-        <th>Fondation</th>
-        <td>2089</td>
-    </tr>
-    <tr>
-        <th>Puissance</th>
-        <td>Moyenne puissance</td>
-    </tr>
-</table>
+>> ### Le Neo Control
+>> * **Type** : Groupe de mercenaires indépendant
+>> * **Leader** : Inconnu
+>> * **Fondation** : 2089
+>> * **Puissance** : Moyenne puissance
 
 Au sortir de la guerre, les corporations se retrouvent confrontées à un dilemme : avec le renforcement des Solar Wardners comment régler les affaires les plus discutables sans se compromettre ? Autrefois, les corporations auraient très certainement employé leurs services secrets. Malheureusement, les nouveaux gardiens du système solaire s’avèrent être de formidables enquêteurs et leur pouvoir est difficile à limiter.
 
@@ -765,27 +337,11 @@ Aujourd’hui encore le Neo Control continue ses activités, officiellement dét
 ## Les Icarens
 Les Icarens sont des courtiers de l’information et des mercenaires. Ils opèrent à travers tout le système solaire et se sont spécialisés dans le contrôle de l’information : espionnage, trafic de donnée, effacement et chantage sont leurs activités principales. Leur efficacité est telle, que les rumeurs prétendent qu’ils possèdent assez d’informations pour faire plier des corporations.
 
-<table>
-    <tr>
-        <th colspan="2">Les Icarens</th>
-    </tr>
-    <tr>
-        <th>Type</th>
-        <td>Mercenaires et courtiers de l’information</td>
-    </tr>
-    <tr>
-        <th>Leader</th>
-        <td>Dædalus</td>
-    </tr>
-    <tr>
-        <th>Fondation</th>
-        <td>2089</td>
-    </tr>
-    <tr>
-        <th>Puissance</th>
-        <td>Moyenne puissance</td>
-    </tr>
-</table>
+>> ### Les Icarens
+>> * **Type** : Mercenaires et courtiers de l’information
+>> * **Leader** : Dædalus
+>> * **Fondation** : 2089
+>> * **Puissance** : Moyenne puissance
 
 La fin de la guerre provoque de nombreux remaniements au sein des forces de sécurité et la plupart des soldats sont démobilisés. Parmi eux, une minorité veut rester actifs. C’est ce qui vaut la création d’un grand nombre de compagnies de mercenaires et autres agences privées dans les colonies.
 
@@ -800,27 +356,11 @@ Aujourd’hui les Icarens sont un groupe indépendant respecté mais auquel pers
 ## Les Phobos’ Heights
 Les Phobos’ Heights forment un groupe qui évolue entre le mercenariat et le crime organisé. Si leur présence en dehors de Mars est limitée, ils représentent une faction puissante à sa surface. Élusifs, ils contrôlent tout le marché noir, notamment des armes létales, et semblent les seuls à vouloir et pouvoir exécuter toutes sortes de missions douteuses sur le sol martien.
 
-<table>
-    <tr>
-        <th colspan="2">Les Phobos’ Heights</th>
-    </tr>
-    <tr>
-        <th>Type</th>
-        <td>Mafia martienne et mercenaires</td>
-    </tr>
-    <tr>
-        <th>Leader</th>
-        <td>Inconnu</td>
-    </tr>
-    <tr>
-        <th>Fondation</th>
-        <td>2081</td>
-    </tr>
-    <tr>
-        <th>Puissance</th>
-        <td>Petite puissance</td>
-    </tr>
-</table>
+>> ### Les Phobos’ Heights
+>> * **Type** : Mafia martienne et mercenaires
+>> * **Leader** : Inconnu
+>> * **Fondation** : 2081
+>> * **Puissance** : Petite puissance
 
 Lors des troubles qui suivent l’attentat de 2081, la sécurité des colonies de la planète rouge, au fonctionnement centralisé, se retrouve particulièrement désorganisée. Durant cette période quelques colonies tenteront même de se soustraire à la nation martienne naissante, donnant lieu à une de véritable guerre civile.
 
@@ -839,27 +379,11 @@ Les cercles de jeux de Zuko sont un groupe communautaire très particulier. Regr
 
 Mais en plus de l’aspect communautaire, l’organisation propose de véritables missions de mercenariat, sous la supervision de Zuko elle-même. Les talents et l’entraînement développés dans ces jeux sont bien réels et les corporations engagent volontiers les meilleurs des agents dans des missions dites « hardcore ». Pour Zuko, c’est un moyen de rendre les cercles de jeux utiles pour les colonies, en plus de donner des objectifs plus concrets à ces solaires perdus.
 
-<table>
-    <tr>
-        <th colspan="2">Les cercles de jeux de Zuko (ZGC)</th>
-    </tr>
-    <tr>
-        <th>Type</th>
-        <td>Groupe communautaire et mercenaires</td>
-    </tr>
-    <tr>
-        <th>Leader</th>
-        <td>Zuko</td>
-    </tr>
-    <tr>
-        <th>Fondation</th>
-        <td>2090</td>
-    </tr>
-    <tr>
-        <th>Puissance</th>
-        <td>Petite puissance</td>
-    </tr>
-</table>
+>> ### Les cercles de jeux de Zuko (ZGC)
+>> * **Type** : Groupe communautaire et mercenaires
+>> * **Leader** : Zuko
+>> * **Fondation** : 2090
+>> * **Puissance** : Petite puissance
 
 Fondé initialement sur le jeu de réalité virtuelle AltSol, Zuko, la créatrice du jeu, se rend compte que l’environnement ultra-gamifié qu’elle propose attire de nombreux solaires à la recherche d’un sens à leur existence. Bien qu’elle-même soit une fervente partisane de l’auto-détermination, elle décide de s’appuyer sur ce jeu, et les suivants, pour guider et encadrer ces solaires errants. C’est ainsi que naît ce que les solaires appellent désormais les Cercles de jeux de Zuko (ZGC – Zuko’s Game Circles).
 
