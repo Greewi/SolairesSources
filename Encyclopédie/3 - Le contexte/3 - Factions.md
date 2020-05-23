@@ -10,59 +10,65 @@
 >> * Petites puissances, celles qui ne peuvent que suivre le mouvement général.
 
 ## Organisation des Nations Unies
+
 L’Organisation des Nations Unies représente la Terre et ses nations dans l’espace par le biais du comité des utilisations pacifiques de l’espace extra-atmosphérique. Ce n’est pas son but premier, certes, mais cette fonction est la seule qui intéresse encore les corporations.
 
 Historiquement constituée pour éviter les guerres sur Terre, mission dont la réussite fut relative, l’ONU, du point de vue des colonies, s’est surtout fait remarquer pour son opposition aux corporations. Elle est aussi tenue pour responsable de la Guerre des Colonies par ces dernières.
 
 >> ### Organisation des nations unies
->> * **Type** : Organisation mondiale terrienne
->> * **Premier** : Nemja Mahut, Grégoire de Montergny (mi-2093)
+>>
+>> * **Type** : Organisation mondiale terrienne
+>> * **Objet** : Maintien de la paix et de la sécurité sur Terre
+>> * **Premier** secrétaire : Nemja Mahut, Grégoire de Montergny (mi-2237)
 >> * **Fondation** : 1945
+>> * **Siège** : New-York
 >> * **Puissance** : Moyenne puissance
 
 Organisation destinée au maintien de la paix, l’ONU se voit renforcée au fil du temps pour lutter contre les corporations. Peu après la seconde vague de fondation de ces super-groupes, l’Organisation de Régulation des Super-Économies (ORSE) est constituée sur décision du conseil de sécurité. À partir de ce moment, les nations unies deviennent capables de bloquer la formation de nouvelle corporation, sans, pour autant, pouvoir démanteler celles en place. Cette mesure met durablement fin à la genèse des corporations.
 
 Son pouvoir est encore renforcé lorsque les corporations mettent au point les nanorobots auto-réplicatifs. Les nations prennent alors peur et accordent à l’ONU le droit de mener des opérations militaires contre les corporations à sa propre initiative, avec les troupes prêtées par les États membres. Cette mesure, supposée dissuasive, ne se servira que bien plus tard.
 
-Mais en 2075, alors que la situation diplomatique entre les nations et les corporations se dégradent, l’ONU fait part de son incapacité à pouvoir atteindre les colonies spatiales des corporations. Craignant que ces installations soient utilisées à de mauvaises fins, les nations lui octroient le droit de constituer une flotte spatiale. Plus exactement, les nations unies ont désormais la charge d’organiser et de coordonner construction de la future flotte spatiale terrienne puis d’en unifier le commandement. L’organisation ne sera toutefois pas en mesure de déployer cette force avant une décennie.
+Mais en 2207, alors que la situation diplomatique entre les nations et les corporations se dégradent, l’ONU fait part de son incapacité à pouvoir atteindre les colonies spatiales des corporations. Craignant que ces installations soient utilisées à de mauvaises fins, les nations lui octroient le droit de constituer une flotte spatiale. Plus exactement, les nations unies ont désormais la charge d’organiser et de coordonner construction de la future flotte spatiale terrienne puis d’en unifier le commandement. L’organisation ne sera toutefois pas en mesure de déployer cette force avant une décennie.
 
-Pour son premier acte de force de l’organisation frappe en 2076, lorsqu’elle lance une opération militaire contre les installations terrestres de HIARTech qui ne cesse de défier les nations unies et s’est même permise d’espionner le conseil de sécurité. Cette opération est un succès militaire qui rassure les nations sur leurs capacités conjointes. Par la même occasion, l’organisation prend possession des chantiers spatiaux de la corporation qu’elle emploie encore de nos jours.
+Pour son premier acte de force de l’organisation frappe en 2210, lorsqu’elle lance une opération militaire contre les installations terrestres de HIARTech qui ne cesse de défier les nations unies et s’est même permise d’espionner le conseil de sécurité. Cette opération est un succès militaire qui rassure les nations sur leurs capacités conjointes. Par la même occasion, l’organisation prend possession des chantiers spatiaux de la corporation qu’elle emploie encore de nos jours.
 
 Quelques années plus tard, l’affaire de l’attentat martien éclate dans les colonies. Bien que pointée du doigt par les corporations, l’ONU se contente d’ignorer l’affaire : finalement, cette affaire n’est pratiquement pas relayée ni commenté sur Terre. Et les nations ne remettent pas en question le bien supposé de l’opération.
 
 Les corporations finissent par rompre toute relation diplomatique. Avec les nombreux rapports concernant l’armement des colonies, l’ONU se voit obligée de réagir. C’est le début de la guerre des colonies. La planète bleue se lance dans le conflit sous le drapeau onusien.
 
-Les premières batailles, sur Terre, sont emportées haut la main et l’ONU balaie les corporations du sol de la planète bleue. Sa campagne spatiale, en revanche, débute avec moins d’éclat : le siège martien s’enlise rapidement, et le front jovien est meurtrier. Finalement, le conflit dure cinq ans, au terme duquel la Terre sort perdante. Cette défaite marque la fin des prétentions militaires de la Terre sur les colonies.
+Les premières batailles, sur Terre, sont emportées haut la main et l’ONU balaie les corporations du sol de la planète bleue. La bataille de la lune est aussi rapidement gagnée. Mais sa campagne spatiale se confronte avec un premier échec : le siège martien s’enlise rapidement et voyant les corporations s'organiser autour de Jupiter, l'ONU est contrainte d'abandonner la planète rouge et de se lancer sur le meutrier front jovien. Finalement, après cinq ans de conflit, la Terre sort perdante. Cette défaite marque la fin des prétentions militaires de la Terre sur les colonies.
 
-Depuis la signature du Traité des Colonies, le seul territoire spatial que contrôle effectivement l’ONU est le système planétaire de la Terre, encore qu’à la surface de la planète bleue son autorité s’efface face à celles des nations. Seule Sol6 est restée sous contrôle Terrien. La corporation conserve la gestion de ses colonies, sur la Lune et Mercure, mais il s’agit officiellement de protectorats de l’ONU bénéficiant de la surveillance constante du programme des Nations Unies pour les établissements humains.
+Depuis la signature du Traité des Colonies, le seul territoire spatial que contrôle effectivement l’ONU est le système planétaire de la Terre, encore qu’à la surface de la planète bleue son autorité s’efface face à celles des nations. Seule Sol6 est restée sous contrôle Terrien. La corporation conserve la gestion de ses colonies, sur la Lune et Mercure, mais il s’agit officiellement de protectorats de l’ONU bénéficiant de la surveillance constante du programme des Nations Unies pour les établissements humains. L'organisation a aussi hérité des anciennes colonies lunaires des corporations et leur gestion reste un poids logistique.
 
 L’ONU, défaite, est remise en cause sur Terre. L’issue de la guerre, mais aussi son coût, aussi bien en terme matériel qu’humain, remettent en question les pouvoirs qui ont été conférés aux nations unies. De nombreuses voix souhaitent un remaniement complet de l’organisation, mais nombreux craignent que son affaiblissement provoque de nouvelle guerre à la surface de la planète bleue.
 
 ----
 ## Mars (HIARTech)
+
 Mars, anciennement HIARTech (High Intelligence And Rocket Technology), est la seule corporation disposant d’un territoire clairement définit : Mars. Historiquement la première corporation au sens moderne, HIARTech est aussi l’initiateur de la colonisation du système solaire. À cet égard, il est naturel que la corporation soit, encore aujourd’hui, considérée comme l’avant-garde de la technologie spatiale et de la colonisation.
 
 >> ### Mars (HIARTech)
+>>
 >> * **Forme** : Oligarchie
 >> * **Leaders** : Conseil secret de trois personne
 >> * **Modèle** : Proche du communisme d’état à économie virtuelle
 >> * **Capitale** : Marineris (Mars)
->> * **Fondation** : 2049
+>> * **Fondation** : 2166
 >> * **Puissance** : Grande puissance
 
-Fondée en 2049, HIARTech doit sa direction historique à son PDG, Alfred Johnwen, souvent considéré soit comme un visionnaire, soit comme un dément. Son discours historique, après l’abandon de l’exploration spatiale par les agences nationales, lance la corporation sur une quête que beaucoup considèrent alors comme impossible : la colonisation de Mars. Dans ce domaine, HIARTech ne fera qu’aller de succès en succès.
+Fondée en 2166, HIARTech doit sa direction historique à son PDG et princuipal actionnaire, Alfred Johnwen. Cet homme qui a racheté la corporation sur déclin après l'abandon de l'exploration spatiale par les nations est souvent considéré soit comme un visionnaire, soit comme un dément. Son discours historique lance la corporation sur une quête que beaucoup considèrent alors comme impossible : la colonisation de la Lune puis de Mars. Dans ce domaine, HIARTech ne fera qu’aller de succès en succès.
 
 La suite de l’histoire de la corporation est profondément marquée par son opposition avec l’ONU. Le conflit naît lors de l’affaire Leena. Très avancée dans la recherche sur l’intelligence artificielle, la corporation met au point la première intelligence artificielle sentiente : Leena. Malheureusement, un affrontement juridique entre la corporation et la justice européenne, conduit à la désactivation de l’IA. Elle est réactivée plus tard sur Mars. L’ONU, alors investie d’une mission de contrôle des corporations, prend une attitude plus agressive envers HIARTech qu’elle cible spécifiquement dans ses procédures.
 
-Le bras de fer entre l’ONU et HIARTech qui suit occupe les tribunaux plusieurs années, maintenant le statu quo. Au fil du temps, l’ONU acquière de plus en plus de pouvoir et HIARTech commet ce qui sera sa plus grande erreur : en 2076, la corporation infiltre un espion directement au sein du conseil de sécurité. Malheureusement, cet espion est démasqué après six mois d’activité et l’ONU déverse son courroux sur la corporation. L’organisation lance une opération militaire et balaye son ennemi de la surface de la Terre. Le président de la corporation est même tué lors des opérations. Cet événement est encore considéré comme le premier acte militaire de la guerre des colonies par certains historiens martiens.
+Le bras de fer entre l’ONU et HIARTech qui suit occupe les tribunaux plusieurs années, maintenant le statu quo. Au fil du temps, l’ONU acquière de plus en plus de pouvoir et HIARTech commet ce qui sera sa plus grande erreur : en 2210, la corporation infiltre un espion directement au sein du conseil de sécurité. Malheureusement, cet espion est démasqué après six mois d’activité et l’ONU déverse son courroux sur la corporation. L’organisation lance une opération militaire et balaye son ennemi de la surface de la Terre. Le président de la corporation est même tué lors des opérations. Cet événement est encore considéré comme le premier acte militaire de la guerre des colonies par certains historiens martiens.
 
 Par la suite, la corporation réduite à ses colonies martiennes s’appuie sur ses capacités technologiques. La tâche n’est pas aussi ardue que ce qu’on pourrait imaginer : dès le départ, les colonies ont été conçues pour devenir autonome. Ravitailler ces cités depuis la Terre n’a jamais été une option, aussi l’industrie martienne est déjà installée : il ne reste plus qu’à en augmenter l’échelle. En plus, la suite de l’effort de colonisation a été planifié à partir des cités déjà installées et ne repose plus sur des envois depuis la Terre.
 
 Avant de se faire renvoyer de la Terre, HIARTech a aussi développé un programme d’aide à la colonisation pour aider les autres corporations. Cette relation continue et les autres corporations continuent à soutenir HIARTech, notamment en transportant les nouveaux colons à destination de Mars depuis la Terre. Ainsi, même en observant l’évolution de la colonisation de Mars à la loupe, on ne discerne aucune discontinuité de sa progression.
 
-Cinq ans après l’assaut sur les installations terriennes de HIARTech, un nouveau drame frappe la corporation. Un attentat anéantit le conseil directoire, décapitant la société des colonies de la planète rouge. Il s’agissait d’un autre coup de l’ONU, comme le démontreront les Solar Wardners, assemblés pour l’occasion. Après la courte crise, l’Amiral Tanner, de la flotte martienne, parvient à rétablir un nouveau conseil de trois personnes, dont les membres sont gardés secrets pour éviter qu’ils ne soient à nouveau pris pour cible par l’ONU.
+Treize ans après l’assaut sur les installations terriennes de HIARTech, un nouveau drame frappe la corporation. Un attentat anéantit le conseil directoire, décapitant la société des colonies de la planète rouge. Il s’agissait d’un autre coup de l’ONU, comme le démontreront les Solar Wardners, assemblés pour l’occasion. Après la courte crise, l’Amiral Tanner, de la flotte martienne, parvient à rétablir un nouveau conseil de trois personnes, dont les membres sont gardés secrets pour éviter qu’ils ne soient à nouveau pris pour cible par l’ONU.
 
-Vient la guerre des colonies proprement dite. Dès 2085, Mars est attaqué en premier, mais depuis l’assaut sur ses installations terriennes, la corporation s’est préparée au conflit et elle dispose d’une flotte évasive et a développé de nombreuses techniques de guerre numérique. Au sol, elle dispose en outre de défenses efficaces qui interdisent à l’ONU une invasion. Le siège est finalement plus difficile à tenir pour l’ONU que pour Mars et les nations unies se retirent partiellement en 2086. Mars se débarrasse de la flotte restante et entame une campagne de sabotage et d’interception des renforts provenant des installations spatiales de Sol6.
+Vient la guerre des colonies proprement dite. Dès 2230, Mars est attaqué par l'ONU, mais depuis l’assaut sur ses installations terriennes, la corporation s’est préparée au conflit et elle dispose d’une flotte évasive et a développé de nombreuses techniques de guerre numérique. Au sol, elle dispose en outre de défenses efficaces qui interdisent à l’ONU une invasion. Le siège est finalement plus difficile à tenir pour l’ONU que pour Mars et les nations unies se retirent partiellement à la fin de l'année. Mars se débarrasse de la flotte restante et entame une campagne de sabotage et d’interception des renforts provenant des installations spatiales de Sol6.
 
 Quand la guerre est finalement gagnée par les corporations, Mars intervient et propose le traité des colonies. Après quelques négociations, il est accepté et la paix est signée. Mars devient officiellement une nation et prend une place importante de la diplomatie des colonies.
 
@@ -70,33 +76,32 @@ Désormais, Mars est vue comme la grande sœur des corporations, sage et avancé
 
 ----
 ## Waylanders
+
 Waylanders est sur certains aspects une corporation de taille moyenne : si elle ne possède pas autant de colonie que HIARTech ou Suan, son industrie et sa force militaire sont parmi les plus importantes du système solaire.
 
 >> ### Waylanders
 >> * **Forme** : Aristocratie dirigée par les actionnaires majoritaires
 >> * **Leaders** : Robert Teadrill (Président du conseil)
 >> * **Modèle** : Système capitaliste mixte où la monnaie est introduite et régulée par la corporation
->> * **Capitale** : Zitzca (Ganymède)
->> * **Fondation** : 2063
+>> * **Capitale** : April (Ganymède)
+>> * **Fondation** : 2186
 >> * **Puissance** : Grande puissance
 
 Comme les autres corporations, l’action de Waylanders a été fortement inspiré par HIARTech. La corporation a été fondée par des groupes ayant une croyance forte dans l’avenir de la colonisation spatiale. Dès le début de son programme, Waylanders décide de miser sur le développement des colonies avec un minimum d’envoi. Préférant assurer ses arrières, la corporation conclue un pacte avec Vranberg-Lytan et Suan pour installer sa première colonie à proximité de celles des deux autres corporations.
 
-Par la suite, son déploiement s’est effectué avec méthode. Des corporations joviennes, Waylander possède le territoire le moins fragmenté à la surface des lunes : chaque colonie peut s’appuyer directement sur les autres.
-
 Malheureusement, la faiblesse relative de son infrastructure terrienne ne lui permet pas d’assurer le même flot d’immigration que les autres corporations. Pour se développer, Waylander mise sur l’automatisation à outrance : des usines et des centres de traitement entièrement automatisés voient le jour. Certains mesureront presque un kilomètre carré, une échelle que même Vranberg-Lytan ne parviendra pas à égaler.
 
-Mais cet âge d’insouciance se termine avec les déclarations hostiles de l’ONU de 2072. Initialement, Waylanders considère les exigences des nations unies et se prépare même à s’y plier. Mais la résistance de ses alliés et voisins place la corporation dans une situation délicate. Dans un premier temps la corporation décide de temporiser, profitant de la diversion de HIARTech.
+Mais cet âge d’insouciance se termine avec les déclarations hostiles de l’ONU de 2198. Initialement, Waylanders considère les exigences des nations unies et se prépare même à s’y plier. Mais la résistance de ses alliés et voisins place la corporation dans une situation délicate. Dans un premier temps la corporation décide de temporiser, profitant de la diversion de HIARTech.
 
 Mais lorsque cette dernière est balayée de la Terre, il semble évident que le conflit entre les corporations et les nations unies a atteint un point de non-retour. Pour autant Waylanders hésite à choisir ouvertement un camp, préférant se préparer à devoir reposer sur ses colonies. C’est la trahison de Sol6 lors de l’affaire des chasseurs de Vranberg-Lytan qui met fin à ses hésitations. Jusqu’ici, aucune corporation n’avait nuit à une autre et Waylanders à désormais le sentiment que l’ONU est en train de mettre en péril la colonisation spatiale en instaurant un climat de peur.
 
 Ainsi, le conflit se polarise encore plus et Waylanders se rapproche des autres corporations. Elle participe notamment aux diverses négociations entre corporation et signe plusieurs traités formant une alliance de fait avec les autres futures nations extraterrestres.
 
-Alors que Vranberg-Lytan et Suan s’intéressent aussi au système saturnien, la corporation se concentre sur Jupiter et ses lunes. Sa stratégie s’avère mitigée : les deux autres corporations joviennes disposent déjà du double de colonie. Toutefois, ses super-usines remplissent leur fonction et Waylanders est la première corporation à disposer d’un excédent significatif.
+Alors que Vranberg-Lytan et Suan s’intéressent aussi au système saturnien, la corporation se concentre sur Jupiter et ses lunes. Sa stratégie s’avère mitigée : les deux autres corporations joviennes disposent déjà d'un plus grand nombre de colonie. Toutefois, ses super-usines remplissent leur fonction et Waylanders est la première corporation à disposer d’un excédent significatif.
 
 Vient alors la guerre des colonies, annoncée par le terrible attentat qui a dévasté le conseil de Mars. Waylanders ne peut plus ignorer ces signes et commence à produire une flotte militaire importante, échangeant une partie de ses ressources excessives contre le savoir-faire de Vranberg-Lytan. La défense est rapidement mise en place et la corporation s’attend au moment dit.
 
-Quand l’ONU passe à l’attaque sur Terre, elle ne se saisit que d’entrepôts vides, de laboratoires abandonnés et d’immeubles désertés : de toutes les corporations, Waylander est celle qui a le moins perdu ce jour-là, tant l’accent a été mis sur l’autonomie de ses colonies.
+Quand l’ONU passe à l’attaque sur Terre, elle ne se saisit que d’entrepôts vides, de laboratoires abandonnés et d’immeubles désertés : de toutes les corporations, Waylander est celle qui a le moins perdu ce jour-là, tant l’accent a été mis sur l’autonomie de ses colonies. De même ses colonies lunaires sont évacuées avant l'arrivée des forces onusiennes.
 
 Avant le front Jovien, la guerre conserve un aspect irréel pour les colons et la flotte bien qu’en alerte, reste relativement passive. La première bataille est un véritable choc : trop exposées, ses unités spatiales subissent des pertes immenses. Malgré des pertes équivalentes, l’ONU semble s’être préparé à ce carnage. Waylanders sait désormais quoi faire de son excédent.
 
@@ -111,17 +116,19 @@ Lors des négociations de la fin de la guerre, Waylanders désapprouve les menac
 Depuis la fin de la Guerre, Waylanders a repris sa stratégie initiale : développer ses colonies sur les Lunes de Jupiter et continuer de développer son industrie, prenant un peu de recul sur la politique du système solaire.
 
 ## Suan
+
 Suan est la seconde plus grande corporation en termes de population. Principalement établie dans le système saturnien, elle est souvent citée comme l’archétype typique des corporations même si elle est tout aussi unique que les autres.
 
 >> ### Suan
+>>
 >> * **Forme** : Démocratie participative
 >> * **Leaders** : Nora « Pelican » (Présidente)
 >> * **Modèle** : Système capitaliste mixte où la monnaie est introduite par des instituts financiers internes
 >> * **Capitale** : Ombrenade (Titan)
->> * **Fondation** : 2063
+>> * **Fondation** : 2186
 >> * **Puissance** : Grande puissance
 
-Fondée durant la seconde vague, Suan vise immédiatement deux fronts : Jupiter et Saturne. Pour ce premier système, elle joue la carte de la sécurité et installe sa première cité près de celles de Vranberg-Lyan et de Waylanders. En revanche, pour Saturne, elle est la première et Titan représente un défi certain : doté d’une épaisse et opaque atmosphère et isolé dans un système encore non colonisé, Suan mettra un an de plus pour mettre au point son plan.
+Fondée durant la seconde vague, Suan vise immédiatement deux fronts : Jupiter et Saturne. Après s'être installée sur la Lune comme toutes les autres corporations, elle joue la carte de la sécurité et installe sa première cité ganymédienne près de celles de Vranberg-Lyan et de Waylanders. En revanche, pour Saturne, elle est la première et Titan représente un défi certain : doté d’une épaisse et opaque atmosphère et isolé dans un système encore non colonisé, Suan mettra plusieurs années au point son plan qui reposera sur l'établissement d'une première colonie sur Mimas.
 
 Lors de l’inauguration d’Ombrenade sur Titan, Suan se conforte dans l’idée que le système saturnien est sans doute sa meilleure opportunité et concentre alors la majorité de ses efforts de colonisation sur ce système. Cette stratégie paie et la croissance de Suan talonne celles de Mars et Vranberg-Lytan.
 
@@ -129,11 +136,11 @@ Quand la situation diplomatique se tend entre HIARTech et l’ONU, Suan prend le
 
 Cette apparente neutralité envers l’ONU se rompt lors l’assaut contre HIARTech et plus particulièrement lors du meurtre d’Alfred Johnwen. Ce coup de force des nations unies risque, en effet, de ralentir voir de compromettre les plans de colonisation des corporations et Suan le fait ouvertement savoir. Dans le même temps, la corporation de Titan décide de constituer un conseil directoire secondaire directement dans les colonies au cas où.
 
-Mais c’est lors des résultats de l’enquête sur l’attentat de Mars que Suan devient ouvertement hostile à l’ONU : déjà, l’acte en lui-même est ignoble, mais surtout, la falsification de preuves pour incriminer Vranberg-Lytan met fin à tout espoir de cohabitation avec les nations unies.
+Mais c’est lors des résultats de l’enquête sur l’attentat d'Elysium que Suan devient ouvertement hostile à l’ONU : déjà, l’acte en lui-même est ignoble, mais surtout, la falsification de preuves pour incriminer Vranberg-Lytan met fin à tout espoir de cohabitation avec les nations unies.
 
-Malgré ses efforts, Suan ne parviendra pas à se préparer suffisamment rapidement et, lorsque la guerre éclate, elle est balayée de la Terre sans offrir de résistance. Pire, ses forces militaires dans le système Jovien sont à peine opérationnelles et dès la première année du front jovien, l’ONU capture la plupart de ses colonies dans le système de Jupiter.
+Malgré ses efforts, Suan ne parviendra pas à se préparer suffisamment rapidement et, lorsque la guerre éclate, elle est balayée de la Terre et de la Lune sans offrir de résistance. Pire, ses forces militaires dans le système Jovien sont à peine opérationnelles et dès la première année du front jovien, l’ONU capture la plupart de ses colonies dans le système de Jupiter.
 
-Sa quatrième et dernière, Leanor, rencontre un destin plus funeste encore. Alors que l’ONU a, jusque-là, capturé ses autres cités, Suan se voit acculée et décide d’installer des batteries de défense anti-orbitale directement dans la colonie. Mais plutôt que de perdre du temps à neutraliser ces installations, l’ONU décide de bombarder la cité. Sous le déluge de bombes et de plasma, la dernière cité jovienne de Suan est rayée de la carte.
+Sa dernière colonie livre de Jupiter, Leanor, rencontre un destin plus funeste encore. Alors que l’ONU a, jusque-là, capturé ses autres cités, Suan se voit acculée et décide d’installer des batteries de défense anti-orbitale directement dans la colonie. Mais plutôt que de perdre du temps à neutraliser ces installations, l’ONU décide de bombarder la cité. Sous le déluge de bombes et de plasma, la dernière cité jovienne de Suan est rayée de la carte.
 
 Ce choc élimine durablement Suan de la guerre et la corporation ne peut qu’observer le champ de bataille depuis la lointaine Saturne. Elle continue malgré tout d’envoyer des renforts pour assister les autres corporations mais son impact reste très indirect et génère beaucoup de frustration au sein du conseil saturnien.
 
@@ -144,17 +151,19 @@ Après la guerre, Suan récupère ses colonies perdues, sauf Leanor. Un projet d
 Malgré la distance et les événements, Suan a conservé d’excellents rapports avec Mars. La corporation a aussi une affection particulière pour Aesir, principalement supporté par sa haine des nations unies.
 
 ## Vranberg-Lytan
+
 Vranberg-Lytan est l’une des corporations externes et possède de nombreuses colonies dans le système jovien et le système saturnien. Elle a longtemps eu une vision intéressée de la colonisation et occupe principalement des sites riches en ressources.
 
 >> ### Vranberg-Lytan
+>>
 >> * **Forme** : Dictature militaire
 >> * **Leaders** : Conseil composé des amiraux et généraux
 >> * **Modèle** : Économie virtuelle et militariste basé sur un calcul félicifique
->> * **Capitale** : Zergnest (Ganymède)
->> * **Fondation** : 2062
+>> * **Capitale** : Danel (Ganymède)
+>> * **Fondation** : 2185
 >> * **Puissance** : Moyenne puissance
 
-Seconde corporation à s’être formée, en 2062, Vranberg-Lytan marche initialement dans les pas de HIARTech. Proposé à l’origine comme un objectif de prestige, Vranberg-Lytan vise le système jovien. Le succès des missions vers Mars indique très clairement la viabilité et la maturité des technologies de colonisation et le conseil de direction est persuadé qu’une civilisation spatiale est sur le point d’émerger. Or, Vranberg-Lytan veut faire partie des premiers, car ils auront un avantage indéniable.
+Seconde corporation à s’être formée, en 2185, Vranberg-Lytan marche initialement dans les pas de HIARTech. Proposé à l’origine comme un objectif de prestige, Vranberg-Lytan vise le système jovien. Le succès des missions vers Mars indique très clairement la viabilité et la maturité des technologies de colonisation et le conseil de direction est persuadé qu’une civilisation spatiale est sur le point d’émerger. Or, Vranberg-Lytan veut faire partie des premiers, car ils auront un avantage indéniable.
 
 Rapidement, la corporation achète le moteur d’IA Synchro et se lance dans une politique industrielle massive. La reconsolidation terminée, Vranberg-Lytan lance son programme spatial et se rapproche de la première corporation pour tenter de rattraper son retard. C’est une bonne chose car HIARTech décide de louer, à un tarif raisonnable, son chantier spatial aux autres corporations et Vranberg-Lytan en profite immédiatement.
 
@@ -183,14 +192,16 @@ Paradoxalement, alors que la corporation a perdu les membres d’Aesir parce qu�
 Diplomatiquement, Vranberg-Lytan reste en très bon terme avec Mars, Waylanders et Suan. En revanche, elle n’a toujours pas renouée diplomatiquement avec Sol6 et l’ONU qu’elle considère toujours comme des ennemis potentiels. Quant à Aesir et Urania, la corporation se contente d’éviter tout rapport avec.
 
 ## Aesir
+
 Aesir est une petite corporation fortement militarisée, issue d’une scission avec Vranberg-Lytan. Fondée par Marth « Iron Lady », l’IA conçue pour gagner la guerre des colonies, la corporation s’est fixé le but de « résoudre le problème terrien »
 
 >> ### Aesir
+>> 
 >> * **Forme** : Dictature militaire
 >> * **Leaders** : Marth « Iron Lady » (Leader)
 >> * **Modèle** : Économie virtuelle et militariste basé sur un réseau social
->> * **Capitale** : Neo-Leanor (Callisto), à partir de mi-2093
->> * **Fondation** : 2091
+>> * **Capitale** : Neo-Leanor (Callisto), à partir de mi-2237
+>> * **Fondation** : 2235
 >> * **Puissance** : Moyenne puissance
 
 Au lendemain de la guerre, Vranberg-Lytan qui s’était fortement militarisé décide revenir à un fonctionnement civil et le conseil veut démanteler son imposante armée qu’il juge caduque. Cette décision ne plaît pas à de nombreux militaire et Marth, dont les décisions ont fait pencher le cours de la guerre, fait campagne pour conserver une force suffisante au cas où une nouvelle menace émergerait. Elle s’appuie notamment sur plusieurs analyses qui indiquent que la situation de la Terre s’est fortement dégradée et que les politiques anti-colonies ont de grandes chances de mener à une nouvelle guerre.
@@ -204,69 +215,96 @@ Construisant son réseau diplomatique, la corporation s’allie avec Mars et sig
 Malgré tout, les autres corporations continuent de se méfier d’Aesir et de nombreux incidents provoqués par les plus fanatiques et anti-terrien de ses rangs confirment cette position. Par son message ambigu, Marth a malheureusement aussi invité des personnages tout aussi ambigus.
 
 ## Urania
+
 Urania est une des plus petites corporations et la plus jeune. Formée à partir des scissions de Vranberg-Lytan, elle se concentre sur la colonisation des systèmes les plus externes : Uranus et Neptune. Pour l’heure le plus gros de ses forces reste encore sur Titan.
 
 >> ### Urania
+>>
 >> * **Forme** : Démocratie représentative directoriale indirecte
 >> * **Leaders** : Evan « Thighstone », Louise Verdner et Œuria (Conseillers)
 >> * **Modèle** : Proche du communisme d’état à économie virtuelle
->> * **Capitale** : Stull (Titan)
->> * **Fondation** : 2091
+>> * **Capitale** : Windy (Titan)
+>> * **Fondation** : 2235
 >> * **Puissance** : Petite puissance
 
 Avec la scission d’Aesir, le conseil de Vranberg-Lytan se retrouve débordé. Alors qu’une partie de ses incorporés attendent une réaction de sa part, le conseil s’enlise dans une posture conservatrice. Plusieurs voix s’élèvent alors, demandant un plan d’action et craignant que la stagnation ne provoque le déclin de la corporation.
 
 Malheureusement, les conseillers se concentrent avant tout sur l’hémorragie de sa branche militaire et laisse la situation en statu quo. Plusieurs partisans de la colonisation font alors campagne pour relancer l’exploration d’Uranus et Neptune et amorcer l’établissement des solaires dans ces systèmes. Hélas, leurs efforts pour saisir le conseil sont vains.
 
-C’est alors que Thighstone et Louise Verdner, alors directeurs de Stull et Caprica, deux colonies Titane, décident de prendre les choses en main et font appel à Œuria pour planifier un nouveau programme de colonisation. Le conseil se réveille alors et tente de mettre fin au programme. À la suite d’un vote impliquant tous les citoyens des deux cités, Stull et Caprica font sécession. Le conseil de Vranberg-Lytan n’a même pas le temps de réagir qu’une troisième cité, Zamibie, les rejoints. Le coup d’état au sein de Vranberg-Lytan lui permet de mettre fin à l’hémorragie mais les trois cités ne reviennent pas.
+C’est alors que Thighstone et Louise Verdner, alors directeurs de Windy et Antilia, deux colonies Titane, décident de prendre les choses en main et font appel à Œuria pour planifier un nouveau programme de colonisation. Le conseil se réveille alors et tente de mettre fin au programme. À la suite d’un vote impliquant tous les citoyens des deux cités, Stull et Caprica font sécession. Le conseil de Vranberg-Lytan tente de réagir mais est pris de court. C'est finalement le coup d’état au sein de Vranberg-Lytan qui lui permet de mettre fin à l’hémorragie mais les deux cités ne reviennent pas.
 
-Louise Verdner propose la création d’Urania : une nouvelle corporation. L’idée est acceptée et les trois colonies, s’organisent en conséquence. Prenant Mars en exemple, un conseil est formé et Thighstone, Louise Verdner et Œuria sont nommés à la tête de la nouvelle corporation.
+Louise Verdner propose la création d’Urania : une nouvelle corporation. L’idée est acceptée et les deux colonies, s’organisent en conséquence. Prenant Mars en exemple, un conseil est formé et Thighstone, Louise Verdner et Œuria sont nommés à la tête de la nouvelle corporation.
 
 En dépit de l’état de Vranberg-Lytan, la situation est stable pour Urania et la jeune nation commence à développer son projet. Rapidement, elle se rend compte que ses moyens ne lui permettront pas d’établir de colonie dans les systèmes externes avant une décennie.
 
-La situation aurait pu en rester là, mais Mars prend contact avec Urania. La planète rouge est prête à lancer le premier vaisseau de colonisation à destination d’Alpha du Centaure. Mais elle souhaite tester le processus de colonisation à l’échelle un. Le projet d’Urania l’intéresse : Mars peut lui fournir deux vaisseaux de colonisation ainsi que tout le savoir technologique et scientifique attenant. En échange, Urania les déploient dans les systèmes d’Uranus et Neptune et transmet l’intégrité des rapports et données attenante au projet. Pour l’afflux de population, les deux corporations comptent sur les déçus qui continuent de quitter Vranberg-Lytan. Urania accepte le marché et les deux vaisseaux arrivent à destination en septembre 2091. Les premières étapes de la colonisation satisfont Mars qui lance sa mission dès l’année suivante.
+La situation aurait pu en rester là, mais Mars prend contact avec Urania. La planète rouge est prête à lancer le premier vaisseau de colonisation à destination d’Alpha du Centaure. Mais elle souhaite tester le processus de colonisation à l’échelle un. Le projet d’Urania l’intéresse : Mars peut lui fournir deux vaisseaux de colonisation ainsi que tout le savoir technologique et scientifique attenant. En échange, Urania les déploient dans les systèmes d’Uranus et Neptune et transmet l’intégrité des rapports et données attenante au projet. Pour l’afflux de population, les deux corporations comptent sur les déçus qui continuent de quitter Vranberg-Lytan. Urania accepte le marché et les deux vaisseaux arrivent à destination en septembre 2236. Les premières étapes de la colonisation satisfont Mars qui lance sa mission à la fin de l'année.
 
-Si Urania reste la plus petite corporation avec seulement cinq colonies, elle est la seule à disposer d’installation permanente dans les systèmes d’Uranus et Neptune. Par-dessus tout, l’état actuel de Vranberg-Lytan laisse penser que la population de ces systèmes planétaires pourrait augmenter rapidement dans les années à venir. Et Mars continue s’apporter son soutien, y compris sur le plan politique.
+Si Urania reste la plus petite corporation avec seulement trois colonies, elle est la seule à disposer d’installation permanente dans les systèmes d’Uranus et Neptune. Par-dessus tout, l’état actuel de Vranberg-Lytan laisse penser que la population de ces systèmes planétaires pourrait augmenter rapidement dans les années à venir. Et Mars continue de lui apporter son soutien, y compris sur le plan politique.
 
 ## Sol6
+
 Sol6 est la seule corporation à posséder un appui sur Terre et à travailler avec l’ONU. Elle ne dispose pas d’armée et n’a pas signé le traité des Colonies : c’est encore une corporation selon l’ancien sens qui se contente d’extraire des ressources de Mercure pour approvisionner ses installations orbitales.
 
 >> ### Sol6
+>>
 >> * **Type** : Société privée
 >> * **Siège** : Kampala (Ouganda, Terre)
->> * **Fondation** : 2063
+>> * **Fondation** : 2186
 >> * **Puissance** : Petite puissance
 
-Première corporation de la seconde vague, Sol6 lance rapidement son propre programme spatial. Un temps intéressé par la Lune, elle n’y installe pourtant que quelques bases et installations de recherche et s’oriente vers Mercure où les ressources l’intéressent bien plus.
-
-Dans son idée, exploiter Mercure sera rapidement rentable, surtout que les moyens de propulsion spatial continuent de progresser. Mais en attendant ce moment, la corporation prépare et installe des colonies dans les cratères du pôle nord et sud, exploitant au passage un petit nombre d’astéroïdes riches en métaux pour son approvisionnement immédiat.
+Première corporation de la seconde vague, Sol6 lance rapidement son propre programme spatial. Très intéressée par la Lune, elle y installe bien plus de colonies que les autres corporations qui semblent n'y voir qu'une rampe de lancement. Sol6 se focalise ensuite sur l'extraction minière des astéroïdes et vise Cérès et Mercure.
 
 Son approche intéressée de la colonisation l’isolera vis-à-vis des autres corporations et si elle bénéficie notamment des publications de HIARTech, elle ne contribue finalement que peu au développement scientifique et technique en dehors de certains aspects liés aux environnements des systèmes les plus internes.
 
 Visant des bénéfices à long terme, la corporation fait d’impressionnants efforts de communication auprès de ses actionnaires et lorsque le conflit éclate entre HIARTech et l’ONU, la corporation fait profil bas, se gardant bien de prendre un parti. Surtout qu’elle a d’autres problèmes par ailleurs.
 
-Principalement basée en Ouganda, la corporation fait face à des problèmes de sécurité dû au chaos naissant dans le pays. Avec la crise énergétique, qui ne touche pas directement les corporations bien trop riches, les nations les plus fragiles connaissent des périodes de troubles et rapidement la corporation se retrouve obligée de lever ses propres forces de sécurité. En définitif, Sol6 devient même la première force armée de l’ancienne colonie anglaise qui sombre dans une série de conflit interne.
+En effet, le rythme et les cadences du personnel des colonies de Cérès et Mercure génèrent beaucoup de stress et les conditions de vie sur la planète mineure se dégradent sensiblement. Des révoltes éclatent et Sol6 peine à y rétablir l'ordre. Même une fois la situation résolue, ces colonies restent instable et n'attendent qu'une étincelle pour exploser.
 
-Alors que Sol6 parvient enfin à assurer ses installations terrestres et que ses premières colonies sur Mercure voient le jour, l’ONU entre en guerre ouverte avec HIARTech. Alors que les autres corporations s’allient en opposition aux nations unies, Sol6 tente une approche différente et tente de s’allier avec l’organisation mondiale. Ainsi, lorsque Vranberg-Lytan partage ses plans des premiers chasseurs spatiaux avec les corporations, Sol6 échange une copie de ceux-ci avec les nations unies contre des garanties concernant ses propres installations. Lorsque les corporations s’indignent des actions de l’ONU après l’attentat sur Mars, Sol6 s’alignent sur son allié et nie la validité des preuves avancées par les Solar Wardners. Lorsque l’ONU lance son ultimatum la corporation s’est déjà mise en conformité et accepte sa « réintégration » dans ce système politique qu’elle n’a pas quitté. Et quand la guerre des colonies éclate, c’est la Terre et l’ONU qu’elle soutient en fournissant une grande part de la chaîne logistique.
+Sur Terre, la situation politique en Ouganda est fortement perturbée par l'impact économique de la corporation et le pays fait face à des troubles et des problèmes de sécurités. Son siège situé à Kampala, la corporation se retrouve obligée de lever ses propres forces de sécurité. En définitif, Sol6 devient même la première force armée de l’ancienne colonie anglaise qui sombre dans une série de conflit interne.
 
-Ces diverses actions lui valent évidemment le courroux des autres corporations. Durant la seconde moitié de la guerre, Mars s’en prend à ses convois et certaines de ses installations sur Mercure à travers de nombreuses opérations sous couverture. Lors de la signature du traité des colonies, Sol6 n’est pas conviée, reléguée par ses pairs à une « vulgaire » entreprise terrestre.
+Alors que Sol6 parvient enfin à assurer ses installations terrestres et que la situation dans ses colonies sur Cérès semble stabilisée, l’ONU entre en guerre ouverte avec HIARTech. Alors que les autres corporations s’allient en opposition aux nations unies, Sol6 tente une approche différente et tente de s’allier avec l’organisation mondiale. Ainsi, lorsque Vranberg-Lytan partage ses plans des premiers chasseurs spatiaux avec les corporations, Sol6 échange une copie de ceux-ci avec les nations unies contre des garanties concernant ses propres installations. Lorsque les corporations s’indignent des actions de l’ONU après l’attentat sur Mars, Sol6 s’alignent sur son allié et nie la validité des preuves avancées par les Solar Wardners. Lorsque l’ONU lance son ultimatum la corporation s’est déjà mise en conformité et accepte sa « réintégration » dans ce système politique qu’elle n’a pas quitté. Et quand la guerre des colonies éclate, c’est la Terre et l’ONU qu’elle soutient en fournissant une grande part de la chaîne logistique.
+
+Ces diverses actions lui valent évidemment le courroux des autres corporations. Durant la seconde moitié de la guerre, Mars s’en prend à ses convois et certaines de ses installations sur Mercure à travers de nombreuses opérations sous couverture. Lors de la signature du traité des colonies, Sol6 n’est pas conviée, reléguée par ses pairs à une « vulgaire » entreprise terrestre. La guerre des colonies lui a aussi définitivement coûté ses colonies sur cérès qui ont fait sécession et Sol6 ne songe même plus les récupérer.
 
 Jusqu’ici Sol6 ne s’est jamais vraiment opposée aux rapports de forces et si son attitude peut lui donner une aura de couardise, force est de constater que toutes les corporations ont perdu bien plus qu’elle au cours de l’Histoire. Malgré tout, face à Mars ou Suan, la corporation reste relativement petite. Pour couronner le tout, étant un protectorat de l’ONU, Sol6 ne dispose plus de force militaire propre.
 
+## Cérès
+
+Cérès est la fédération des colonies de la planète mineure de la ceinture principale d'astéroïde. Autrefois des colonies de Sol6, elles ont fait sécession durant la guerre des colonies et ont pris leur indépendance. En dépit de sa petite taille, Cérès est désormais le principal acteur de la ceinture d'astéroïde.
+
+>> ### Les Solar Wardners
+>>
+>> * **Type** : Fédération de colonies indépendantes
+>> * **Leader** : Brigitte Liikanen
+>> * **Fondation** : Indépendance en 2230
+>> * **Puissance** : Moyenne puissance
+
+Fondées par Sol6, les premières colonies de Cérès ont connue une histoire marquée par l'exploitation minière de la ceinture et l'avidité de la corporation. Sur peuplée pour augmenter le rendement de ces colonies, les conditions de vie se sont dégradées et les investissements de Sol6 pour le développement des espaces de vie sont restés très insuffisants. Plus d'une fois, ce sont des missions organisées par d'autres corporations qui ont permis à ces premières cités d'éviter un effondrement écosystémique.
+
+Les tensions entre la population et le directoire de la colonie n'ont ainsi de cesse de croitre et une première vague de révolte explose en 2209. Alors que toutes les corporations mettent en place des normes pour assurer des conditions de vie décentes dans leurs colonies, Sol6 règle la situation en achetant les leaders du mouvement et la répression. La stratégie de la corporation semble fonctionner mais un réseau de résistance s'organise en sous-main.
+
+Durant la guerre des colonies, l'ONU commence qui perd le siège de Mars, commence à exiger un soutient logistique de Sol6 plus poussé. Les colonies de Cérès, déjà sous pression, reçoivent des commandes qu'elles ne peuvent pas assurer et alors que le directoire décide d'employer la force pour faire respecter les demandes de la héirarchie, les colonies se soulèvent et destituent les membres du directoire.
+
+Les colonies de la planète mineure restent soudées et fondent la fédération Cérès. À la fin de la guerre, Sol6 demande la restitution de ses colonies, mais Cérès n'étant pas affiliée aux autres corporations, ces dernières n'y donnent pas suite. Avec le traité des colonies qui interdit à l'ONU une intervention qu'elle ne peut plus se permettre, Cérès reste independante et la première élection a lieu à la fin 2233.
+
+Depuis Cérès entretient des rapports cordiaux avec les corporations et a déjà constuit de nouvelle colonies.
+
 ## Les Solar Wardners
+
 Les Solar Wardners forme un corps d’élite indépendant qui veille sur la totalité du système solaire. Ils disposent d’une juridiction dans toutes les colonies. De plus, le traité des Colonies signé par les corporations et l’ONU, a été amendé pour les autoriser à mener l’enquête et réquisitionner tout le matériel et le personnel qu’ils désirent dans les colonies.
 
 Les Solar Wardners sont totalement autonomes et ne reçoivent d’ordres d’aucune corporation ou nation, bien que traditionnellement, la Terre soit laissée à ses propres institutions. En échange, les Solar Wardners ne s’occupent pas des questions politiques. Ils défont les complots menaçant la stabilité du système solaire, enquêtent sur les agissements des différents groupes et factions et défendent les Solaires dans leur ensemble, s’assurant qu’aucun groupe ne tente de se débarrasser d’un autre ou de l’asservir. Au fil du temps, ils sont aussi devenus la jurisprudence éthique des colonies.
 
-Note : « wardner » est un mot d’anglais des colonies qui mélange « warden » et « warder » qui lie les notions de garde et de gardien.
-
 >> ### Les Solar Wardners
+>>
 >> * **Type** : Groupe indépendant
 >> * **Leader** : Aucun, les Solar Wardners ont une hiérarchie horizontale
->> * **Fondation** : 2081, indépendance 2083
+>> * **Fondation** : 2223, indépendance 2227
 >> * **Puissance** : Grande puissance
+>>
+>> Note : « wardner » est un mot d’anglais des colonies qui mélange « warden » et « warder » qui lie les notions de garde et de gardien.
 
-En 2081, alors que le conseil directoire de HIARTech vient d’être reformé, il compose un groupe d’enquête employant les meilleurs agents qu’il possède pour faire la lumière sur l’attentat qui a anéanti précédent conseil. C’est la fondation des Solar Wardners. Dès le début de leur enquête, les corporations accordent à cette commission d’enquête toutes les autorisations nécessaires, aucune n’ayant envie de faire figure de traître dans cette affaire.
+En 2223, alors que le conseil directoire de HIARTech vient d’être reformé, il compose un groupe d’enquête employant les meilleurs agents qu’il possède pour faire la lumière sur l’attentat qui a anéanti précédent conseil. C’est la fondation des Solar Wardners. Dès le début de leur enquête, les corporations accordent à cette commission d’enquête toutes les autorisations nécessaires, aucune n’ayant envie de faire figure de traître dans cette affaire.
 
 L’enquête prend presque deux ans pour se résoudre. Vranberg-Lytan est rapidement disculpé : les éléments qui avaient revendiqué l’attentat agissaient clairement pour le compte de quelqu’un d’externe à la corporation, comme l’attestent de nombreuses preuves. Le regard des enquêteurs se tourne alors vers des éléments martiens : lors de la période de trouble qui ont suivi l’incident, plusieurs personnes ont tenté de tirer profit de la situation et la rapidité à laquelle certains ont réagi permettent de suspecter une préméditation. C’est finalement une bonne pioche et les terroristes sont rapidement neutralisés ou capturés. Après avoir extrait les données de plusieurs d’entre eux, les Solar Wardners parviennent à identifier les commanditaires : des généraux de l’ONU.
 
@@ -294,12 +332,13 @@ Les Soleils (en français dans le texte) sont le plus prestigieux des groupes de
 C’est le groupe de mercenaire le plus respecté et sans doute l’un des plus puissants. C’est par ailleurs le seul groupe indépendant capable d’aligner deux vaisseaux de lignes en cas de besoin.
 
 >> ### Les Soleils
+>>
 >> * **Type** : Groupe de mercenaires indépendant
 >> * **Leader** : Hito « Blades » Hirotomi
->> * **Fondation** : 2081
+>> * **Fondation** : 2223
 >> * **Puissance** : Moyenne puissance
 
-L’histoire des Soleils commence pendant la crise consécutive à l’anéantissement du conseil directoire de HIARTech en 2081. Dans quelques colonies, c’est une véritable guerre civile qui prend place. Ce conflit commence lorsque Kertzan, le maire d’Arabia, décide d’imposer un régime dictatorial dans sa cité et de s’unir avec deux autres colonies pour faire sécession avec le reste de Mars.
+L’histoire des Soleils commence pendant la crise consécutive à l’anéantissement du conseil directoire de HIARTech en 2223. Dans quelques colonies, c’est une véritable guerre civile qui prend place. Ce conflit commence lorsque Kertzan, le maire d’Arabia, décide d’imposer un régime dictatorial dans sa cité et de s’unir avec deux autres colonies pour faire sécession avec le reste de Mars.
 
 Le conflit est initié par une violente répression d’un mouvement de contestation parmi la population. Cet évènement est le déclencheur de la formation des Soleils sous l’impulsion d’Hito Hirotomi. Initialement, ce réseau clandestin lutte contre les conséquences désastreuses de la nouvelle gestion de la colonie. L’affaire prend une ampleur démesurée et se transforme en conflit armé sans que l’amirauté de Mars ne puisse faire quoi que ce soit.
 
@@ -316,28 +355,32 @@ Les Soleils sortent de la guerre des colonies particulièrement renforcé. Ils d
 Partenaire privilégié de Mars, leur carnet de mission ne désemplit pas et si les affrontements se font désormais rares, leur expertise dans les opérations spatiales reste incontestée. En somme, c’est devenu un groupe que beaucoup aimeraient intégrer et avec lequel les corporations préfèrent travailler pour les missions qu’elles assument publiquement.
 
 ## Le Neo Control
+
 S’il existe un groupe de mercenaire qui se vante de pouvoir frapper n’importe où, n’importe quand, ce sont les mercenaires du Neo Control. Cette faction est à la fois l’un des plus grands groupes de mercenaire, rivalisant presque avec les Soleils, et l’un des moins scrupuleux.
 
 Mais ce qui distingue le groupe des autres sont ses méthodes. Son premier principe repose sur le fait que tous ses agents sont sacrifiables : en quatre ans d’activité, les rumeurs de la capture d’un agent du Neo Control sont considérées comme des légendes sans crédit. Des enveloppes volées avec le centre mémoriel détruit, ça en revanche, on en retrouve à la pelle.
 
 >> ### Le Neo Control
+>>
 >> * **Type** : Groupe de mercenaires indépendant
 >> * **Leader** : Inconnu
->> * **Fondation** : 2089
+>> * **Fondation** : 2233
 >> * **Puissance** : Moyenne puissance
 
 Au sortir de la guerre, les corporations se retrouvent confrontées à un dilemme : avec le renforcement des Solar Wardners comment régler les affaires les plus discutables sans se compromettre ? Autrefois, les corporations auraient très certainement employé leurs services secrets. Malheureusement, les nouveaux gardiens du système solaire s’avèrent être de formidables enquêteurs et leur pouvoir est difficile à limiter.
 
-Le Neo Control est une réponse à ce problème : formé en 2089, ce groupe de mercenaire se saisit du marché du « mercenariat pragmatique » comme le nomment certains fixeurs. Dès le début, le Neo Control met en place un système de paiement en nature différé. Le principe est simple : ils effectuent la mission et la corporation « perd », quelques mois plus tard, diverses marchandises, véhicules et autres biens. Avec la forte variance de ces paiements, il est impossible de faire le lien entre les affaires et les commanditaires, ce qui plaît beaucoup aux corporations.
+Le Neo Control est une réponse à ce problème : formé en 2233, au sortir de la guerre, ce groupe de mercenaire se saisit du marché du « mercenariat pragmatique » comme le nomment certains fixeurs. Dès le début, le Neo Control met en place un système de paiement en nature différé. Le principe est simple : ils effectuent la mission et la corporation « perd », quelques mois plus tard, diverses marchandises, véhicules et autres biens. Avec la forte variance de ces paiements, il est impossible de faire le lien entre les affaires et les commanditaires, ce qui plaît beaucoup aux corporations.
 
 Le groupe connaît une croissance extraordinaire et devient rapidement l’exécutant principal des missions avec lesquelles les corporations ne souhaitent pas se compromettre. Contrairement à leurs concurrents, qui disparaissent au fil des affaires qui les exposent, le Neo Control perdure.
 
 Aujourd’hui encore le Neo Control continue ses activités, officiellement détesté de tous, officieusement trop utile pour les corporations et trop puissant pour être atteint. Malgré le nombre de mission accomplies, et échouées, ses effectifs réels restent inconnus et ses moyens estimés semblent prodigieux.
 
 ## Les Icarens
+
 Les Icarens sont des courtiers de l’information et des mercenaires. Ils opèrent à travers tout le système solaire et se sont spécialisés dans le contrôle de l’information : espionnage, trafic de donnée, effacement et chantage sont leurs activités principales. Leur efficacité est telle, que les rumeurs prétendent qu’ils possèdent assez d’informations pour faire plier des corporations.
 
 >> ### Les Icarens
+>>
 >> * **Type** : Mercenaires et courtiers de l’information
 >> * **Leader** : Dædalus
 >> * **Fondation** : 2089
@@ -354,15 +397,17 @@ Peu après, alors que le groupe continue son travail auprès des corporations, W
 Aujourd’hui les Icarens sont un groupe indépendant respecté mais auquel personne ne fait vraiment confiance. La défiance ouverte de Mars à son encontre est considérée comme lourde de sens, même s’il est tout aussi probable que les services de renseignement martiens suffisent aux besoins de la corporation. Toujours est-il que les Icarens semblent bien partis pour garder leur place.
 
 ## Les Phobos’ Heights
+
 Les Phobos’ Heights forment un groupe qui évolue entre le mercenariat et le crime organisé. Si leur présence en dehors de Mars est limitée, ils représentent une faction puissante à sa surface. Élusifs, ils contrôlent tout le marché noir, notamment des armes létales, et semblent les seuls à vouloir et pouvoir exécuter toutes sortes de missions douteuses sur le sol martien.
 
 >> ### Les Phobos’ Heights
+>>
 >> * **Type** : Mafia martienne et mercenaires
 >> * **Leader** : Inconnu
->> * **Fondation** : 2081
+>> * **Fondation** : 2223
 >> * **Puissance** : Petite puissance
 
-Lors des troubles qui suivent l’attentat de 2081, la sécurité des colonies de la planète rouge, au fonctionnement centralisé, se retrouve particulièrement désorganisée. Durant cette période quelques colonies tenteront même de se soustraire à la nation martienne naissante, donnant lieu à une de véritable guerre civile.
+Lors des troubles qui suivent l’attentat de 2223, la sécurité des colonies de la planète rouge, au fonctionnement centralisé, se retrouve particulièrement désorganisée. Durant cette période quelques colonies tenteront même de se soustraire à la nation martienne naissante, donnant lieu à une de véritable guerre civile.
 
 C’est à cette époque que le réseau parallèle Phobos’ Heights se forme. Immédiatement, de nombreuses personnes tentent de tirer profit de la situation par des moyens souvent peu légaux. Avec le retour à la normalité, une grande partie de ces individus se regroupent et construisent un réseau d’influence, un marché noir et toute une société parallèle.
 
@@ -375,14 +420,16 @@ Lorsque la guerre des colonies éclate, la discrétion des Phobos’ Heights sem
 Depuis, l’organisation s’est reconstruite et a retenu la leçon. Elle opère toujours sur le sol martien, plus discrètement. Spécialisée dans le trafic, son principal apport reste le marché noir bâti sur son réseau et les services de mercenariat qu’elle propose à la surface de la planète rouge. Les échauffourées avec les forces de sécurité restent occasionnelles mais n’ont plus l’ampleur d’autrefois.
 
 ## Cercles de jeux de Zuko (ZGC)
+
 Les cercles de jeux de Zuko sont un groupe communautaire très particulier. Regroupée autour d’un jeu en réalité augmenté, cette communauté offre un environnement ultra-gamifié. Si les participants les moins impliqués n’y vivent une seconde vie que pour s’occuper, les jeux de Zuko sont devenus une véritable raison d’exister pour de nombreuses personnes qui se sentent perdus sans.
 
 Mais en plus de l’aspect communautaire, l’organisation propose de véritables missions de mercenariat, sous la supervision de Zuko elle-même. Les talents et l’entraînement développés dans ces jeux sont bien réels et les corporations engagent volontiers les meilleurs des agents dans des missions dites « hardcore ». Pour Zuko, c’est un moyen de rendre les cercles de jeux utiles pour les colonies, en plus de donner des objectifs plus concrets à ces solaires perdus.
 
 >> ### Les cercles de jeux de Zuko (ZGC)
+>>
 >> * **Type** : Groupe communautaire et mercenaires
 >> * **Leader** : Zuko
->> * **Fondation** : 2090
+>> * **Fondation** : 2234
 >> * **Puissance** : Petite puissance
 
 Fondé initialement sur le jeu de réalité virtuelle AltSol, Zuko, la créatrice du jeu, se rend compte que l’environnement ultra-gamifié qu’elle propose attire de nombreux solaires à la recherche d’un sens à leur existence. Bien qu’elle-même soit une fervente partisane de l’auto-détermination, elle décide de s’appuyer sur ce jeu, et les suivants, pour guider et encadrer ces solaires errants. C’est ainsi que naît ce que les solaires appellent désormais les Cercles de jeux de Zuko (ZGC – Zuko’s Game Circles).
@@ -393,6 +440,25 @@ Alors que le groupe communautaire s’accroît considérablement, Zuko s’aper�
 
 Après une consultation avec l’ensemble des joueurs, Zuko décide d’ouvrir une nouvelle catégorie de mission : les missions « hardcore ». Ces dernières ne s’effectuent plus en réalité augmentée, mais dans le monde bien réel. La game master, elle-même, fixe les conditions et refuse toute proposition que leurs commanditaires « rechigneraient à proposer aux Solars Wardners ».
 
-Consciente d’être sous le regard de ces derniers, elle continue ses efforts de transparence et publie l’intégralité des rapports de mission. Le résultat est inattendu : attiré par le besoin d’avoir une utilité et un impact positif, de nombreux solaires rejoignent les cercles de jeux. Aujourd’hui, les ZCG comptent près de 3 % de la population des colonies, soit un peu plus de 45 000 personnes.
+Consciente d’être sous le regard de ces derniers, elle continue ses efforts de transparence et publie l’intégralité des rapports de mission. Le résultat est inattendu : attiré par le besoin d’avoir une utilité et un impact positif, de nombreux solaires rejoignent les cercles de jeux. Aujourd’hui, les ZCG comptent près de 2 % de la population des colonies, soit un peu plus de 45 000 personnes.
 
 Bien que particulier, y compris dans les relations impliquant les agents, les Cercles de Jeux de Zuko sont aussi devenus un groupe de mercenaire important et populaire. Si les corporations ne leur donnent pas les mêmes missions qu’aux Neo Control, le ZCG possède un agenda bien rempli, à tel point que Zuko doit refuser de très nombreuses missions. Il faut dire que ces mercenaires ne se soucient pas du danger et n’ont pas peur du « respawn ».
+
+## Le réseau Sentinelles
+
+Le réseau Sentinelles est un réseau informel dont le nom lui-même a été donné par des personnes externes. Ce réseau se manifeste à travers des messages annonymes envoyés à des solaires de tout bords. Ces messages ne contiennent généralement que des noms, des lieux ou des dates et comptent sur la curiosité ou le désire d'agir de leur destinataire.
+
+>> ### Le réseau Sentinelles
+>>
+>> * **Type** : Groupe informel
+>> * **Leader** : Inconnu
+>> * **Fondation** : Inconnu
+>> * **Puissance** : Moyenne puissance
+
+Les origines du réseau sentinelles sont inconnues et ses premières ingérances sont très certainement passée innaperçues. Quelques personnes retracent des événements datant d'avant 2210, mais les arguments qu'ils présentent sont souvent remis en question. Le réseau Sentinelles ne s'est vraiment fait remarqué que ces dernières années, notamment via les actions de leurs agents réguliers les plus assidus. Les rumeurs veulent qu'une enquête des Solar Wardners soit en cours mais il semble difficile de penser qu'ils parviennent à obtenir des informations quand même les corporations ne semblent tenir aucune piste.
+
+D'une façon qui échappe encore aux autorités, le réseau Sentinelles semble prévoir de nombreux événements à l'avance et possède des moyens d'obtenir des informations confidentielles sans passer par les méthodes de renseignement habituelles. Ces deux seuls fait inquiètent grandement les corporations qui pourraient se retrouver face à un adversaire fort.
+
+Malgré tout, si le plan à long terme de ce réseau est inconnu, les actions ponctuelles de ses agents informels sont presques toujours bénéfique pour les colonies ou leurs habitants et les agents qui travaillent régulièrement pour le réseau sentinelles le font parce qu'il permet de prévenir des drames ou des accidents.
+
+Quoi qu'il en soit, les inconnues sur les effectifs et les moyens de ce réseau font que l'évaluation même de la puissance de ce groupe est arbitraire.
