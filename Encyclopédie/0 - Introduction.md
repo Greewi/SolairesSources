@@ -6,15 +6,16 @@
 
 ## En bref
 
-Solaires est un jeu de rôles de science-fiction qui met en scène les habitants du système solaire, les Solaires, à la fin du XXIe siècle.
+Solaires est un jeu de rôles de science fiction dont les thèmes explorent le transhumanisme, la colonisation spatiale, l'héroïsme, le progrès technologique et même le paradoxe de Fermi.
 
-Incarnez un cyborg, un réplicant, une intelligence artificielle, ou d'autres êtres plus avancés encore, et prenez part aux intrigues dans les colonies bâties par les enfants de l'humanité.
+Incarnez les Solaires, les enfants de l’humanité, dans un futur technologique où même la mort a rendu sa faux. Prenez part aux intrigues des colonies, véritables cités bâties par les puissantes corporations sur Mercure, Mars et même les lunes de Jupiter et Saturne.
 
-C'est une ère glorieuse et majestueuse qui s'annonce : un âge de lumière ou les fléaux de l'humanité sont sur le point de disparaître. Mais ne vous considérez pas tiré d'affaire ! Car si tout homme de science vous expliquera que la technologie n'est ni bonne, ni mauvaise, certains de ses usages pourraient bien se retourner contre la grande civilisation solaire.
+Avec le pouvoir de l’intelligence artificielle, de la fusion nucléaire et des constructeurs universels, contemplez l’univers tels de nouveaux dieux. Et qui sait ? Peut-être parviendrez-vous à vous réconcilier avec ces parents qui vous ont rejetés et vivent reclus sur cette petite planète bleue ?
 
-Dans cet univers, n'espérez pas l'aide d'hypothétiques extra-terrestres ou de dieux infinis. Tout ce que vous trouverez a été façonné par l'humanité et ses enfants ; les seuls « dieux », les supers-IA, sont déjà forts occupés à régir la vie des citoyens.
+Mais que vous soyez cyborg, cybernétique, réplicant, chimère, éthéré ou même une IA, n’oubliez jamais que votre si précieuse technologie peut tout aussi bien se retourner contre vous. Et n'espérez pas l'aide d'hypothétiques extra-terrestres ou de dieux infinis. Tout ce que vous trouverez a été façonné par l'humanité et ses enfants ; les seuls « dieux », les supers-IA, sont déjà forts occupés à régir la vie des citoyens.
 
 >> ### Solaires ?
+>>
 >> À une époque où l'humanité côtoie ses enfants, qu'il s'agisse d'anciens humains transformés par la technologie ou des êtres complètement artificiels, nés sur d'autres mondes, les termes « humains » ou même « terriens » ne sont plus suffisants. Pour cette raison nous utilisons le terme « les solaires » pour désigner l'humanité et ses enfants. Pour autant, il ne s'agit pas d'un gentilé : « solaires » désigne la nature de ces êtres et non le fait qu'ils habitent le système solaire.
 
 ## Les thèmes principaux
