@@ -68,7 +68,7 @@ Les acteurs secondaires :
 * **Les Solar Wardners** : les Solar Wardners sont un corps d’élite indépendant œuvrant pour la stabilité de la civilisation des Solaires et jouissant d’une juridiction dans la totalité des colonies.
 * **Les Phobos' Heights** : cette organisation contrôle tout le crime organisé sur Mars et notamment le marché noir.
 * **Les Icarens** : ce groupe de mercenaire est considéré comme le meilleur courtier de l’information.
-* **Le Neo Control** : Les corporations les emploient beaucoup, car ils savent aussi préserver l’anonymat de leurs employeurs.
+* **Le Neo Control** : Les corporations les emploient beaucoup, car ils savent aussi préserver l’annonymat de leurs employeurs.
 * **Les Soleils** : ce groupe de mercenaire est né lors des troubles qui ont suivi l’attenta d’Elysium. Ils travaillent principalement avec Mars.
 * **Les Cercles de jeu de Zuko** : ce groupe communautaire basé sur un jeu en réalité virtuelle est pratiquement devenu un service de mercenariat à part entière. Donnant un but aux solaires perdus, Zuko trouve de plus en plus de volontaires pour ses missions « hardcores ».
 * **Divine** : cette secte très jeune vénère les psions comme des prophètes en lien avec le divin. Bien qu’elle reste pour le moment inoffensive, sa progression inquiète les dirigeants de certaines colonies.

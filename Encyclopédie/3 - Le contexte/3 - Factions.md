@@ -245,7 +245,7 @@ Si Urania reste la plus petite corporation avec seulement trois colonies, elle e
 
 ## Sol6
 
-Sol6 est la seule corporation à posséder un appui sur Terre et à travailler avec l’ONU. Elle ne dispose pas d’armée et n’a pas signé le traité des Colonies : c’est encore une corporation selon l’ancien sens qui se contente d’extraire des ressources de Mercure pour approvisionner ses installations orbitales.
+Sol6 est la seule corporation à posséder un appui sur Terre et à travailler avec l’ONU. Elle ne dispose pas d’armée et n’a pas signé le traité des Colonies : c’est encore une corporation selon l’ancien sens qui se contente d’extraire des ressources de Mercure et d'astéroïdes pour approvisionner ses installations orbitales et lunaires.
 
 >> ### Sol6
 >>
@@ -293,9 +293,9 @@ Depuis Cérès entretient des rapports cordiaux avec les corporations et a déj�
 
 ## Les Solar Wardners
 
-Les Solar Wardners forme un corps d’élite indépendant qui veille sur la totalité du système solaire. Ils disposent d’une juridiction dans toutes les colonies. De plus, le traité des Colonies signé par les corporations et l’ONU, a été amendé pour les autoriser à mener l’enquête et réquisitionner tout le matériel et le personnel qu’ils désirent dans les colonies.
+Les Solar Wardners forme un corps d’élite indépendant qui veille sur la totalité du système solaire, défaisant les complots, enquêtant sur les agissements des différents groupes et défendant les solaires dans leur ensemble. Au fil du temps, ils sont aussi devenus la jurisprudence éthique des colonies. Ils disposent d’une juridiction dans toutes les cités des corporations.
 
-Les Solar Wardners sont totalement autonomes et ne reçoivent d’ordres d’aucune corporation ou nation, bien que traditionnellement, la Terre soit laissée à ses propres institutions. En échange, les Solar Wardners ne s’occupent pas des questions politiques. Ils défont les complots menaçant la stabilité du système solaire, enquêtent sur les agissements des différents groupes et factions et défendent les Solaires dans leur ensemble, s’assurant qu’aucun groupe ne tente de se débarrasser d’un autre ou de l’asservir. Au fil du temps, ils sont aussi devenus la jurisprudence éthique des colonies.
+Les Solar Wardners sont totalement autonomes et ne reçoivent d’ordres d’aucune corporation ou nation, bien que traditionnellement, la Terre soit laissée à ses propres institutions. Le traité des Colonies signé par les corporations et l’ONU, a été amendé pour les autoriser à mener l’enquête et réquisitionner tout le matériel et le personnel qu’ils désirent dans les colonies. En échange, les Solar Wardners ne s’occupent pas des questions politiques.
 
 >> ### Les Solar Wardners
 >>
@@ -358,9 +358,9 @@ Partenaire privilégié de Mars, leur carnet de mission ne désemplit pas et si 
 
 ## Le Neo Control
 
-S’il existe un groupe de mercenaire qui se vante de pouvoir frapper n’importe où, n’importe quand, ce sont les mercenaires du Neo Control. Cette faction est à la fois l’un des plus grands groupes de mercenaire, rivalisant presque avec les Soleils, et l’un des moins scrupuleux.
+Le Neo Control est un groupe de mercenaire qui peut se vanter de pouvoir frapper n’importe où, n’importe quand. Cette faction est à la fois l’un des plus grands groupes de mercenaire, rivalisant presque avec les Soleils, et l’un des moins scrupuleux. Ils sont notamment connu par leurs opérations kamikazes, reposant sur le sacrifice de leurs agents annonymes qui seront réinstanciés après la mission.
 
-Mais ce qui distingue le groupe des autres sont ses méthodes. Son premier principe repose sur le fait que tous ses agents sont sacrifiables : en quatre ans d’activité, les rumeurs de la capture d’un agent du Neo Control sont considérées comme des légendes sans crédit. Des enveloppes volées avec le centre mémoriel détruit, ça en revanche, on en retrouve à la pelle.
+C'est clairement ce qui distingue ce groupe des autres. Avec son utilisation systématique d'agents sacrifiables, les rumeurs de la capture d’un agent du Neo Control sont considérées comme des légendes sans crédit, même après quatre années d’activité. Des enveloppes volées avec le centre mémoriel détruit, ça en revanche, on en retrouve à la pelle.
 
 >> ### Le Neo Control
 >>
@@ -423,9 +423,7 @@ Depuis, l’organisation s’est reconstruite et a retenu la leçon. Elle opère
 
 ## Cercles de jeux de Zuko (ZGC)
 
-Les cercles de jeux de Zuko sont un groupe communautaire très particulier. Regroupée autour d’un jeu en réalité augmenté, cette communauté offre un environnement ultra-gamifié. Si les participants les moins impliqués n’y vivent une seconde vie que pour s’occuper, les jeux de Zuko sont devenus une véritable raison d’exister pour de nombreuses personnes qui se sentent perdus sans.
-
-Mais en plus de l’aspect communautaire, l’organisation propose de véritables missions de mercenariat, sous la supervision de Zuko elle-même. Les talents et l’entraînement développés dans ces jeux sont bien réels et les corporations engagent volontiers les meilleurs des agents dans des missions dites « hardcore ». Pour Zuko, c’est un moyen de rendre les cercles de jeux utiles pour les colonies, en plus de donner des objectifs plus concrets à ces solaires perdus.
+Les cercles de jeux de Zuko sont un groupe communautaire très particulier. Regroupée autour d’un jeu en réalité augmenté, AltSol, cette communauté offre un environnement ultra-gamifié à ses membres. Si les participants les moins impliqués n’y vivent une seconde vie que pour s’occuper, les cercles de jeux de Zuko sont aussi devenus une véritable force mercenaire sous la supervision de Zuko elle-même à travers les missions « hardcore ».
 
 >> ### Les cercles de jeux de Zuko (ZGC)
 >>
