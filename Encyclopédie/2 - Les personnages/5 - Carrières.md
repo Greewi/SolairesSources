@@ -168,7 +168,7 @@ Matériel courant : textes de lois et historique légal des colonies.
 
 ## Justicier
 
-Les justiciers sont des enquêteurs indépendants et les défenseurs engagés de leurs clients. N’hésitant par à prendre part directement aux combats pour défendre leurs idéaux, ils ont une approche très directe concernant leurs affaires. Ils opèrent en marge des forces de sécurités régulières et s’ils opèrent généralement en solitaire, ils reçoivent parfois leurs missions des corporations qui tentent de canaliser leur besoin d’action en profitant de leurs capacités souvent atypiques. D’autres trouvent leurs sources d’aventure par des moyens moins avouables, principalement grâce à des alliés mieux renseignés.
+Les justiciers sont des enquêteurs indépendants et les défenseurs engagés de leurs clients. N’hésitant par à prendre part directement aux combats pour défendre leurs idéaux, ils ont une approche très directe concernant leurs affaires. Ils opèrent en marge des forces de sécurités régulières et s’ils opèrent généralement en solitaire, ils reçoivent parfois leurs missions des corporations qui tentent de canaliser leur besoin d’action en profitant de leurs capacités souvent atypiques. D’autres trouvent leurs sources d’aventure par des moyens moins officiels, principalement grâce à des alliés mieux renseignés.
 
 Aspects : Combat, Enquête, Infiltration.
 
