@@ -6,7 +6,7 @@
 
 La recherche scientifique et l’ingénierie ont franchi de grandes étapes au cours du XXIe siècle. Les solaires jouissent d’un grand nombre de technologies qui accomplissent des exploits encore considérés comme impossible un siècle auparavant.
 
-## Fusion nucléaire et antimatière
+## Fusion nucléaire et batteries quantiques
 
 Plus encore que sur Terre, l’énergie est un élément vital dans les colonies. Pourtant la production d’énergie est longtemps restée problématique : le photovoltaïque ne fonctionnant presque plus au-delà de la ceinture principale, les colonies lointaines sont longtemps restées tributaires de l’énergie nucléaire.
 
