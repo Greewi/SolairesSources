@@ -1,90 +1,137 @@
 # Matériel militaire
+
 > « Même sans la guerre des colonies, on aurait trouvé de quoi faire usage de tout cet arsenal : on ne l’a pas construit pour rien ! »
 
+>> ### Note à propos des grenades
+>>
+>> La plupart des grenades peuvent être indiféremment utilisées comme mines ou bombes. En plus de leur usage classique, elles peuvent être déclenchées par le passage dans un faisceau, avec un détonateur à distance, par les vibrations engendrées par des pas ou plus simplement avec une minuterie.
+
 ## Armes shock
-Neutraliser sans tuer est longtemps resté un enjeu pour les forces de l’ordre. Les armes shock ont été la solution apportée au cours de ce siècle.
 
-Ces armes, qui ont été déclinées en arme de poing et arme d’épaule, tirent un faisceau électromagnétique capable de tétaniser une cible à longue portée, tirant l’énergie nécessaire d’une batterie à antimatière. Une cible organique ou hybride ainsi neutralisée reste généralement inconsciente quelques heures.
+Politiquement, pouvoir neutraliser sans tuer est longtemps resté un enjeu difficilement réalisable : la plupart des armes incapacitantes sont en effet plus mortelle qu'espérée. Pourtant les situations où elles sont nécessaires dépassent la simple annecdote.
 
-Ces armes prennent des formes proches des autres armes conventionnelles bien que le tube de résonance qui occupe toute la longueur de l’arme reste luminescent (dans un coloris bleu/violet) pour être facilement identifiées par les forces de sécurité. Il s’agit des seules armes autorisées sur Mars aux civils travaillant dans la sécurité.
+Relativement récente, les armes shocks sont la dernière itération et s'avèrent, pour l'instant, la meilleur réponse au problème. Déclinées en arme de poing, arme d'épaule et même grenades, ces armes tirent un faisceau électromagnétique destiné à tétaniser une cible à longue portée. Ces armes très gourmandes en énergie tirent l’énergie nécessaire d’une batterie quantique qui leur permet habituellement une trentaine de tirs. Les grenades shock sont par ailleurs réutilisable et rechargeable.
 
-## Armes pulseur
-Les armes pulseur, aussi appelés canon gauss, rail-gun ou mass-driver, sont des catapultes électromagnétiques qui projettent de petites balles à de très grandes vitesses.
+Les effets de ces armes varient selon que la cible soit organique ou cybernétique : sur les premières, la courte tétanie met la cible KO quelques minutes, laissant le temps aux agents de la sécuriser ; sur les secondes, la décharge provoque une réinitialisation des systèmes et offre une fenêtre d'une ou deux minutes pour intervenir.
 
-Si les munitions de la plupart d’entre-elles sont assemblées par l’arme elle-même à partir de nanite standard, certaines armes emploient des munitions intelligentes, capables de corriger leur trajectoire pendant le vol et pouvant porter une charge explosive, chimique ou même une mini bombe IEM.
+Ces armes prennent des formes proches d'autres armes conventionnelles mais pour des besoins de signalisation, elle laissent visible le tube de résonance, qui occupe toute la longueur de l’arme. Celui-ci, luminescent, dans un coloris bleu/violet, peut ainsi être facilement identifiées par les forces de sécurité. Il s’agit d'ailleurs des seules armes autorisées sur Mars aux civils travaillant dans la sécurité.
 
-Cette arme hybride a remplacé la totalité des armes à feu. La puissance de ces armes est variable et va de l’arme de poing aux canons en passant par les armes d’épaules.
+>> ### Armes shock
+>> * Accès : en vente auprès des forces de sécurité dans les colonies ;
+>> * Légalité : accréditation de sécurité pour la possession et l'opération ;
+>> * Prix : négligeable.
 
-Une classification basique a été établie de façon universelle : sont considérées comme légères les armes qui ne sont pas capable de faire passer une rafale à travers une cloison standard. Les autres sont classées en lourdes.
+## Pulseurs
 
-Les pulseurs légers sont tolérés dans les colonies en dehors de Mars qui les a totalement interdit. Les armes lourdes sont exclusivement réservées aux opérations militaires.
+Les munitions des armes conventionnelles posent plusieurs problèmes pour un usage dans les colonies : les différents calibres et types de munitions incompatibles doivent être stockée ; la réactivité de leur charge propulsive représente un risque ; la plupart ne ne fonctionnent pas dans le vide ou les environnements extra-terrestres. Si les corporations ont essayé de mitiger au mieux ces problèmes, l'introduction des pulseurs a complètement modifié la donne.
+
+Les pulseurs sont des cannons électriques qui propulse leur munitions sur un rail à l'aide des forces électromagnétiques. À quelques rares exceptions, notamment pour les plus gros calibres, ces armes assemblent directement leurs munitions à partir de nanite standard qui est ainsi devenu une forme de munition universelle. Les armes les plus avancées y intègrent des micros-robots pour fabriquer des « munitions intelligentes », capables de corriger sa trajectoire en vol et de porter une charge explosive, chimique ou même IEM.
+
+Dans les colonies les pulseurs ont complètement remplacé les armes conventionnelles et sont déclinés dans tous les formats : de l'arme de poing au cannon anti-véhicule en passant par les armes dispersions. Même les canons de pointe de défense des vaisseaux de combat utilisent cette technologie.
+
+Pour des raisons de sécurité, une classification sommaire de la puissance de ces armes a été établie de façon universelle : sont considérées comme légères les armes qui ne sont pas capable de faire passer leur munition à travers une cloison standard. Les autres sont classées en lourdes. Cette distinction détermine très largement le matériel autorisé et interdit dans les différentes installations des colonies.
+
+>> ### Pulseur
+>> * Accès : en vente auprès des forces de sécurité dans les colonies ;
+>> * Légalité : accréditation de sécurité pour la possession et l'opération d'une arme légère, usage des armes lourdes interdites dans les stations et colonies, interdites sur le sol martien ;
+>> * Prix : important pour un particulier, négligeable pour une corporation ou une société.
 
 ## Armes plasma
-Les armes plasma sont des armes lourdes extrêmement destructrices. Elles projettent un faisceau de plasma, un gaz extrêmement chaud et chargé électriquement, propulsé à l’aide d’une rampe électromagnétique.
 
-À l’impact, cette arme provoque la fusion de nombreux matériaux et la charge électrique est capable de désactiver totalement la plupart des véhicules de guerre.
+Les armes à plasma sont des explosifs conçus pour opérer dans l'espace. Dans le vide, l'efficacité des explosifs conventionnels est très fortement réduite car il n'y a pas de médium pour propager une onde de choc.
 
-En revanche cette arme n’est véritablement fonctionnelle que dans le vide : en atmosphère sa portée ne dépasse pas la dizaine de mètre avec un éparpillement tel qu’il peut représenter un danger pour le tireur même.
+Les bombes à plasma, utilisée dans les torpilles et certaines grenades du même nom, explosent en libérant un gaz fortement compressé transformé en un plasma chaud. Ce plasma est contenu localement par un champ magnétique résiduel éphémère pour accroître le dégâts dans le rayon de destruction. Cette zone de destruction totale est nette et présentent des découpes sphériques typiques. En atmosphère, ces bombes sont encore plus dangereuses : le souffle et la chaleur peuvent se propager sur quelques dizaines de mètres.
 
-Les armes plasma sont exclusivement réservées à un usage militaire.
+Durant le processus, tous les appareils électroniques touchés par l’explosion sont généralement soumis à un courant électrique puissant qui déclenchera les disjonteurs ou fera griller les circuits touchés. Cet effet secondaire donne à cette bombe des capacités disruptives importantes.
 
-## Note à propos des grenades
-Les grenades peuvent être utilisées en mines ou en bombes. En plus de leur usage classique, elles peuvent être déclenchées par le passage dans un faisceau, avec un détonateur à distance, par les vibrations engendrées par des pas ou plus simplement avec une minuterie.
+La puissance de cette arme sur une installation ou un vaisseau spatial est telle que son usage est limité à des applications strictement militaires.
 
-## Grenade de brouillage
-Les grenades de brouillages sont utilisées pour obtenir un avantage tactique sur le terrain. Il s’agit de petits appareils émettant un bruit coloré réglable dans les spectres électromagnétique et sonore. Ainsi elles permettent d’aveugler et d’isoler les adversaires lors d’un combat.
+>> ### Armes plasma
+>> * Accès : stockées dans les arsenaux ;
+>> * Légalité : illégale en temps de paix ;
+>> * Prix : important pour un particulier ou une société, négligeable pour une corporation.
 
-Elles permettent aussi de brouiller la plupart des appareils de communication sur une courte portée.
+## Armes IEM
 
-Ces grenades sont entièrement réutilisables. De plus, comme ces armes sont non létales, elles sont autorisées aux professionnels dans la plupart des colonies.
+Les armes à impulsion électromagnétique sont des armes qui se présentent sous la forme de bombes ou torpilles. Construites pour produire une extrêmement puissante impulsion électromagnétique à son déclanchement, ces bombes sont capables de désactiver et d'endommager tout appareil électronique à porté, généralement quelques dizaines de mètres. Seul un blindage conducteur très épais permet de mitiger leur effet. Par ailleurs, ces armes ne survivent pas à leur propre activation.
 
-## Grenade IEM
-La grenade IEM est une arme terriblement puissante dans un monde ou la technologie est omniprésente. En explosant, cette arme désactive la totalité des appareils électriques dans un rayon d’une dizaine de mètres.
+Si l'impulsion est très efficace sur l'électronique, et notamment les êtres cybernétiques qu'elle peut endommager ou, au moins, déclencher les protections anti-surcharge, elle n'est pas non plus sans effet sur les êtres organiques. Ceux pris dans l'aire d'effet sont temporairement neutralisés, comme s'il avaient reçus un tir d'arme shock.
 
-Les êtres vivants organiques pris dans le champ d’action de cette grenade sont aussi temporairement neutralisés par le déplacement de courant provoqué durant l’explosion.
+De toute évidence, dans l'environnement des colonies, extrêmement dépendantes de la technologies, ces armes sont particulièrement dévastatrices et des vaisseaux, voir des stations entières ont déjà été désativées d'une seule bombre IEM.
 
-Interdite dans la plupart des colonies, cette arme est exclusivement réservée à un usage militaire.
+>> ### Armes IEM
+>> * Accès : stockées dans les arsenaux ;
+>> * Légalité : illégale en temps de paix ;
+>> * Prix : important pour un particulier ou une société, négligeable pour une corporation.
 
-## Grenade plasma
-La grenade plasma repose sur une technologie proche des armes plasma. L’explosion de cette grenade est déclenchée par l’ionisation d’un gaz fortement compressé qui se transforme instantanément en un plasma chaud.
+## Brouilleur et grenades de brouillage
 
-L’explosion détruit tout ce qui se trouve dans son périmètre d’action, généralement quelques mètres de diamètre. La zone de destruction totale est nette : un champ magnétique résiduel limite la propagation du plasma. Le souffle et la chaleur eux peuvent produire des dégâts sur quelques dizaines de mètres.
+Dans les conflit armés, le contrôle de l'information est très important : reliés entreeux par des connexion cryptées, les combattants sont constamment informés de la situation de leurs alliés et de la position de tous les adversaires qu'ils ont repérés. En plus de ces informations, la réalité augmentée leur permet aussi de voir les indications de leur commandement.
 
-Durant le processus, tous les appareils électroniques touchés par l’explosion sont généralement désactivés ce qui donne à cette grenade des capacités disruptives importantes.
+Pour réduire ces avantages, il est possible d'employer des brouilleurs. Ces appareils surchargent les ondes radios et interfèrent avec les communications de l'adversaire tout en épargnant une très mince bande de fréquence pour les communications de leur utilisateur. Évidemment, le camp d'en face risque probablement de faire la même chose.
 
-Compte tenu de leur puissance, ces grenades sont strictement réservées à des usages militaires.
+Les brouilleurs émettant de puissants signaux pour effectuer leur brouillage sont aussi très facilement localisable. En dehors d'applications particulières, ils sont pratiquement toujours utilisés sous la forme de grenades de brouillage, associés à d'autres dispositifs pour mieux isoler les combattants adverses : émission de bruit coloré pour empêcher les communications verbales et flashs de lumières blanche pour aveugler les agents ennemis.
 
-## Lames actives
-Les lames actives, souvent appelées «lame à mono-filament» ou «mono-moléculaire» en référence à des armes d’une science-fiction de la fin du XXe et du début du XXIe, sont des lames aiguisées à la perfection. Leur fil est en permanence entretenu par un nano-assembleur intégré à la lame. Un revêtement nano-structuré améliore considérablement la progression de celle-ci dans les matériaux qu’elle découpe.
+Entièrement réutilisable et rechargeables, ces grenades sont très utilisées dans les colonies, notamment par les forces de sécurités lors des opérations tactiques.
 
-Ces armes sont ainsi capables de trancher la plupart des métaux et aucune protection personnelle n’est véritablement suffisante. Il est nécessaire de posséder une licence dans la plupart des colonies pour posséder une telle arme.
+>> ### Brouilleur
+>> * Accès : en vente auprès des forces de sécurité dans les colonies ;
+>> * Légalité : accréditation de sécurité requise pour la possession et l'opération ;
+>> * Prix : négligeable.
 
-## Protections légères
-Durant leurs missions, les forces de sécurités sont souvent confrontées à de nombreux dangers et doivent souvent prendre part à des combats. C’est pourquoi la quasi-totalité des agents est équipée de protections légères.
+>> ### Grenade de brouillage
+>> * Accès : en vente auprès des forces de sécurité dans les colonies ;
+>> * Légalité : Accréditation de sécurité requise pour la possession et l'opération ;
+>> * Prix : Négligeable.
 
-Ce sont de véritables armures composées d’un plastron, de protège-jambes et d’un casque visière. Utilisant des blindages intelligents, ces protections sont capables d’encaisser les tirs des armes les plus légères (shockgun, pulseur léger) et la plupart des coups donnés avec les armes blanches, en dehors des lames actives.
+## Lame active
+
+Les lames actives, souvent appelées «lame à mono-filament» ou «mono-moléculaire» en référence à des armes de la science-fiction de la fin du XXe et du début du XXIe, sont des lames aiguisées à la perfection. Leur fil est en permanence entretenue par un nano-assembleur intégré à la lame. Un revêtement nano-structuré améliore considérablement la progression de celle-ci dans les matériaux qu’elle découpe. Ainsi, ces armes sont capables de traverser la plupart des protections personnelles et même de découper la plupart des métaux.
+
+Malgré leur efficacité, ces armes restent minoritaires et la plupart des forces armées et le personnel de sécurité leur préfèrent les armes balistiques comme les pulseurs ou les armes shocks. Seuls les cyber-samouraïs en ont fait leur armes principales. L'environnement clos et les courtes distances dans les installations des colonies, donnent à ce combattants augmentés un avantage significatif.
+
+Ces armes, convenablement employées, ont aussi bien moins de chance de provoquer une dépressurisation ou des dégats structurels qu'une raffale d'arme pulseur.
+
+>> ### Lame active
+>> * Accès : en vente auprès des forces de sécurité dans les colonies ;
+>> * Légalité : accréditation de sécurité requise pour la possession et l'opération ;
+>> * Prix : important pour un particulier, négligeable pour une corporation ou une société.
+
+## Armure de protection légère
+
+Au cours de leur missions, les agents de sécurité sont souvent confronté au danger et notamment celui posé par leurs adversaires. Sur certaines affectations, le risque d'être blessé ou tué est très élevé et ces agents doivent porter un équipement de protection approprié.
+
+Les armures de protection légères sont composées d'un plastron, de protège-jambes et d'un casque visière. Certaines protègent aussi les bras et le casque peut être remplacé par un casque intégral équipé d'un respirateur. L'armure en elle-même est généralement équipé d'un blindage intelligent qui lui permet d'encaisser les tirs des armes les plus légères et de dévier les tirs qui le traverserait à l'écart des organes vitaux.
 
 Il est très simple de se procurer ce genre de protection dans les colonies. Toutefois, la plupart des gens ne sont pas prêts à porter une armure pesant souvent plus de sept kilogrammes.
 
-## Armures lourdes
+>> ### Armure de protection légère
+>> * Accès : en vente auprès des forces de sécurité dans les colonies ;
+>> * Légalité : aucune restriction dans la plupart des colonies ;
+>> * Prix : important pour un particulier, négligeable pour une corporation ou une société.
+
+## Armure lourde
+
 Les armures lourdes ne sont plus véritablement de simples armures. Capable d’encaisser sans broncher la totalité des armes légères et des armes blanches standards, elles n’en restent pas moins particulièrement lourdes et encombrantes, pesant souvent plus de 80 kilogrammes.
 
 En fait, un utilisateur normalement constitué ne pourrait tout simplement pas agir avec une telle carapace sur le dos. Heureusement, ces armures sont pourvues d’un grand nombre de moteurs et de vérins permettant à l’ensemble de se mouvoir. Certaines personnes ont parfois même plus l’impression de piloter ces armures que de les porter.
 
 Beaucoup de ces armures sont naturellement prévues pour les sorties extra-véhiculaires et sont équipées d’un jet-pack ainsi que d’un système de survie autonome.
 
-Ces armures sont principalement vu sur le dos de soldats ou de mercenaires : les professionnels devant faire des sorties extra-véhiculaire se déplaçant le moins possible avec en intérieur.
+>> ### Armure lourde
+>> * Accès : en vente auprès des forces de sécurité dans les colonies ;
+>> * Légalité : accréditation de sécurité requise pour la possession et l'opération ;
+>> * Prix : stratégique pour un particulier, important pour une société, négligeable pour une corporation.
 
 ## Blindage intelligent
-La course entre l’armement et les protections avait commencé à prendre un tournant en faveur du premier. La stratégie consistant à essayer d’arrêter le projectile fonctionne de moins en moins bien, à moins d’utiliser de l’équipement bien plus lourd.
 
-Pourtant, les blindages intelligents ont très fortement atténué le phénomène. Ces blindages sont en effet capables d’anticiper les caractéristiques d’un projectile et de déterminer s’il peut l’arrêter ou non. Dans le second cas, il essaiera de le dévier vers une trajectoire qui ne rencontrera pas un organe vital. Il essaiera aussi d’absorber au maximum l’effet de choc tout en s’assurant que la munition ne restera pas dans le corps de son porteur.
+La course entre l'armement et les protections a très largement tourné à la faveur du premier. La puissance actuelle des armes est telles que la plupart des protections sont devenues obsolètes. Lors des affrontement impliquant des pulseur lourds, la stratégie consistant à essayer d'arrêter les projectiles n'est simplement plus viable et empiler des couches de blindage n'est plus envisageable.
+
+Les blindages intelligents ont changé le paradigme en anticipant les caractéristiques d'un projectile et en s'y adaptant : si le projectile n'a pas assez d'énergie pour franchir le blndage, celui-ci va simplement l'arrêter. Si la puissance de l'arme est trop grande, le blindage ne cherchera plus à stopper la munition à la dévier sur une trajectoire qui causera le moins de dégâts possible, évitant de préférence les organes vitaux. Il essaiera aussi d’absorber au maximum l’effet de choc tout en s’assurant que la munition ne restera pas dans le corps de son porteur.
 
 Ainsi, les blindages intelligents augmentent significativement les chances de survie d’une enveloppe organique et sont utilisée dans la plupart des armures qu’elles soient légères ou lourdes. Les blindages des vaisseaux spatiaux utilisent le même procédé pour réduire l’impact d’une micro-météorite ou de tout autre projectile.
 
-## Bouclier cinétique
-Le bouclier cinétique est un dispositif de protection à double tranchant : il génère un puissant champ électromagnétique qui vaporise la plupart des projectiles à haute vélocité passant dans son champ à moins d’un mètre. Le courant de Foucault affecte aussi ceux tirés depuis l’intérieur du bouclier.
-
-Pour cette raison, les forces militaires des colonies ont presque totalement abandonné cette technologie, certain personnels médicaux en étant encore équipés. Seuls les Solar Wardners et quelques mercenaires adepte du combat de mêlée en ont encore l’usage en les associant avec des armes blanches.
-
-Seules les personnes travaillant dans la sécurité sont autorisées à posséder de tels appareils même si les autorités tendent à en déconseiller l’usage : les armes shock et certaines munitions spéciales sont capables de traverser ce champ sans être affectée.
+>> ### Blindage intelligent
+>> * Accès : inclus dans la plupart des armures modernes et les panneaux de protection de la plupart des vaisseaux spatiaux ;
+>> * Légalité : aucune restriction ;
+>> * Prix : inclus dans le matériel associé.
