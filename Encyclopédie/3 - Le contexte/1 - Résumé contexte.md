@@ -71,7 +71,6 @@ Les acteurs secondaires :
 * **Le Neo Control** : Les corporations les emploient beaucoup, car ils savent aussi préserver l’annonymat de leurs employeurs.
 * **Les Soleils** : ce groupe de mercenaire est né lors des troubles qui ont suivi l’attenta d’Elysium. Ils travaillent principalement avec Mars.
 * **Les Cercles de jeu de Zuko** : ce groupe communautaire basé sur un jeu en réalité virtuelle est pratiquement devenu un service de mercenariat à part entière. Donnant un but aux solaires perdus, Zuko trouve de plus en plus de volontaires pour ses missions « hardcores ».
-* **Divine** : cette secte très jeune vénère les psions comme des prophètes en lien avec le divin. Bien qu’elle reste pour le moment inoffensive, sa progression inquiète les dirigeants de certaines colonies.
 * **Le réseau Sentinelles** : ce réseau informel amène des solaires a priori sans relation, à se trouver au bon endroit et au bon moment. Si les « missions » attribuées contribuent presque toujours au bien commun, les intentions de ses organisateurs anonymes sont sources de beaucoup de spéculation.
 
 ## Le système solaire
@@ -105,7 +104,7 @@ Pour vous aider à comprendre les plus marquants de ces changements voici quelqu
 * **Téléversement** : il est possible de voyager à la vitesse de la lumière via le téléversement et de plus en plus de personne le font.
 * **Enveloppe** : augmenter son corps, le faire modifier ou même en changer complètement est presque devenu une routine pour certain.
 * **Sauvegarde** : la mort a été vaincue et tant qu’une copie de votre motif existe quelque part, on peut vous ramener à la vie.
-* **Intelligences** artificielles : les IA sentientes sont une réalité et elles sont même considérées comme des citoyens dans les colonies.
+* **Intelligences artificielles** : les IA sentientes sont une réalité et elles sont même considérées comme des citoyens dans les colonies.
 * **Implant psi** : on a découvert un implant cérébral qui permet d’utiliser des pouvoirs surnaturels, mais on ne sait pas comme il fonctionne ni qui l’a vraiment inventé.
 
 Malgré tout ceci, aucune autre forme de vie extra-solaire n’a encore été découverte, et au moment où Mars envoie une première mission à destination de Proxima du Centaure, le sujet reste encore entièrement ouvert.
