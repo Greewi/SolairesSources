@@ -8,11 +8,16 @@ Certains personnages, les psions, possèdent un implant très particulier : l�
 
 >> Pour une description de l’implant psi, des psions et des règles qui les régissent, voyez le chapitre *Psions* du livre *Vie de solaire*.
 
+>> ### Implant psi
+>> * Accès : installés par les infirmeries accréditées ;
+>> * Légalité : requiert une accréditation spécifique, certaines colonies peuvent faire les faire surveiller dans leurs murs ;
+>> * Prix : important pour un particulier, négligeable pour une société ou une corporation.
+
 ## Pouvoirs : Biologie
 
 Les pouvoirs de la biologie affectent la vie organique et hyper hybride.
 
->> Seuls les parties organiques ou hyper-hybrides d’un être peuvent être affectées par ces pouvoirs. Les parties purement cybernétiques ne sont pas affectées et les implants cybernétiques sont même considérés comme des corps étrangers par ces pouvoirs.
+>> Seuls les parties organiques ou hyper-hybrides d’un être peuvent être affectées par ces pouvoirs. Les parties purement cybernétiques ne sont pas affectées et les implants cybernétiques d’un corps organique sont même considérés comme des corps étrangers par ces pouvoirs.
 
 Capacités :
 * **Percevoir les formes de vie et lire leurs variables vitales**.
@@ -31,7 +36,7 @@ Les pouvoirs de l’énergie agissent sur les énergies suivantes : la lumière
 
 Capacités :
 * **Percevoir l’énergie dans les objets**.
-* **Créer ou détruire de l’énergie dans un objet**. La quantité d’énergie qui peut être créée est comparable à ce que contient généralement une batterie à antimatière standard. On ne peut pas non plus en détruire plus que celle qui existe dans l’objet.
+* **Créer ou détruire de l’énergie dans un objet**. La quantité d’énergie qui peut être créée est comparable à ce que contient généralement une batterie quantique standard. On ne peut pas non plus en détruire plus que celle qui existe dans l’objet.
 * **Déplacer de l’énergie d’un objet à un autre**. L’énergie ne se téléporte pas et peut donc avoir un impact sur ce qui se trouve sur son chemin.
 * **Rendre un objet temporairement “transparent” à une forme d’énergie**. L’énergie traversera l’objet sans interagir avec.
 
