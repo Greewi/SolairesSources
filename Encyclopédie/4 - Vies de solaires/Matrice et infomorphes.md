@@ -56,11 +56,15 @@ Après avoir localisé sa cible sur la matrice, le decker peut envisager plusieu
 
 La première solution ne prend qu’une fraction de seconde et laisse théoriquement une plus grande fenêtre d’action au pirate ensuite. Malheureusement, les glaces sont capables de détecter une telle attaque et de prévenir qui de droit dans la plupart des cas, ainsi que de commander l'extinction du serveur. Celle situées sur des serveurs militarisés sont mêmes équipées de logiciels d’attaque et de brises glaces et s’avèrent capables de riposter par elles-mêmes si elles ont survécue à l'attaque. En situation d’urgence, ceci reste malgré-tout la meilleure solution.
 
-L’autre possibilité est beaucoup plus longue puisqu’elle demande au brise-glace d’étudier le comportement de la glace pendant de nombreuses minutes, voire des heueres, avant de pouvoir lancer l’attaque. L’attaque en elle-même est alors particulièrement brève, la brèche faite dans la vigilance de la glace ne dure que quelques millisecondes. Ce temps ne permet que l’envoi d’instructions simples : le téléchargement d’une IA ou même d’un persona n’est pas réalisable. Il force même l’attaquant à planifier l’intégralité des instructions à exécuter avant l’attaque.
+L’autre possibilité est beaucoup plus longue puisqu’elle demande au brise-glace d’étudier le comportement de la glace pendant de nombreuses minutes, voire des heures, avant de pouvoir lancer l’attaque. L’attaque en elle-même est alors particulièrement brève, la brèche faite dans la vigilance de la glace ne dure que quelques millisecondes. Ce temps ne permet que l’envoi d’instructions simples : le téléchargement d’une IA ou même d’un persona n’est pas réalisable. Il force même l’attaquant à planifier l’intégralité des instructions à exécuter avant l’attaque.
 
 La première option est ainsi plus offensive, tandis que la seconde correspond mieux à la situation où la discrétion est de mise.
 
 Précisons que la plupart des nœuds d’un réseau sont conçus pour être inspectés par un superviseur, un nœud particulier qui s’assure que le réseau est dans un état convenable. Pour pouvoir effectuer son travail, ce superviseur dispose de certificats qui l’autorisent à passer les glaces du réseau sous sa protection. Si un decker parvient à attaquer le nœud de ce superviseur, il peut alors de servir de ses certificats et prendre de fait le contrôle du réseau concerné sans déclencher ses glaces.
+
+>> ### À propos des consoles de décryptages
+>>
+>> Les consoles de décryptages possèdent un processeur quantique. Ce dernier est nécessaire pour faire fonctionner les brise-glaces. Pour diverses raisons, certains nœuds SolNet peuvent aussi posséder un tel processeur mais la très grande majorité n'en ont pas besoin. De fait, les deckers informorphes doivent obtenir l'accès à l'un de ces nœuds avant de pouvoir agir, à moins que l'un de ses coéquipiers de chair et/ou d'acier ne transporte une console pour lui.
 
 ## Affrontements matriciels
 
@@ -70,13 +74,13 @@ La plupart des affrontements matriciels commencent lorsque l’activité d’un 
 
 Au fil de leur progression, les deux camps peuvent couper le fil d’Ariane de l’autre, réduisant considérablement la liberté d’action de son adversaire. Dès que l’un des deux belligérants parvient à atteindre le point d’injection de l’autre, il peut l’attaquer plus directement.
 
-Généralement, l’attaque finale revient à attaquer la glace protégeant la console ou l’infomorphe de l’adversaire et de détruire ce qu’elle protégeait. Si c’était un informorphe, il sera effacé. Si c’est un decker connecté à une console, il est éjecté de la matrice. D’ailleurs, un organique qui se déconnecte brutalement, volontairement ou suite à la destruction de sa console, peut subir un contre-coup important impliquant nausées et désorientation.
+Généralement, l’attaque finale revient à attaquer la glace protégeant la console ou l’infomorphe de l’adversaire et à détruire ce qu’elle protégeait. Si c’était un informorphe, il sera effacé. Si c’est un decker connecté à une console, il est éjecté de la matrice. D’ailleurs, un organique qui se déconnecte brutalement, volontairement ou suite à la destruction de sa console, peut subir un contre-coup important impliquant nausées et désorientation.
 
 >> ### Conséquences des affrontements matriciels
 >>
 >> Dans solaires l’informatique est directement reliée aux choses réelles : jouer avec les appareils qui entourent les personnages provoque toujours des conséquences. Et les dégâts sur le réseau entraînent des dysfonctionnements hors de la matrice. En bref, avant d’attaquer un serveur, un decker ou une IA devrait toujours vérifier ce qu’il attaque et prendre en compte les conséquences.
 >>
->> Pire encore, lors d’un affrontement virtuel, il peut rapidement y avoir des conséquences et des dégâts collatéraux. À la différence des combats physiques, il est permis que de considérer que toutes les armes employées par les deckers sont l’équivalent d’armes lourdes. Un logiciel capable de passer une glace est à même de réduire à néant toute une infrastructure mal protégée et lorsque la grille d’un secteur complet d’une colonie saute, les complications qui suivent sont généralement d’ampleur cataclysmique. N’oublions pas non plus tous les appareils connectés au réseau, comme les recycleurs atmosphériques, les canaux de réalité augmentée, la distribution du courant, les robots de maintenance, etc. Dans les pires cas, même une bombe au plasma n’aurait par un impact aussi important.
+>> Pire encore, lors d’un affrontement virtuel, il peut rapidement y avoir des conséquences et des dégâts collatéraux. À la différence des combats physiques, il est permis de considérer que toutes les armes employées par les deckers sont l’équivalent d’armes lourdes. Un logiciel capable de passer une glace est à même de réduire à néant toute une infrastructure mal protégée et lorsque la grille d’un secteur complet d’une colonie saute, les complications qui suivent sont généralement d’ampleur cataclysmique. N’oublions pas non plus tous les appareils connectés au réseau, comme les recycleurs atmosphériques, les canaux de réalité augmentée, la distribution du courant, les robots de maintenance, etc. Dans les pires cas, même une bombe au plasma n’aurait par un impact aussi important.
 
 ## IA et éthérés sur le réseau
 
@@ -94,7 +98,7 @@ Les infomorphes sont les êtres les plus mobiles dans le système solaire et ils
 >>
 >> La gestion des infomorphes peut vite devenir très difficile. N’existant que virtuellement, ils n’ont pas d’impact direct sur le physique et n’interagissent avec les autres personnages que via SolNet et la réalité augmentée, où ils peuvent projeter leur avatar. De l’autre côté, ils peuvent virtuellement se rendre n’importe où à la vitesse de la lumière, littéralement.
 >>
->> L’un des principaux écueils est de sous-estimer les difficultés qu’ils ont pour interagir avec le monde physique. S’ils ont facilement accès à tout ce qui est public, ce n’est pas le cas pour le reste s’ils n’en ont pas les certificats appropriés. Dans ce cas, ils ne peuvent interagir qu’au travers d’une attaque informatique. Et c’est un acte qui peut avoir des conséquences importantes.
+>> L’un des principaux écueils est de sous-estimer les difficultés qu’ils ont pour interagir avec le monde physique. S’ils ont facilement accès à tout ce qui est public, ce n’est pas le cas pour le reste s’ils n’en ont pas les certificats appropriés. Dans ce cas, ils ne peuvent interagir qu’au travers d’une attaque informatique et il faut alors qu'ils obtiennent l'accès à un nœud pourvu d'un processeur quantique. De plus, c’est un acte qui est rarement anodin.
 >>
 >> Un infomorphe peut emprunter un corps temporaire depuis une station de téléchargement : il y en a dans tous les spatioports, ainsi que les grandes stations, et leur usage est quelque chose de très courant. Mais l’infomorphe sera limité par les performances de son enveloppe et subira le phénomène d’embodiement. Généralement, il sera bien moins à l’aise que ses compagnons de chair et de métal.
 >>

@@ -48,13 +48,13 @@ Comme il n’y existe pas de force pour tout plaquer au sol, les objets qui ne s
 
 C’est aussi là que le principe d’action-réaction devient le plus évident. Donnez une impulsion à un objet et vous-même subissez une poussée dans le sens opposé. Essayez de fermer une écoutille en vous servant de votre poids et vous vous projetterez en arrière. Pour visser quelque chose cramponnez-vous à l’élément fixe ou c’est vous qui tournerez autour du tournevis. Inutile de vous dire qu’un marteau n’est pas aussi simple à employer.
 
-Et lorsque vous vous trouvez dans une installation ou un vaisseau qui effectue manœuvre, subitement l’accélération de l’appareil se retrouve transformée en une sorte de gravité artificiel pour tout ce qui se trouve dedans, transformant ce tournevis flottant innocemment en un projectile mortel. Accessoirement, les passagers, s’ils ne parviennent pas à s’attacher, risquent eux aussi de devenir de tel projectiles, ou tout du moins d’effectuer une chute vers ce « bas » nouvellement créé.
+Et lorsque vous vous trouvez dans une installation ou un vaisseau qui effectue une manœuvre, subitement l’accélération de l’appareil se retrouve transformée en une sorte de gravité artificiel pour tout ce qui se trouve dedans, transformant ce tournevis flottant innocemment en un projectile mortel. Accessoirement, les passagers, s’ils ne parviennent pas à s’attacher, risquent eux aussi de devenir de tel projectiles, ou tout du moins d’effectuer une chute vers ce « bas » nouvellement créé.
 
 La situation est différente au sol. Même si aucune autre monde avec une surface solide possède une gravité équivalente à celle de la Terre ou de Vénus, ils en possèdent bien une. Celle-ci plus faible, modifie plusieurs choses :
 * Le poids des objets est proportionnel à la gravité. Par exemple, une masse de 100 kg n’en pèse que 37 sur mars ou 16 sur Callisto. Ceci fait qu’il est plus simple de transporter du matériel lourd dans les colonies. C’est en revanche un facteur de perte musculaire pour les organiques non modifiés.
 * La hauteur d’un saut est divisé par la valeur de la gravité. Ainsi avec une gravité martienne (0.38 g), il est possible de sauter 2.7 fois plus haut.
 * De la même façon, lors d’une chute, le choc à l’arrivée est proportionnel à la gravité, ce qui signifie qu’une chute d’une certaine hauteur sur un astre doit être multipliée par la gravité pour obtenir son équivalent sur la Terre. Ainsi, une chute de 5 mètres sur Mars correspond à une chute d’un peu moins de deux mètres sur Terre.
-* En revanche, la marche est plus difficile et plus lente à mesure que la gravité décline et en dessous de 10-15 % il n’est plus véritablement possible de marcher sans assistance. Toutes les colonies sur les astres les moins massifs (Mimas, Titania et Triton) proposent une architecture proche de celles des stations orbitales avec des volumes réduits et des rambardes pour assister les déplacements.
+* En revanche, la marche est plus difficile et plus lente à mesure que la gravité décline et en dessous de 10-15 % il n’est plus véritablement possible de marcher sans assistance. Toutes les colonies sur les astres les moins massifs (Mimas, Titania et prochainement Triton) proposent une architecture proche de celles des stations orbitales avec des volumes réduits et des rambardes pour assister les déplacements.
 
 >> Voici une liste des principaux astres, leur gravité et l'effet sur le poids et la hauteur de saut :
 >> * **Mercure** : 0,38 g (poid relatif : 38 %, hauteur de saut : ×2,6)
@@ -65,6 +65,7 @@ La situation est différente au sol. Même si aucune autre monde avec une surfac
 >> * **Europe (Jupiter)** : 0,13 g (poid relatif : 13 %, hauteur de saut : ×7,7)
 >> * **Ganymède (Jupiter)** : 0,15 g (poid relatif : 15 %, hauteur de saut : ×6,6)
 >> * **Callisto (Jupiter)** : 0,12 g (poid relatif : 12 %, hauteur de saut : ×8,3)
+>> * **Mimas (Saturne)** : 0.007 g (poid relatif : 0,7%, hauteur de saut : ×140)
 >> * **Téthys (Saturne)** : 0,015 g (poid relatif : 1,5 %, hauteur de saut : ×66)
 >> * **Dioné (Saturne)** : 0,024 g (poid relatif : 2,4 %, hauteur de saut : ×41)
 >> * **Rhéa (Saturne)** : 0,027 g (poid relatif : 2,7 %, hauteur de saut : ×37)

@@ -12,71 +12,31 @@ L’embodiment est l’ensemble des phénomènes par lesquels l’esprit influen
 
 Ce phénomène est la principale contrainte qui limite le transfert d’une conscience d’un corps à un autre. Placer un esprit humain dans un corps non anthropomorphe peut être la source d’un traumatisme grave qui peut même conduire à la destruction quasi complète du schéma de pensée de l’être si l’expérience est prolongée. C’est le mal de l’embodiment : allant d’un simple inconfort à la destruction de la cohérence de l’esprit incarné.
 
-Même les IA sont concernées par l’embodiment. Heureusement, elles se révèlent bien plus résilientes, en particulier les IA de Ley-Wan, mais ces effets doivent quand même être gardés en tête.
+Même les IA sont concernées par l’embodiment. Heureusement, elles se révèlent bien plus résilientes, en particulier les IA de Ley-Wan et Wolfa, mais ces effets doivent quand même être gardés en tête.
 
 ## Compatibilités
 
-Toutes les intelligences ne peuvent pas être incarnées dans n’importe quelle enveloppe. Voici un tableau récapitulant la compatibilité des différentes familles d’esprits avec les principaux types d’enveloppes.
+Toutes les intelligences ne peuvent pas être incarnées dans n’importe quelle enveloppe. La compatibilité des intelligences dépend principalement du substrat du cerveau, la partie physique qui héberge celle-ci. Il en existe plusieurs catégories :
+* cerveaux organiques : on les retrouve dans toutes les enveloppes biologiques, provoluées et dérivées bio-modifiées ainsi que dans les enveloppes des réplicants et chimères ;
+* cerveaux organiques cybernetisés : il s'agit simplement de cerveaux organiques associé à des implants cybernétiques que l'on retrouve chez nombre de cyborgs ;
+* cerveaux cybernétiques : on les retrouve dans les enveloppes cybernétiques et certains cyborgs ;
+* cerveaux hyper-hybrides : disponible uniquement dans les enveloppes hyper-hybrides ;
+* informorphes : les informorphes sont des êtres qui vivent sur le réseau, leurs cerveaux sont les nœuds SolNet sur lesquels ils s'exécutent.
 
-<table>
-<tr>
-<th>Type d’Enveloppe</th>
-<th>Intelligence Naturelle et Provoluée</th>
-<th>Intelligence Supervisée</th>
-<th>IA Synchro, IA Wolfa et Éthéré</th>
-<th>IA de Ley-Wan</th>
-</tr>
-<tr>
-<th>Biologique, Provolué</th>
-<td>Compatible</td>
-<td>Incompatible</td>
-<td>Incompatible</td>
-<td>Incompatible</td>
-</tr>
-<tr>
-<th>Bio-modifié, Réplicant, Chimère</th>
-<td>Compatible</td>
-<td>Compatible</td>
-<td>Incompatible</td>
-<td>Compatible</td>
-</tr>
-<tr>
-<th>Cyborg</th>
-<td>Compatible</td>
-<td>Compatible</td>
-<td>Compatible</td>
-<td>Compatible</td>
-</tr>
-<tr>
-<th>Cybernétique</th>
-<td>Émulation</td>
-<td>Émulation</td>
-<td>Compatible</td>
-<td>Émulation</td>
-</tr>
-<tr>
-<th>Hyper Hybride</th>
-<td>Émulation</td>
-<td>Émulation</td>
-<td>Compatible</td>
-<td>Émulation</td>
-</tr>
-<tr>
-<th>Informorphe</th>
-<td>Incompatible</td>
-<td>Incompatible</td>
-<td>Compatible</td>
-<td>Incompatible</td>
-</tr>
-</table>
+La plupart des intelligences sont compatibles avec différents types de cerveaux. Voici leur compatibilités :
+* Intelligences naturelles et provoluées : cerveaux organiques, cerveaux organiques cybernétisés et cerveaux cybernétiques (via une émulation) ;
+* Intelligences supervisées : cerveaux organiques cybernétisés et cerveaux cybernétiques (via une émulation) ;
+* Intelligence infomorphisée : uniqument infomorphes ;
+* IA Synchro, IA Wolfa : cerveaux cybernétiques, cerveaux hyper-hybrides et infomorphes ;
+* IA de Ley-Wan : cerveaux organiques et cerveaux organiques cybernétisés.
 
 >> Certains types d’intelligence peuvent ne pas être directement intégré dans certaines enveloppes, mais il est possible de simuler leur substrat d’origine à travers une couche d’émulation. Il s’agit généralement d’une simulation informatique du cerveau, de ses sens et des interactions neurochimiques.
 >>
 >> Il existe en outre des transformations qui permettent de transformer certains types d’esprit en d’autres. Ainsi il est possible d’associer les intelligences naturelles et provoluées avec une IA pour en faire des intelligences supervisées. Il est aussi possible de transformer une intelligence naturelle, provoluée ou supervisée en éthéré via le processus d’infomorphisation.
 
-## Voyage par téléchargement
+## Voyage par téléversement
 
-Première raison pour laquelle les solaires changent de corps, le voyage par téléchargement permet à un être de voyager à travers le système solaire à la vitesse de la lumière, littéralement. Le principe est simple, son enveloppe précédente est mise en stase ou en pause et son esprit est numérisé. Il est ensuite envoyé à travers le réseau interplanétaire et réceptionné à destination. Là, l’esprit numérisé est réintégré dans une enveloppe.
+Première raison pour laquelle les solaires changent de corps, le voyage par téléversement permet à un être de voyager à travers le système solaire à la vitesse de la lumière, littéralement. Le principe est simple, son enveloppe précédente est mise en stase ou en pause et son esprit est numérisé. Il est ensuite envoyé à travers le réseau interplanétaire et réceptionné à destination. Là, l’esprit numérisé est réintégré dans une enveloppe.
 
 >> Les informorphes n’ont évidemment pas besoin d’être réintégrés et tous leurs déplacements sur le réseau sont similaires à ce type de transfert, si ce n’est qu’ils n’ont pas besoin de passer par le réseau interplanétaire pour les plus petits trajets.
 
@@ -90,7 +50,7 @@ Malgré tout, la métamorphose est un choix de plus en plus courant et quitte à
 
 L’esprit lui-même peut aussi être modifié et il existe principalement trois façons de procéder :
 * **L’émulation** : qui consiste à simuler informatiquement le fonctionnement du substrat d’origine de l’esprit dans une enveloppe cybernétique ou hyper-hybride. Cette transformation est parfaitement réversible.
-* **La supervision** : qui consiste à adjoindre une IA pour superviser le fonctionnement de l’esprit et améliorer ses temps de réponse et contraindre certaines réactions (par exemple supprimer la peur). Cette transformation est difficilement réversible : passé un certain temps l’esprit est beaucoup trop habitué à fonctionner en tandem avec l’IA de supervision et le retrait de l’IA conduit à un mal de l’embodiment prononcé.
+* **La supervision** : qui consiste à adjoindre une IA pour superviser le fonctionnement de l’esprit et améliorer ses temps de réponse et contraindre certaines réactions (par exemple supprimer la peur). Cette transformation est difficilement réversible : passé un certain temps l’esprit est beaucoup trop habitué à fonctionner en tandem avec l’IA de supervision et le retrait de l’IA conduit à un mal de l’embodiment extrêmement prononcé.
 * **L’infomorphisation** : qui consiste à transformer un esprit non-IA en un être informorphe. Concrètement l’opération peut être assimilée à la création d’une intelligence artificielle de type Synchro à laquelle sont ajouté les souvenirs et le caractère de l’être d’origine. Cette opération est définitive.
 
 ## Résurrection
@@ -117,7 +77,7 @@ Une fois la mort confirmée, la société réintègre l’esprit sauvegardé dan
 
 ## Fork et merge
 
->> Les termes *Fork* et *Merge* sont issus de l’informatique. Un *Fork* (fourchette) est un processus cloné à partir d’un autre pour effectuer un travail similaire ou commencer une nouvelle tache en parallèle. Un *Merge* (fusion) est la fusion de deux documents en un seul, intégrant les modifications des deux.
+>> Les termes *Fork* et *Merge* sont issus de l’informatique. Un *Fork* (fourchette) est un processus cloné à partir d’un autre pour effectuer un travail similaire ou commencer une nouvelle tâche en parallèle. Un *Merge* (fusion) est la fusion de deux documents en un seul, intégrant les modifications des deux.
 
 Parfois, il est possible que deux instances d’une même personne cohabitent : il peut s’agir d’une sauvegarde réintégrée trop tôt ou de quelqu’un qui a choisi volontairement de faire un Fork. Cette dernière option est de loin la plus courante, en particulier chez les IA. Dans cette situation, l’un des deux conserve l’identité de l’être initial, tandis que l’autre devient un « Alt » avec une nouvelle identité. S’il n’est pas possible de départager l’ancienneté des deux instances, ce choix est arbitraire. Les deux instances conservent en revanche l’intégralité des privilèges.
 
