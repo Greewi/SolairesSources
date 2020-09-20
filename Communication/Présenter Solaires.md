@@ -8,7 +8,7 @@ Solaires est un jeu de rôle de science-fiction futuriste.
 
 Vous jouez des enfants de l'humanité, des solaires. Vous allez incarner des cyborgs, des cybernétiques, des intelligences artificielles, et d'autres choses.
 
-L'histoire prend place dans le système solaire en 2093, en pleine colonisation de celui-ci. On sort d'une guerre qui a opposé la Terre aux Colonies. Si les Colonies ont gagné, la guerre a entériné le Schisme entre l'humanité et ses enfants, une différence sur ce qui est considéré comme éthique.
+L'histoire prend place dans le système solaire en 2237, en pleine colonisation de celui-ci. On sort d'une guerre qui a opposé la Terre aux Colonies. Si les Colonies ont gagné, la guerre a entériné le Schisme entre l'humanité et ses enfants, une différence sur ce qui est considéré comme éthique.
 
 Le ton se veut sérieux sans donner dans la noirceur : vos personnages sont plus grands que nature et seront amenés à faire des choix qui dépassent leur seule survie.
 
