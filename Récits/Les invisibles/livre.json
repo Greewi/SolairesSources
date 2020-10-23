@@ -1,0 +1,17 @@
+{
+    "titre": "Solaires - Les invisibles",
+    "auteur": "Sylvain « Greewi » Dumazet",
+    "description": "Roman de science-fiction",
+    "structure": [
+        {
+            "source": "Couverture.png",
+            "style": "couverture",
+            "niveau": 1
+        },
+        {
+            "source": "Les invisibles.md",
+            "style": "recit",
+            "niveau": 1
+        }
+    ]
+}
