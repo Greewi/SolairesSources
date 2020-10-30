@@ -18,8 +18,8 @@
 		"/Encyclopédie/Jouer à Solaires/Mener une partie" : { "type" : "article", "template" : "article", "theme" : "earth", "title" : "Mener une partie" },
 
 		"/Encyclopédie/Personnages" : { "type" : "article", "template" : "article", "theme" : "earth", "title" : "Les personnages", "book" : true },
-		"/Encyclopédie/Personnages/Création des personnages" : { "type" : "article", "template" : "article", "theme" : "earth", "title" : "Les personnages" },
-		"/Encyclopédie/Personnages/Évolution des personnages" : { "type" : "article", "template" : "article", "theme" : "earth", "title" : "Les personnages" },
+		"/Encyclopédie/Personnages/Création des personnages" : { "type" : "article", "template" : "article", "theme" : "earth", "title" : "Création des personnages" },
+		"/Encyclopédie/Personnages/Évolution des personnages" : { "type" : "article", "template" : "article", "theme" : "earth", "title" : "Évolution des personnages" },
 		"/Encyclopédie/Personnages/Équipe MSF-2" : { "type" : "article", "template" : "article", "theme" : "earth", "title" : "Équipe MSF-2" , "book" : true },
 		"/Encyclopédie/Personnages/Équipe MSF-2/Daelink" : { "type" : "article", "template" : "article", "theme" : "earth", "title" : "Daelink" },
 		"/Encyclopédie/Personnages/Équipe MSF-2/E-Ward" : { "type" : "article", "template" : "article", "theme" : "earth", "title" : "E-Ward" },
