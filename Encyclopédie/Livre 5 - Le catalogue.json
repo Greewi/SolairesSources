@@ -1,0 +1,97 @@
+{
+	"titre": "Livre 5 - Le catalogue",
+	"auteur": "Sylvain « Greewi » Dumazet et Morvan",
+	"description": "Le catalogue de Solaires, le jeu de rôle",
+	"structure": [
+		{
+			"source": "Couverture V4.png",
+			"style": "couverture",
+			"niveau": 1
+		},
+		{
+			"source": "5 - Le catalogue.md",
+			"style": "introduction",
+			"niveau": 1
+		},
+		{
+			"source": "5 - Le catalogue/Outils de quotidien.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "5 - Le catalogue/Matériel d'ingénieurie.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "5 - Le catalogue/Matériel extravéhiculaire.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "5 - Le catalogue/Matériel médical.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "5 - Le catalogue/Matériel d'espionnage.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "5 - Le catalogue/Matériel militaire.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "5 - Le catalogue/Implants cybernétiques.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "5 - Le catalogue/Modifications cybernétiques.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "5 - Le catalogue/Implant psi.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "5 - Le catalogue/Logiciels.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "5 - Le catalogue/Robots.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "5 - Le catalogue/Véhicules.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "5 - Le catalogue/Intelligences.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "5 - Le catalogue/Enveloppes.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "5 - Le catalogue/Carrières.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "",
+			"style": "sommaire",
+			"niveau": 2
+		}
+	]
+}

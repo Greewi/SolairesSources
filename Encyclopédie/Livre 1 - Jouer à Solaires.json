@@ -1,0 +1,52 @@
+{
+	"titre": "Livre 1 - Jouer à Solaires",
+	"auteur": "Sylvain « Greewi » Dumazet et Morvan",
+	"description": "Le livre des règles du jeu de Solaires, le jeu de rôle",
+	"structure": [
+		{
+			"source": "Couverture V4.png",
+			"style": "couverture",
+			"niveau": 1
+		},
+		{
+			"source": "Jouer à Solaires.md",
+			"style": "introduction",
+			"niveau": 1
+		},
+		{
+			"source": "Jouer à Solaires/Règles générales.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Jouer à Solaires/Résoudre une action.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Jouer à Solaires/États.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Jouer à Solaires/Modifications scénaristiques.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Jouer à Solaires/Conseils aux joueurs.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Jouer à Solaires/Mener une partie.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "",
+			"style": "sommaire",
+			"niveau": 2
+		}
+	]
+}

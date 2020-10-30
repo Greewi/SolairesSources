@@ -1,0 +1,122 @@
+{
+	"titre": "Livre 2 - Le contexte",
+	"auteur": "Sylvain « Greewi » Dumazet et Morvan",
+	"description": "Le livre des règles du jeu de Solaires, le jeu de rôle",
+	"structure": [
+		{
+			"source": "Couverture V4.png",
+			"style": "couverture",
+			"niveau": 1
+		},
+		{
+			"source": "2 - Le contexte.md",
+			"style": "introduction",
+			"niveau": 1
+		},
+		{
+			"source": "2 - Le contexte/1 - Résumé contexte.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "2 - Le contexte/2 - Histoire.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "2 - Le contexte/3 - Factions.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "2 - Le contexte/Factions/Organisation des Nations Unies.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "2 - Le contexte/Factions/Mars.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "2 - Le contexte/Factions/Suan.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "2 - Le contexte/Factions/Waylanders.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "2 - Le contexte/Factions/Vranberg-Lytan.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "2 - Le contexte/Factions/Aesir.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "2 - Le contexte/Factions/Urania.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "2 - Le contexte/Factions/Sol6.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "2 - Le contexte/Factions/Ceres.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "2 - Le contexte/Factions/Phobos' Heights.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "2 - Le contexte/Factions/Soleils.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "2 - Le contexte/Factions/Neo Control.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "2 - Le contexte/Factions/Icarens.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "2 - Le contexte/Factions/Cercles de jeux de Zuko.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "2 - Le contexte/Factions/Réseau sentinelle.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "2 - Le contexte/4 - Système solaire.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "2 - Le contexte/5 - Science et technologie.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "",
+			"style": "sommaire",
+			"niveau": 2
+		}
+	]
+}

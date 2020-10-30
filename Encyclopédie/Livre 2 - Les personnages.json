@@ -1,0 +1,32 @@
+{
+	"titre": "Livre 2 - Les personnages",
+	"auteur": "Sylvain « Greewi » Dumazet et Morvan",
+	"description": "Le livre des règles du jeu de Solaires, le jeu de rôle",
+	"structure": [
+		{
+			"source": "Couverture V4.png",
+			"style": "couverture",
+			"niveau": 1
+		},
+		{
+			"source": "2 - Les personnages.md",
+			"style": "introduction",
+			"niveau": 1
+		},
+		{
+			"source": "2 - Les personnages/1 - Création des personnages.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "2 - Les personnages/2 - Évolution des personnages.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "",
+			"style": "sommaire",
+			"niveau": 2
+		}
+	]
+}

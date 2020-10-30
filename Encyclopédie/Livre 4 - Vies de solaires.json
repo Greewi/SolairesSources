@@ -1,0 +1,82 @@
+{
+	"titre": "Livre 4 - Vies de solaires",
+	"auteur": "Sylvain « Greewi » Dumazet et Morvan",
+	"description": "Un aperçu de la vie des habitants de l'univers de Solaires, le jeu de rôle",
+	"structure": [
+		{
+			"source": "Couverture V4.png",
+			"style": "couverture",
+			"niveau": 1
+		},
+		{
+			"source": "1 - Vies de solaires.md",
+			"style": "introduction",
+			"niveau": 1
+		},
+		{
+			"source": "1 - Vies de solaires/1 - Civilisation de l'abondance.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "1 - Vies de solaires/2 - Corporation.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "1 - Vies de solaires/3 - Habitat.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "1 - Vies de solaires/4 - Rites de vie.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "1 - Vies de solaires/5 - De la naissance à la mort.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "1 - Vies de solaires/Corps et Esprit.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "1 - Vies de solaires/6 - Colonies.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "1 - Vies de solaires/Environnements spatiaux.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "1 - Vies de solaires/7 - Voyage et communication.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "1 - Vies de solaires/Matrice et infomorphes.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "1 - Vies de solaires/Guerre.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "1 - Vies de solaires/Psions.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "",
+			"style": "sommaire",
+			"niveau": 2
+		}
+	]
+}
