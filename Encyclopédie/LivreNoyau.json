@@ -1,287 +1,412 @@
 {
-    "titre": "Solaires - Émergence",
-    "auteur": "Sylvain « Greewi » Dumazet et Morvan",
-    "description": "Le livre de base de Solaires, le jeu de rôle",
-    "structure": [
-        {
-            "source": "Couverture V4.png",
-            "style": "couverture",
-            "niveau": 1
-        },
-        {
-            "source": "0 - Introduction.md",
-            "style": "article",
-            "niveau": 2
-        },
-        {
-            "source": "../Récits/Virgile/1 - Prologue - Anomalie.md",
-            "style": "recit",
-            "niveau": 1
-        },
-        {
-            "source": "1 - Jouer à Solaires.md",
-            "style": "introduction",
-            "niveau": 1
-        },
-        {
-            "source": "1 - Jouer à Solaires/1 - Règles générales.md",
-            "style": "article",
-            "niveau": 2
-        },
-        {
-            "source": "1 - Jouer à Solaires/2 - Résoudre une action.md",
-            "style": "article",
-            "niveau": 2
-        },
-        {
-            "source": "1 - Jouer à Solaires/3 - États.md",
-            "style": "article",
-            "niveau": 2
-        },
-        {
-            "source": "1 - Jouer à Solaires/4 - Modifications scénaristiques.md",
-            "style": "article",
-            "niveau": 2
-        },
-        {
-            "source": "1 - Jouer à Solaires/5 - Conseils aux joueurs.md",
-            "style": "article",
-            "niveau": 2
-        },
-        {
-            "source": "1 - Jouer à Solaires/Élement spécial - Corps et Esprit.md",
-            "style": "article",
-            "niveau": 2
-        },
-        {
-            "source": "1 - Jouer à Solaires/Élement spécial - Infomorphes.md",
-            "style": "article",
-            "niveau": 2
-        },
-        {
-            "source": "1 - Jouer à Solaires/Élement spécial - Psions.md",
-            "style": "article",
-            "niveau": 2
-        },
-        {
-            "source": "../Récits/Virgile/2 - Briefing - Rassemblement.md",
-            "style": "recit",
-            "niveau": 1
-        },
-        {
-            "source": "2 - Les personnages.md",
-            "style": "introduction",
-            "niveau": 1
-        },
-        {
-            "source": "2 - Les personnages/1 - Création de personnage.md",
-            "style": "article",
-            "niveau": 2
-        },
-        {
-            "source": "2 - Les personnages/2 - Création guidée.md",
-            "style": "article",
-            "niveau": 2
-        },
-        {
-            "source": "2 - Les personnages/3 - Création par questionnaire.md",
-            "style": "article",
-            "niveau": 2
-        },
-        {
-            "source": "2 - Les personnages/4 - Création descriptive.md",
-            "style": "article",
-            "niveau": 2
-        },
-        {
-            "source": "2 - Les personnages/5 - Évolution.md",
-            "style": "article",
-            "niveau": 2
-        },
-        {
-            "source": "2 - Les personnages/Carrières.md",
-            "style": "article",
-            "niveau": 2
-        },
-        {
-            "source": "2 - Les personnages/Enveloppes.md",
-            "style": "article",
-            "niveau": 2
-        },
-        {
-            "source": "2 - Les personnages/Intelligences.md",
-            "style": "article",
-            "niveau": 2
-        },
-        {
-            "source": "../Récits/Virgile/3 - Enquête - Visite inopinée.md",
-            "style": "recit",
-            "niveau": 1
-        },
-        {
-            "source": "../Récits/Virgile/4 - Planification - Ascension.md",
-            "style": "recit",
-            "niveau": 1
-        },
-        {
-            "source": "4 - Le contexte.md",
-            "style": "introduction",
-            "niveau": 1
-        },
-        {
-            "source": "4 - Le contexte/1 - Système solaire.md",
-            "style": "article",
-            "niveau": 2
-        },
-        {
-            "source": "4 - Le contexte/2 - Systèmes planétaires.md",
-            "style": "article",
-            "niveau": 2
-        },
-        {
-            "source": "4 - Le contexte/3 - Événements clefs.md",
-            "style": "article",
-            "niveau": 2
-        },
-        {
-            "source": "4 - Le contexte/4 - Chronologie.md",
-            "style": "article",
-            "niveau": 2
-        },
-        {
-            "source": "4 - Le contexte/5 - Factions.md",
-            "style": "article",
-            "niveau": 2
-        },
-        {
-            "source": "4 - Le contexte/6 - Science et technologie.md",
-            "style": "article",
-            "niveau": 2
-        },
-        {
-            "source": "../Récits/Virgile/5 - Résolution - Brèche.md",
-            "style": "recit",
-            "niveau": 1
-        },
-        {
-            "source": "5 - Vies de solaires.md",
-            "style": "introduction",
-            "niveau": 1
-        },
-        {
-            "source": "5 - Vies de solaires/1 - Civilisation de l'abondance.md",
-            "style": "article",
-            "niveau": 2
-        },
-        {
-            "source": "5 - Vies de solaires/2 - Corporations.md",
-            "style": "article",
-            "niveau": 2
-        },
-        {
-            "source": "5 - Vies de solaires/3 - Habitat.md",
-            "style": "article",
-            "niveau": 2
-        },
-        {
-            "source": "5 - Vies de solaires/4 - Rites de vie.md",
-            "style": "article",
-            "niveau": 2
-        },
-        {
-            "source": "5 - Vies de solaires/5 - De la naissance à la mort.md",
-            "style": "article",
-            "niveau": 2
-        },
-        {
-            "source": "5 - Vies de solaires/6 - Colonies.md",
-            "style": "article",
-            "niveau": 2
-        },
-        {
-            "source": "5 - Vies de solaires/7 - Voyage et communication.md",
-            "style": "article",
-            "niveau": 2
-        },
-        {
-            "source": "../Récits/Virgile/6 - Épilogue - Razors.md",
-            "style": "recit",
-            "niveau": 1
-        },
-        {
-            "source": "6 - Le catalogue.md",
-            "style": "introduction",
-            "niveau": 1
-        },
-        {
-            "source": "6 - Le catalogue/1 - Outils du quotidien.md",
-            "style": "article",
-            "niveau": 2
-        },
-        {
-            "source": "6 - Le catalogue/2 - Matériel d'ingénieurie.md",
-            "style": "article",
-            "niveau": 2
-        },
-        {
-            "source": "6 - Le catalogue/3 - Matériel extravéhiculaire.md",
-            "style": "article",
-            "niveau": 2
-        },
-        {
-            "source": "6 - Le catalogue/4 - Matériel médical.md",
-            "style": "article",
-            "niveau": 2
-        },
-        {
-            "source": "6 - Le catalogue/5 - Matériel d'espionnage.md",
-            "style": "article",
-            "niveau": 2
-        },
-        {
-            "source": "6 - Le catalogue/6 - Matériel militaire.md",
-            "style": "article",
-            "niveau": 2
-        },
-        {
-            "source": "6 - Le catalogue/7 - Véhicules.md",
-            "style": "article",
-            "niveau": 2
-        },
-        {
-            "source": "6 - Le catalogue/8 - Implants cybernétiques.md",
-            "style": "article",
-            "niveau": 2
-        },
-        {
-            "source": "6 - Le catalogue/9 - Modifications organiques.md",
-            "style": "article",
-            "niveau": 2
-        },
-        {
-            "source": "6 - Le catalogue/10 - Implant psi.md",
-            "style": "article",
-            "niveau": 2
-        },
-        {
-            "source": "6 - Le catalogue/11 - Logiciels.md",
-            "style": "article",
-            "niveau": 2
-        },
-        {
-            "source": "6 - Le catalogue/12 - Robots.md",
-            "style": "article",
-            "niveau": 2
-        },
-        {
-            "source": "../Récits/Virgile/7 - Épilogue - Kat.md",
-            "style": "recit",
-            "niveau": 1
-        },
-        {
-            "source": "",
-            "style": "sommaire",
-            "niveau": 2
-        }
-    ]
+	"titre": "Solaires - Émergence",
+	"auteur": "Sylvain « Greewi » Dumazet et Morvan",
+	"description": "Le livre de base de Solaires, le jeu de rôle",
+	"structure": [
+		{
+			"source": "Couverture V4.png",
+			"style": "couverture",
+			"niveau": 1
+		},
+		{
+			"source": "Introduction.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "../Récits/Virgile/1 - Prologue - Anomalie.md",
+			"style": "recit",
+			"niveau": 1
+		},
+		{
+			"source": "Jouer à Solaires.md",
+			"style": "introduction",
+			"niveau": 1
+		},
+		{
+			"source": "Jouer à Solaires/Règles générales.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Jouer à Solaires/Résoudre une action.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Jouer à Solaires/États.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Jouer à Solaires/Modifications scénaristiques.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Jouer à Solaires/Conseils aux joueurs.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Jouer à Solaires/Mener une partie.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "../Récits/Virgile/2 - Briefing - Rassemblement.md",
+			"style": "recit",
+			"niveau": 1
+		},
+		{
+			"source": "Personnages.md",
+			"style": "introduction",
+			"niveau": 1
+		},
+		{
+			"source": "Personnages/Création des personnages.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Personnages/Évolution des personnages.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Personnages/Équipe MSF-2.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Personnages/Équipe MSF-2/Shard.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Personnages/Équipe MSF-2/WayUp.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Personnages/Équipe MSF-2/Daelink.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Personnages/Équipe MSF-2/Oliver Sand.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Personnages/Équipe MSF-2/E-Ward.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Personnages/Groupe d'indépendants.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Personnages/Groupe d'indépendants/Olson.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Personnages/Groupe d'indépendants/Dash.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Personnages/Groupe d'indépendants/Tracer.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Personnages/Groupe d'indépendants/Aury.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "../Récits/Virgile/3 - Enquête - Visite inopinée.md",
+			"style": "recit",
+			"niveau": 1
+		},
+		{
+			"source": "Contexte.md",
+			"style": "introduction",
+			"niveau": 1
+		},
+		{
+			"source": "Contexte/Résumé contexte.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Contexte/Histoire.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Contexte/Factions.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Contexte/Factions/Organisation des Nations Unies.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Contexte/Factions/Mars.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Contexte/Factions/Suan.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Contexte/Factions/Waylanders.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Contexte/Factions/Vranberg-Lytan.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Contexte/Factions/Aesir.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Contexte/Factions/Urania.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Contexte/Factions/Sol6.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Contexte/Factions/Ceres.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Contexte/Factions/Phobos' Heights.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Contexte/Factions/Soleils.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Contexte/Factions/Neo Control.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Contexte/Factions/Icarens.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Contexte/Factions/Cercles de jeux de Zuko.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Contexte/Factions/Réseau Sentinelles.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Contexte/Système solaire.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Contexte/Science et technologie.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "../Récits/Virgile/4 - Planification - Ascension.md",
+			"style": "recit",
+			"niveau": 1
+		},
+		{
+			"source": "Vies de solaires.md",
+			"style": "introduction",
+			"niveau": 1
+		},
+		{
+			"source": "Vies de solaires/Civilisation de l'abondance.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Vies de solaires/Corporations.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Vies de solaires/Colonies.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Vies de solaires/Habitat.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Vies de solaires/Rites de vie.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Vies de solaires/De la naissance à la mort.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Vies de solaires/Corps et Esprit.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Vies de solaires/Voyage et communication.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Vies de solaires/Environnements spatiaux.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Vies de solaires/Guerre.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Vies de solaires/Matrice et infomorphes.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Vies de solaires/Psions.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "../Récits/Virgile/5 - Résolution - Brèche.md",
+			"style": "recit",
+			"niveau": 1
+		},
+		{
+			"source": "Catalogue.md",
+			"style": "introduction",
+			"niveau": 1
+		},
+		{
+			"source": "Catalogue/Outils du quotidien.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Catalogue/Matériel d'ingénieurie.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Catalogue/Matériel extravéhiculaire.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Catalogue/Matériel médical.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Catalogue/Matériel d'espionnage.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Catalogue/Matériel militaire.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Catalogue/Robots.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Catalogue/Véhicules.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Catalogue/Implants cybernétiques.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Catalogue/Modifications organiques.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Catalogue/Implant psi.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Catalogue/Logiciels.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Catalogue/Enveloppes.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Catalogue/Intelligences.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Catalogue/Carrières.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "../Récits/Virgile/6 - Épilogue - Razors.md",
+			"style": "recit",
+			"niveau": 1
+		},
+		{
+			"source": "../Récits/Virgile/7 - Épilogue - Kat.md",
+			"style": "recit",
+			"niveau": 1
+		},
+		{
+			"source": "",
+			"style": "sommaire",
+			"niveau": 2
+		}
+	]
 }

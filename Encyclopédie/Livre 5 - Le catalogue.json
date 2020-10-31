@@ -9,82 +9,82 @@
 			"niveau": 1
 		},
 		{
-			"source": "5 - Le catalogue.md",
+			"source": "Catalogue.md",
 			"style": "introduction",
 			"niveau": 1
 		},
 		{
-			"source": "5 - Le catalogue/Outils de quotidien.md",
+			"source": "Catalogue/Outils du quotidien.md",
 			"style": "article",
 			"niveau": 2
 		},
 		{
-			"source": "5 - Le catalogue/Matériel d'ingénieurie.md",
+			"source": "Catalogue/Matériel d'ingénieurie.md",
 			"style": "article",
 			"niveau": 2
 		},
 		{
-			"source": "5 - Le catalogue/Matériel extravéhiculaire.md",
+			"source": "Catalogue/Matériel extravéhiculaire.md",
 			"style": "article",
 			"niveau": 2
 		},
 		{
-			"source": "5 - Le catalogue/Matériel médical.md",
+			"source": "Catalogue/Matériel médical.md",
 			"style": "article",
 			"niveau": 2
 		},
 		{
-			"source": "5 - Le catalogue/Matériel d'espionnage.md",
+			"source": "Catalogue/Matériel d'espionnage.md",
 			"style": "article",
 			"niveau": 2
 		},
 		{
-			"source": "5 - Le catalogue/Matériel militaire.md",
+			"source": "Catalogue/Matériel militaire.md",
 			"style": "article",
 			"niveau": 2
 		},
 		{
-			"source": "5 - Le catalogue/Implants cybernétiques.md",
+			"source": "Catalogue/Robots.md",
 			"style": "article",
 			"niveau": 2
 		},
 		{
-			"source": "5 - Le catalogue/Modifications cybernétiques.md",
+			"source": "Catalogue/Véhicules.md",
 			"style": "article",
 			"niveau": 2
 		},
 		{
-			"source": "5 - Le catalogue/Implant psi.md",
+			"source": "Catalogue/Implants cybernétiques.md",
 			"style": "article",
 			"niveau": 2
 		},
 		{
-			"source": "5 - Le catalogue/Logiciels.md",
+			"source": "Catalogue/Modifications organiques.md",
 			"style": "article",
 			"niveau": 2
 		},
 		{
-			"source": "5 - Le catalogue/Robots.md",
+			"source": "Catalogue/Implant psi.md",
 			"style": "article",
 			"niveau": 2
 		},
 		{
-			"source": "5 - Le catalogue/Véhicules.md",
+			"source": "Catalogue/Logiciels.md",
 			"style": "article",
 			"niveau": 2
 		},
 		{
-			"source": "5 - Le catalogue/Intelligences.md",
+			"source": "Catalogue/Enveloppes.md",
 			"style": "article",
 			"niveau": 2
 		},
 		{
-			"source": "5 - Le catalogue/Enveloppes.md",
+			"source": "Catalogue/Intelligences.md",
 			"style": "article",
 			"niveau": 2
 		},
 		{
-			"source": "5 - Le catalogue/Carrières.md",
+			"source": "Catalogue/Carrières.md",
 			"style": "article",
 			"niveau": 2
 		},

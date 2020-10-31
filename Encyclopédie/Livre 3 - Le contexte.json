@@ -1,5 +1,5 @@
 {
-	"titre": "Livre 2 - Le contexte",
+	"titre": "Livre 3 - Le contexte",
 	"auteur": "Sylvain « Greewi » Dumazet et Morvan",
 	"description": "Le livre des règles du jeu de Solaires, le jeu de rôle",
 	"structure": [
@@ -9,107 +9,107 @@
 			"niveau": 1
 		},
 		{
-			"source": "2 - Le contexte.md",
+			"source": "Contexte.md",
 			"style": "introduction",
 			"niveau": 1
 		},
 		{
-			"source": "2 - Le contexte/1 - Résumé contexte.md",
+			"source": "Contexte/Résumé contexte.md",
 			"style": "article",
 			"niveau": 2
 		},
 		{
-			"source": "2 - Le contexte/2 - Histoire.md",
+			"source": "Contexte/Histoire.md",
 			"style": "article",
 			"niveau": 2
 		},
 		{
-			"source": "2 - Le contexte/3 - Factions.md",
+			"source": "Contexte/Factions.md",
 			"style": "article",
 			"niveau": 2
 		},
 		{
-			"source": "2 - Le contexte/Factions/Organisation des Nations Unies.md",
+			"source": "Contexte/Factions/Organisation des Nations Unies.md",
 			"style": "article",
 			"niveau": 2
 		},
 		{
-			"source": "2 - Le contexte/Factions/Mars.md",
+			"source": "Contexte/Factions/Mars.md",
 			"style": "article",
 			"niveau": 2
 		},
 		{
-			"source": "2 - Le contexte/Factions/Suan.md",
+			"source": "Contexte/Factions/Suan.md",
 			"style": "article",
 			"niveau": 2
 		},
 		{
-			"source": "2 - Le contexte/Factions/Waylanders.md",
+			"source": "Contexte/Factions/Waylanders.md",
 			"style": "article",
 			"niveau": 2
 		},
 		{
-			"source": "2 - Le contexte/Factions/Vranberg-Lytan.md",
+			"source": "Contexte/Factions/Vranberg-Lytan.md",
 			"style": "article",
 			"niveau": 2
 		},
 		{
-			"source": "2 - Le contexte/Factions/Aesir.md",
+			"source": "Contexte/Factions/Aesir.md",
 			"style": "article",
 			"niveau": 2
 		},
 		{
-			"source": "2 - Le contexte/Factions/Urania.md",
+			"source": "Contexte/Factions/Urania.md",
 			"style": "article",
 			"niveau": 2
 		},
 		{
-			"source": "2 - Le contexte/Factions/Sol6.md",
+			"source": "Contexte/Factions/Sol6.md",
 			"style": "article",
 			"niveau": 2
 		},
 		{
-			"source": "2 - Le contexte/Factions/Ceres.md",
+			"source": "Contexte/Factions/Ceres.md",
 			"style": "article",
 			"niveau": 2
 		},
 		{
-			"source": "2 - Le contexte/Factions/Phobos' Heights.md",
+			"source": "Contexte/Factions/Phobos' Heights.md",
 			"style": "article",
 			"niveau": 2
 		},
 		{
-			"source": "2 - Le contexte/Factions/Soleils.md",
+			"source": "Contexte/Factions/Soleils.md",
 			"style": "article",
 			"niveau": 2
 		},
 		{
-			"source": "2 - Le contexte/Factions/Neo Control.md",
+			"source": "Contexte/Factions/Neo Control.md",
 			"style": "article",
 			"niveau": 2
 		},
 		{
-			"source": "2 - Le contexte/Factions/Icarens.md",
+			"source": "Contexte/Factions/Icarens.md",
 			"style": "article",
 			"niveau": 2
 		},
 		{
-			"source": "2 - Le contexte/Factions/Cercles de jeux de Zuko.md",
+			"source": "Contexte/Factions/Cercles de jeux de Zuko.md",
 			"style": "article",
 			"niveau": 2
 		},
 		{
-			"source": "2 - Le contexte/Factions/Réseau sentinelle.md",
+			"source": "Contexte/Factions/Réseau Sentinelles.md",
 			"style": "article",
 			"niveau": 2
 		},
 		{
-			"source": "2 - Le contexte/4 - Système solaire.md",
+			"source": "Contexte/Système solaire.md",
 			"style": "article",
 			"niveau": 2
 		},
 		{
-			"source": "2 - Le contexte/5 - Science et technologie.md",
+			"source": "Contexte/Science et technologie.md",
 			"style": "article",
 			"niveau": 2
 		},

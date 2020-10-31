@@ -9,17 +9,72 @@
 			"niveau": 1
 		},
 		{
-			"source": "2 - Les personnages.md",
+			"source": "Personnages.md",
 			"style": "introduction",
 			"niveau": 1
 		},
 		{
-			"source": "2 - Les personnages/1 - Création des personnages.md",
+			"source": "Personnages/Création des personnages.md",
 			"style": "article",
 			"niveau": 2
 		},
 		{
-			"source": "2 - Les personnages/2 - Évolution des personnages.md",
+			"source": "Personnages/Évolution des personnages.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Personnages/Équipe MSF-2.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Personnages/Équipe MSF-2/Shard.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Personnages/Équipe MSF-2/WayUp.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Personnages/Équipe MSF-2/Daelink.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Personnages/Équipe MSF-2/Oliver Sand.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Personnages/Équipe MSF-2/E-Ward.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Personnages/Groupe d'indépendants.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Personnages/Groupe d'indépendants/Olson.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Personnages/Groupe d'indépendants/Dash.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Personnages/Groupe d'indépendants/Tracer.md",
+			"style": "article",
+			"niveau": 2
+		},
+		{
+			"source": "Personnages/Groupe d'indépendants/Aury.md",
 			"style": "article",
 			"niveau": 2
 		},
