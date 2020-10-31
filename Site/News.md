@@ -2,7 +2,7 @@
 
 ## Dernières news (2020-10-31)
 
-Ce mois d’octobre a été un mois très chargé pour *Solaires*. J’ai avancé sur la fiche de personnage avec un second modèle, refait intégralement le site web de *Solaires*, réécrit de nombreux pré-tirés et terminé de nouveaux articles. À l’heure, ou j’écris ces lignes, nous entrons dans un second confinement en France, et avec un planning chargé du côté travail, le prochain mois va être probablement difficile de mon côté. Après de longues hésitations, je vais essayer de participer à nouveau au NaNoWriMo, mais j’ai assez peu d’espoir d’en venir à bout cette année (Mais bon qui sait ?).
+Voici les dernières nouvelles de *Solaires*. Au programme : nouveau site, avancées sur la fiche de personnage, pré-tirés, nouvel article, mise en ligne de *Les invisibles*, et surtout la mise en ligne de la beta de Solaires v6.
 
 [Lire en ligne](/News/news - 2020-10-31)
 
