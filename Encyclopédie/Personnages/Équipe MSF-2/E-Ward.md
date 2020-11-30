@@ -1,9 +1,9 @@
 # E-Ward
 
-![Portrait d'E-Ward](portrait_e_ward.png)
+![ Portrait d'E-Ward](portrait_e_ward.png)
 
-**Rôles** : Combat, Infiltration, Espace
-**Concept** : Une cyber-samouraï de l'espace
+* **Rôles** : Combat, Infiltration, Espace
+* **Concept** : Une cyber-samouraï de l'espace
 
 ## Identité 
 

@@ -1,9 +1,9 @@
 # Oliver Sand
 
-![Portrait d'Oliver Sand](portrait_oliver_sand.png)
+![ Portrait d'Oliver Sand](portrait_oliver_sand.png)
 
-**Rôles** : Technologie, Enquête, Relation
-**Concept** : Un enquêteur, ex-trafiquant d'arme
+* **Rôles** : Technologie, Enquête, Relation
+* **Concept** : Un enquêteur, ex-trafiquant d'arme
 
 ## Identité 
 

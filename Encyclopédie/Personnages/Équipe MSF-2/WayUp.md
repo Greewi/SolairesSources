@@ -1,9 +1,9 @@
 # WayUp
 
-![Portrait de WayUp](portrait_wayup.png)
+![ Portrait de WayUp](portrait_wayup.png)
 
-**Rôles** : Combat, Enquête, Negociation
-**Concept** : Une pacificatrice des forces de sécurité
+* **Rôles** : Combat, Enquête, Negociation
+* **Concept** : Une pacificatrice des forces de sécurité
 
 ## Identité 
 

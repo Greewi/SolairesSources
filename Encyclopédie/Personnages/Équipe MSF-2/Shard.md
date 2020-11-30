@@ -1,9 +1,9 @@
 # Shard
 
-![Portrait de Shard](portrait_shard.png)
+![ Portrait de Shard](portrait_shard.png)
 
-**Rôles** : Technologie, Espace, Négociation
-**Concept** : Un secouriste technophile
+* **Rôles** : Technologie, Espace, Négociation
+* **Concept** : Un secouriste technophile
 
 ## Identité 
 

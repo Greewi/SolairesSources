@@ -1,9 +1,9 @@
 # Daelink
 
-![Portrait de Daelink](portrait_daelink.png)
+![ Portrait de Daelink](portrait_daelink.png)
 
-**Rôles** : Informatique, Infiltration, Relation
-**Concept** : Un decker des forces de sécurité
+* **Rôles** : Informatique, Infiltration, Relation
+* **Concept** : Un decker des forces de sécurité
 
 ## Identité
 
