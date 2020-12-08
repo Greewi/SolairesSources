@@ -17,7 +17,7 @@ Les principaux thèmes de Solaires sont :
 * La colonisation spatiale ;
 * La technologie et ses conséquences, au-delà du transhumanisme ;
 * L'héroïsme, avec des personnages plus grands que nature qui n'agissent pas pour leur seule survie ;
-* Le paradoxe de Fermi, où les Solaires sont toujours seuls malgré tous leurs succès.
+* Le paradoxe de Fermi, où les solaires sont toujours seuls malgré tous leurs succès.
 
 ## Explication et introduction en partie
 
