@@ -6,4 +6,6 @@ Une question à poser, une suggestion, envie de collaborer ? Voici les coordonn�
 
 >> *Notez que pour réduire les risques de spam ces adresses sont “cryptées”. Pour les utiliser n'oubliez pas de retirer le “_jam”.*
 
-Retrouvez nous sur [facebook](https://www.facebook.com/solairesjdr/) !
+Retrouvez-nous sur [facebook](https://www.facebook.com/solairesjdr/) !
+
+Rejoignez-nous sur [discord](https://discord.gg/zG9Qxmdm5C) !

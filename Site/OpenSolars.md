@@ -12,22 +12,19 @@ Open Solars est donc le projet open source pour Solaires. Concrètement, cela si
 * Les sources des textes sont disponibles sous la licence CC BY-NC-SA 4.0 ;
 * Les sources des outils de développement sont disponibles sous la licence GPL3 ;
 * Les sources de SolNet sont disponibles sous la licence GPL3.
+* Les sources du site  sont disponibles sous la licence GPL3.
 
 Pour distribuer ces sources, et les maintenir, nous utilisons Git et le site GitHub. Ainsi vous trouverez les sources :
 * des textes sur [https://github.com/Greewi/SolairesSources](https://github.com/Greewi/SolairesSources) ;
 * des outils sur [https://github.com/Greewi/SolnetConverter](https://github.com/Greewi/SolnetConverter) ;
-* de SolNet sur [https://github.com/Greewi/SolNet](https://github.com/Greewi/SolNet).
+* de SolNet sur [https://github.com/Greewi/SolNet](https://github.com/Greewi/SolNet) ;
+* du site sur [https://github.com/Greewi/FeerieNetworkCMS](https://github.com/Greewi/FeerieNetworkCMS).
 
 ## Suivre le projet
 
-Les différents projets de Solaires sont en constante évolution. Vous pouvez suivre leur avancement via Trello. Vous y trouverez plusieurs tableaux :
-* Tableau général : [https://trello.com/b/A6Es1Q4I/solaires](https://trello.com/b/A6Es1Q4I/solaires)
-* Textes et articles : [https://trello.com/b/VWHyMF6M/solaires-textes-et-articles](https://trello.com/b/VWHyMF6M/solaires-textes-et-articles)
-* Outils : [https://trello.com/b/wnaY1rNs/solaires-outils](https://trello.com/b/wnaY1rNs/solaires-outils)
-* SolNet : [https://trello.com/b/xTp8Mobo/solaires-solnet](https://trello.com/b/xTp8Mobo/solaires-solnet)
-* Le site : [https://trello.com/b/7wPkmDsY/solaires-site](https://trello.com/b/7wPkmDsY/solaires-site)
+Les différents projets de Solaires sont en constante évolution. Vous pouvez suivre leur avancement via Trello sur ce tableau [https://trello.com/b/A6Es1Q4I/solaires](https://trello.com/b/A6Es1Q4I/solaires).
 
-Par ailleurs, j'essaie de publier un billet de suivi régulièrement. Vous les trouverez sur GitHub : [https://github.com/Greewi/SolNetNews](https://github.com/Greewi/SolNetNews).
+Par ailleurs, j'essaie de publier un billet de suivi régulièrement. Vous les trouverez dans la section [News](/News) (ainsi que sur GitHub : [https://github.com/Greewi/SolNetNews](https://github.com/Greewi/SolNetNews)).
 
 ## Contribuer au projet
 
