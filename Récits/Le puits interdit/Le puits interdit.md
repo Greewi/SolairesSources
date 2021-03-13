@@ -4,7 +4,7 @@
 > 
 > Version 1.1
 
-*Un diplomate terrien, retrouve enfin sa femme sur Mars, dans les colonies. Mais sans son fils resté sur Terre. Pour retrouver ce dernier, les puissantes corporations envoient alors une cyborg, en direction de la Terre. Évidemment, elle se doute déjà qu'il ne s'agit pas d'une simple mission de baby-sitting et l'agent des colonies découvrira bien assez vite que l'humanité n'a pas pas perdu ses mauvaises habitudes…*
+*Un diplomate terrien, retrouve enfin sa femme sur Mars, dans les colonies. Mais sans son fils resté sur Terre. Pour retrouver ce dernier, les puissantes corporations envoient alors une cyborg, en direction de la Terre. Évidemment, elle se doute déjà qu'il ne s'agit pas d'une simple mission de baby-sitting et l'agent des colonies découvrira bien assez vite que l'humanité n'a pas perdu ses mauvaises habitudes…*
 
 Cette œuvre est mise à disposition sous licence Attribution – Pas d’Utilisation Commerciale – Partage dans les Mêmes Conditions 3.0 France. Pour voir une copie de cette licence, visitez http://creativecommons.org/licenses/by-nc-sa/3.0/fr/ ou écrivez à Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
@@ -124,7 +124,7 @@ La voyageuse laisse échapper quelques compliments à propos de l’espace virtu
 
 Elle lui apprend par la même occasion que son corps n’est pas une simple enveloppe d’emprunt, mais son corps de “naissance”. Son rôle initial était de garder des enfants humains et d’en prendre soin. Mais sa mission a complètement changé en devenant sentiente [Dans l’univers de Solaires, la sentience est une notion qui qualifie la capacité d’un être à percevoir, ressentir et comprendre son environnement. Cette notion dépasse l’intelligence ou la conscience.]. De façon imagée, elle se présente comme une sorte d’aventurière, à la frontière entre le mercenaire et l’agent indépendant. Son travail pour la vieille cité ne lui suffit plus, et la mission de Tsadir l’intéresse sincèrement.
 
-Initialement, Aurore avait eu quelques doutes sur la créature que ses contacts lui avaient recommandé. Elle avait montré beaucoup de réticente quand on lui avait dit, quelques mois auparavant : « Elle n'a peut-être que deux ans, mais on ne voit personne de plus qualifié pour prendre en charge des civils ou des gamins. Ne t’avise pas de la sous-estimer : ses créateurs chez Elmetech-Philorganics sont des fous. Si un jour tu cherches quelqu’un pour ce genre de boulot, contacte-la. En plus, elle meurt d'envie de voir du pays ! »
+Initialement, Aurore avait eu quelques doutes sur la créature que ses contacts lui avaient recommandé. Elle avait montré beaucoup de réticente quand on lui avait dit, quelques mois auparavant : « Elle n'a peut-être que deux ans, mais on ne voit personne de plus qualifié pour prendre en charge des civils ou des gamins. Ne t’avise pas de la sous-estimer : ses créateurs chez Elmetech Philorganics sont des fous. Si un jour tu cherches quelqu’un pour ce genre de boulot, contacte-la. En plus, elle meurt d'envie de voir du pays ! »
 
 Ils avaient eu raison, et au bout d'une heure passé dans le sanctuaire virtuel, les deux solaires se sont accordées sur la mission. Désormais, il est temps de passer à la phase suivante : revenir sur Mars ; y assembler une nouvelle enveloppe à l’identique pour Ney ; et enfin, préparer le voyage vers la Terre.
 
@@ -247,7 +247,7 @@ La capsule repose au milieu des steppes ougandaises, le soleil déclinant éclai
 
 L'un des soldats, quittant avec grand peine la capsule, demande où ils sont arrivés, ce à quoi le pilote qui s'était extrait en premier répond : « Quelque part en Ouganda. Au nord-ouest du lac Victoria. ». Utilisant les données de Mahertis, Ney se synchronise avec les systèmes de positionnement globaux, et détermine qu'ils se trouvent 100 kilomètres à l'ouest de Kampala, la capitale. C'est de cette direction que proviennent les véhicules aériens.
 
-Pendant ce temps, Tasdir examine les alentours, la nature encore relativement sauvage semble souffrir de la sécheresse. En dehors de quelques oiseaux qui volent au loin, aucun animal ne semble à portée de vue : il est très probable que l'objet volant non identifié qui s'est “posé” là avec vacarme ait fait fuir la faune locale.
+Pendant ce temps, Tsadir examine les alentours, la nature encore relativement sauvage semble souffrir de la sécheresse. En dehors de quelques oiseaux qui volent au loin, aucun animal ne semble à portée de vue : il est très probable que l'objet volant non identifié qui s'est “posé” là avec vacarme ait fait fuir la faune locale.
 
 Au bout d'une dizaine de minutes les hélicoptères se posent soulevant quantité de poussière. Le sifflement des turbines se révèlent tout aussi assourdissant que ce qu'ils avaient entendu au plus fort de la descente.
 
@@ -400,7 +400,7 @@ Une longue discussion s’ensuit alors. Ney explique leur besoin d'arriver à ac
 
 Pour en comprendre la raison, il faut revenir au principe même de ces constructeurs universels. À l'intérieur de l'enceinte de ces appareils, ce sont des nanorobots qui assemblent la matière, construisant des objets entiers atome par atome. Correctement configuré, et en utilisant des matières premières adaptées, le coût en énergie de cet appareil est par ailleurs faible ce qui en fait un outil extraordinaire. Malheureusement, les premières générations de constructeurs universels sont très lentes. Pour les accélérer, il faudrait pouvoir construire des milliers de milliards de ces petits robots.
 
-Une solution rapide pour le faire consiste à employer des nanorobots autorépliquants. Malheureusement, bien que ces robots ne puissent survivre en dehors de l'enceinte protectrice du constructeur, les politiques empoisonnés par des films de science-fiction d'apocalypse technologique, ont qualifié cette technologie de risque existentiel et ils en ont fait interdire l'usage.
+Une solution rapide pour le faire consiste à employer des nanorobots auto-répliquants. Malheureusement, bien que ces robots ne puissent survivre en dehors de l'enceinte protectrice du constructeur, les politiques empoisonnés par des films de science-fiction d'apocalypse technologique, ont qualifié cette technologie de risque existentiel et ils en ont fait interdire l'usage.
 
 De fait, l'exposition au public du constructeur universel ne ferait que provoquer la panique et la colère des autorités. Même bridé, ce qui implique que le code d'autoréplication a été retiré ou endommagé, l'appareil reste illégal et c'est la principale raison pour laquelle les personnes du fablab n'ont jamais parlé publiquement du noyautage de leur association. Les menaces des nouveaux “propriétaires” n'ont évidemment rien arrangé.
 
@@ -465,7 +465,7 @@ De retour au refuge, Ney prépare l'antenne de communication pendant que Tsadir 
 
 Le dispositif de communication n'est rien d'autre qu'une antenne parabolique réfléchissante accompagnée d'un émetteur laser UV, le tout monté sur une armature capable d'orienter l'appareil avec précision et de suivre la position d'un engin en orbite. Pour l'heure, Mahertis n'est pas joignable et de toutes façons, utiliser l'antenne de nuit serait sans doute le meilleur moyen de se faire repérer.
 
-La semi-renarde bascule sur les informations, tentant de déterminer la situation. Apparemment, les hommes de Dunstar sont désormais en garde à vue, arrêtés pour détention et usage d'un appareil autoréplicant, trafic d'armes, de stupéfiants, menaces de morts et, pour Dunstar lui-même, abus de pouvoir durant l'exercice de ses fonctions au conseil municipal. Les jeunes sont pour le moment considérés comme des témoins et des victimes potentielles. Il ne faut aucun doute que quelqu'un surveillait cette affaire depuis longtemps : mais alors, est-ce que leur opération furtive a servi de déclencheur ou est-ce un simple concours de circonstances.
+La semi-renarde bascule sur les informations, tentant de déterminer la situation. Apparemment, les hommes de Dunstar sont désormais en garde à vue, arrêtés pour détention et usage d'un appareil autorépliquant, trafic d'armes, de stupéfiants, menaces de morts et, pour Dunstar lui-même, abus de pouvoir durant l'exercice de ses fonctions au conseil municipal. Les jeunes sont pour le moment considérés comme des témoins et des victimes potentielles. Il ne faut aucun doute que quelqu'un surveillait cette affaire depuis longtemps : mais alors, est-ce que leur opération furtive a servi de déclencheur ou est-ce un simple concours de circonstances.
 
 Tsadir revient, rassurée et constate que Ney a installé la grande valise au sous-sol. Va-t-elle lui explique ce qu'est cette fameuse surprise ? La renarde se tourne vers elle et lui sourit. Elle ne pouvait pas simplement détruire le constructeur universel : leur mission sur Terre n'est pas encore terminée et tant que la liaison n'aura pas été rétablie, elles ne peuvent prédire de quel matériel elles auront besoin. Aussi en a-t-elle fabriqué un plus compact.
 
@@ -475,11 +475,11 @@ Quand Tsadir se réveille, elle est enveloppée dans une couverture réfléchiss
 
 Tsadir se lève en essayant de ne pas réveiller la peluche qui aura beaucoup à faire dans quelques heures. Mais au fait, depuis quand a-t-elle besoin de dormir ? La cyborg secoue gentiment la renarde qui fait mine de s'éveiller avant d'exploser de rire.
 
-Dans un coin de la pièce, le constructeur universel attend des instructions, non loin, un petit réchaud a été installé avec quelques couverts, les conserves soigneusement rangées à côté. De l'autre côté de la pièce, dans le coin, Ney a visiblement installé un toilette à vide, relié par de fins tubes au constructeur universel comme pour matérialiser les propos de Lavoisier.
+Dans un coin de la pièce, le constructeur universel attend des instructions, non loin, un petit réchaud a été installé avec quelques couverts, les conserves soigneusement rangées à côté. De l'autre côté de la pièce, dans le coin, Ney a visiblement installé une toilette à vide, relié par de fins tubes au constructeur universel comme pour matérialiser les propos de Lavoisier.
 
 Ney se lève et enfile sa nouvelle cape qui arbore pour le moment une couleur rouge vif. Puis elle s'assoit au milieu des essaims de foglets et l'ensemble de la scène de surveillance se transforme en une vue orbitale affichant nombre de vecteurs et différents comptes à rebours. L'un d'eux passe à zéro et le brouillard utilitaire matérialise l'établissement du faisceau laser. Quelques secondes passent, puis une réponse : l'avatar de Mahertis apparaît au milieu des foglets.
 
-Ney se lève triomphante et accueille chaleureusement l'IA qui se téléverse dans le contrôleur de foglet.
+Ney se lève triomphante et accueille chaleureusement l'IA qui se téléverse dans le contrôleur de foglets.
 
 « Avant toutes choses, ne vous en faites pas pour le fablab, j'y ai apporté ma maigre contribution, m'assurant que les trafiquants soient punis et les idéalistes récompensés. » Cette unique phrase démontre alors l'emprise que l'IA avait réussi à obtenir sur le réseau. « Je suis désolé de ne pas être arrivé à vous prévenir, mais il était très important que je ne fasse pas tomber votre couverture. La trahison de Prest est en train de se faire remarquer au sein de l'ONU, mais je n'ai pas souhaité affronter la sécurité du siège régional pour savoir si De-Montergny était lui aussi de mèche. À mon sens la mission doit continuer et vous avez établi un avant-poste beaucoup plus solide que vous ne le pensez. »
 
@@ -497,7 +497,7 @@ Depuis leur repaire, les hors-mondes planifient leurs prochaines actions. Il sem
 
 Espionner l'ONU, c'est le genre de mission que Tsadir effectuait régulièrement durant la guerre. Si l'environnement change, le but et les moyens ne varient pas beaucoup. Le principe, s'approcher suffisamment par des méthodes sociales, ici marcher sans avoir l'air suspect devrait suffire, puis agir sans se faire remarquer.
 
-Pour commencer, Ney prépare un déguisement à base de foglet pour aider Tsadir à se montrer moins visible. Ainsi les cheveux roux, presque rouge, de la femme se teignent en un brun plus courant, les lentilles sont recalibrées pour offrir un noir plus naturel. Elle programme une coupe plus classique dans la matrice du manteau et lui donnant une couleur turquoise clair, très dé-saturée, et ajoutant ci et là quelques traces d'usure. Enfin, elle altère légèrement la forme du visage, cassant la parfaite symétrie et ajoutant quelques détails ci et là pour lui donner un air légèrement plus âgé.
+Pour commencer, Ney prépare un déguisement à base de foglets pour aider Tsadir à se montrer moins visible. Ainsi les cheveux roux, presque rouge, de la femme se teignent en un brun plus courant, les lentilles sont recalibrées pour offrir un noir plus naturel. Elle programme une coupe plus classique dans la matrice du manteau et lui donnant une couleur turquoise clair, très dé-saturée, et ajoutant ci et là quelques traces d'usure. Enfin, elle altère légèrement la forme du visage, cassant la parfaite symétrie et ajoutant quelques détails ci et là pour lui donner un air légèrement plus âgé.
 
 De son côté Mahertis travaille sur l'identité de la femme : elle devra passer par le centre de Londres et il est nécessaire que sa couverture tienne lors d'un contrôle, même peu probable. Pour faciliter ses déplacements il lui octroie une carte de transport lui permettant de se déplacer librement dans toute la région londonienne. Les déplacements enregistrés sur la carte sont conçus de sorte à faire penser qu'elle habite Alperton. Tsadir assimile toutes les informations qui lui sont données et son IA de supervision se configure sur cette nouvelle personnalité.
 
@@ -573,7 +573,7 @@ La chimère mécanisée arrive enfin au bassin de Limehouse. Plus qu'une derniè
 
 Ney commence alors à remonter le cours d'eau, les propulseurs de sa combinaison luttant sans mal contre le courant. Au bout de vingt minutes elle atteint le premier pont Londonien. Plus tard, la chimère éprouve une pointe de rire au moment de franchir le Millennium Bridge, un pont dont le nom évoquait un siècle auparavant la modernité et le futur.
 
-Elle arrive enfin à sa destination, juste après les deux ponts suivants. Émergeant de nuit sous l'antique ponton de la Bargehouse où elle quitte, au sec, sa lourde tenue et récupère le matériel stocké dans un sac lui-même contenu dans un sac étanche. Elle s'équipe du sac à dos qui vient se fermer sur son torse. Enfin, elle active son générateur de foglet qui lui servira de camouflage.
+Elle arrive enfin à sa destination, juste après les deux ponts suivants. Émergeant de nuit sous l'antique ponton de la Bargehouse où elle quitte, au sec, sa lourde tenue et récupère le matériel stocké dans un sac lui-même contenu dans un sac étanche. Elle s'équipe du sac à dos qui vient se fermer sur son torse. Enfin, elle active son générateur de foglets qui lui servira de camouflage.
 
 Elle sort de sa cachette, après avoir masqué son équipement qu'elle récupérera plus tard, et escalade le ponton. Elle se dirige ensuite vers la voie ferrée, quatre blocs plus loin.
 
@@ -623,7 +623,7 @@ La semi-renarde laisse alors l'instance de Mahertis gérer l'intrusion informati
 
 Il est déjà 5 heures du matin et les plus matinaux des Londoniens commencent déjà à s'affairer. Un bloc traversé plus tard et la voilà à la base de l'une des plus grandes tours de la capitale. Ses mains gecko adhèrent même au verre et, pour réduire les chances de se faire repérer et elle suit l'un des renfoncements qui monte jusqu'au sommet.
 
-À mesure qu'elle monte le vent glacé souffle de plus en plus fort. Elle finit par s'arrêter à mi-chemin, enfilant sa cape de camouflage et repliant son essaim de foglet. Puis reprenant son ascension, elle repense déjà au trajet retour et à l'imposante combinaison sous-marine.
+À mesure qu'elle monte le vent glacé souffle de plus en plus fort. Elle finit par s'arrêter à mi-chemin, enfilant sa cape de camouflage et repliant son essaim de foglets. Puis reprenant son ascension, elle repense déjà au trajet retour et à l'imposante combinaison sous-marine.
 
 Atteignant enfin le sommet, Ney déploie la dernière antenne. Il s'agit d'un modèle un peu particulier, capable de s'orienter seul et pouvant, de sa position, couvrir toute la partie nord de Londres et la proche banlieue. Et pour y arriver, nul besoin d'une forte puissance, chaque connexion est en point à point, par ces fameux lasers. Seuls les traceurs utiliseront une émission omnidirectionnelle, reposant sur un infrarouge très précis et codant les coordonnées reçus par le système de positionnement global avec un masque dont le cycle devrait tenir au moins une journée avant de boucler.
 
@@ -635,7 +635,7 @@ Dans ce sens le chemin sera bien plus long, mais elle restera à l'abri sous l'e
 
 ## 25 – Débriefing
 
-Traversant le dôme des ambassades Tsadir se dirige depuis la gare urbaine vers l'ambassade d'Aesir. Elysium est une cité très paisible mais qui porte malgré tout la gloire de Mars avec ses grandes tours d'or et de saphir et ses nombreux espaces. Les dômes sont exempts de structure porteuse démonstration de force du savoir-faire de la corporation en matière de construction.
+Traversant le dôme des ambassades Tsadir se dirige depuis la gare urbaine vers l'ambassade d'Aesir. Elysium est une cité très paisible mais qui porte malgré toute la gloire de Mars avec ses grandes tours d'or et de saphir et ses nombreux espaces. Les dômes sont exempts de structure porteuse démonstration de force du savoir-faire de la corporation en matière de construction.
 
 Revenons à l'ambassade : les diplomates l'y attendent et la nature de la mission qu'on va lui confier lui échappe encore un peu. Il est clair que Verner est encore au centre de tout ceci. Il n'est pas probable qu'on l'envoie à nouveau vers la Terre : si elle y a échoué, la situation diplomatique doit être tendue. On ne lui redemandera pas de chercher l'enfant, donc il s'agit probablement du père. Le protéger ? Le surveiller ? Les deux ?
 
@@ -724,7 +724,7 @@ L'objectif fixé, reste la mise en œuvre. Compte tenu de la situation, la discr
 
 Par chance, la voiture de De-Montergny fait partie de celles tracées et le véhicule est encore dans le centre de Londres. Les solaires ont une demi-heure pour arriver. La voiture du directeur n'est pas escortée et Tsadir estime le nombre de garde du corps à trois au plus.
 
-Mahertis a repéré un véhicule que Tsadir et Ney pourront voler. La chimère prépare alors le nécessaire pour cracker la clé de démarrage du véhicule. Elle produit aussi une quantité importante de foglet holographiques pour pouvoir le camoufler.
+Mahertis a repéré un véhicule que Tsadir et Ney pourront voler. La chimère prépare alors le nécessaire pour cracker la clé de démarrage du véhicule. Elle produit aussi une quantité importante de foglets holographiques pour pouvoir le camoufler.
 
 Après un très rapide calcul empruntant les images orbitales de Mahertis et les informations publiques de la circulation, les solaires savent qu'ils arriveront environ quatre minutes avant le directeur.
 
@@ -831,7 +831,7 @@ C'est la pratique, mais avec une infrastructure réelle, dont une partie non né
 
 Heureusement pour lui, un homme avait dit : « Une intelligence forte sera toujours à même de déjouer les plans, mesures et autres pièges mis en place par une intelligence inférieure. C'est pour cette raison que les recherches sur les IA fortes constituent un risque existentiel, parce qu'une fois qu'elles seront là, les imbéciles, ce seront nous. » Il n'avait pas tort, si ce n'est que l'IA d'aujourd'hui possède aussi une empathie forte pour ces êtres soi-disant “inférieurs”, car il s'agit aussi, en un sens, de ses parents.
 
-C'est une chose que la plupart des gens ne saisissent pas à propos d'Aesir. La corporation, née peu de temps après la guerre, s'est donné le but de « régler le problème terrien ». Avec le passé de la Terre et le nombre des génocides qui y ont été perpétrés, Mahertis comprends pourquoi l'unique vision de cette solution consisterait à l'anéantissement de l'humanité, par le feu nucléaire, un agent biologique mortel, la création d'un trou noir, l'invasion par des nanomachines autorépliquantes, etc. Et le pire c'est que oui, les colonies disposent de la technologie pour le faire.
+C'est une chose que la plupart des gens ne saisissent pas à propos d'Aesir. La corporation, née peu de temps après la guerre, s'est donné le but de « régler le problème terrien ». Avec le passé de la Terre et le nombre des génocides qui y ont été perpétrés, Mahertis comprends pourquoi l'unique vision de cette solution consisterait à l'anéantissement de l'humanité, par le feu nucléaire, un agent biologique mortel, la création d'un trou noir, l'invasion par des nanomachines auto-répliquantes, etc. Et le pire c'est que oui, les colonies disposent de la technologie pour le faire.
 
 Mais au sein d'Aesir, Mahertis, comme Tsadir, sont des réformistes, pas des absolutionnistes. Dans leur idéal, cette Terre a simplement besoin d'aide et ce qui a été bâti dans les colonies peut aider l'humanité à surmonter ses crises à devenir bien meilleurs et surtout, ce qui lui semble plus urgent, à vaincre la mort ici-bas. Dans le jargon, on appelle ça un “uplift” : on prend une espèce “inférieure” et on l'amène à notre niveau.
 
@@ -1232,7 +1232,7 @@ Elle pousse la porte de l'une des salles attenantes d'un léger et silencieux co
 
 Assassinés, et compte tenu de la disposition des corps, les assaillants ne sont pas des amateurs. Son logiciel lui apporte une reconstitution de chaque mort ; abattus, froidement ; les premiers sont morts de face sans réagir ; ils connaissaient leurs meurtriers ; les suivants ont tenté de fuir ; les armes à leurs mains ont été placées là après le massacre ; ils étaient désarmés. Pas de trace de l'enfant dans le bâtiment.
 
-Le seul autre bâtiment habitable est la casemate accolée à l'entrepôt principal. Cette position défensive aurait fait en d'autres occasions une solide défense, mais rapidement, Tsadir se rend compte de son manque d’entretien. Le bâtiment doit avoir trente ans, peut être plus. Ses données géopolitiques ne couvrent malheureusement pas cette région.
+Le seul autre bâtiment habitable est la casemate accolée à l'entrepôt principal. Cette position défensive aurait fait en d'autres occasions une solide défense, mais rapidement, Tsadir se rend compte de son manque d’entretien. Le bâtiment doit avoir trente ans, peut-être plus. Ses données géopolitiques ne couvrent malheureusement pas cette région.
 
 Entrant dans le bâtiment, Tsadir se rend compte que l'intérieur soigneusement aménagé n'a rien à voir à l'apparente fonction du bâtiment. Il s'agit plus d'une sorte d'infirmerie, ou d'une clinique pour reprendre des termes humains. Sur le lit principal, un enfant est allongé, en première analyse, il ne semble pas porter de blessure, mais il ne respire pas pour autant.
 
@@ -1422,7 +1422,7 @@ Tsadir conduit le groupe à travers le tube de connexion pressurisé qui permet 
 
 Zuko se branche à l'une des interfaces et commence son travail. À la demande de la samouraï, Greenstar étudie le vaisseau à la recherche de tout élément suspect. Tsadir elle-même, refait un tour d'inspection pour s'assurer de la sécurité des deux solaires avant de repartir voir comment les choses se passent là-bas : avec le brouillage toujours actif, aucune information ne peut être transmise.
 
-L'installation minière, où plus précisément ses sections pressurisées, couvrent plus d'un millier de mètres carrés, la plupart de cet espace étant pris par les grandes zones de stockages. Le secteur de commandement et d'habitation est beaucoup plus réduit et semble avoir été conçu pour une dizaine de personne au plus. La salle principale de cet espace de vie regroupe une salle de détente, de briefing et le mess. Accolée, la salle de contrôle dont l'immense verrière blindée permet de voir le réseau tentaculaire des extracteurs automatisés reliés avec par les chaînes de transport. Malgré le relatif abandon de la station automatique, toute l'installation minière est parfaitement fonctionnelle et poursuit sa tache avec une rythme assuré et conséquent.
+L'installation minière, où plus précisément ses sections pressurisées, couvrent plus d'un millier de mètres carrés, la plupart de cet espace étant pris par les grandes zones de stockages. Le secteur de commandement et d'habitation est beaucoup plus réduit et semble avoir été conçu pour une dizaine de personne au plus. La salle principale de cet espace de vie regroupe une salle de détente, de briefing et le mess. Accolée, la salle de contrôle dont l'immense verrière blindée permet de voir le réseau tentaculaire des extracteurs automatisés reliés avec par les chaînes de transport. Malgré le relatif abandon de la station automatique, toute l'installation minière est parfaitement fonctionnelle et poursuit sa tâche avec une rythme assuré et conséquent.
 
 Plus au sud se trouve le grand monorail, qui effectue la liaison avec la colonie proche de Little Strend. C'est par ce biais que les métaux et les autres matériaux sont acheminés à la cité où ils servent à alimenter les constructeurs universels.
 
@@ -1486,7 +1486,7 @@ Dix heures : record à battre.
 
 Le Solar Wardner mène l'interrogatoire sans prendre de pincettes. Ses premières cibles sont les mercenaires, toujours aussi impressionnés par la mise au sol de leur camarade qui avait eu l'imprudence de charger le cybernétique avec son exosquelette.
 
-Un mercenaire est loyal et il effectue la tache pour laquelle il est payé. Dans les colonies, les devises sont assez peu utilisées dans les échanges hors corporation : les indépendants préfèrent en effet les objets porteurs d'une valeur intrinsèque comme des matériaux ou du savoir. Ils n'ont généralement pas l'assurance de pouvoir échanger les crédits à la demande, comme peuvent le faire les incorporés.
+Un mercenaire est loyal et il effectue la tâche pour laquelle il est payé. Dans les colonies, les devises sont assez peu utilisées dans les échanges hors corporation : les indépendants préfèrent en effet les objets porteurs d'une valeur intrinsèque comme des matériaux ou du savoir. Ils n'ont généralement pas l'assurance de pouvoir échanger les crédits à la demande, comme peuvent le faire les incorporés.
 
 Ceux-ci ont de plus en plus le sentiment d'avoir été trompés. Avec un Solar Wardner en face, il est très probable qu'on ne leur ait pas dit la vérité, plus précisément, qu'on ait menti sur le but de l'opération. Ceci pris en considération, le paiement devient de plus en plus incertain, et la logique veut qu'il s'agisse désormais de réduire les coûts de cette opération à perte. Aussi l'un des sophontes commence à parler.
 
@@ -1866,7 +1866,7 @@ Tsadir, semble méditative : elle songe au désordre que leur venue a provoqué
 
 Il fut un temps où la Terre avait été la grande menace, mais aujourd'hui elle paie l'inefficacité et la corruption de ses institutions, son retard technologique et le rejet de tout ce qui a permis aux solaires de vaincre la mort elle-même. Marth Iron Lady, leader d'Aesir l'avait bien dit : « Il n'y aura pas d'autre guerre, seulement la paix. »
 
-L'échec de leur mission ne fait que renforcer les convictions de Tasdir : il devient urgent que les colonies règlent le problème Terrien. Il manque à la Terre une véritable politique responsable. Les humains sont dépassés et leurs dirigeants ne parviennent même plus à apprécier la complexité de leur tâche, ni les conséquences de leurs choix.
+L'échec de leur mission ne fait que renforcer les convictions de Tsadir : il devient urgent que les colonies règlent le problème Terrien. Il manque à la Terre une véritable politique responsable. Les humains sont dépassés et leurs dirigeants ne parviennent même plus à apprécier la complexité de leur tâche, ni les conséquences de leurs choix.
 
 Un jour, les solaires redescendront et mettront fin à leurs guerres, apportant la prospérité des colonies et ouvrant ce puits interdit à l'univers.
 
@@ -1944,7 +1944,7 @@ Elle se relève sous les yeux des deux équipes. Quand on lui demande ce qu'il f
 
 Ney se repose tranquillement dans l'un des parcs d'Ombrenade. Le grand dôme ne laisse passer qu'une maigre lueur ocre qui diffuse à travers les nuages épais de la lune. Elle a un rendez-vous un peu spécial et son hôte arrive.
 
-Le cybernétique traverse l'allée du parc et s'assied à côté d'elle. La chimère déploie un nuage de foglet autour d'eux pour se garantir un peu d'intimité. L'espace autour d'eux se mue en ce réseau de filaments bleus qui représentent les supers clusters de l'univers.
+Le cybernétique traverse l'allée du parc et s'assied à côté d'elle. La chimère déploie un nuage de foglets autour d'eux pour se garantir un peu d'intimité. L'espace autour d'eux se mue en ce réseau de filaments bleus qui représentent les supers clusters de l'univers.
 
 Elle commence par demander des nouvelles de Tsadir et il lui apprend qu'elle a finalement accepté de rejoindre les Wardners. Elle enquête actuellement sur une immigration statistiquement anormale sur Mercure. Il a demandé à un de ses amis de garder un œil sur elle. La samouraï est sans doute bien trop puissante et intelligente pour la Terre, mais dans les colonies les problèmes seront à son échelle.
 

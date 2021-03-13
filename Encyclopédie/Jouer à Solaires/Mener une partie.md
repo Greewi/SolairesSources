@@ -4,7 +4,7 @@
 >
 > Marth « Iron Lady », leader d'Aesir
 
-Contrairement à d’autres systèmes de jeu, le Système Féerie laisse beaucoup d’aspects entre les mains des participants. Cette liberté peut toutefois intimider des meneurs de jeu moins habitués. Vous trouverez ici quelques conseils et règles pour mener vos parties.
+Contrairement à d’autres systèmes de jeu, *Solaires* laisse beaucoup d’aspects entre les mains des participants. Cette liberté peut toutefois intimider des meneurs de jeu moins habitués à ce style de jeu. Vous trouverez ici quelques conseils et règles pour mener vos parties.
 
 >> Attention : si vous ne comptez pas mener, il est possible que certains conseils ici puissent briser une partie de la magie du jeu. Joueurs fuyez !
 
@@ -26,20 +26,20 @@ Très souvent, pour ne pas dire systématiquement, les joueurs vont faire des ch
 
 Ce n’est pas grave. Improvisez ! Vous avez deux possibilités : tenter de les raccrocher au scénario ou suivre la nouvelle voie ouverte par vos joueurs.
 
-La première solution est tentante mais paradoxalement plus délicate à mettre en place. Votre tentative peut très facilement être ressentie comme une contrainte : ce principal écueil peut donner aux joueurs l’impression qu’ils ne sont plus aux commandes et que vous les forcez à suivre son scénario. Bien fait, l’opération est invisible, mais ça reste difficile.
+La première solution est tentante mais paradoxalement plus délicate à mettre en place. Votre tentative peut très facilement être ressentie comme une contrainte : ce principal écueil peut donner aux joueurs l’impression qu’ils ne sont plus aux commandes et que vous les forcez à suivre votre scénario. Bien faite, l’opération est invisible, mais ça reste difficile.
 
-Quitte à improviser, pourquoi ne pas suivre les joueurs ? Après tout, eux aussi construisent l’histoire. Tant pis s’ils ne suivent pas le scénario dans les lettres. Si leurs anciens objectifs ne sont plus réalisables, où n’ont plus d’importance, reposez-vous sur leur impulsion : ils ne sont pas sortis des rails sans raisons. Appliquez les conséquences logiques de leur choix ou focalisez-vous sur leurs nouveaux objectifs.
+Quitte à improviser, pourquoi ne pas suivre les joueurs ? Après tout, eux aussi construisent l’histoire. Tant pis s’ils ne suivent pas le scénario à la lettre. Si leurs anciens objectifs ne sont plus réalisables, ou n’ont plus d’importance, reposez-vous sur leur impulsion : ils ne sont pas sortis des rails sans raisons. Appliquez les conséquences logiques de leur choix ou focalisez-vous sur leurs nouveaux objectifs.
 
 Dans les deux cas, vous ajouterez des éléments qui n’étaient pas prévus initialement : des PNJ, des relations entre différents acteurs, des événements, des pistes entières, etc. Nous vous recommandons de prendre des notes, surtout si le scénario et son contexte sont complexes. Même avec une très bonne mémoire, certaines choses peuvent se mélanger et nous ne traitons même pas des parties qui se déroulent sur plusieurs séances !
 
-Enfin, c’est déjà important en temps normal, mais ça le devient encore plus au moment d’improviser : vous devez bien connaître le jeu, en particulier son univers et le contexte dans lequel les PJ évoluent. Vous aurez encore moins de temps pour rechercher des informations dans vos documents.
+Enfin, c’est déjà important en temps normal, mais ça le devient encore plus au moment d’improviser, vous devez bien connaître le jeu, en particulier son univers et le contexte dans lequel les PJ évoluent. Vous aurez peu de temps pour rechercher des informations dans vos documents.
 
 ## Les temps morts
 
-Au cours de leurs aventures, les personnages seront parfois confrontés à des temps morts où ils ne peuvent rien faire à part attendre. Par exemples, ils voyagent à bord d'un vaisseau interplanétaire et le vol leur prendra deux semaines, ou ils attendent le retour des agents de recherches du decker qui doit les débloquer dans leur enquête, etc.
+Au cours de leurs aventures, les personnages seront parfois confrontés à des temps morts où ils ne peuvent rien faire à part attendre. Par exemple, ils voyagent à bord d'un vaisseau interplanétaire et le vol leur prendra deux semaines, ou ils attendent le retour des agents de recherche du decker qui doit les débloquer dans leur enquête, etc.
 
-S’il est peut-être intéressant d’avoir une idée des occupations de chacun pendant ces longues périodes, il est évidemment indésirable de jouer la totalité de ces scènes. Nous vous conseillons d’employer des ellipses et de vous contenter d’un résumé des événements mineurs qui peuvent d'être déroulés. Bien sûr, vous avez tout à fait le droit de faire intervenir des péripéties durant ce temps et de faire jouer les scènes qui y sont rattachées.
+S’il est peut-être intéressant d’avoir une idée des occupations de chacun pendant ces longues périodes, il est évidemment indésirable de jouer la totalité de ces scènes. Nous vous conseillons d’employer des ellipses et de vous contenter d’un résumé des événements mineurs qui peuvent s'être déroulés. Bien sûr, vous avez tout à fait le droit de faire intervenir des péripéties durant ce temps et de faire jouer les scènes qui y sont rattachées.
 
-Pensez aussi que l’ellipse est aussi un bon moyen d’offrir des moments de vide qui pourront servir à des flashbacks déclenchés via les points de personnage. C’est même une solution envisageable pour réduire le temps passé à la préparation d’une mission en vol.
+Pensez aussi que l’ellipse est aussi un bon moyen d’offrir des moments de vide qui pourront servir à des flashbacks déclenchés via les points de personnage. C’est même une solution envisageable pour réduire le temps passé à la préparation d’une mission.
 
 Si vous utilisez les intrigues de personnages, cela peut être un bon moment pour faire progresser certaines pendant la partie.

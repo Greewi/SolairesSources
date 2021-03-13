@@ -41,7 +41,7 @@ De son côté, Skyline poursuit ses observations, imperturbable. S’approchant 
 
 – Oui, et devinez quoi ! Dans la mémoire de celui-là, continue le decker, il y a son point d’origine. Ils crèchent dans un hangar du spatioport… Zone de fret ? Hé ! C’est un môme bordel !
 
-– Logique, acquiesce Skyline en sortant de l’appartement. Les commanditaires ont certainement employé les Phobos’ Height. Ils ont leurs accès dans la zone de fret. Après tout, leur spécialité, c’est le marché noir. Par contre, j’ai aucune idée de ce que ce fouineur faisait ici.
+– Logique, acquiesce Skyline en sortant de l’appartement. Les commanditaires ont certainement employé les Phobos’ Heights. Ils ont leurs accès dans la zone de fret. Après tout, leur spécialité, c’est le marché noir. Par contre, j’ai aucune idée de ce que ce fouineur faisait ici.
 
 – Notre priorité reste Mickael, recentre Razors. Downlink, tu as les coordonnées de ce hangar ?
 

@@ -323,17 +323,17 @@ Le réseau emploie toujours les mêmes méthodes. La justicière aurait pourtant
 
 Parfois, Nightly se demande à quel point le réseau comprend le monde. Ses prédictions sont toujours justes, mais il manque souvent de contexte. Ne pourrait-il pas lui transmettre plus d’informations en l’envoyant sur une mission ? Est-ce que les autres agents ont autant de travail préparatoire à faire ? Une hypothèse : vu la faculté du réseau pour trouver les meilleures motivations destinées à ses agents informels, il est pratiquement certain qu’il a choisi ce format spécialement pour elle : un peu de mystère, une enquête, un peu d’action et une finalité bienveillante. Pour la justicière, c’est sans doute une excellente façon de présenter les choses.
 
-Cette fois-ci, il la conduit à Essiert, sur Europe. La lune de Jupiter est un astre glacé mais qui dispose d’un océan souterrain, une sorte de mer arctique prise sous une banquise de plusieurs dizaines de kilomètres d’épaisseur. Et sous cette croûte de glace, Waylander n’a rien trouvé mieux que d’y installer une cité. Accrochée à la glace comme une araignée guettant sa proie, la ville soumise à une pression insensée, ressemble à un dôme inversé. Pas de vitre ni de hublot, mais une coque opaque de métaux et de composites. Un fleuron d’ingénierie, vitrine du savoir technologique de la corporation et de sa démesure.
+Cette fois-ci, il la conduit à Essiert, sur Europe. La lune de Jupiter est un astre glacé mais qui dispose d’un océan souterrain, une sorte de mer arctique prise sous une banquise de plusieurs dizaines de kilomètres d’épaisseur. Et sous cette croûte de glace, Waylanders n’a rien trouvé mieux que d’y installer une cité. Accrochée à la glace comme une araignée guettant sa proie, la ville soumise à une pression insensée, ressemble à un dôme inversé. Pas de vitre ni de hublot, mais une coque opaque de métaux et de composites. Un fleuron d’ingénierie, vitrine du savoir technologique de la corporation et de sa démesure.
 
 Accéder à la cité se fait par un long tube d’accès où douze ascenseurs circulent et transportent chaque jour plusieurs milliers de personnes. À la surface : des installations plus modestes et le spatioport. De là-haut, difficile d’imaginer qu’il existe une ville complète sous la glace. Et pourtant, c’est là que l’emmène son mystérieux commanditaire.
 
-Mais avant de descendre, une petite précaution. Explorant le grand hôtel du spatioport, Nigthly cherche un couloir non surveillé et dont l’accès ne paraîtrait pas suspect. Passant entre le collecteur des déchets et la blanchisserie, elle atteint une zone de maintenance permettant la jonction entre l’hôtel et le musée de la colonisation d’Essiert. L’un des murs du couloir est encombré de plusieurs tuyaux et d’instrument servant à la régulation de l’atmosphère des coursives attenantes. L’autre est entièrement dégagé : l’endroit parfait pour y établir un portail. La réplicante mémorise la surface, se servant de ses sensations exotiques.
+Mais avant de descendre, une petite précaution. Explorant le grand hôtel du spatioport, Nightly cherche un couloir non surveillé et dont l’accès ne paraîtrait pas suspect. Passant entre le collecteur des déchets et la blanchisserie, elle atteint une zone de maintenance permettant la jonction entre l’hôtel et le musée de la colonisation d’Essiert. L’un des murs du couloir est encombré de plusieurs tuyaux et d’instrument servant à la régulation de l’atmosphère des coursives attenantes. L’autre est entièrement dégagé : l’endroit parfait pour y établir un portail. La réplicante mémorise la surface, se servant de ses sensations exotiques.
 
 Ceci fait, elle revient vers des lieux plus habités et s’approche de la zone des ascenseurs. Une petite cohorte de robots de sécurité, la plupart androïdes à l’exception notable d’un dogbot d’assaut, filtrent l’accès en contrôlant les passagers. Rapidement son tour vient.
 
 « Avez-vous quelque chose à déclarer ? lui demande un patrouilleur avec sa voix délibérément saturée.
 
-– Deux shocks SK-03, un JAM-E3DF45 et une armure custom. Voici ma licence, répond-elle avec force de routine.
+– Deux shock SK-03, un JAM-E3DF45 et une armure custom. Voici ma licence, répond-elle avec force de routine.
 
 – Le certificat est valide. Bonne journée et bon séjour à Essiert !
 
@@ -408,7 +408,7 @@ La terrasse offre une vue dégagée sur le grand axe qui traverse tout le niveau
 
 De nombreuses tours, plus d’une quarantaine, pendent depuis le plafond et forment des alignements à couper le souffle. Les passerelles qui les relient, et forment les rues, semblent flotter au cœur d’un océan vacillant formé par les projections hypnotisantes à la surface du dôme inversé. Les tours elles-mêmes affichent une recherche esthétique avancée : loin d’être lisses, elles présentent des renfoncements géométriques cassant le volume général sans pour autant rendre la chose chaotique. Face à ces colonnes lumineuses et colorées, Nightly a l’impression de regarder de véritables écrans qui afficheraient des motifs abstraits voire abscons.
 
-Se recentrant sur sa mission, l’enfant guerrière se déplace vers la fameuse terrasse. Edward Brawnet, un cadet des forces de sécurité de Waylander, renvoyé avec blâmes et déshonneur. Aujourd’hui se tenait son dernier entretien pour un éventuel recours. Sur un forum, elle avait découvert qu’il avait menacé publiquement de révéler les « combines d’un supérieur avec des indépendants » : de toutes évidences ce n’était pas la chose à faire pour obtenir un recours. Pour ajouter aux conséquences, un contrat, anonyme, a été placé sur la tête de son instance. Même si la mort n’a plus grand sens, surtout pour un ancien militaire, il reste encore de nombreuses personnes pour considérer l’assassinat comme une solution. Le hic : Nightly n’est pas de cet avis et le mercenaire qui a pris la mission a aussi commis plusieurs erreurs.
+Se recentrant sur sa mission, l’enfant guerrière se déplace vers la fameuse terrasse. Edward Brawnet, un cadet des forces de sécurité de Waylanders, renvoyé avec blâmes et déshonneur. Aujourd’hui se tenait son dernier entretien pour un éventuel recours. Sur un forum, elle avait découvert qu’il avait menacé publiquement de révéler les « combines d’un supérieur avec des indépendants » : de toutes évidences ce n’était pas la chose à faire pour obtenir un recours. Pour ajouter aux conséquences, un contrat, anonyme, a été placé sur la tête de son instance. Même si la mort n’a plus grand sens, surtout pour un ancien militaire, il reste encore de nombreuses personnes pour considérer l’assassinat comme une solution. Le hic : Nightly n’est pas de cet avis et le mercenaire qui a pris la mission a aussi commis plusieurs erreurs.
 
 Au final, le voilà : une forme sombre qui se détache à peine sur le bord de la terrasse. Accroupi, l’assassin a épaulé un fusil de précision. Plusieurs câbles connectés à l’arme partent de l’arrière de son casque : un interfacé. Nightly dégaine une arme shock et avec une élégance involontaire pointe l’homme avant de faire feu deux mètres à côté.
 
@@ -420,7 +420,7 @@ Alors qu’il est sur le point de l’atteindre, son pied droit traverse le sol 
 
 Nightly s’effondre sur ses genoux et évalue les dégâts : sa vie n’est pas en danger tant que la lame ne bouge pas. Son adversaire ne manifeste plus aucun signe d’activité volontaire et de la fumée commence à sortir des restes de l’assassin trahissant l’incendie qui commencent à ravager ses entrailles. Quant à l’autre partie du cybernétique, la sécurité de la surface risque d’avoir du mal à expliquer sa présence là-haut.
 
-Reprenant très doucement, et douloureusement, sa respiration, Eve se concentre à nouveau sur son implant. Elle se laisse alors glisser vers le casier d’urgence : dedans, elle trouvera du medigel et des calmants. En attendant mieux, ça fera l’affaire. Elle aussi a commis des erreurs. Pourvu que Ney se montre prudente : le réseau lui avait attribué les deux missions dans un même message.
+Reprenant très doucement, et douloureusement, sa respiration, Eve se concentre à nouveau sur son implant. Elle se laisse alors glisser vers le casier d’urgence : dedans, elle trouvera du médigel et des calmants. En attendant mieux, ça fera l’affaire. Elle aussi a commis des erreurs. Pourvu que Ney se montre prudente : le réseau lui avait attribué les deux missions dans un même message.
 
 ## 11 – Idle : L’homme en blanc
 
@@ -995,7 +995,7 @@ Comme victorieux, il brandit un petit module, une sorte de petite boîte en mét
 
 « Ça devrait être bon. Akasha peux-tu relier cette mémoire à la console d’étude ?
 
-– Bien sûr commandant », répond l’IA qui exécute l’ordre attrapant le module avec de petites pinces mécanisées. Elle commence à effectuer de nombreuses soudures à base de nanite, connectant ainsi les innombrables petits filaments de l’étrange appareil pour le relier à la console de Feyn.
+– Bien sûr commandant », répond l’IA qui exécute l’ordre attrapant le module avec de petites pinces mécanisées. Elle commence à effectuer de nombreuses soudures à base de nanites, connectant ainsi les innombrables petits filaments de l’étrange appareil pour le relier à la console de Feyn.
 
 L’opération prend quelques minutes et occupe toute l’attention d’Idle : la régularité des petits bras en synchronisation parfaite avec les petites buses de soudure rend l’activité presque hypnotisante. Ceci terminé, Feyn active la console avec une appréhension palpable. Quelques instants s’écoulent et rien…
 
@@ -1473,7 +1473,7 @@ Il vaut sans doute mieux prévenir Ney et ses autres parents. Ouvrant une commun
 
 ## 35 – Nightly : Ombrenade by Night
 
-La cité d’Ombrenade présente un jeu d’éclairage surprenant durant son cycle de nuit. La plupart des éclairages « externes » sont très fortement atténués et les lampes du dôme ne présentent plus cette lumière vive et directionnelle. À la place, ces dernières dessinent un ciel étoilé où la plupart des constellations sont reconnaissables. À vrai dire, les informations publiques d’Ombrenande confirment même que leur position est précisément celle des vraies étoiles dehors, tant que les observateurs restent en contrebas de la cité.
+La cité d’Ombrenade présente un jeu d’éclairage surprenant durant son cycle de nuit. La plupart des éclairages « externes » sont très fortement atténués et les lampes du dôme ne présentent plus cette lumière vive et directionnelle. À la place, ces dernières dessinent un ciel étoilé où la plupart des constellations sont reconnaissables. À vrai dire, les informations publiques d’Ombrenade confirment même que leur position est précisément celle des vraies étoiles dehors, tant que les observateurs restent en contrebas de la cité.
 
 L’air frais et le bruit de grillons rappelle ces images fantasmées des nuits sur les bords méditerranéens de l’Europe – celle de la Terre. Quelques lucioles donnent aux parcs du bas un aspect féerique, bien qu’Eve ne parvienne pas à déterminer s’il s’agit vraiment d’insectes ou d’un autre artifice. Pour passer plus discrètement en ville, elle a rangé son bandeau et retrouvé ses cheveux roux. Sa cape, vêtement mimétique, s’est changée en une sorte de poncho pourpre sous lequel son équipement est caché. Histoire d’éviter des contrôles inutiles, elle affiche ostensiblement sa licence d’agente indépendante rattachée à Mars sur le canal réservé aux forces de sécurité.
 
@@ -1733,7 +1733,7 @@ Les cris d’Idle retentissent : « Laissez Feyn tranquille ! ». Tournant l
 
 – J’y vais, ces fils de putes vont morfler, lance le soldat avec hargne.
 
-– Garreth ? l’interrompt le médic.
+– Garreth ? l’interrompt le medic.
 
 – Oui ?
 
@@ -2682,7 +2682,7 @@ Effectuant quelques gestes elle indique : « La température est bonne, voyons
 
 – Pas mieux… », ajoute Scrap.
 
-L’équipe réduite fait l’inventaire des appareils encore en état de fonctionner. Visiblement le contenu du sac à dos de Scrap a globalement supporté la décharge : au moins, ils auront de quoi soigner leurs plaies en cas de coup dur. Les deux pistolets shocks de Nightly au sol, semblent aussi en état, Nevi et Zut en prennent chacun un. Le reste, lui, est définitivement mort.
+L’équipe réduite fait l’inventaire des appareils encore en état de fonctionner. Visiblement le contenu du sac à dos de Scrap a globalement supporté la décharge : au moins, ils auront de quoi soigner leurs plaies en cas de coup dur. Les deux pistolets shock de Nightly au sol, semblent aussi en état, Nevi et Zut en prennent chacun un. Le reste, lui, est définitivement mort.
 
 Le petit groupe reprend sa progression. Zut prend les devants, tandis que Nevi couvre l’arrière, Scrap couvert des deux côtés. En dehors du système de communication – les antennes placées dans les oreilles ont dû griller – leur enveloppe semble pleinement fonctionnelle. Scrap avait déjà expliqué à Nevi que leurs corps hyper-hybrides étaient vu comme le futur des enveloppes : le meilleur des deux mondes entre la cybernétique et l’organique. La réappropriation de la nanotechnologie du vivant par les nouvelles technologies.
 
@@ -2834,7 +2834,7 @@ Les deux nevians courent l’une vers l’autre et s’étreignent avec force. L
 
 – Mes pauvres… s’indigne Ney. Voyons. Un problème à la fois. Commençons avec vos communicateurs. », explique Ney.
 
-La technophile déploie son nuage de foglets et matérialise l’anatomie d’un nevian. Focalisant la vue sur l’oreille gauche, elle pointe une série de filaments reliés à un petit organe au ras de la peau. Scrap observe avec attention. Ney lui explique que les filaments ont probablement brûlés à la base mais qu’il est possible de les reconnecter avec une opération simple. Immédiatement, Nevi demande : « Commencez par moi, si ça doit rater je préfère que ce soit moi. ». La technophile accepte et effectue l’opération qui s’avère être rapide : une incision au ras de l’oreille, puis avec une petite pince elle reconnecte chaque filament en les tirant vers le bas. « Seule une machine peut avoir une telle précision » remarque intérieurement Trend. Une fois terminé, elle utilise un peu de medigel pour refermer l’ouverture. Immédiatement, Nevi se reconnecte au réseau des nevians et Trend constate le succès de l’opération lorsque Ney et Greenstar lui souhaitent le bonjour.
+La technophile déploie son nuage de foglets et matérialise l’anatomie d’un nevian. Focalisant la vue sur l’oreille gauche, elle pointe une série de filaments reliés à un petit organe au ras de la peau. Scrap observe avec attention. Ney lui explique que les filaments ont probablement brûlés à la base mais qu’il est possible de les reconnecter avec une opération simple. Immédiatement, Nevi demande : « Commencez par moi, si ça doit rater je préfère que ce soit moi. ». La technophile accepte et effectue l’opération qui s’avère être rapide : une incision au ras de l’oreille, puis avec une petite pince elle reconnecte chaque filament en les tirant vers le bas. « Seule une machine peut avoir une telle précision » remarque intérieurement Trend. Une fois terminé, elle utilise un peu de médigel pour refermer l’ouverture. Immédiatement, Nevi se reconnecte au réseau des nevians et Trend constate le succès de l’opération lorsque Ney et Greenstar lui souhaitent le bonjour.
 
 La nevian réitère l’opération sur Scrap avec la même maîtrise. Une fois reconnecté, Zut apparaît à son tour. Après des retrouvailles en bonne et due forme, le nevian fantôme projette ce qu’il a vu en réalité augmentée. Immédiatement, Nevi, Trend et Greenstar réagissent : c’est un robot de défense lourd. Semblable à un énorme scarabée noir, il emporte deux mitrailleuses lourdes sous son épaisse carapace. La nevian guerrière explique succinctement : « Merde. Une arme capable de faire un trou dans son armure serait capable de raser le bâtiment… ».
 

@@ -254,7 +254,7 @@ L’entrée du centre médical est joliment décorée, autant que le reste. L’
 
 — Nous allons regarder ça. Suivez-moi, je vais vous faire passer quelques examens, l’invite le synthétique.
 
-Le groupe traverse le hall et suis un couloir. Andras leur ouvre la porte d’une salle d’examen. Celle-ci possède un éclairage reposant et le bruissement du système d’aération, devenu familier, apaise Émy. Le docteur l’invite à s’asseoir : « Je vous en pris, asseyez-vous, je vais préparer le scanner. ».
+Le groupe traverse le hall et suis un couloir. Andras leur ouvre la porte d’une salle d’examen. Celle-ci possède un éclairage reposant et le bruissement du système d’aération, devenu familier, apaise Émy. Le docteur l’invite à s’asseoir : « Je vous en prie, asseyez-vous, je vais préparer le scanner. ».
 
 Émy s’installe sur le siège médical, aidée par Estë. Une fois Émy en place, la femme au caducée lui reprend : « Vous êtes entre de bonnes mains maintenant. Je vous souhaite un prompt rétablissement. Et bienvenue à Lunae.
 
@@ -835,7 +835,7 @@ Alors qu’elle navigue dans les rapports de sécurité de la cité, Steeve se r
 
 — On dirait bien. Au moins, on sait pourquoi il ne s’est pas manifesté depuis…
 
-— Ouais, les collègues se sont régalés : neufs pris avec des armes létales, douze avec des pistolets shocks… On ne va pas le revoir de sitôt !
+— Ouais, les collègues se sont régalés : neufs pris avec des armes létales, douze avec des pistolets shock… On ne va pas le revoir de sitôt !
 
 — Attends… retient Orah. Non : il a été relaxé. Apparemment, il aurait été envoyé par le système de surveillance suite à une alerte concernant la rupture d’une canalisation. Enfin, c’est son excuse.
 
@@ -2644,7 +2644,7 @@ Ils arrivent à la fameuse salle. L’intérieur a été complètement réaména
 
 « Bill ! », s’exclame Snack qui se précipite vers l’un des hommes inanimés. Zoy s’approche aussi et constate qu’il s’agit du survivant dont Milly a parlé. Alors que son ami l’ausculte, le nevian roux entre dans ce qui ressemble à la salle des soins et s’empare de la sacoche de premier secours. Toutes les habitations en ont dans les colonies, même les clandestines semble-t-il.
 
-Revenu auprès de Snack, Zoy extrait le matériel du medikit. Il y a même un scanner Wolfa à champ proche, le nevian se demande s’il pourra le garder. Passant l’appareil sur l’unique blessure recensée, il constate que le projectile responsable est encore en place.
+Revenu auprès de Snack, Zoy extrait le matériel du kit médical. Il y a même un scanner Wolfa à champ proche, le nevian se demande s’il pourra le garder. Passant l’appareil sur l’unique blessure recensée, il constate que le projectile responsable est encore en place.
 
 « Soit, il a eu beaucoup de chance, soit ceux qui ont fait ce carnage voulaient l’épargner, expose Zoy.
 
@@ -2660,7 +2660,7 @@ Revenu auprès de Snack, Zoy extrait le matériel du medikit. Il y a même un sc
 
 — Prof’ réparait aussi des gens. Il m’a appris. », explique le nevian avec désinvolture.
 
-S’emparant d’une pince à épiler, il plonge ses doigts dans la plaie et en ressort une petite bille de cinq millimètres de diamètre : toute cabossée, elle affiche les dégâts d’un voyage à la vitesse du son et de l’impact sur la côte qu’elle a traversée. La menace extraite, Zoy s’empare du medigel et en injecte une généreuse quantité dans la blessure. Activant le contrôleur, il organise alors les microrobots qui composent une partie du gel et restructure les tissus déchirés. En se solidifiant, le gel imite le réseau sanguin endommagé et restaure la vascularité de la région.
+S’emparant d’une pince à épiler, il plonge ses doigts dans la plaie et en ressort une petite bille de cinq millimètres de diamètre : toute cabossée, elle affiche les dégâts d’un voyage à la vitesse du son et de l’impact sur la côte qu’elle a traversée. La menace extraite, Zoy s’empare du médigel et en injecte une généreuse quantité dans la blessure. Activant le contrôleur, il organise alors les microrobots qui composent une partie du gel et restructure les tissus déchirés. En se solidifiant, le gel imite le réseau sanguin endommagé et restaure la vascularité de la région.
 
 « Il survivra, annonce Zoy. Par contre, il lui faudra encore une petite heure avant de reprendre conscience et quelques semaines de convalescence s’il se contente de la récupération naturelle de son enveloppe.
 
@@ -2714,7 +2714,7 @@ Alors que les trois contemplent le mouchard, Milly propose : « J’aurais bie
 
 — Tu nous en attrapes un ? », demande Zoy tout aussi convaincu.
 
-Milly détourne un robot de la maintenance, tandis que Zoy désinfecte le mouchard. Le nevian bricoleur colle ensuite le minuscule appareil sur la coque du spiderbot avec une goutte de medigel. La decker l’envoie enfin, après avoir préparé son itinéraire.
+Milly détourne un robot de la maintenance, tandis que Zoy désinfecte le mouchard. Le nevian bricoleur colle ensuite le minuscule appareil sur la coque du spiderbot avec une goutte de médigel. La decker l’envoie enfin, après avoir préparé son itinéraire.
 
 « Et maintenant ? s’interroge Snack.
 
@@ -3108,7 +3108,7 @@ Les regards se tournent vers Bill qui continue : « Mathew était en lien avec
 
 — Jusqu’à l’obsolescence de notre modèle, la révélation de notre sentience par d’autres… suppose Zoy.
 
-— D’accord, je vous suis, admet Jumper. Mais il reste toujours les même problèmes.
+— D’accord, je vous suis, admet Jumper. Mais il reste toujours les mêmes problèmes.
 
 — J’ai des idées, répète Zoy. On vous tiendra au courant.
 

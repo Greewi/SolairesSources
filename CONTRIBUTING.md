@@ -42,7 +42,7 @@ Concernant les textes :
 * Les articles ont un et un seul titre de niveau 1 (`#`) : le titre de l'article ;
 * Les articles n'ont ensuite que des titres de niveau 2 (`##`) ;
 * Nous n'utilisons pas de titre de niveau 3 ! La seule exception concerne les titres des encarts ;
-* Mettez des espaces insécables (`altgr`+`shift`+`espace` avec la disposition de clavier `fr-oss`, le clavier français alternatif de linux, généralement installé par défaut) devant les signes de ponctuations les nécessitants (points d'interrogation, points d'exclamation, points virgules, deux points, etc.) et entre les nombres et leurs unités (ex. 2 mm).
+* Mettez des espaces insécables (`AltGr`+`shift`+`espace` avec la disposition de clavier `fr-oss`, le clavier français alternatif de linux, généralement installé par défaut) devant les signes de ponctuations les nécessitants (points d'interrogation, points d'exclamation, points virgules, deux points, etc.) et entre les nombres et leurs unités (ex. 2 mm).
 
 Concernant les tableaux :
 * Les tableaux sont en HTML, sans style ;

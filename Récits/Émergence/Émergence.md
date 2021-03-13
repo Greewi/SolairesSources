@@ -412,7 +412,7 @@ Autrefois, elle n’en aurait simplement jamais entendu parler. Devant le gigant
 
 Nyanya s’est remise sur pied en une petite semaine et elle est repartie travailler. Des fois, elle l’emmène voir ce qu’elle fait, les vaisseaux sur lesquelles elle travaille. Elle a un peu été déçue quand elle a appris que ce sont les plus petits qui sont fabriqués sur Terre. Les grands sont construits directement là-haut. De ce qu’elle a compris, il est plus simple d’apporter les ressources depuis les astéroïdes que de les faire venir de la Terre. N’empêche, c’est elle qui dessine les vaisseaux qui emmènent les gens là-haut.
 
-L’école est assez dure, mais elle y apprend des tas de choses. Certaines fois, Alice à l’impression qu’on essaie de voir jusqu’où elle peut aller et qu’on lui donne des choses que les gens pensent trop difficiles pour elle, mais jusque-là, elle y arrive alors bon, c’est pas grave. Il y a d’autres enfants, mais elle ne les aime pas trop… Nyanya dit qu’elle lui rappelle l’époque où elle était petite. Elle aussi n’avait pas beaucoup d’amis et préférait jouer avec ses idées, dans son coin.
+L’école est assez dure, mais elle y apprend des tas de choses. Certaines fois, Alice à l’impression qu’on essaie de voir jusqu’où elle peut aller et qu’on lui donne des choses que les gens pensent trop difficiles pour elle, mais jusque-là, elle y arrive alors bon, "c’est pas grave". Il y a d’autres enfants, mais elle ne les aime pas trop… Nyanya dit qu’elle lui rappelle l’époque où elle était petite. Elle aussi n’avait pas beaucoup d’amis et préférait jouer avec ses idées, dans son coin.
 
 À la télé, les informations l’inquiètent un peu. L’ONU, qui regroupe tous les pays du monde, a demandé aux corporations de se rendre, mais la plupart ont refusé. Il y a que Sol6 qui a accepté et tous les grands disent que ça va être la guerre. Les images montrent des vaisseaux gigantesques qui portent le logo avec la carte de la Terre peinte en blanc sur fond bleu.
 
@@ -1258,7 +1258,7 @@ Alexander ressasse ses idées et se demande encore ce qui a bien pu dégénérer
 
 À court d’idée sur ce sujet, l’assassin tourne sa réflexion vers cette jeune cadette. Sans elle, le Mona Lisa serait en train de s’amarrer et Simh, condamné sans le savoir encore, débarquerait pour gagner Mercure. Lui n’aurait alors qu’à rejoindre les autres et la menace aurait été écartée.
 
-Au lieu de ça, il est encore là, coincé au plafond d’une infirmerie de six mètres par trois. Deux brancards vides sont installés et les sangles pour maintenir les patients pendent vers le plafond. Les armoires closes ne contiennent que l’électronique de la salle. Avec la coupure de courant, la plupart des systèmes non essentiels sont inactifs. Le medipack au mur ne contient que des antalgiques, des antihistaminiques et des sédatifs. Évidemment, on y trouve aussi du médigel et une bonne trentaine de mètres de bandage. Le reste du matériel est probablement rangé dans cette remise verrouillée.
+Au lieu de ça, il est encore là, coincé au plafond d’une infirmerie de six mètres par trois. Deux brancards vides sont installés et les sangles pour maintenir les patients pendent vers le plafond. Les armoires closes ne contiennent que l’électronique de la salle. Avec la coupure de courant, la plupart des systèmes non essentiels sont inactifs. Le kit médical au mur ne contient que des antalgiques, des antihistaminiques et des sédatifs. Évidemment, on y trouve aussi du médigel et une bonne trentaine de mètres de bandage. Le reste du matériel est probablement rangé dans cette remise verrouillée.
 
 Alexander ne peut que se résigner et faire la seule chose qui lui reste : attendre dans la semi-pénombre.
 
@@ -1368,7 +1368,7 @@ Alors que l’écoutille externe s’ouvre, Tsadir est surprise : elle s’éta
 
 Arrivés à l’autre extrémité, Feyn vérifie les attaches du tube de connexion. Visiblement rassuré, il examine ensuite l’écoutille d’accès au Mona Lisa.
 
-« Le sas est dépressurisé. Je vais l’ouvrir manuellement. », indique-t-il en sortant son multitool. Modifiant la tête de la visseuse pour correspondre à la prise de l’accès, il fait signe de reculer à Tsadir. Glissant sur le tissu blanc, elle s’exécute sans le perdre de vue. Par précaution, elle a dégainé son pistolet shock et vise la porte, prête à réceptionner tout ce qui pourrait essayer d’en sortir violemment.
+« Le sas est dépressurisé. Je vais l’ouvrir manuellement. », indique-t-il en sortant son multi-tool. Modifiant la tête de la visseuse pour correspondre à la prise de l’accès, il fait signe de reculer à Tsadir. Glissant sur le tissu blanc, elle s’exécute sans le perdre de vue. Par précaution, elle a dégainé son pistolet shock et vise la porte, prête à réceptionner tout ce qui pourrait essayer d’en sortir violemment.
 
 Sans un seul bruit, Feyn déverrouille la porte du sas et la fait basculer, très lentement, vers l’intérieur.
 
@@ -1527,7 +1527,7 @@ Remontant la coursive, Feyn essaie encore de comprendre ce qui justifie un tel a
 ----
 ## 31 – Alexander : Ab mortem
 
-Dans l’infirmerie, la jeune femme repose avec légèreté sur le plateau de la station médicale de l’Akasha. Une multitude de bras robotiques, portant chacun de véritables collections d’instruments, l’ont auscultée, examinée, manipulée et opérée. Durant la reconstruction de sa trachée, ces ustensiles ont joué un véritable bal. Les fragments de l’ancien cartilage extraits, ils ont été remplacés par un nouveau, fraîchement synthétisé. Avec du medigel, l’impressionnant appareillage a refermé le reste de la plaie, reconstruisant la structure des tissus endommagés. Dans les colonies, soigner un corps semble à peine plus compliqué que de réparer un robot. L’assistance respiratoire devient passive et une série de microélectrodes placées sur un grand nombre de ses muscles provoquent des mini-contractions destinées à prévenir l’affaiblissement des muscles.
+Dans l’infirmerie, la jeune femme repose avec légèreté sur le plateau de la station médicale de l’Akasha. Une multitude de bras robotiques, portant chacun de véritables collections d’instruments, l’ont auscultée, examinée, manipulée et opérée. Durant la reconstruction de sa trachée, ces ustensiles ont joué un véritable bal. Les fragments de l’ancien cartilage extraits, ils ont été remplacés par un nouveau, fraîchement synthétisé. Avec du médigel, l’impressionnant appareillage a refermé le reste de la plaie, reconstruisant la structure des tissus endommagés. Dans les colonies, soigner un corps semble à peine plus compliqué que de réparer un robot. L’assistance respiratoire devient passive et une série de micro-électrodes placées sur un grand nombre de ses muscles provoquent des mini-contractions destinées à prévenir l’affaiblissement des muscles.
 
 Déstabilisé par les informations sur l’opération, Alexander a coupé les annotations ajoutées par le link qu’on lui a prêté. L’appareil consiste en une paire de lunettes, superposant toutes sortes d’informations utiles par-dessus la réalité. Mais parfois, trop d’informations, c’est trop.
 
@@ -2547,7 +2547,7 @@ De son côté, Alice a eu le réflexe d’essayer de se mettre à couvert, mais 
 
 – Ne t’en fais pas, recentre Tsadir. Je vais les attacher. Va chercher de quoi panser celui-là. J’y suis allé trop à ras.
 
-– Je fonce. », confirme la cadette en se dirigeant vers la sortie pour aller chercher un medikit.
+– Je fonce. », confirme la cadette en se dirigeant vers la sortie pour aller chercher un kit médical.
 
 Malgré l’obscurité déchirée par les faisceaux des lampes, Tsadir fouille les hommes, aidée de ses implants oculaires. La vision monochromatique lui permet de discerner les détails des hommes. À part leurs armes de poings et une grenade shock, ils ne transportaient pas d’autres armes. En revanche, leurs links, et surtout leur contenu, seront très intéressants. Et celui de ce Joshua plus que tout.
 
@@ -2588,7 +2588,7 @@ Akasha le sort de ses ruminations : « Commandant, Tsadir, Kim et Alice vienne
 
 – Merci Akasha, je vais aller les accueillir. », lui répond-il en se détachant de son siège.
 
-Quittant la passerelle, Feyn perçoit le son du système d’aération du hub avant, sensiblement plus fort qu’à l’accoutumé. Le ronronnement de la ventilation n’est plus seulement un bruit familier. Pour Feyn, c’est devenu la sensation qui lui murmure « maison ». Et toute anomalie, aussi minime qu’elle soit, lui génère de l’inconfort. « Akasha, peux-tu faire une vérification du système d’aération du hub avant ? », demande-t-il. L’IA répond affirmativement et le cliquetis des petites pattes des spider-bots évoluant derrière les feuilles de métal et de composite, se fait entendre.
+Quittant la passerelle, Feyn perçoit le son du système d’aération du hub avant, sensiblement plus fort qu’à l’accoutumé. Le ronronnement de la ventilation n’est plus seulement un bruit familier. Pour Feyn, c’est devenu la sensation qui lui murmure « maison ». Et toute anomalie, aussi minime qu’elle soit, lui génère de l’inconfort. « Akasha, peux-tu faire une vérification du système d’aération du hub avant ? », demande-t-il. L’IA répond affirmativement et le cliquetis des petites pattes des spiderbots évoluant derrière les feuilles de métal et de composite, se fait entendre.
 
 Le sas termine son cycle, équilibrant la pression de l’air qu’il contient avec celle du vaisseau. L’imposante machinerie cachée sous le « sol » du sas, semble faire vibrer le sol. Pris d’un doute, Feyn, lance son auto-diagnostique. Le link, associé à plusieurs sondes implantées dans son enveloppe compilent ses données vitales.
 
@@ -2755,7 +2755,7 @@ Les missiles des Dragons entrent dans le champ défensif et de nombreux chasseur
 
 C’est le moment d’envoyer les essaims. Les minuscules appareils sur son écran commencent à prendre de l’élan pour se diriger vers la flotte ennemie, couverts par les tirs des frégates d’artillerie qui déchaînent à leur tour leur canons à haute vélocité. Les trajectoires des munitions, tirées à des fractions de la vitesse de la lumière, s’affichent sur l’écran de commandement. Pour le moment, aucun n’a atteint quoi que ce soit.
 
-Les chasseurs des essaims approchent du périmètre effectif des défenses de point adverses. De nombreux tirs rapportés par les appareils autonomes s’affichent comme une nouvelle nuée de points oranges sur l’interface. Tanner, extrait une vue zoomée du champ de bataille et la place à côté de la vue générale. C’est le début du travail de micro-gestion. Dans la salle autour de lui, les analystes et tacticiens de Mars envoient et coordonnent chaque unité engagée. Mais dans ce genre d’opération, il ne faut pas négliger le déroulement global.
+Les chasseurs des essaims approchent du périmètre effectif des défenses de point adverses. De nombreux tirs rapportés par les appareils autonomes s’affichent comme une nouvelle nuée de points oranges sur l’interface. Tanner, extrait une vue zoomée du champ de bataille et la place à côté de la vue générale. C’est le début du travail de microgestion. Dans la salle autour de lui, les analystes et tacticiens de Mars envoient et coordonnent chaque unité engagée. Mais dans ce genre d’opération, il ne faut pas négliger le déroulement global.
 
 L’autre porte-nefs se tient prêt au cas où il devrait prendre le commandement. Pour le moment, son équipage n’a pas la main sur l’essaim largué pour éviter des ordres contradictoires. Mais le vaisseau de plus de trois-cent mètres met sa puissance de calcul à contribution et relaie les données télémétriques obtenues de son côté. Avec les deux vaisseaux autant écartés, les mesures de parallaxes offrent une précision avantageuse.
 
