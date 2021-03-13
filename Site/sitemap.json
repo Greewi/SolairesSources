@@ -115,6 +115,8 @@
 		"/Téléchargements/Divers" : { "type" : "article", "template" : "article", "theme" : "jupiter", "title" : "Divers" },
 
 		"/News" : { "type" : "article", "template" : "article", "theme" : "saturn", "title" : "News", "notoc" : true },
+		"/News/news - 2021-03-13" : { "type" : "article", "template" : "article", "theme" : "saturn", "title" : "News du 2021-03-13" },
+		"/News/reunion - 2021-02-02" : { "type" : "article", "template" : "article", "theme" : "saturn", "title" : "Réunion du 2021-02-02" },
 		"/News/news - 2020-10-31" : { "type" : "article", "template" : "article", "theme" : "saturn", "title" : "News du 2020-10-31" },
 		"/News/news - 2020-09-05" : { "type" : "article", "template" : "article", "theme" : "saturn", "title" : "News du 2020-09-05" },
 		"/News/news - 2020-07-19" : { "type" : "article", "template" : "article", "theme" : "saturn", "title" : "News du 2020-07-19" },
