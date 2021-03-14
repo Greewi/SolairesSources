@@ -39,7 +39,7 @@ Les soldats vont bientôt se rendre compte d’un problème, c’est le moment d
 
 Bien sûr, le jeu n’est pas d’attendre les cinq secondes. Alors que le compteur indique encore « trois », Skyline envoie le signal aux drones ; simultanément, il ouvre le feu avec les drones sur celui sur sa gauche et plonge vers lui pour voler sa position. La fusillade initiale est brève. Les munitions supersoniques déchirent l’air et trois des mercenaires tombent, ainsi que l’un des deux drones.
 
-Quelques fractions de secondes après le premier tir, Downlink lui transmet la position de ses adversaires qui lui apparaissent en surbrillance à travers la réalité augmentée : deux sont en train de le contourner. Le drone effectue un tir de suppression avant d’être abattu. Gardant la tête basse, Skyline tente de revenir vers l’entrée du hangar couvert par de nombreux tirs en aveugle. Gagner du temps… L’échange de tirs est nourri et le son des munitions supersoniques accompagne les flashs de lumière des armes shocks.
+Quelques fractions de secondes après le premier tir, Downlink lui transmet la position de ses adversaires qui lui apparaissent en surbrillance à travers la réalité augmentée : deux sont en train de le contourner. Le drone effectue un tir de suppression avant d’être abattu. Gardant la tête basse, Skyline tente de revenir vers l’entrée du hangar couvert par de nombreux tirs en aveugle. Gagner du temps… L’échange de tirs est nourri et le son des munitions supersoniques accompagne les flashs de lumière des armes shock.
 
 « L’enfant est en sécurité. », annonce Razors. Eh bien, ce fut rapide. Sur son écran virtuel, Razors dépose un jeune enfant au sol, à côté du decker. Finissons-en. Skyline ordonne : « Downlink, verrouille le hangar.
 

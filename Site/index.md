@@ -2,7 +2,7 @@
 
 ![ Logo de Solaires](logo_solaires.png)
 
-Bienvenue sur le site de Solaires, un jeu de rôles de science fiction dont les thèmes explorent le transhumanisme, la colonisation spatiale, l'héroïsme, le progrès technologique et même le paradoxe de Fermi.
+Bienvenue sur le site de Solaires, un jeu de rôles de science-fiction dont les thèmes explorent le transhumanisme, la colonisation spatiale, l'héroïsme, le progrès technologique et même le paradoxe de Fermi.
 
 Incarnez les Solaires, les enfants de l’humanité, dans un futur technologique où même la mort a rendu sa faux. Prenez part aux intrigues des colonies, véritables cités bâties par les puissantes corporations sur Mercure, Mars et même les lunes de Jupiter et Saturne.
 

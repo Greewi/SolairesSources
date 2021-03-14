@@ -6,7 +6,7 @@
 
 ## En bref
 
-*Solaires* est un jeu de rôles de science fiction dont les thèmes explorent le transhumanisme, la colonisation spatiale, l'héroïsme, le progrès technologique et même le paradoxe de Fermi.
+*Solaires* est un jeu de rôles de science-fiction dont les thèmes explorent le transhumanisme, la colonisation spatiale, l'héroïsme, le progrès technologique et même le paradoxe de Fermi.
 
 Incarnez les solaires, les enfants de l’humanité, dans un futur technologique où même la mort a rendu sa faux. Prenez part aux intrigues des colonies, véritables cités bâties par les puissantes corporations sur Mercure, Mars et même les lunes de Jupiter et Saturne.
 
@@ -27,7 +27,7 @@ Plus précisément, nous nous intéressons à cinq thèmes forts :
 * **Le progrès technologique** et ses conséquences, au-delà des seules implications du transhumanisme. On s'y intéresse principalement à l'éthique et aux limites que l'on peut vouloir imposer ;
 * **La colonisation spatiale**, surtout présente dans le décor du jeu. Il ne faut jamais oublier que l'espace est un environnement intrinsèquement dangereux et qu'il suffit de quelques fractions de secondes pour produire un drame dans un décor ou l'inconnu le dispute à l'inimaginable ;
 * **L'héroïsme** et les choix qu'il impose. Nous ne souhaitons pas ici dépeindre un univers cyberpunk qui s'enlise dans une routine malsaine dominé par la finance et où finalement les protagonistes ne sont que des anti-héros tentant d'y survivre. Dans Solaires, les personnages sont confrontés à des choix difficiles et ont les moyens d'avoir un impact à grande échelle ;
-* **Le paradoxe de Fermi**. Dans un univers où les Solaires sont sur le point de débuter la colonisation de l'univers, l'absence de toute forme de vie intelligente extraterrestre continue d'alimenter nombre de spéculations.
+* **Le paradoxe de Fermi**. Dans un univers où les solaires sont sur le point de débuter la colonisation de l'univers, l'absence de toute forme de vie intelligente extraterrestre continue d'alimenter nombre de spéculations.
 
 ## Le système de jeu
 
@@ -51,11 +51,11 @@ En lui donnant un aspect plus « hard-science » et en remettant la technologi
 
 L'univers se veut toutefois relativement bienveillant : la mort n'est qu'une transition, l'humanité ne s'est pas faite annihiler et nous ne sommes pas à l'aube de l'apocalypse technologique.
 
-Soyez les bienvenus dans le système solaire de 2093 !
+Soyez les bienvenus dans le système solaire de 2237 !
 
 ## Inspirations
 
-De nombreuses œuvres, qu'elles soient issues de romans, films ou jeux vidéos ont fortement inspiré *Solaires*.
+De nombreuses œuvres, qu'elles soient issues de romans, films ou jeux vidéo ont fortement inspiré *Solaires*.
 
 De la littérature tout d'abord, avec les œuvres de science-fiction de William Gibson (*Neuromancien*, *Compte zéro*, *Mona Lisa s'éclate*), Bruce Sterling (*La Schismatrice*), Richard K. Morgan (*Carbone modifié*, *Ange déchus*, *Furies déchaînées*, *Black Man*), Frank Herbert (Univers de la ConSentiency et de Destination Vide), Philip K. Dick (Principalement les nouvelles), la BD *Transmetropolitan* (Warren Ellis) ou encore Isaac Asimov (De trop nombreuses nouvelles pour les citer).
 
@@ -63,7 +63,7 @@ De nombreux films ensuite, dont *Blade Runner* (Ridley Scott), *Moon* (Duncan Jo
 
 Dans une bien moindre mesure nous avons aussi été inspirés par plusieurs œuvres du genre du super-héros, notamment la série des *X-Men* (Bryan Singer, puis Brett Ratner), la récente trilogie de *Batman* (Christopher Nolan), les *Iron Man* (Jon Favreau), etc.
 
-Enfin, les jeux vidéos ont été aussi une très grande source d'inspiration. En premier lieu, la série des *Deus Ex* (Même le second ! Par Eidos Interactive), mais aussi *System Shock II* (Looking Glass Studios et Irrational Games), *Mass effect* et *Mass effect 2* (BioWare), *Eve Online* (Crowd Control Productions), *Syndicate* (Bullfrog Games), *Freelancer* (Digital Anvil), *Elite Dangerous* (Frontier Developments).
+Enfin, les jeux vidéo ont été aussi une très grande source d'inspiration. En premier lieu, la série des *Deus Ex* (Même le second ! Par Eidos Interactive), mais aussi *System Shock II* (Looking Glass Studios et Irrational Games), *Mass effect* et *Mass effect 2* (BioWare), *Eve Online* (Crowd Control Productions), *Syndicate* (Bullfrog Games), *Freelancer* (Digital Anvil), *Elite Dangerous* (Frontier Developments).
 
 Mais s'arrêter là, ce serait ignorer l'importance de la recherche et des sciences dans le monde réel. Nous devons aussi louer la NASA, l'ESA, les transhumanistes… Car même s'ils traitent de notre vrai monde, ils ont eu, sans doute aucun, un impact majeur sur ce qu'est devenu *Solaires*. Et puis l'un des auteurs de *Solaires* pourrait facilement être classé parmi les physics nerds…
 

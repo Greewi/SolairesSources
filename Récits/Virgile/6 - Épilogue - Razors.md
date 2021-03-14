@@ -27,6 +27,6 @@ La voix de Downlink la fait revenir à l’action présente : « J’ai la dal
 
 – Et encore, tu as oublié de mentionner notre propre commanditaire, anonyme, fait remarquer Skyline.
 
-– Ouais. Ça fait quoi… quatre ou cinq factions qui jouent dans ce bordel. Si ça dégénère pas à un moment ou un autre, c’est que la situation est encore plus bizarre que ce que je pensais. », explique Downlink. Et encore, aucune n’a dévoilé son objectif, réalise la solar wardner.
+– Ouais. Ça fait quoi… quatre ou cinq factions qui jouent dans ce bordel. Si ça dégénère pas à un moment ou un autre, c’est que la situation est encore plus bizarre que ce que je pensais. », explique Downlink. Et encore, aucune n’a dévoilé son objectif, réalise la Solar Wardner.
 
 « Et sinon, on y mange quoi à ton resto ? », relance le decker. Il a raison après tout : un problème à la fois.

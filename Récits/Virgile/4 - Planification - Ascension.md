@@ -17,7 +17,7 @@ Downlink annonce enfin : « Voilà m’dame ! Vos requêtes SolNet passeront 
 
 – Ensuite ? coupe la cyber-samouraï.
 
-– Une fois Downlink dans le système, tu remontes cet accès-là, indique le détective en désignant Razors. Normalement, la zone grouille d’agents robotiques, mais avec notre decker en place, ils ne te verront pas. Une fois là, tu pourras entrer incognito et atteindre l’enfant.
+– Une fois Downlink dans le système, tu remontes cet accès-là, indique le détective en désignant Razors. Normalement, la zone grouille d’agents robotiques, mais avec notre decker en place, ils ne te verront pas. Une fois-là, tu pourras entrer incognito et atteindre l’enfant.
 
 – Seule ? s’étonne Downlink.
 

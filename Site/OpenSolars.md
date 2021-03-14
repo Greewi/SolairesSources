@@ -1,18 +1,18 @@
-# Open Solars
+# OpenSolars
 
-> « Certains jours, je rêve d'avoir accès au code source de notre monde... »
+> « Certains jours, je rêve d'avoir accès au code source de notre monde… »
 > 
 > Zuko, fondatrice des cercles de jeu éponymes
 
-Tout le contenu de ce site, sauf mention contraire, est placé sous les termes de la licence [CC Attribution-Noncommercial-Share Alike 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0/). Pour autant, cela n'en ferait pas un projet open source. Le projet Open Solars est justement là pour distribuer les sources des textes et outils.
+Tout le contenu de ce site, sauf mention contraire, est placé sous les termes de la licence [CC Attribution-Noncommercial-Share Alike 4.0 International](http://creativecommons.org/licenses/by-nc-sa/4.0/). Pour autant, cela n'en ferait pas un projet open source. Le projet OpenSolars est justement là pour distribuer les sources des textes et outils.
 
 ## Un projet open source
 
-Open Solars est donc le projet open source pour Solaires. Concrètement, cela signifie :
+OpenSolars est donc le projet open source pour Solaires. Concrètement, cela signifie :
 * Les sources des textes sont disponibles sous la licence CC BY-NC-SA 4.0 ;
 * Les sources des outils de développement sont disponibles sous la licence GPL3 ;
 * Les sources de SolNet sont disponibles sous la licence GPL3.
-* Les sources du site  sont disponibles sous la licence GPL3.
+* Les sources du site sont disponibles sous la licence GPL3.
 
 Pour distribuer ces sources, et les maintenir, nous utilisons Git et le site GitHub. Ainsi vous trouverez les sources :
 * des textes sur [https://github.com/Greewi/SolairesSources](https://github.com/Greewi/SolairesSources) ;

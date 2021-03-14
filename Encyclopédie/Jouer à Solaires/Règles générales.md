@@ -8,7 +8,7 @@
 
 ## Que sont les jeux de rôles ?
 
-Les jeux de rôles forment une famille de jeux de société dans lesquels les joueurs contrôlent chacun un personnage qui évolue dans une histoire prenant place dans un univers imaginaire. L’un des joueurs doit endosser le rôle de meneur : il ne contrôle pas un personnage mais gère l’univers dans lequel les personnages évoluent et s’assure de la cohérence de l’histoire.
+Grossièrement, les jeux de rôles forment une famille de jeux de société dans laquels les joueurs contrôlent chacun un personnage qui évolue dans une histoire prenant place dans un univers imaginaire. L’un des joueurs doit endosser le rôle de meneur : il ne contrôle pas un personnage mais gère l’univers dans lequel les personnages évoluent et s’assure de la cohérence de l’histoire.
 
 Les jeux de rôles sont des jeux d’imagination et, généralement, des jeux oraux. Il n’y a pas de pions, ni de plateau… Tout le jeu se base sur l’imagination des participants : le meneur décrit une situation, puis chaque joueur l’imagine et indique ce que son personnage va tenter de faire ou de percevoir. Le meneur explique alors ce qui se produit vraiment dans l’histoire et, à nouveau, les joueurs imaginent cette nouvelle situation avant de donner les intentions et ressentis de leurs personnages. Ce cycle se répète alors jusqu’à la fin de l’histoire.
 
@@ -21,7 +21,7 @@ Les rôlistes – les gens qui font du jeu de rôles – ont au fil du temps dé
 * **joueurs** : les participants qui contrôlent un personnage ;
 * **participants** : l’ensemble des joueurs plus le meneur ;
 * **personnage joueur (PJ)** : les personnages contrôlés par les joueurs ;
-* **personnage non-joueur (PNJ)** : les personnages qui ne sont pas contrôlés par les joueurs et que, donc, le MJ gère ;
+* **personnage non-joueur (PNJ)** : les personnages qui ne sont pas contrôlés par les joueurs et que le MJ gère ;
 * **scénario** : la partie préparée de l’histoire qu’habituellement seul le meneur connaît ;
 * **D6** : un dé à six faces. Cette notation est très employée par les rôlistes qui utilisent des dés qui peuvent sembler exotiques (par exemple, des dés à vingt faces qui seraient notés D20) ;
 * **élément** : une information du personnage associée à un score allant de 0 à 3 qui sert notamment pour résoudre les actions et faire des modifications scénaristiques.
@@ -94,7 +94,7 @@ Une partie de jeu de rôles demande généralement de la préparation. Cette ét
 
 Le scénario est un document qui contient la plupart des éléments qui serviront à construire l’histoire durant la partie. Il est donc important que le meneur l’ait lu et compris avant la partie. Il peut aussi avoir choisi de l’écrire lui-même. Comme il s’agit d’une étape plutôt longue et qui ne requiert que le meneur, elle est souvent faite un autre jour avant la partie.
 
-De plus, comme le scénario contient des éléments qui composeront l’histoire, les joueurs ne veulent pas le connaître avant la partie, de la même façon que beaucoup de gens n’aiment pas qu’on leur raconte la fin d’un film qu’ils n’ont pas encore vu. Pour cette raison le meneur effectue cette étape généralement seul.
+De plus, comme le scénario contient des éléments qui composeront l’histoire, les joueurs ne veulent pas le connaître avant la partie, de la même façon que beaucoup de gens n’aiment pas qu’on leur raconte la fin d’un film qu’ils n’ont pas encore vu. C'est pour cette raison que le meneur effectue cette étape généralement seul.
 
 La création des personnages est souvent faite par tous les participants. En suivant les règles de création de personnage, chaque joueur va créer le sien. Le meneur s’assurera que les personnages correspondent à l’univers du jeu et qu’ils cadrent avec le scénario qu’il est habituellement le seul à connaître.
 
@@ -106,7 +106,7 @@ La création des personnages (ou le choix en cas de prétirés) est généraleme
 
 Le meneur lance la partie en décrivant la situation initiale. Cette description est le point de départ de l’histoire et doit permettre aux joueurs de comprendre où se trouvent leurs personnages et ce qu’ils y font. À la fin de l’introduction – qui se finit généralement lorsque le meneur demande : « Que faites-vous ? » – les joueurs vont pouvoir commencer à jouer.
 
-Par la suite, les joueurs vont – chacun leur tour sinon le meneur ne pourra pas suivre – indiquer ce qu’ils veulent que leur personnage fasse. Le meneur décrira alors les conséquences de cette action, ce qui conduira à de nouvelles situations. Notez que le *Système Féerie* n’impose pas un système de tour strict : les joueurs peuvent intervenir quand ils le souhaitent, tant qu’ils ne coupent pas la parole aux autres et les laissent jouer.
+Par la suite, les joueurs vont – chacun leur tour sinon le meneur ne pourra pas suivre – indiquer ce qu’ils veulent que leur personnage fasse. Le meneur décrira alors les conséquences de cette action, ce qui conduira à de nouvelles situations. Notez que *Solaires* n’impose pas un système de tour strict : les joueurs peuvent intervenir quand ils le souhaitent, tant qu’ils ne coupent pas la parole aux autres et les laissent jouer.
 
 Certaines actions critiques peuvent ne pas réussir. Lorsque le meneur considère qu’une action est difficile ou sensible, il peut demander au joueur d’effectuer un test de résolution pour déterminer si l’action réussit ou échoue. Vous trouverez les règles de résolution des actions plus loin dans la section qui leur est dédiée.
 
