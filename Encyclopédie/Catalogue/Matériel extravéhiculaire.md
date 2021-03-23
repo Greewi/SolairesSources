@@ -30,17 +30,17 @@ Cette adhérence fonctionne à volonté, aussi bien dans le vide que sous l’ea
 >> * Légalité : aucune restriction ;
 >> * Prix : négligeable.
 
-## Jet-packs
+## Jetpacks
 
 Se déplacer en apesanteur demande de pouvoir se raccrocher à quelque chose et c’est d’ailleurs la raison pour laquelle les stations spatiales et la coque des vaisseaux sont couvertes de rambardes et poignées.
 
-Si un astronaute se retrouve sans prise, il dérivera jusqu’à ce qu’il heurte quelque chose et l’espace est particulièrement vide… Pour palier à ce problème, des dispositifs de propulsions qui exploitent les forces de réaction, permettent de se déplacer. Si à l’échelle d’un vaisseau on parle de réacteur et de système de contrôle par réaction, pour spationaute, on se contente d’appeler ces appareils des jet-packs.
+Si un astronaute se retrouve sans prise, il dérivera jusqu’à ce qu’il heurte quelque chose et l’espace est particulièrement vide… Pour palier à ce problème, des dispositifs de propulsions qui exploitent les forces de réaction, permettent de se déplacer. Si à l’échelle d’un vaisseau on parle de réacteur et de système de contrôle par réaction, pour spationaute, on se contente d’appeler ces appareils des jetpacks.
 
-Grossièrement, il existe deux sortes de jet-packs : les dispositifs de sécurité qui utilisent des gaz comprimés avec une très faible autonomie, et les jet-packs des commandos spatiaux avec leurs propulseurs ioniques et une autonomie conçue pour tenir une mission d’assaut.
+Grossièrement, il existe deux sortes de jetpacks : les dispositifs de sécurité qui utilisent des gaz comprimés avec une très faible autonomie, et les jetpacks des commandos spatiaux avec leurs propulseurs ioniques et une autonomie conçue pour tenir une mission d’assaut.
 
 Ces deux modèles restent des appareils encombrants comportant des réservoirs et des tuyères orientables qui éjectent des gaz ou du plasma pour permettre la propulsion. La manœuvrabilité est habituellement très mauvaise, même pour les modèles des commandos d’assaut, mais les modèles les plus avancées disposent d’une interface assistée par une IA pour simplifier leur utilisation.
 
->> ### Jet-packs
+>> ### Jetpacks
 >> * Accès : modèles de sécurité sur la plupart des combinaisons spatiale extravéhiculaire, modèles lourd sur les armures des commandos spatiaux ;
 >> * Légalité : usage en intérieur interdit ;
 >> * Prix : important pour un particulier, négligeable pour une société ou une corporation.

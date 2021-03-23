@@ -9,24 +9,24 @@
 * **Nom administratif** : Tracer
 * **Pronom** : Iel (They)
 * **Nature d’esprit** : IA Ley-Wan
-* **Enveloppe usuelle** : Replicant
+* **Enveloppe usuelle** : Réplicant
 * **Profession** : Détective privé
 * **Affiliations** : Suan, Indépendant
 
 ## Description
 
-* **Description physique** : votre enveloppe est celle d’une personne androgyne typée asiatique avec une solide carrure. Votre visage anguleux porte deux yeux noirs et vos cheveux sont habituellement coiffés en catogan. Vous arborez une barbe courte tout aussi sombre que vos cheveux. Ce corps organique porte de lourdes modifications notamment des muscles renforcés et un métabolisme optimisé pour l’endurance. Votre cerveau possède aussi un link sur wetware. Et vous portez un implant psi.
+* **Description physique** : votre enveloppe est celle d’une personne androgyne typée asiatique avec une solide carrure. Votre visage anguleux porte deux yeux noirs et vos cheveux sont habituellement coiffés en catogan. Vous arborez une barbe courte tout aussi sombre que vos cheveux. Ce corps organique porte de lourdes modifications, notamment des muscles renforcés et un métabolisme optimisé pour l’endurance. Votre cerveau possède aussi un link sur wetware et vous portez un implant psi.
 * **Possessions** : pour votre travail, vous ne vous séparez jamais de votre arme shock compacte, ni de votre kit d’intrusion camouflé dans votre ceinture. Votre link est chargé d’un logiciel de lecture d’intention et d’un logiciel de reconstitution.
 * **Avatar** : votre avatar est identique à votre enveloppe.
 * **Tags SolNet** : « Tracer », « Iel », « Détective privé » (Retiré pendant les missions), informations de contact.
 
 ## Comportement
 
-* **Caractère** : vous êtes est observateur, à l’écoute et septique.
+* **Caractère** : vous êtes observateur, à l’écoute et sceptique.
 * **Méthodes** : vous n’hésitez pas à employer des méthodes illégales dès lors que vous pensez tenir une piste. La violence reste une option que vous préférez éviter.
 * **Objectifs** : vous voulez vous faire un nom dans le système solaire.
 * **Motivation** : vous aimez être utile, faire le jour sur la vérité.
-* **Opinions** : pur produit de la technologie, vous remettez en question les méthodes de naissance biologique, considérant qu'il est ridicule de compter sur le hasard maintenant que d'autres méthodes existent. Au niveau politique, vous considérez que chaque camps essaiera toujours de tirer la couverture à soi et qu'il ne faut donc rester méfiant face aux politiciens. Vous considérez les religions comme nuisibles pour l'avancement des solaires.
+* **Opinions** : pur produit de la technologie, vous remettez en question les méthodes de naissance biologique, considérant qu'il est ridicule de compter sur le hasard maintenant que d'autres méthodes existent. Au niveau politique, vous considérez que chaque camp essaiera toujours de tirer la couverture à soi et qu'il faut donc rester méfiant face aux politiciens. Vous considérez les religions comme nuisibles pour l'avancement des solaires.
 
 ## Histoire
 
@@ -42,14 +42,14 @@
 * Solide carrure (T) : 1
 * Observateur (P) : 1
 * À l’écoute (P) : 1
-* Septique (P) : 2
+* Sceptique (P) : 2
 * Méfiant envers les politiques (P) : 1
+* Arme shock compacte (E) : 1
+* Kit d’intrusion camouflé (E) : 2
 * Implant psi (Information) (M) : 2
 * Muscles renforcés (M) : 1
 * Métabolisme optimisé pour l’endurance (M) : 1
 * Link sur wetware (M) : 1
-* Arme shock compacte (E) : 1
-* Kit d’intrusion camouflé (E) : 2
 * Logiciel de lecture d’intention (L) : 2
 * Logiciel de reconstitution (L) : 2
 * Vranberg-Lytan (R) : 1
@@ -58,14 +58,15 @@
 * Services d’enquête interne de la Vranberg-Lytan (R) : 1
 
 ## Notes sur l'implant psi
+## CHANGER TOUT CA CAR INFORMATIONS GÉNÉRIQUES
 
-Ensemble de pouvoir de Tracer : Information.
+Ensemble de pouvoirs de Tracer : Information.
 
 Capacités :
 * Lire les informations en mémoire vive ou les pensées superficielles d'un être organique ou cybernétique. Si le dispositif crypte sa mémoire ou manifeste de la méfiance envers le psion, cette lecture devient impossible.
 * Occulter temporairement la présence d'un objet. L'univers entier agira sans lui prêter attention, comme s'il n'existait pas. Si l'objet ou le psion manifeste volontairement cette présence, l'effet cesse immédiatement.
 * Altérer temporairement l'apparence perceptuelle d'un objet pour le faire ressembler à un autre.
-* Envoyer un message sur l'un des “sens” de l'être mais ce dernier doit quand même être coopératif.
+* Envoyer un message sur l'un des “sens” d'un être mais ce dernier doit quand même être coopératif.
 * Mémoriser des informations ou effectuer des calculs très rapidement.
 
 Modes d'échec :
@@ -87,9 +88,9 @@ Chaque ensemble de pouvoir peut produire des effets surnaturels que ce soit modi
 
 Pour utiliser de telles capacités, le psion doit commencer par obtenir la perception l’objet qu’il souhaite altérer parmi les sensations exotiques de son implant. S’il se concentre sur le mauvais objet, les conséquences pourraient être très différentes de ce qu’il attendait. Par exemple, la dématérialisation de la porte de l’écoutille d’un vaisseau serait un événement particulièrement dramatique.
 
-Une fois l’objet identifié, le psion peut se concentrer dessus et l’altérer en fonction du pouvoir qu’il utilise. L’utilisation de la capacité demande un grand effort de concentration et peut s’avérer complexe. Interrogés sur cette opération, la plupart des psions expliquent que l’activation de leur pouvoir ressemble à placer avec une incroyable précision quelque chose de très glissant, comme essayer de pousser un aimant avec un autre en évitant à tout pris que l’un des deux se retourne et se colle à l’autre.
+Une fois l’objet identifié, le psion peut se concentrer dessus et l’altérer en fonction du pouvoir qu’il utilise. L’utilisation de la capacité demande un grand effort de concentration et peut s’avérer complexe. Interrogés sur cette opération, la plupart des psions expliquent que l’activation de leur pouvoir ressemble à placer avec une incroyable précision quelque chose de très glissant, comme essayer de pousser un aimant avec un autre en évitant à tout prix que l’un des deux se retourne et se colle à l’autre.
 
-Une fois activé, un psion peut maintenir un pouvoir autant de temps qu’il le souhaite, pourvu qu’il n’essaie pas d’utiliser un autre pouvoir en même temps et qu’il reste conscient. Ces pouvoirs violent les lois connues de la physique durant toute la durée du pouvoir. Lorsque le pouvoir est relâché, les lois s’appliquent de nouveau. Ainsi un objet dématérialisé retrouve sa consistance, un portail se referme, etc. Les alérations qui ne sont pas en conflit avec les lois de la physique perdurent : ainsi un objet qui aurait été déformé ou déplacé ne retrouvent pas leur forme ou leur position initiale.
+Une fois activé, un psion peut maintenir un pouvoir autant de temps qu’il le souhaite, pourvu qu’il n’essaie pas d’utiliser un autre pouvoir en même temps et qu’il reste conscient. Ces pouvoirs violent les lois connues de la physique durant toute la durée du pouvoir. Lorsque le pouvoir est relâché, les lois s’appliquent de nouveau. Ainsi un objet dématérialisé retrouve sa consistance, un portail se referme, etc. Les altérations qui ne sont pas en conflit avec les lois de la physique perdurent : ainsi un objet qui aurait été déformé ou déplacé ne retrouvent pas leur forme ou leur position initiale.
 
 ## Surcharge et perte de contrôle
 
