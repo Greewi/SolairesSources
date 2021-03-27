@@ -2,7 +2,7 @@
 
 > « Avec tous nos gadgets et cette technologie, omniprésente, ça oui, on peut le dire : on forme une sacrée bande d’assistés. »
 >
-> Sarah Terlin, idôle.
+> Sarah Terlin, idole.
 
 ## Links
 
@@ -21,9 +21,9 @@ Pour accéder à la réalité augmentée, il est nécessaire de disposer d’un 
 
 L’ajout d’information dans l’environnement n’est pas uniquement fait via la réalité augmentée. Certaines salles ou équipement emploient aussi des foglets ou des surfaces holographiques pour matérialiser des éléments virtuels comme des interfaces ou des avatars.
 
-Les surfaces holographiques ont complètement remplacé les écrans. Elles permettent en effet d’afficher de l’information en trois dimensions, tant que ce qui est affiché ne sort par du cadre. Souvent accompagnés d’émetteurs à ultrasons pour fournir un retour haptique, ce sont, après la réalité augmentée, les dispositifs d’interface les plus utilisés. Si les surfaces holographiques ont remplacé les anciens écrans, on les utilise aussi massivement pour servir de décoration dynamique, sur les plafonds, murs et parfois même les portes et sols.
+Les surfaces holographiques ont complètement remplacé les écrans. Elles permettent en effet d’afficher de l’information en trois dimensions, tant que ce qui est affiché ne sort pas du cadre. Souvent accompagnés d’émetteurs à ultrasons pour fournir un retour haptique, ce sont, après la réalité augmentée, les dispositifs d’interface les plus utilisés. Si les surfaces holographiques ont remplacé les anciens écrans, on les utilise aussi massivement pour servir de décoration dynamique, sur les plafonds, murs et parfois même les portes et sols.
 
-Les foglets sont une méthode d’importer l’espace virtuel dans la réalité plus récente. Les solaires utilisent ce terme pour parler des brouillards utilitaires, mais il désigne en réalité ses composants : des micro-robots qui s’assemblent et absorbant et émettant de la lumière pour produire des sortes d’hologrammes physiques. Bien qu’ils soient constitués de matière, la densité d’un brouillard utilitaire est tellement faible qu’il ne peut pas produire de retour haptique perceptible. On les utilise pour matérialiser des éléments purement virtuels dans l’espace physique : projection d’avatar, présentation de données au public, etc. Mais comme ils sont en directe compétition avec la réalité augmentée, ils restent assez peu utilisés.
+Les foglets sont une méthode d’importer l’espace virtuel dans la réalité plus récente. Les solaires utilisent ce terme pour parler des brouillards utilitaires, mais il désigne en réalité ses composants : des microrobots qui s’assemblent et absorbant et émettant de la lumière pour produire des sortes d’hologrammes physiques. Bien qu’ils soient constitués de matière, la densité d’un brouillard utilitaire est tellement faible qu’il ne peut pas produire de retour haptique perceptible. On les utilise pour matérialiser des éléments purement virtuels dans l’espace physique : projection d’avatar, présentation de données au public, etc. Mais comme ils sont en directe compétition avec la réalité augmentée, ils restent assez peu utilisés.
 
 >> ### Surfaces holographiques
 >> * Accès : inclus dans tous les appareils nécessitant une interaction ;
@@ -67,7 +67,7 @@ Bien que la production des synthétiseurs puisse normalement couvrir pratiquemen
 
 ## Vêtements mimétiques
 
-Les vêtements mimétiques sont des vêtements capables de changer de forme et de couleur à la demande. Ils sont composés de millions de micro-robots semblable à de minuscules écailles, que les solaires appellent « silkware ».
+Les vêtements mimétiques sont des vêtements capables de changer de forme et de couleur à la demande. Ils sont composés de millions de microrobots semblable à de minuscules écailles, que les solaires appellent « silkware ».
 
 L’éventail des possibilités couvre pratiquement tous les vêtements existants, à l’exception des fourrures qui, pour le coup, ne peuvent pas être vraies. Toutefois, en fonction de la nature du tissu à répliquer, on n’emploie pas les mêmes silkware. De la même façon, la quantité de ces robots n’est pas la même qu’on souhaite une parka ou un bikini. Malgré ces limitations, les solaires ont accès à un choix extraordinairement riche et la nation de garde-robe virtuelle prend tout son sens.
 

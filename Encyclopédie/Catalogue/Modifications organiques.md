@@ -56,7 +56,7 @@ Les gains procurés par cette méthode restent mineurs et les chiffrages indique
 
 ## Muscles améliorés
 
-S’il est possible d’améliorer sa force en augmentant sa masse musculaire, il est aussi possible de profiter des technologies organiques pour améliorer directement les tissus musculaires. Plusieurs augmentations existent : les micro-fibres de maintien qui évitent les déchirements et élongations et les altérations des fibres musculaires qui augmentent la puissance. L’implantation de ces modifications est souvent accompagnée de l’amélioration des tendons et des os pour équilibrer la solidité de ces derniers avec l’accroissement de la puissance musculaire.
+S’il est possible d’améliorer sa force en augmentant sa masse musculaire, il est aussi possible de profiter des technologies organiques pour améliorer directement les tissus musculaires. Plusieurs augmentations existent : les microfibres de maintien qui évitent les déchirements et élongations et les altérations des fibres musculaires qui augmentent la puissance. L’implantation de ces modifications est souvent accompagnée de l’amélioration des tendons et des os pour équilibrer la solidité de ces derniers avec l’accroissement de la puissance musculaire.
 
 Les muscles améliorés permettent une augmentation de la force d’environ 50 % ce qui reste bien en retrait des améliorations cybernétiques correspondantes.
 

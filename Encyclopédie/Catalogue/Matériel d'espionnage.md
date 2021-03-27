@@ -36,7 +36,7 @@ Il est toutefois nécessaire d’apporter physiquement ces émetteurs ce qui en 
 
 La plupart des appareils sont verrouillés par des systèmes de sécurité physique pilotés électroniquement et ces derniers attendent un certificat attestant d’une accréditation ou d’un poste particulier. Toutefois, les agents clandestins et le personnel de sécurité ont souvent besoin de contourner ces protections et n’ont pas toujours la possibilité de se procurer les clés nécessaires.
 
-Pour forcer leur passage, ces agents utilisent des kits d’intrusion, également appelé décodeurs. Assistés d’IA spécialisées, ces appareils utilisent des micro-robots pour pirater physiquement le circuit, connectant des éléments du circuit pour contourner le système de vérification. L’emploi des kits d’intrusion n’est pas invisible et les nanorobots injectés ne sont pas réutilisables, ni récupérables. Ils peuvent alors servir de preuve de l’intrusion si l’appareil piraté est inspecté.
+Pour forcer leur passage, ces agents utilisent des kits d’intrusion, également appelé décodeurs. Assistés d’IA spécialisées, ces appareils utilisent des microrobots pour pirater physiquement le circuit, connectant des éléments du circuit pour contourner le système de vérification. L’emploi des kits d’intrusion n’est pas invisible et les nanorobots injectés ne sont pas réutilisables, ni récupérables. Ils peuvent alors servir de preuve de l’intrusion si l’appareil piraté est inspecté.
 
 >> ### Kits d’intrusion
 >> * Accès : matériels réservés aux agents de sécurité ;

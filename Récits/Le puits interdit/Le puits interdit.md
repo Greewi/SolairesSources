@@ -1792,7 +1792,7 @@ Le repas terminé, les solaires sont conduites par le directeur en personne au v
 
 La porte de la voiture se referme et le véhicule sort du parking sous-terrain. Tsadir jette un œil en arrière, mais le directeur est déjà reparti à son bureau : un autre signe que la présence des solaires sur la planète bleue n'est plus souhaitée.
 
-Dans un silence profond, la voiture fait route au nord et arrive jusqu'à l'aéroport de Luton. Cet aéroport avait aussi été agrandi par Waylander qui y a installé un pas de tir pour les vols suborbitaux encore utilisés aujourd'hui. Quand l'ONU avait dégagé les corporations scélérates de la Terre, l'installation fur reprise par Sol6. Depuis, cette ancienne corporation, redevenue une simple, mais puissante, société terrienne au début de la guerre, gère l'aéroport et les vols intercontinentaux qui partent du Royaume-Uni.
+Dans un silence profond, la voiture fait route au nord et arrive jusqu'à l'aéroport de Luton. Cet aéroport avait aussi été agrandi par Waylanders qui y a installé un pas de tir pour les vols suborbitaux encore utilisés aujourd'hui. Quand l'ONU avait dégagé les corporations scélérates de la Terre, l'installation fur reprise par Sol6. Depuis, cette ancienne corporation, redevenue une simple, mais puissante, société terrienne au début de la guerre, gère l'aéroport et les vols intercontinentaux qui partent du Royaume-Uni.
 
 Descendant du véhicule, les solaires sont accueillies par des hôtes de Sol6 qui les guident vers le terminal de la navette. Ces hommes les font passer par les accès réservés au personnel : ils ne souhaitent pas avoir à expliquer à la sécurité les raisons de la présence des deux solaires.
 

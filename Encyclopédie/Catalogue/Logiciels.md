@@ -24,7 +24,7 @@ Il existe une catégorie de logiciel particuliers : les progiciels. Ces logicie
 
 ## Agents de recherche
 
-Pilier de la recherche d’information sur SolNet, les agents de recherche sont les logiciels les plus utilisés par les solaires. Par sa nature distribuée, SolNet ne bénéficie par de moteur de recherche centralisé comme on pouvait en trouver sur Terre. À la place, les agents de recherches sont des logiciels qui explorent le graphe du réseau, en sautant de nœud en nœud. Grâce aux métadonnées des caches et leurs heuristiques de recherche, ils sont capables de retrouver très efficacement les informations publiques sur le grand réseau interplanétaire.
+Pilier de la recherche d’information sur SolNet, les agents de recherche sont les logiciels les plus utilisés par les solaires. Par sa nature distribuée, SolNet ne bénéficie pas de moteur de recherche centralisé comme on pouvait en trouver sur Terre. À la place, les agents de recherches sont des logiciels qui explorent le graphe du réseau, en sautant de nœud en nœud. Grâce aux métadonnées des caches et leurs heuristiques de recherche, ils sont capables de retrouver très efficacement les informations publiques sur le grand réseau interplanétaire.
 
 Durant leur exploration, les agents de recherche peuvent être conduits à explorer le réseau des autres planètes parfois à plusieurs dizaines de minutes lumière de leur point de départ. Pour gagner en efficacité, ils sont aussi amenés à se dupliquer en grand nombre. Toutefois, par précaution, les agents de recherche possèdent des mécanismes d’autodestruction pour éviter la saturation du réseau. Les agents défectueux, ou malicieux, qui ne respectent pas ces règles sont traqués et détruits par des logiciels similaires. Les solaires qui abusent du réseau sont systématiquement poursuivis par les corporations.
 
@@ -122,10 +122,10 @@ Chaque appareil, aussi complexe soit-il, doit pouvoir être réparé par le prem
 
 En plus d’offrir les procédures et les informations techniques, ces logiciels sont aussi capables d’organiser et de piloter l’enveloppe de l’utilisateur pour effectuer les gestes des opérations de maintenance.
 
-Entre les mains des robots de maintenance standard, ces logiciels très standardisés ne nécessitent que quelques secondes pour être calibrés. Toutefois, il n’est pas rare que le personnel en charge de la maintenance s’interface aussi avec ces logiciels pour pouvoir suppléer aux agents habituels, notamment en cas de problème grave. Pour eux, la calibration retrouve des durées plus habituelles et peu prendre plusieurs minutes. Certains agents sont tentés de passer cette étape, mais son non-respect peut entraîner des dégâts et des blessures potentiellement graves.
+Entre les mains des robots de maintenance standard, ces logiciels très standardisés ne nécessitent que quelques secondes pour être calibrés. Toutefois, il n’est pas rare que le personnel en charge de la maintenance s’interface aussi avec ces logiciels pour pouvoir suppléer aux agents habituels, notamment en cas de problème grave. Pour eux, la calibration retrouve des durées plus habituelles et peut prendre plusieurs minutes. Certains agents sont tentés de passer cette étape, mais son non-respect peut entraîner des dégâts et des blessures potentiellement graves.
 
 >> ### Logiciels de maintenance
->> * Accès : fournis avec pratiquement tous les appareils, duplicata disponibles auprès des fabricants de matériel ;
+>> * Accès : fournis avec pratiquement tous les appareils, duplicatas disponibles auprès des fabricants de matériel ;
 >> * Légalité : aucune restriction ;
 >> * Prix : négligeable ;
 >> * Apprentissage : quelques minutes d’activité.
@@ -155,7 +155,7 @@ Les logiciels de piratages ne peuvent pas être exécutés sur un processeur cla
 Chaque attaque demande un apprentissage du serveur à attaquer en observant son activité. La durée peut varier de quelques secondes pour les serveurs les plus actifs à quelques heures pour les moins utilisés.
 
 >> ### Logiciels de piratage
->> * Accès : matériel réservé aux agents de cyber-sécurité ;
+>> * Accès : matériel réservé aux agents de cybersécurité ;
 >> * Légalité : accréditation de cyber sécurité pour la possession et l’opération ;
 >> * Prix : important pour un particulier, négligeable pour une corporation ou une société.
 >> * Apprentissage : de quelques secondes à plusieurs heures.
@@ -174,9 +174,9 @@ Les glaces ne possèdent pas de période d’apprentissage définie : elles s�
 >> * Prix : négligeable.
 >> * Apprentissage : continu.
 
-## Brises glaces
+## Brises-glaces
 
-Les glaces sont présentées comme l’une des solutions les plus efficaces pour protéger les nœuds critiques de SolNet. Mais la guerre électronique a rapidement trouvé la parade : les brises glaces, d’autres IA fortes spécialisées dans l’attaque et la désactivation temporaire des glaces. Ces brises glaces sont, heureusement pour les services de sécurité informatique, difficile à concevoir et très cher.
+Les glaces sont présentées comme l’une des solutions les plus efficaces pour protéger les nœuds critiques de SolNet. Mais la guerre électronique a rapidement trouvé la parade : les brises-glaces, d’autres IA fortes spécialisées dans l’attaque et la désactivation temporaire des glaces. Ces brises-glaces sont, heureusement pour les services de sécurité informatique, difficile à concevoir et très cher.
 
 Ces logiciels disposent de deux méthodes pour passer une glace : tromper sa vigilance ou la neutraliser.
 
@@ -184,11 +184,11 @@ La première méthode est la plus furtive, mais elle ne permet que l’envoi d�
 
 La seconde méthode est la plus offensive et aussi discrète que d’ouvrir le feu dans un commissariat. Le brise-glace ouvre une brèche directement dans la glace pour la neutraliser déclenchant au passage toutes les sécurités qui lui sont attachées : généralement cela prévient le propriétaire du nœud et commande l’extinction du serveur. Si la glace a survécu, elle peut être en mesure de déclencher une contre-attaque si le serveur a été militarisé. En revanche, cette méthode demande un apprentissage très court de l’ordre de quelques secondes.
 
-Certains brise-glaces ont été conçus pour un type de glace très précis, voire celle d’un serveur en particulier. Ils sont souvent considérés comme des logiciels à usage unique : une fois la glace remise de l’attaque, elle aura évoluée et sera insensible à ces logiciels dédiés. De façon générale, une fois une glace rétablie, il est nécessaire pour le brise-glace de recommencer la totalité de l’apprentissage.
+Certains brise-glaces ont été conçus pour un type de glace très précis, voire celle d’un serveur en particulier. Ils sont souvent considérés comme des logiciels à usage unique : une fois la glace remise de l’attaque, elle aura évolué et sera insensible à ces logiciels dédiés. De façon générale, une fois une glace rétablie, il est nécessaire pour le brise-glace de recommencer la totalité de l’apprentissage.
 
 Comme les logiciels de piratages, les brise-glaces ne peuvent pas être exécutés sur un processeur classique et requièrent un processeur quantique qu’on retrouve dans la plupart des consoles de décryptages et certains cerveaux cybernétiques.
 
->> ### Brise glace
+>> ### Brise-glace
 >> * Accès : matériel réservé aux agents de cybersécurité ;
 >> * Légalité : accréditation de cybersécurité pour la possession et l’opération ;
 >> * Prix : important pour un particulier, négligeable pour une corporation ou une société.

@@ -86,7 +86,7 @@ Résultat en fonction des dés conservés :
 
 Notez que le meneur peut conditionner l’apparition d’effets secondaires positifs ou négatifs en fonction du nombre de dés conservés, comme il l’a indiqué lors de la détermination de l’action.
 
-De plus, si vous aviez indiqué un état handicapant au moment de choisir les éléments, un effet secondaire négatif sera ajouté si vous n’avez pas conservé strictement plus de dés que le score de cet état. Que l’action soit réussit ou non, par ailleurs.
+De plus, si vous aviez indiqué un état handicapant au moment de choisir les éléments, un effet secondaire négatif sera ajouté si vous n’avez pas conservé strictement plus de dés que le score de cet état. Que l’action soit réussie ou non, par ailleurs.
 
 >> ### Évaluer ses chances de réussite
 >>

@@ -9,7 +9,7 @@ Le réseau Sentinelles est un réseau informel dont le nom lui-même a été don
 >> * **Fondation** : Inconnu
 >> * **Puissance** : Moyenne puissance
 
-Les origines du réseau sentinelles sont inconnues et ses premières ingérences sont très certainement passées inaperçues. Quelques personnes retracent des événements datant d’avant 2210, mais les arguments qu’ils présentent sont souvent remis en question. Le réseau Sentinelles ne s’est vraiment fait remarqué que ces dernières années, notamment via les actions de leurs agents réguliers les plus assidus. Les rumeurs veulent qu’une enquête des Solar Wardners soit en cours, mais il semble difficile de penser qu’ils parviendront à obtenir des informations, alors que même les corporations ne semblent tenir aucune piste.
+Les origines du réseau sentinelles sont inconnues et ses premières ingérences sont très certainement passées inaperçues. Quelques personnes retracent des événements datant d’avant 2210, mais les arguments qu’ils présentent sont souvent remis en question. Le réseau Sentinelles ne s’est vraiment fait remarquer que ces dernières années, notamment via les actions de leurs agents réguliers les plus assidus. Les rumeurs veulent qu’une enquête des Solar Wardners soit en cours, mais il semble difficile de penser qu’ils parviendront à obtenir des informations, alors que même les corporations ne semblent tenir aucune piste.
 
 D’une façon qui échappe encore aux autorités, le réseau Sentinelles semble prévoir de nombreux événements à l’avance et possède des moyens d’obtenir des informations confidentielles sans passer par les méthodes de renseignement habituelles. Ces deux seuls faits inquiètent grandement les corporations qui pourraient se retrouver face à un adversaire fort.
 

@@ -8,17 +8,17 @@
 >>
 >> La plupart des grenades peuvent être indifféremment utilisées comme mines ou bombes. En plus de leur usage classique, elles peuvent être déclenchées par le passage dans un faisceau, avec un détonateur à distance, par les vibrations engendrées par des pas ou plus simplement avec une minuterie.
 
-## Armes shock
+## Armes shocks
 
 Politiquement, pouvoir neutraliser sans tuer est longtemps resté un enjeu difficilement réalisable : la plupart des armes incapacitantes sont en effet plus mortelles qu’espéré. Pourtant les situations où elles sont nécessaires dépassent la simple anecdote.
 
-Relativement récente, les armes shock sont la dernière itération et s’avèrent, pour l’instant, la meilleure réponse au problème. Déclinées en arme de poing, arme d’épaule et même grenades, ces armes tirent un faisceau électromagnétique destiné à tétaniser une cible à longue portée. Ces armes très gourmandes en énergie tirent l’énergie nécessaire d’une batterie quantique qui leur permet habituellement une trentaine de tirs. Les grenades shock sont par ailleurs réutilisables et rechargeable.
+Relativement récente, les armes shocks sont la dernière itération et s’avèrent, pour l’instant, la meilleure réponse au problème. Déclinées en arme de poing, arme d’épaule et même grenades, ces armes tirent un faisceau électromagnétique destiné à tétaniser une cible à longue portée. Ces armes très gourmandes en énergie tirent l’énergie nécessaire d’une batterie quantique qui leur permet habituellement une trentaine de tirs. Les grenades shocks sont par ailleurs réutilisables et rechargeable.
 
 Les effets de ces armes varient selon que la cible soit organique ou cybernétique : sur les premières, la courte tétanie met la cible KO quelques minutes, laissant le temps aux agents de la sécuriser ; sur les secondes, la décharge provoque une réinitialisation des systèmes et offre une fenêtre d’une ou deux minutes pour intervenir.
 
 Ces armes prennent des formes proches d’autres armes conventionnelles mais pour des besoins de signalisation, elles laissent visible le tube de résonance, qui occupe toute la longueur de l’arme. Celui-ci, luminescent, dans un coloris bleu/violet, peut ainsi être facilement identifiées par les forces de sécurité. Il s’agit d’ailleurs des seules armes autorisées sur Mars aux civils travaillant dans la sécurité.
 
->> ### Armes shock
+>> ### Armes shocks
 >> * Accès : en vente auprès des forces de sécurité dans les colonies ;
 >> * Légalité : accréditation de sécurité pour la possession et l’opération ;
 >> * Prix : négligeable.
@@ -29,7 +29,7 @@ Les munitions des armes conventionnelles posent plusieurs problèmes pour un usa
 
 Les pulseurs sont des canons électriques qui propulse leurs munitions sur un rail à l’aide des forces électromagnétiques. À quelques rares exceptions, notamment pour les plus gros calibres, ces armes assemblent directement leurs munitions à partir de nanite standard qui est ainsi devenu une forme de munition universelle. Les armes les plus avancées y intègrent des micros-robots pour fabriquer des « munitions intelligentes », capables de corriger leur trajectoire en vol ou de porter une charge explosive, chimique ou même IEM.
 
-Dans les colonies les pulseurs ont complètement remplacé les armes conventionnelles et sont déclinés dans tous les formats : des l’armes de poing aux canons anti-véhicule en passant par les armes à dispersions. Même les canons de pointe de défense des vaisseaux de combat utilisent cette technologie.
+Dans les colonies les pulseurs ont complètement remplacé les armes conventionnelles et sont déclinés dans tous les formats : des armes de poing aux canons anti-véhicule en passant par les armes à dispersions. Même les canons de pointe de défense des vaisseaux de combat utilisent cette technologie.
 
 Pour des raisons de sécurité, une classification sommaire de la puissance de ces armes a été établie de façon universelle : sont considérées comme légères les armes qui ne sont pas capables de faire passer leurs munitions à travers une cloison standard. Les autres sont classées en lourdes. Cette distinction détermine très largement le matériel autorisé et interdit dans les différentes installations des colonies.
 
@@ -90,7 +90,7 @@ Entièrement réutilisable et rechargeables, ces grenades sont très utilisées 
 
 Les lames actives, souvent appelées « lames à mono-filament » ou « lames mono-moléculaire » en référence à des armes de la science-fiction de la fin du XXe et du début du XXIe, sont des lames aiguisées à la perfection. Leur fil est en permanence entretenu par un nano-assembleur intégré. Un revêtement nano-structuré améliore considérablement la progression de ces armes dans les matériaux qu’elles découpent. Ainsi, les lames actives sont capables de traverser la plupart des protections personnelles et même de découper la plupart des métaux.
 
-Malgré leur efficacité, ces armes restent minoritaires et la plupart des forces armées et le personnel de sécurité leur préfèrent les armes balistiques comme les pulseurs ou les armes shocks. Seuls les cyber-samouraïs en ont fait leur armes principales. L’environnement clos et les courtes distances dans les installations des colonies, donnent à ces combattants lourdement augmentés un avantage significatif.
+Malgré leur efficacité, ces armes restent minoritaires et la plupart des forces armées et le personnel de sécurité leur préfèrent les armes balistiques comme les pulseurs ou les armes shocks. Seuls les cyber-samouraïs en ont fait leurs armes principales. L’environnement clos et les courtes distances dans les installations des colonies, donnent à ces combattants lourdement augmentés un avantage significatif.
 
 Ces armes, convenablement employées, ont aussi bien moins de chance de provoquer une dépressurisation ou des dégâts structurels qu’une rafale de pulseur.
 
@@ -118,7 +118,7 @@ Les armures lourdes ne sont plus véritablement de simples armures. Capable d’
 
 En fait, un utilisateur normalement constitué ne pourrait tout simplement pas agir avec une telle carapace sur le dos. Heureusement, ces armures sont pourvues d’un grand nombre de moteurs et de vérins permettant à l’ensemble de se mouvoir. Certaines personnes ont parfois même plus l’impression de piloter ces armures que de les porter.
 
-Beaucoup de ces armures sont naturellement prévues pour les sorties extra-véhiculaires et sont équipées d’un jet-pack ainsi que d’un système de survie autonome.
+Beaucoup de ces armures sont naturellement prévues pour les sorties extravéhiculaires et sont équipées d’un jet-pack ainsi que d’un système de survie autonome.
 
 >> ### Armures lourdes
 >> * Accès : en vente auprès des forces de sécurité dans les colonies ;
@@ -127,7 +127,7 @@ Beaucoup de ces armures sont naturellement prévues pour les sorties extra-véhi
 
 ## Blindages intelligents
 
-La course entre l’armement et les protections a très largement tourné à la faveur du premier. La puissance actuelle des armes est telles que la plupart des protections sont devenues obsolètes. Lors des affrontements impliquant des pulseurs lourds, la stratégie consistant à essayer d’arrêter les projectiles n’est simplement plus viable et empiler des couches de blindage n’est pas une solution.
+La course entre l’armement et les protections a très largement tourné à la faveur du premier. La puissance actuelle des armes est telle que la plupart des protections sont devenues obsolètes. Lors des affrontements impliquant des pulseurs lourds, la stratégie consistant à essayer d’arrêter les projectiles n’est simplement plus viable et empiler des couches de blindage n’est pas une solution.
 
 Les blindages intelligents ont changé le paradigme en anticipant les caractéristiques d’un projectile et en s’y adaptant : si le projectile n’a pas assez d’énergie pour franchir le blindage, celui-ci va simplement l’arrêter. Si la puissance de l’arme est trop grande, le blindage ne cherche plus à stopper la munition mais essaie de la dévier sur une trajectoire qui causera le moins de dégâts possible, évitant de préférence les organes vitaux. Il essaiera aussi d’absorber au maximum l’effet de choc tout en s’assurant que la munition ne restera pas dans le corps de son porteur.
 

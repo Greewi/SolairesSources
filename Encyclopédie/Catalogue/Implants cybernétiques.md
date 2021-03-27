@@ -6,7 +6,7 @@
 
 Les modifications cybernétiques apportent des améliorations ou de nouvelles fonctions aux enveloppes cybernétiques, hyper-hybrides, et organiques. Ce faisant, ces dernières entrent alors dans la catégorie des cyborgs.
 
-Tout le matériel transportable du catalogue est susceptible d’être intégré sous forme d’implant, nous ne présentons ici que les modifications exclusives. Notez bien qu’on intègre pas le matériel ordinaire directement mais seulement des versions sous forme d’implants ou de modifications dédiés, pour les enveloppes cybernétiques.
+Tout le matériel transportable du catalogue est susceptible d’être intégré sous forme d’implant, nous ne présentons ici que les modifications d'enveloppes. Notez bien que l’on intègre pas le matériel ordinaire directement mais seulement des versions sous forme d’implants ou de modifications dédiés, pour les enveloppes cybernétiques.
 
 ## Armes intégrées
 
@@ -15,15 +15,15 @@ Ce sont les mercenaires qui ont utilisé en premier les implants cybernétiques 
 L’intérêt principal de ces armes est leur camouflage, intégrées au squelette ou dans d’autres implants de façon à lui ressembler, elles se révèlent difficiles à repérer via les portiques de sécurité. Il est alors courant de trouver des lames rétractables, des pulseurs camouflés…
 
 >> ### Armes intégrées
->> * Accès : intégrées dans de nombreuses enveloppes de sécurité, installée par la majorité des infirmeries ;
+>> * Accès : intégrées dans de nombreuses enveloppes de sécurité, installées par la majorité des infirmeries ;
 >> * Légalité : similaire aux armes correspondantes ;
 >> * Prix : important pour un particulier, négligeable pour une société ou une corporation.
 
 ## Armures dermiques
 
-Autres implants issus des développements à destination des mercenaires, les armures dermiques sont un remplacement de la peau de son utilisateur qui lui ajoute une protection balistique limitée. En apparence, cette peau artificielle est pratiquement indiscernable d’une peau organique.
+Autres implants issus des développements à destination des mercenaires, les armures dermiques remplacent la peau de son utilisateur en lui ajoutant une protection balistique limitée. En apparence, cette peau artificielle est pratiquement indiscernable d’une peau organique.
 
-Bien que cette couche de protection soit mince, elle reste efficace contre les armes blanches traditionnelles et les armes à projectiles les plus légères. Toutefois aux vues de l’armement actuel, ces dispositifs sont le plus souvent insuffisants. Ils sont donc installés en conjonction avec des plaques de blindages disposées sur les points stratégiques du corps.
+Bien que cette couche de protection soit mince, elle reste efficace contre les armes blanches traditionnelles et les armes à projectiles les plus légères. Toutefois, au vu de l’armement actuel, ces dispositifs sont le plus souvent insuffisants. Ils sont donc installés en conjonction avec des plaques de blindages disposées sur les points stratégiques du corps.
 
 >> ### Armures dermiques
 >> * Accès : intégrées à certaines enveloppes, installées dans des infirmeries spécialisées ;
@@ -32,11 +32,11 @@ Bien que cette couche de protection soit mince, elle reste efficace contre les a
 
 ## Bombes corticales
 
-Dispositif d’autodestruction, les bombes corticales sont des dispositifs explosifs placés dans le cerveau. Leur détonation est suffisamment puissante pour détruire l’ensemble du cerveau et rendre impossible toute tentative d’extraction de données post mortem. L’explosif n’est général pas assez puissant pour provoquer des dégâts en dehors de la boîte crânienne.
+Dispositif d’autodestruction, les bombes corticales sont des dispositifs explosifs placés dans le cerveau. Leur détonation est suffisamment puissante pour détruire l’ensemble du cerveau et rendre impossible toute tentative d’extraction de données post-mortem. L’explosif n’est en général pas assez puissant pour provoquer des dégâts en dehors de la boîte crânienne.
 
-Ces implants ont parfois été utilisés sur des sujets non consentants comme un moyen de pression, mais cette pratique est strictement interdite dans les colonies et les Solar Wardners semblent suffisamment dissuasifs pour que cette loi soit respectée.
+Ces implants ont parfois été utilisés sur des sujets non consentants comme un moyen de pression, mais cette pratique est strictement interdite dans les colonies et la menace d'une investigation des Solar Wardners semble suffisamment dissuasive pour que cette loi soit respectée.
 
-En revanche, ces implants sont très utilisés par les espions et les personnes qui ne souhaitent pas que leurs données atterrissent au mauvais endroit. Beaucoup de mercenaires considèrent que perdre quelques heures de souvenirs valent mieux que de donner des informations à l’ennemi. Il s’agit même de la signature des agents du Neo Control.
+En revanche, ces implants sont très utilisés par les espions et les personnes qui ne souhaitent pas que leurs données atterrissent au mauvais endroit. Beaucoup de mercenaires considèrent que perdre quelques heures de souvenirs vaux mieux que de donner des informations à l’ennemi. Il s’agit même de la signature des agents du Neo Control.
 
 >> ### Bombes corticales
 >> * Accès : intégrées à certaines enveloppes, installées par des infirmeries spécialisées ;
@@ -47,7 +47,7 @@ En revanche, ces implants sont très utilisés par les espions et les personnes 
 
 Sous la forme d’implant, les camouflages thermo-optiques sont des dispositifs remplaçant la peau. Composés d’un ensemble de capteurs et d’émetteurs holographiques, ils reproduisent l’arrière-plan et rendent donc leur utilisateur invisible ou presque. La plupart de ces dispositifs fonctionnent dans le domaine du visible et du thermique.
 
-Évidemment pour être fonctionnel, ces camouflages requièrent que l’utilisateur ne porte ni vêtement, ni équipement. L’agent ne pourra donc compter que sur ses propres ressources, implants et modifications.
+Évidemment, pour être fonctionnel, ces camouflages requièrent que l’utilisateur ne porte ni vêtements, ni équipements. L’agent ne pourra donc compter que sur ses propres ressources, implants, logiciels et modifications.
 
 >> ### Camouflages thermo-optiques
 >> * Accès : intégrées à certaines enveloppes, installées par des infirmeries spécialisées ;
@@ -141,13 +141,13 @@ Une rumeur persistante veut que cet implant puisse servir de backdoor pour pirat
 >> * Légalité : aucune restriction ;
 >> * Prix : négligeable.
 
-## Muscles en nano-fibres
+## Muscles en nanofibres
 
-L’un des principaux avantages des corps mécaniques par rapports aux corps organiques se résume au rapport de la puissance mécanique et de la puissance musculaire. Les muscles en nano-fibres sont des implants qui remplacent ou complètent le système musculaire d’une enveloppe par un réseau de nano-fibres mécaniques. Ces muscles augmentés permettent de développer une puissance mécanique de trois à cinq fois plus élevée.
+L’un des principaux avantages des corps mécaniques par rapports aux corps organiques se résume au rapport de la puissance mécanique et de la puissance musculaire. Les muscles en nanofibres sont des implants qui remplacent ou complètent le système musculaire d’une enveloppe par un réseau de nanofibres mécaniques. Ces muscles augmentés permettent de développer une puissance mécanique de trois à cinq fois plus élevée.
 
 Ces implants représentent une modification lourde et leur consommation énergétique requiert une batterie et un approvisionnement très largement hors de portée des cellules bioénergétiques. Malgré cette contrainte, il s’agit de l’un des implants les plus utilisés, tant par les mercenaires que par les civils.
 
->> ### Muscles en nano-fibres
+>> ### Muscles en nanofibres
 >> * Accès : en standard dans certaines enveloppes, installés par la plupart des infirmeries ;
 >> * Légalité : aucune restriction ;
 >> * Prix : important pour un particulier, négligeable pour une société ou une corporation.
@@ -158,7 +158,7 @@ Aussi appelés Backup, les nœuds de sauvegarde sont des implants qui enregistre
 
 La plupart de ces modèles sont fortement blindés, aussi bien au niveau mécanique qu’électromagnétique. Si cela ne suffisait pas, bon nombre de ces implants transmettent régulièrement une copie de sauvegarde à l’un des centres de restauration de la compagnie qui fournit ces implants.
 
-Cet implant est très populaire dans les colonies, en particulier parmi les forces de sécurité, les mercenaires et touts les agents régulièrement confrontés au danger.
+Cet implant est très populaire dans les colonies, en particulier parmi les forces de sécurité, les mercenaires et tous les agents régulièrement confrontés au danger.
 
 >> ### Nœuds de sauvegarde
 >> * Accès : installés par la plupart des infirmeries, logiciels fournis par les sociétés de sauvegarde ;
@@ -184,7 +184,7 @@ Ces appareils restent peu efficaces en cas de dépressurisation, alors qu’ils 
 
 Avec une augmentation de la force et l’utilisation d’outils ou d’armes hors normes, les contraintes sur le squelette peuvent rapidement dépasser le point de rupture. Pour résoudre ce problème, les squelettes renforcés remplacent celui d’origine par une version mécanique bien plus résistante. Composée de fibres de carbone et de métaux, cette modification augmente significativement la masse de l’enveloppe.
 
-Beaucoup de mercenaires profitent de la lourde installation de ces implants pour ajouter des plaques de protections sur le torse, associée à une arme dermique et, bien sûr, des muscles en nano-fibres.
+Beaucoup de mercenaires profitent de la lourde installation de ces implants pour ajouter des plaques de protections sur le torse, associée à une arme dermique et, bien sûr, des muscles en nanofibres.
 
 >> ### Squelettes renforcés
 >> * Accès : en standard dans certaines enveloppes, installés par la plupart des infirmeries ;

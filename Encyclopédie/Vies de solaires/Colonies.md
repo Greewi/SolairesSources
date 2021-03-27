@@ -12,7 +12,7 @@ Lorsque HIARTech a établi sa première colonie, vivre dans l’espace était un
 
 Ce qu’il faut toutefois bien comprendre, c’est que les colonies sont de véritables cités. En fait, le terme « colonie » correspond désormais à « cité extraterrestre » : la notion de tutelle relatif à ce terme n’y a plus cours.
 
-Contrairement à une idée reçue, provenant notamment de la victoire des colonies sur la Terre, les habitants de ces cités ne sont pas si nombreux : la population sentiente recensée des colonies n’excède pas les deux millions et demi individus. Une cité abrite en moyenne 45 000 habitants et près de 125 colonies jalonnent le système solaire.
+Contrairement à une idée reçue, provenant notamment de la victoire des colonies sur la Terre, les habitants de ces cités ne sont pas si nombreux : la population sentiente recensée des colonies n’excède pas les deux millions et demi d'individus. Une cité abrite en moyenne 45 000 habitants et près de 125 colonies jalonnent le système solaire.
 
 ## Principaux types architecturaux
 

@@ -15,7 +15,7 @@ Historiquement constituée pour éviter les guerres sur Terre, mission dont la r
 >> * **Siège** : New-York
 >> * **Puissance** : Moyenne puissance
 
-Organisation destinée au maintien de la paix, l’ONU se voit renforcée au fil du temps pour lutter contre les corporations. Peu après la seconde vague de fondation de ces super-groupes, l’Organisation de Régulation des Super-Économies (ORSE) est constituée sur décision du conseil de sécurité. À partir de ce moment, les nations unies deviennent capables de bloquer la formation de nouvelle corporation, sans, pour autant, pouvoir démanteler celles en place. Cette mesure met durablement fin à la genèse des corporations.
+Organisation destinée au maintien de la paix, l’ONU se voit renforcée au fil du temps pour lutter contre les corporations. Peu après la seconde vague de fondation de ces supergroupes, l’Organisation de Régulation des Super-Économies (ORSE) est constituée sur décision du conseil de sécurité. À partir de ce moment, les nations unies deviennent capables de bloquer la formation de nouvelle corporation, sans, pour autant, pouvoir démanteler celles en place. Cette mesure met durablement fin à la genèse des corporations.
 
 Son pouvoir est encore renforcé lorsque les corporations mettent au point les nanorobots auto-réplicatifs. Les nations prennent alors peur et accordent à l’ONU le droit de mener des opérations militaires contre les corporations à sa propre initiative, avec les troupes prêtées par les États membres. Cette mesure, supposée dissuasive, ne se servira que bien plus tard.
 

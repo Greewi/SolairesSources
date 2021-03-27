@@ -4,7 +4,7 @@
 
 Ceres est la fédération des colonies de la planète mineure de la ceinture principale d’astéroïde. Autrefois sous contrôle de Sol6, ces cités ont fait sécession durant la guerre des colonies et ont pris leur indépendance. En dépit de sa petite taille, Ceres est désormais le principal acteur de la ceinture d’astéroïde.
 
->> ### Les Solar Wardners
+>> ### Ceres
 >>
 >> * **Type** : Fédération de colonies indépendantes
 >> * **Leader** : Brigitte Liikanen

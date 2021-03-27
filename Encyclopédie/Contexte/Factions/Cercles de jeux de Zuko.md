@@ -17,7 +17,7 @@ Craignant des dérives sectaires, les Solar Wardners conduisent plusieurs enquê
 
 Alors que le groupe communautaire s’accroît considérablement, Zuko s’aperçoit que de nombreux joueurs ont développé des compétences bien réelles avec ses jeux. La légende veut que Zuko ait eu cette révélation alors qu’elle était elle-même victime d’une agression ; un des membres de ces cercles présents sur place l’aurait alors protégée avec le talent des meilleurs mercenaires. Bien que démentie par Zuko elle-même, c’est la version la plus diffusée sur SolNet.
 
-Après une consultation avec l’ensemble des joueurs, Zuko décide d’ouvrir une nouvelle catégorie de mission : les missions « hardcores ». Ces dernières ne s’effectuent plus en réalité augmentée, mais dans le monde bien réel. La gamemaster, elle-même, fixe les conditions et refuse toute proposition que leurs commanditaires « rechigneraient à proposer aux Solars Wardners ».
+Après une consultation avec l’ensemble des joueurs, Zuko décide d’ouvrir une nouvelle catégorie de mission : les missions « hardcore ». Ces dernières ne s’effectuent plus en réalité augmentée, mais dans le monde bien réel. La gamemaster, elle-même, fixe les conditions et refuse toute proposition que leurs commanditaires « rechigneraient à proposer aux Solars Wardners ».
 
 Consciente d’être sous le regard de ces derniers, elle continue ses efforts de transparence et publie l’intégralité des rapports de mission. Le résultat est inattendu : attiré par le besoin d’avoir une utilité et un impact positif, de nombreux solaires rejoignent les cercles de jeux. Aujourd’hui, les ZCG comptent près de 2 % de la population des colonies, soit un peu plus de 45 000 personnes.
 

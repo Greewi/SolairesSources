@@ -23,7 +23,7 @@ Le processus est devenu particulièrement fiable et est beaucoup utilisé. On s�
 
 ## Stations médicales Wolfa
 
-Association d’un constructeur universel avec un scanner wolfa médical, une cellule de stase et une armée de micro-robots, les stations médicales Wolfa sont le summum de la médecine. Elles sont capables de réparer n’importe quel dégât d’une enveloppe pourvu que ses schématiques soient disponibles et si ce n’était pas le cas, leur cellule de stase intégrée donnera tout le temps nécessaire pour l’obtenir.
+Association d’un constructeur universel avec un scanner wolfa médical, une cellule de stase et une armée de microrobots, les stations médicales Wolfa sont le summum de la médecine. Elles sont capables de réparer n’importe quel dégât d’une enveloppe pourvu que ses schématiques soient disponibles et si ce n’était pas le cas, leur cellule de stase intégrée donnera tout le temps nécessaire pour l’obtenir.
 
 Très rapidement déployées durant la guerre des colonies, ces appareils sont devenus pour beaucoup de solaires autant de portes vers l’immortalité… Bien que cet avis soit souvent remis en question, nombreux personnels médicaux et paramédicaux de premier front continuent d’affirmer : « Si vous êtes encore en vie quand on vous met là-dedans, vous êtes sauvés ! »
 
@@ -43,18 +43,18 @@ L’opération type consiste à injecter un anesthésiant pour supprimer localem
 Évidemment très utilisé dans les situations de combat, le gel médical est un bien médical très précieux lors des urgences.
 
 >> ### Gel médical
->> * Accès : standard dans toutes les infirmeries et medibots, recharge pour medibots en vente libre ;
+>> * Accès : standard dans toutes les infirmeries et médibots, recharge pour médibots en vente libre ;
 >> * Légalité : accréditation médicale pour son opération directe ;
 >> * Prix : négligeable.
 
-## Nano-chirugiens
+## Nanochirugiens
 
-Les nano-chirugiens sont des micro-robots adaptés aux opérations médicales sur le terrain. Il s’agit probablement du moyen le plus efficace pour effectuer une opération médicale après l’utilisation d’une station médicale.
+Les nanochirugiens sont des microrobots adaptés aux opérations médicales sur le terrain. Il s’agit probablement du moyen le plus efficace pour effectuer une opération médicale après l’utilisation d’une station médicale.
 
-Ces micro-robots forment une véritable armée polyvalente et sont capables d’effectuer des opérations médicales qui aurait été impensable pré-effondrement. Associé avec le gel médical et le vaccin universel, cet outil est le troisième grand outil médical « liquide ».
+Ces microrobots forment une véritable armée polyvalente et sont capables d’effectuer des opérations médicales qui aurait été impensable pré-effondrement. Associé avec le gel médical et le vaccin universel, cet outil est le troisième grand outil médical « liquide ».
 
 >> ### Nano-chirurgiens
->> * Accès : standard dans toutes les infirmeries et medibots, recharge pour medibots en vente libre ;
+>> * Accès : standard dans toutes les infirmeries, médibots et recharge pour médibots en vente libre ;
 >> * Légalité : accréditation médicale pour son opération directe ;
 >> * Prix : négligeable.
 
@@ -77,10 +77,10 @@ Les respirateurs sont des appareils conçus pour apporter un appoint d’air res
 
 Le boîtier des respirateurs contient une cartouche d’air amélioré et un petit recycleur d’air capable de recycler le dioxyde de carbone expiré. Ces appareils permettent de survivre quelques heures dans une atmosphère irrespirable et presque un quart d’heure dans le vide.
 
-Tous les solaires sont formés à l’utilisation de ces appareils et la plupart en possèdent un chez-eux. De nombreux voyageurs en transportent un lorsqu’ils quittent leur colonie.
+Tous les solaires sont formés à l’utilisation de ces appareils et la plupart en possèdent un chez eux. De nombreux voyageurs en transportent un lorsqu’ils quittent leur colonie.
 
 >> ### Respirateurs
->> * Accès : en libre service dans toutes les installations ;
+>> * Accès : en libre-service dans toutes les installations ;
 >> * Légalité : aucune restriction, formation obligatoire ;
 >> * Prix : négligeable.
 
@@ -88,11 +88,11 @@ Tous les solaires sont formés à l’utilisation de ces appareils et la plupart
 
 Les kits médicaux sont des ensembles d’outils d’urgence, regroupés dans des valises ou des sac-à-dos, destinés à être utilisés sur le terrain par un secouriste ou un médecin. Ces kits sont installés en de nombreux points sur les installations et disponible à toute personne formée.
 
-Ces kits contiennent habituellement du gel médical, des nano-chirurgiens, un scanner wolfa portatif, un ensemble d’outils chirurgicaux, des attelles, un brancard pliable et divers produits médicaux comme des anti-douleur. Beaucoup sont accompagnés de petit médibots, de petits robots cousins des spiders bots.
+Ces kits contiennent habituellement du gel médical, des nano-chirurgiens, un scanner Wolfa portatif, un ensemble d’outils chirurgicaux, des attelles, un brancard pliable et divers produits médicaux comme des anti-douleur. Beaucoup sont accompagnés de petit médibots, de petits robots cousins des spiders bots.
 
-Les kits médicaux sont aussi fournis avec le nécessaire pour effectuer des réparations de fortune sur les parties mécaniques, notamment pour les cyborgs, aussi n’est-il pas surprenant d’y trouver des nanites, des micro-robots et quelques outils.
+Les kits médicaux sont aussi fournis avec le nécessaire pour effectuer des réparations de fortune sur les parties mécaniques, notamment pour les cyborgs, aussi n’est-il pas surprenant d’y trouver des nanites, des microrobots et quelques outils.
 
 >> ### Kits médicaux
->> * Accès : standard dans toutes les infirmeries, kits en libre service dans la plupart des installations ;
+>> * Accès : standard dans toutes les infirmeries, kits en libre-service dans la plupart des installations ;
 >> * Légalité : accréditation médicale pour l’opération directe, l’emploi des médibots non modifiés est sans restriction ;
 >> * Prix : important pour un particulier, négligeable pour une corporation ou une société.

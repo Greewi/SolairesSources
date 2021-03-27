@@ -68,9 +68,9 @@ Les acteurs secondaires :
 * **Les Solar Wardners** : les Solar Wardners sont un corps d’élite indépendant œuvrant pour la stabilité de la civilisation des Solaires et jouissant d’une juridiction dans la totalité des colonies.
 * **Les Phobos' Heights** : cette organisation contrôle tout le crime organisé sur Mars et notamment le marché noir.
 * **Les Icarens** : ce groupe de mercenaire est considéré comme le meilleur courtier de l’information.
-* **Le Neo Control** : Les corporations les emploient beaucoup, car ils savent aussi préserver l’annonymat de leurs employeurs.
-* **Les Soleils** : ce groupe de mercenaire est né lors des troubles qui ont suivi l’attenta d’Elysium. Ils travaillent principalement avec Mars.
-* **Les Cercles de jeu de Zuko** : ce groupe communautaire basé sur un jeu en réalité virtuelle est pratiquement devenu un service de mercenariat à part entière. Donnant un but aux solaires perdus, Zuko trouve de plus en plus de volontaires pour ses missions « hardcores ».
+* **Le Neo Control** : Les corporations les emploient beaucoup, car ils savent aussi préserver l’anonymat de leurs employeurs.
+* **Les Soleils** : ce groupe de mercenaire est né lors des troubles qui ont suivi l’attentat d’Elysium. Ils travaillent principalement avec Mars.
+* **Les Cercles de jeu de Zuko** : ce groupe communautaire basé sur un jeu en réalité virtuelle est pratiquement devenu un service de mercenariat à part entière. Donnant un but aux solaires perdus, Zuko trouve de plus en plus de volontaires pour ses missions « hardcore ».
 * **Le réseau Sentinelles** : ce réseau informel amène des solaires a priori sans relation, à se trouver au bon endroit et au bon moment. Si les « missions » attribuées contribuent presque toujours au bien commun, les intentions de ses organisateurs anonymes sont sources de beaucoup de spéculation.
 
 ## Le système solaire
@@ -86,11 +86,11 @@ Le système solaire est extrêmement vaste et contient un très grand nombre d�
 * **Uranus** : bien plus éloignée du soleil cette géante gazeuse ne possède pas de lune aussi grande que celles de Jupiter ou Saturne. Toutefois, une colonie a été établie sur Titania et les efforts d’Urania se poursuivent dans ce système planétaire.
 * **Neptune** : cette géante gazeuse est la plus lointaine de toutes les planètes. Malgré son isolement, une colonie est en cours de construction par Urania sur Triton, la plus grande de ses lunes.
 
-En plus de ces astres, d’autres planètes mineures, astéroïdes et comètes circulent dans le système solaire. En dehors des colonies indiquées plus haut, de nombreux avant postes ont été établis en de nombreux endroit du système solaire, que ce soit pour l’extraction de ressources, la recherche, la construction d’une colonie, la surveillance ou d’autres activités. Malgré tout, l’espace et la surface de tous ces astres restent vides en pratique. Au mieux, ce sont des centaines de kilomètres qui séparent les colonies d’une même lune ou planète. Et pour aller de l’un à l’autre de ces astres, ce sont des semaines, voir des mois de vol qu’il faut prévoir.
+En plus de ces astres, d’autres planètes mineures, astéroïdes et comètes circulent dans le système solaire. En dehors des colonies indiquées plus haut, de nombreux avant-postes ont été établis en de nombreux endroit du système solaire, que ce soit pour l’extraction de ressources, la recherche, la construction d’une colonie, la surveillance ou d’autres activités. Malgré tout, l’espace et la surface de tous ces astres restent vides en pratique. Au mieux, ce sont des centaines de kilomètres qui séparent les colonies d’une même lune ou planète. Et pour aller de l’un à l’autre de ces astres, ce sont des semaines, voire des mois de vol qu’il faut prévoir.
 
 ## Le contexte scientifique et technologique
 
-les connaissances scientifiques et la technologie ont considérablement évoluée au cours du XXIIe siècle et de nombreux concepts considérés comme impossible autrefois ont été réalisés et exploités.
+Les connaissances scientifiques et la technologie ont considérablement évoluée au cours du XXIIe siècle et de nombreux concepts considérés comme impossible autrefois ont été réalisés et exploités.
 
 Pour vous aider à comprendre les plus marquants de ces changements voici quelques-unes de ces avancées :
 * **SolNet** : toutes les colonies sont reliées par un grand réseau informatique interplanétaire décentralisé appelé SolNet.
@@ -105,6 +105,6 @@ Pour vous aider à comprendre les plus marquants de ces changements voici quelqu
 * **Enveloppe** : augmenter son corps, le faire modifier ou même en changer complètement est presque devenu une routine pour certain.
 * **Sauvegarde** : la mort a été vaincue et tant qu’une copie de votre motif existe quelque part, on peut vous ramener à la vie.
 * **Intelligences artificielles** : les IA sentientes sont une réalité et elles sont même considérées comme des citoyens dans les colonies.
-* **Implant psi** : on a découvert un implant cérébral qui permet d’utiliser des pouvoirs surnaturels, mais on ne sait pas comme il fonctionne ni qui l’a vraiment inventé.
+* **Implant psi** : on a découvert un implant cérébral qui permet d’utiliser des pouvoirs surnaturels, mais on ne sait pas comment il fonctionne ni qui l’a vraiment inventé.
 
 Malgré tout ceci, aucune autre forme de vie extra-solaire n’a encore été découverte, et au moment où Mars envoie une première mission à destination de Proxima du Centaure, le sujet reste encore entièrement ouvert.
