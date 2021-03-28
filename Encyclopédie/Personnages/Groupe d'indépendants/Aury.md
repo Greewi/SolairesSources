@@ -1,5 +1,7 @@
 # Aury
 
+![ Portrait d'Aury](portrait_aury.png)
+
 * **Rôles** : Technologie, Informatique, Négociation
 * **Concept** : une chimère technophile
 

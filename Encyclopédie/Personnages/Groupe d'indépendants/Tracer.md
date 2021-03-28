@@ -1,5 +1,7 @@
 # Tracer
 
+![ Portrait de Tracer](portrait_tracer.png)
+
 * **Rôles** : Enquête, Négociation, Relations
 * **Concept** : Un détective privé psion
 

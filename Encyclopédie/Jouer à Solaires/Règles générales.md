@@ -8,7 +8,7 @@
 
 ## Que sont les jeux de rôles ?
 
-Grossièrement, les jeux de rôles forment une famille de jeux de société dans laquel les joueurs contrôlent chacun un personnage qui évolue dans une histoire prenant place dans un univers imaginaire. L’un des joueurs doit endosser le rôle de meneur : il ne contrôle pas un personnage mais gère l’univers dans lequel les personnages évoluent et s’assure de la cohérence de l’histoire.
+Grossièrement, les jeux de rôles forment une famille de jeux de société dans laquelle les joueurs contrôlent chacun un personnage qui évolue dans une histoire prenant place dans un univers imaginaire. L’un des joueurs doit endosser le rôle de meneur : il ne contrôle pas un personnage mais gère l’univers dans lequel les personnages évoluent et s’assure de la cohérence de l’histoire.
 
 Les jeux de rôles sont des jeux d’imagination et, généralement, des jeux oraux. Il n’y a pas de pions, ni de plateau… Tout le jeu se base sur l’imagination des participants : le meneur décrit une situation, puis chaque joueur l’imagine et indique ce que son personnage va tenter de faire ou de percevoir. Le meneur explique alors ce qui se produit vraiment dans l’histoire et, à nouveau, les joueurs imaginent cette nouvelle situation avant de donner les intentions et ressentis de leurs personnages. Ce cycle se répète alors jusqu’à la fin de l’histoire.
 

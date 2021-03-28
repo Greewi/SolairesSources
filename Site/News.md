@@ -1,13 +1,17 @@
 # News !
 
-## Dernières news (2020-10-31)
+## Dernières news (2021-03-13)
 
-Voici les dernières nouvelles de *Solaires*. Au programme : nouveau site, avancées sur la fiche de personnage, pré-tirés, nouvel article, mise en ligne de *Les invisibles*, et surtout la mise en ligne de la beta de Solaires v6.
+Après plus de 4 mois de silence radio, voici quelques nouvelles de Solaires. Comme vous l’avez peut-être entendu ailleurs, j’ai déménagé début janvier et je suis encore dans les travaux. Je n’ai donc pas beaucoup avancé sur le sujet. Mais avant d’aller plus loin, bonne année à tous ! Eh oui, je n’avais même pas pris le temps de vous souhaiter mes meilleurs vœux !
 
-[Lire en ligne](/News/news - 2020-10-31)
+Poursuivons ! Au programme : réunion, le Dragon de Callisto, travaux sur la fiche de personnage et… un module pour une table virtuelle ?
+
+[Lire en ligne](/News/news - 2021-03-13)
 
 ## Archives
 
+* [News du 2021-03-13](/News/news - 2021-03-13)
+* [Réunion du 2021-02-02](/News/reunion - 2021-02-02)
 * [News du 2020-10-31](/News/news - 2020-10-31)
 * [News du 2020-09-05](/News/news - 2020-09-05)
 * [News du 2020-07-19](/News/news - 2020-07-19)

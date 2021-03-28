@@ -1,5 +1,7 @@
 # Dash
 
+![ Portrait de Dash](portrait_dash.png)
+
 * **Rôles** : Combat, Infiltration, Espace
 * **Concept** : une ninja de l’espace
 

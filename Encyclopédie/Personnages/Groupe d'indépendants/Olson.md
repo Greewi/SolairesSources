@@ -1,5 +1,7 @@
 # Olson
 
+![ Portrait d'Olson](portrait_olson.png)
+
 * **Rôles** : Espace, Technologie, Négociation
 * **Concept** : Un récupérateur cybernétique
 
