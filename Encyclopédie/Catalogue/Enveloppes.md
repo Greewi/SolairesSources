@@ -15,7 +15,7 @@ Il existe un grand nombre de types d’enveloppe qui sont regroupées dans plusi
 * **Les chimères** : des enveloppes organiques artificielles qui comportent des parties de différentes espèces et originales ;
 * **Les enveloppes hyper-hybrides** : des enveloppes mélangeant les technologies organiques et cybernétiques au niveau cellulaire ;
 * **Les enveloppes cybernétiques** : des enveloppes entièrement robotique ;
-* **Les infomorphes** : des êtres de pur informations qui ne possèdent pas d’enveloppe dédiée.
+* **Les infomorphes** : des êtres de pures informations qui ne possèdent pas d’enveloppe dédiée.
 
 En plus de ces catégories, les enveloppes biologiques, provoluées, réplicantes et les chimères peuvent recevoir des modifications qui peuvent les classer dans de nouvelles catégories :
 * **La biomodification** : qui améliore, modifie, ajoute ou remplace des fonctions par des techniques telles que la reprogrammation génétique ou la greffe ;
@@ -99,7 +99,7 @@ Pour certains solaires, les cybernétiques sont l’aboutissement ultime de la c
 
 Tous les solaires peuvent utiliser une enveloppe cybernétique : les esprits qui demandent normalement un substrat organique peuvent être émulés dans le cerveau électronique de ces enveloppes et tous les autres sont naturellement compatibles.
 
-Il n’existe pas d’autre catégorie possédant une aussi grande diversité en termes de morphologie et de spécialisation. Par exemple, les syntha ressemblent à des humains non modifiés avec des cheveux et une peau synthétique presque indistinguable d’une vraie, tandis que les spider-bots ressemblent à des robots araignées et sont optimisés pour effectuer des patrouilles de maintenance en nombre.
+Il n’existe pas d’autre catégorie possédant une aussi grande diversité en termes de morphologie et de spécialisation. Par exemple, les synthas ressemblent à des humains non modifiés avec des cheveux et une peau synthétique presque indistinguable d’une vraie, tandis que les spider-bots ressemblent à des robots araignées et sont optimisés pour effectuer des patrouilles de maintenance en nombre.
 
 Les enveloppes cybernétiques disposent d’un **cerveau cybernétique**. Elles peuvent être modifiées par l’ajout ou le remplacement de fonction sans toutefois modifier sa nature.
 

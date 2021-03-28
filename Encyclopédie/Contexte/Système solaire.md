@@ -129,7 +129,7 @@ La Terre possède une lune simplement nommée la Lune. Celle-ci est la cinquièm
 >> * Jour solaire : 24 h 38 min
 >> * Année sidérale : 687 j
 
-Quatrième planète du système solaire, Mars, plus petite que la Terre, possède une atmosphère très ténue et une gravité d’un peu plus du tiers d’un G. Ceci en fait un astre possédant une gravité conséquente tout en bénéficiant d’un meilleur accès à l’espace. Ne possédant plus d’hydrosphère depuis longtemps, la planète est couverte d’une couche de poussière sombre et rougeâtre qui lui ont donné son surnom. Cette poussière toxique pose aussi des soucis mécanique et, comme le régolite lunaire, elle peut endommager certains mécanismes. De plus, la planète connaît principalement des températures négatives avec des variations jour/nuit importantes ce qui ajoute des contraintes supplémentaires aux installations et appareils.
+Quatrième planète du système solaire, Mars, plus petite que la Terre, possède une atmosphère très ténue et une gravité d’un peu plus du tiers d’un G. Ceci en fait un astre possédant une gravité conséquente tout en bénéficiant d’un meilleur accès à l’espace. Ne possédant plus d’hydrosphère depuis longtemps, la planète est couverte d’une couche de poussière sombre et rougeâtre qui lui ont donné son surnom. Cette poussière toxique pose aussi des soucis mécaniques et, comme le régolite lunaire, elle peut endommager certains mécanismes. De plus, la planète connaît principalement des températures négatives avec des variations jour/nuit importantes ce qui ajoute des contraintes supplémentaires aux installations et appareils.
 
 Bien qu’inhabitable, Mars est longtemps resté « l’astre à coloniser » dans la littérature de fiction et sa colonisation a été l’objectif principal de HIARTech. Depuis la guerre des colonies HIARTech est simplement devenu Mars et est la seule nation présente dans le système martien. Elysium, sa capitale diplomatique est le siège officieux de la diplomatie du système solaire. La Capitale administrative de Mars se trouve à Marineris.
 
@@ -269,7 +269,7 @@ Mimas est la première des lunes de Saturne ayant une masse suffisante pour êtr
 >> * Rayon orbital : 0,79 sl
 >> * Période : 1 j 53 min
 
-Encelade est une petite lune possédant une surface relativement jeune et très réfléchissante. Elle porte de nombreux faille tectoniques et son pôle nord est recouvert de cratères. La lune possède aussi des régions de plaines lisses. Encelade possède une activité cryovolcanique et est responsable de l’approvisionnement en matière de l’anneau E de saturne, le plus diffus et le plus étendu. Encelade ne porte pas de colonie.
+Encelade est une petite lune possédant une surface relativement jeune et très réfléchissante. Elle porte de nombreuses failles tectoniques et son pôle nord est recouvert de cratères. La lune possède aussi des régions de plaines lisses. Encelade possède une activité cryovolcanique et est responsable de l’approvisionnement en matière de l’anneau E de saturne, le plus diffus et le plus étendu. Encelade ne porte pas de colonie.
 
 >> ### Téthys
 >>
@@ -280,7 +280,7 @@ Encelade est une petite lune possédant une surface relativement jeune et très 
 >> * Rayon orbital : 0,98 sl
 >> * Période : 1 j 21 h 18 min
 
-Téthys est une lune à la surface accidentée. Cette lune possède une coloration légèrement bleutée sur son côté qui fait face à son déplacement et une coloration un peu plus rouge et foncée sur la face opposée. On suspecte les particules de l’anneau E d’être à l’origine de cette coloration plus clair. Téthys n’a pas encore été colonisée.
+Téthys est une lune à la surface accidentée. Cette lune possède une coloration légèrement bleutée sur son côté qui fait face à son déplacement et une coloration un peu plus rouge et foncée sur la face opposée. On suspecte les particules de l’anneau E d’être à l’origine de cette coloration plus claire. Téthys n’a pas encore été colonisée.
 
 >> ### Dioné
 >>
@@ -326,7 +326,7 @@ Titan est la plus grande lune de Saturne et la seconde plus grande de tout le sy
 >> * Rayon orbital : 4,08 sl
 >> * Période : 79 j 7 h 42 min
 
-Japet est la troisième plus grande lune de Saturne. Composée principalement de glaces cette lune présente des particularités géologiques singulières. Si l’hémisphère qui fait face au déplacement de la lune est très sombre, tandis que la face arrière est dix fois plus réfléchissante. Japet possède aussi d’impressionnants cratères d’impact et une crête équatoriale de près de treize kilomètre de haut. Japet n’a pas encore été colonisé.
+Japet est la troisième plus grande lune de Saturne. Composée principalement de glaces cette lune présente des particularités géologiques singulières. Si l’hémisphère qui fait face au déplacement de la lune est très sombre, tandis que la face arrière est dix fois plus réfléchissante. Japet possède aussi d’impressionnants cratères d’impact et une crête équatoriale de près de treize kilomètres de haut. Japet n’a pas encore été colonisé.
 
 ## Uranus, la géante bleue
 
@@ -360,7 +360,7 @@ Miranda est la plus petite des cinq plus grandes lunes d’Uranus. C’est aussi
 >> * Rayon orbital : 0,64 sl
 >> * Période : 2 j 12 h 28 min
 
-Ariel est la quatrième plus grande lune d’Uranus et présente une surface parcourue par de larges et profond canyons. Elle possède aussi des plaines et des cratères en nombre. Cette lune n’a pas encore été colonisée.
+Ariel est la quatrième plus grande lune d’Uranus et présente une surface parcourue par de larges et profonds canyons. Elle possède aussi des plaines et des cratères en nombre. Cette lune n’a pas encore été colonisée.
 
 >> ### Umbriel
 >>

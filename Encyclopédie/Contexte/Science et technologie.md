@@ -12,7 +12,7 @@ Plus encore que sur Terre, l’énergie est un élément vital dans les colonies
 
 Des centrales nucléaires, employant la fission nucléaire, ont été la principale source d’énergie jusque vers le milieu des années 2190. Utilisant principalement du thorium, ces centrales bien que vitales ont engendré une grande quantité de déchets radioactifs. Heureusement, par précaution, toutes ces installations ont été déployées loin des colonies et généralement enterrées. Par ailleurs, malgré la prolifération de ces centrales, et installations de traitement, très peu d’incidents ont été déplorés. Toutefois, si tous les déchets ont été retraités, et les ultimes entreposés avec soin, il reste encore de nombreux sites radioactifs dont la visite est encore interdite.
 
-Si les plus grandes installations hors-sol, les stations spatiales et les vaisseaux de lignes, ont aussi employé un tel mode de production d’énergie, les plus petits appareils ont utilisé des générateurs à radio-isotope ou des batteries.
+Si les plus grandes installations hors-sols, les stations spatiales et les vaisseaux de lignes, ont aussi employé un tel mode de production d’énergie, les plus petits appareils ont utilisé des générateurs à radio-isotope ou des batteries.
 
 Vers la fin des années 2190, la maîtrise de la fusion nucléaire à complètement révolutionné la production d’énergie dans les colonies. Si les premiers générateurs occupaient de grands bâtiments, ils ont été rapidement suffisamment réduits pour équiper les vaisseaux de lignes, les frégates et certaines corvettes.
 
@@ -32,19 +32,19 @@ Il est intéressant de noter que seules les premières versions sont tolérées 
 
 Contrairement aux craintes habituellement dénoncées sur Terre, les nanorobots auto-répliquant utilisés dans les constructeurs universels ne présentent pratiquement aucun danger : en dehors de l’enceinte protectrice du constructeur universel, ces minuscules robots réagissent très vivement avec l’oxygène de l’air, qui les détruits très rapidement.
 
-## Micro-robotique
+## Microrobotique
 
-À mi-chemin entre la robotique et la nanotechnologie, le domaine de la micro-robotique a aussi connu des développements particulièrement avancés. Pratiquement tous les domaines ont, d’une façon ou d’une autre, bénéficié de ces technologies.
+À mi-chemin entre la robotique et la nanotechnologie, le domaine de la microrobotique a aussi connu des développements particulièrement avancés. Pratiquement tous les domaines ont, d’une façon ou d’une autre, bénéficié de ces technologies.
 
-La micro-robotique repose sur l’emploi de micros robots : des robots dont les dimensions sont en dessous du millimètre sans toutefois descendre au niveau moléculaire.
+La microrobotique repose sur l’emploi de micros robots : des robots dont les dimensions sont en dessous du millimètre sans toutefois descendre au niveau moléculaire.
 
-Paradoxalement, avec la nanotechnologie et surtout les constructeurs universels, ce n’est pas tant la conception de leurs fonctionnalités qui a le plus posé de problème que celle de leur alimentation. À cette échelle, le volume des batteries est beaucoup trop faible pour offrir une autonomie utilisable et même les accumulateurs à anti-matière sont trop imposants pour être utilisés. Pour pallier à ce problème, les micro-robots sont alimentés de façon continue par un contrôleur externe, les agents formant de longues chaînes entre celui-ci et les autres robots.
+Paradoxalement, avec la nanotechnologie et surtout les constructeurs universels, ce n’est pas tant la conception de leurs fonctionnalités qui a le plus posé de problème que celle de leur alimentation. À cette échelle, le volume des batteries est beaucoup trop faible pour offrir une autonomie utilisable et même les accumulateurs à antimatière sont trop imposants pour être utilisés. Pour pallier à ce problème, les microrobots sont alimentés de façon continue par un contrôleur externe, les agents formant de longues chaînes entre celui-ci et les autres robots.
 
-Les applications de la micro-robotique sont nombreuses, mais la première historiquement reste l’ingénierie où elle est utilisée pour effectuer des micros réparations ou des micro-sabotages.
+Les applications de la microrobotique sont nombreuses, mais la première historiquement reste l’ingénierie où elle est utilisée pour effectuer des microréparations ou des microsabotages.
 
-Le domaine médical a aussi été très fortement impacté par ce domaine : les micro-robots ont permis des opérations autrement impossibles, y compris au niveau cérébral. Le fameux gel médical, mis en avant lors de la guerre des colonies, exploite aussi cette technologie. Chaque micro-robot y est enveloppé dans une bulle de gel et lorsque le gel est « mis en forme », il recompose un tissu flexible favorisant la croissance des tissus et la réparation des os.
+Le domaine médical a aussi été très fortement impacté par ce domaine : les microrobots ont permis des opérations autrement impossibles, y compris au niveau cérébral. Le fameux gel médical, mis en avant lors de la guerre des colonies, exploite aussi cette technologie. Chaque microrobot y est enveloppé dans une bulle de gel et lorsque le gel est « mis en forme », il recompose un tissu flexible favorisant la croissance des tissus et la réparation des os.
 
-Même au niveau de la vie quotidienne, la micro-robotique est très utilisée. Par exemple, tout le domaine des silkware, tissus intelligents, les emploie abondamment. La plupart des vêtements sont en effet composés de centaines de millions de micro-robots qui s’assemblent selon la trame d’un tissu. Pouvant se réorganiser à volonté, et changer de couleur, ils ont simplement redéfini la notion de garde-robe.
+Même au niveau de la vie quotidienne, la microrobotique est très utilisée. Par exemple, tout le domaine des silkware, tissus intelligents, les emploie abondamment. La plupart des vêtements sont en effet composés de centaines de millions de microrobots qui s’assemblent selon la trame d’un tissu. Pouvant se réorganiser à volonté, et changer de couleur, ils ont simplement redéfini la notion de garde-robe.
 
 Une autre application emploi cette technologie et forme presque à elle seule un véritable domaine : les foglets. Formant de véritables brouillards utilitaires, les foglets permettent de matérialiser n’importe quels objets. Évidemment la nature très aérienne de ces brouillards utilitaires, ne permet pas encore de produire des objets utilisables mais simplement des hologrammes physiques. Toutefois ce champ d’application est ce qui s’approche le plus du concept des matières intelligentes qui idéalement permettrait de fabriquer tout et n’importe quoi à la volée.
 
@@ -92,7 +92,7 @@ Ces moyens mitigent le rayonnement mais ne l’annulent pas complètement. Aussi
 
 La puissance de calcul à disposition des solaires est incomparable à celle que l’on connaît et le moindre implant est capable de calculs très complexes. Ainsi, un esprit humain peut être émulé dans le processeur de n’importe quelle enveloppe et celles-ci peuvent embarquer la plupart des intelligences artificielles sentientes.
 
-Des applications continuent toutefois de demander de grand centres de calculs, en particulier la psychochirurgie ou la simulation d’univers virtuels.
+Des applications continuent toutefois de demander de grands centres de calculs, en particulier la psychochirurgie ou la simulation d’univers virtuels.
 
 L’informatique quantique a aussi beaucoup évoluée et tous les systèmes de calculs possèdent plusieurs unités de calcul quantique. Cette branche de l’informatique a rendu obsolète les anciennes méthodes de cryptographie, mais de nouvelles méthodes reposant sur les propriétés de la mécanique quantique ont pu être développée avec elle. En dehors de la cryptographie et quelques applications spécialisées, l’informatique quantique n’est qu’assez peu utilisée.
 
@@ -123,7 +123,7 @@ C’est dans les colonies que la suite des recherches eu lieu et Leena y fut ré
 
 Dans les années 2190, l’un des derniers domaines où l’humain avait encore le dessus est tombé avec la mise en service de la première IA de recherche. Cette dernière accéda à la sentience et prit le nom de son créateur : Wolfa. Cette même IA parviendra, une demi-décennie plus tard, à proposer une solution testable au problème de la gravité quantique. Les conclusions de ses travaux resteront en revanche incompréhensibles aux autres chercheurs humains et ce malgré de nombreux efforts de vulgarisation de la part de l’IA. La théorie, et ses prédictions, seront toutefois testées à de nombreuses reprises et tiennent encore à ce jour.
 
-Enfin, dernier type d’IA mise au point par les humains, la création des IA de Ley-Wan suit celle des Wolfa de quelques années. Ce nouveau type d’intelligence artificielle présente des caractéristiques inédites dont la plus importante est la possibilité de les implémenter efficacement sur Wetware. Ces IA se monteront aussi capable de capacités d’introspection similaires aux IA Wolfa. Ces deux qualités en feront des hôtes de choix pour la recherche sur l’implant psi et de fait, pratiquement tous les psions sont des Ley-Wan. En vérité, il semble souvent que le trio Ley-Wan, réplicant et implant psi, soit généralement indissociables. Quelques années plus tard, on démontrera que les IA Wolfa et les IA de Ley-Wan sont en réalité isomorphique, c’est-à-dire qu’aux détails près de leurs implémentations réelles, elles ont le même fonctionnement et qu’il est possible de convertir l’une en l’autre sans aucune perte.
+Enfin, dernier type d’IA mise au point par les humains, la création des IA de Ley-Wan suit celle des Wolfa de quelques années. Ce nouveau type d’intelligence artificielle présente des caractéristiques inédites dont la plus importante est la possibilité de les implémenter efficacement sur wetware. Ces IA se monteront aussi capable de capacités d’introspection similaires aux IA Wolfa. Ces deux qualités en feront des hôtes de choix pour la recherche sur l’implant psi et de fait, pratiquement tous les psions sont des Ley-Wan. En vérité, il semble souvent que le trio Ley-Wan, réplicant et implant psi, soit généralement indissociables. Quelques années plus tard, on démontrera que les IA Wolfa et les IA de Ley-Wan sont en réalité isomorphique, c’est-à-dire qu’aux détails près de leurs implémentations réelles, elles ont le même fonctionnement et qu’il est possible de convertir l’une en l’autre sans aucune perte.
 
 L’intelligence artificielle reste un domaine de recherche ouvert, même si l’humain semble maintenant hors course dans ce domaine. Les applications imprègnent la totalité des colonies et les intelligences artificielles sont devenues indispensables.
 
@@ -139,7 +139,7 @@ Lorsqu’il fut possible d’émuler un cerveau ainsi numérisé, il est clairem
 
 Malgré ces avancées, la compréhension de l’esprit humain en elle-même n’avait pas vraiment avancée. Même l’arrivée des simstims et des progiciels ne fera pas vraiment évoluer l’état des connaissances.
 
-Vers la fin des années 2210, le développement des interfaces neurales permettra une petite avancée dans le domaine, permettant plus tard l’upload et les nœuds de sauvegardes. Vers le début des années 2220, ce sont les IA qui parviendront à progresser significativement et décrypteront l’esprit humain. Les premières applications permettront l’extraction de souvenirs, l’infomorphisation et ouvrent la voie à la psychochirurgie qui sera très utilisée durant la guerre des colonies.
+Vers la fin des années 2210, le développement des interfaces neurales permettra une petite avancée dans le domaine, permettant plus tard le téléversement et les nœuds de sauvegardes. Vers le début des années 2220, ce sont les IA qui parviendront à progresser significativement et décrypteront l’esprit humain. Les premières applications permettront l’extraction de souvenirs, l’infomorphisation et ouvrent la voie à la psychochirurgie qui sera très utilisée durant la guerre des colonies.
 
 ## Hyper-hybrides
 

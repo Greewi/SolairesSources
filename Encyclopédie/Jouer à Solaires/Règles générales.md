@@ -56,7 +56,7 @@ Les rôlistes – les gens qui font du jeu de rôles – ont au fil du temps dé
 >>
 >> *– Nicolas : quel genre de bruit ?*
 >>
->> *– Justine : plusieurs personnes qui avanceraient en commandos.*
+>> *– Justine : plusieurs personnes qui avanceraient en commando.*
 >>
 >> *– Sophie : merde…*
 

@@ -14,7 +14,7 @@ S’il existe une famille de robots emblématique dans toutes les colonies, c’
 
 Ressemblant à de petits arachnides caparaçonnés à quatre pattes, ils font partie des plus petits robots en fonction, mesurant un peu moins d’une dizaine de centimètres une fois déployés. Vu de près, ces robots peuvent avoir un air menaçant, notamment avec leurs deux « mandibules » portant des senseurs ou leur « dard » servant à injecter des microrobots de réparation et des nanites. Lorsqu’ils se déplacent en nombre, leur démarche accélérée peut donner l’impression d’une nuée grouillante.
 
-Leur équipement est assez complet : une petite réserve de nanites avec un assembleur, un contrôleur de microrobots, un ensemble de senseurs, un mini scanner à effet Wolfa portatif, des micros plaquettes auto-assemblables pour les avaries plus importantes, des pattes gecko, et un blindage IEM suffisant pour leur permettre de fonctionner sous le rayonnement spatial. La plupart sont aussi capable de se replier pour prendre moins de place pendant le transport, ressemblant alors à un œuf grossier.
+Leur équipement est assez complet : une petite réserve de nanites avec un assembleur, un contrôleur de microrobots, un ensemble de senseurs, un mini scanner à effet Wolfa portatif, des microplaquettes auto-assemblables pour les avaries plus importantes, des pattes gecko, et un blindage IEM suffisant pour leur permettre de fonctionner sous le rayonnement spatial. La plupart sont aussi capable de se replier pour prendre moins de place pendant le transport, ressemblant alors à un œuf grossier.
 
 Pour un solaire, ce sont les sentinelles qui veillent sur tous. Autonomes, ils patrouillent habituellement les installations à la recherche de toute avarie, dysfonctionnement ou autre anomalie et sont équipés du matériel pour effectuer les tâches de maintenance les plus courantes. Et dans l’éventualité où ils ne sauraient réparer ou corriger quelque chose, ou s’ils sont dépassés par l’ampleur d’une avarie, ils sont en permanence reliés aux services de maintenances et donc aux personnes capables de le faire. On ne compte plus le nombre d’incidents évités grâce à ces robots, au point même que certains solaires leur vouent une véritable admiration. C’est d’ailleurs le robot de compagnie le plus répandu, et ce malgré le fait qu’ils n’aient pas été conçus dans ce but initialement.
 
@@ -27,7 +27,7 @@ Pour un solaire, ce sont les sentinelles qui veillent sur tous. Autonomes, ils p
 
 Lorsque les dégâts sont trop importants ou s’il faut changer une pièce, les spiderbots sont insuffisants. C’est là que les robots de réparation légers entrent en jeu. Parfois surnommés monkeybots, ces robots ont en effet l’apparence de petits singes. Plus lourdement équipé que les spiderbots, ils sont capables d’assumer n’importe quelle tâche de réparation tant que cela ne concerne pas d’éléments structurels qui seraient trop massifs. En effet, malgré leur petite taille, ils ont la force d’un être humain non amélioré.
 
-Pour leurs tâches, ils ont été dotés de nombreux outils comparables à ceux disponibles dans les multi-tools. En l’occurrence, ils disposent de scanner à effet Wolfa, dont deux sont situés dans les mains du robot et le troisième au bout de la queue. Cette dernière porte aussi un injecteur de nanite, un contrôleur de micro-robots, une visseuse multi-fonction et une torche à plasma. Ils transportent souvent un ou deux spiderbots de soutien, une réserve conséquente de nanite et de micro-robots.
+Pour leurs tâches, ils ont été dotés de nombreux outils comparables à ceux disponibles dans les multi-tools. En l’occurrence, ils disposent de scanner à effet Wolfa, dont deux sont situés dans les mains du robot et le troisième au bout de la queue. Cette dernière porte aussi un injecteur de nanite, un contrôleur de microrobots, une visseuse multifonction et une torche à plasma. Ils transportent souvent un ou deux spiderbots de soutien, une réserve conséquente de nanite et de micro-robots.
 
 Ces robots sont évidemment moins nombreux que les spiderbots, mais restent importants pour la mise en place des chaînes de maintenance. Souvent équipé d’IA très performantes, non sentientes, ils sont capables de gérer, de façon autonome, les crises les moins graves.
 
@@ -51,7 +51,7 @@ Les dogbots sont des robots de combat emblématique sur Mars puisqu’ils sont l
 
 ## Robots d’assaut lourds
 
-Véritables plate-formes d’artillerie anti-véhicule, les robots d’assaut lourds sont parmi les plus puissantes unités au sol des colonies. Souvent nommés « crabes » en raison de leur capacité à se déplacer dans n’importe quelle direction sans avoir à effectuer de manœuvre, ces robots sont par ailleurs très lourdement blindés, pouvant même résister à de nombreuses armes classées dans les catégories lourdes.
+Véritables plateformes d’artillerie anti-véhicule, les robots d’assaut lourds sont parmi les plus puissantes unités au sol des colonies. Souvent nommés « crabes » en raison de leur capacité à se déplacer dans n’importe quelle direction sans avoir à effectuer de manœuvre, ces robots sont par ailleurs très lourdement blindés, pouvant même résister à de nombreuses armes classées dans les catégories lourdes.
 
 Disposant de deux pulseurs lourds anti-véhicule, ils peuvent tenir à eux seuls une position défensive, surtout que leurs capteurs extrêmement précis et leurs logiciels à la pointe de la technologie leur offrent des capacités sensorielles uniques : une vision à 360° de l’UV à l’infrarouge et des senseurs sismiques qui leur permettent même de repérer les véhicules furtifs.
 
@@ -95,17 +95,17 @@ Une légende urbaine veut que, durant la guerre, l’ONU ait mis plusieurs mois 
 >> * Légalité : accréditation de sécurité pour la possession et l’opération ;
 >> * Prix : négligeable.
 
-## Medibots
+## Médibots
 
-Avec un design particulièrement aérien, les medibots n’en restent pas moins des dérivés des spiderbots. Avec un corps deux fois plus grand et des pattes très fines longues de quelques décimètres, les medibots ont aussi un aspect plus fragile, impression renforcée par leur abdomen translucide et généralement luminescent. Leurs deux grandes antennes, servant en réalité de manipulateurs, renforcent l’air gracieux de ces robots, plus particulièrement lorsqu’ils évoluent sur leurs échasses.
+Avec un design particulièrement aérien, les médibots n’en restent pas moins des dérivés des spiderbots. Avec un corps deux fois plus grand et des pattes très fines longues de quelques décimètres, les médibots ont aussi un aspect plus fragile, impression renforcée par leur abdomen translucide et généralement luminescent. Leurs deux grandes antennes, servant en réalité de manipulateurs, renforcent l’air gracieux de ces robots, plus particulièrement lorsqu’ils évoluent sur leurs échasses.
 
 Pour traiter les blessures et les plaies, ils disposent de deux scalpels à lame active, d’un injecteur de diverses drogues, de gel médical et de nano-chirurgiens. Compte tenu de leur petite taille, ils fonctionnent généralement en escouade, certains embarquant les drogues, d’autres le gel médical.
 
 Ces robots sont utilisés comme des robots médicaux d’urgence, de la même façon qu’une trousse de soin. Ils sont équipés pour intervenir sur des blessures requérant une intervention immédiate ainsi que les blessures légères. On les trouve donc principalement dans les infirmeries et les salles de soins de la plupart des habitations. Ainsi, bien qu’ils soient très largement moins nombreux que les spiderbots, ils restent représentés dans la totalité des colonies, stations et vaisseaux.
 
-Toutefois, si les solaires régulièrement confrontés au danger, et plus particulièrement les mercenaires, les emploient régulièrement, les blessures infligées par les armes actuelles sont souvent bien trop graves pour être soignées par des medibots seuls.
+Toutefois, si les solaires régulièrement confrontés au danger, et plus particulièrement les mercenaires, les emploient régulièrement, les blessures infligées par les armes actuelles sont souvent bien trop graves pour être soignées par des médibots seuls.
 
->> ### Medibots
+>> ### Médibots
 >> * Accès : disponibles dans toutes les infirmeries, en vente libre ;
 >> * Légalité : aucune restriction pour un usage normal, accréditation médicale pour l’opération de leurs composants ;
 >> * Prix : négligeable.
@@ -114,7 +114,7 @@ Toutefois, si les solaires régulièrement confrontés au danger, et plus partic
 
 Sans un entretien régulier, une station ou une colonie finit vite par être envahie de déchets, qu’ils soient organiques ou non. Et même s’il serait facile de blâmer les seuls êtres organiques, tout le monde, à l’exception peut-être des infomorphes, produit poussière et autres salissures.
 
-Pour maintenir l’état de propreté des colonies, on utilise principalement les robots d’entretiens, que les solaires appellent souvent cleanerbots. Ressemblant à de gros scarabées d’une vingtaine de centimètres de long, ils sont pourvu d’un système de ramassage et leur abdomen est intégralement réservé au stockage des déchets ramassés avant qu’ils ne soient jetés au recycleur. Ils possèdent aussi des brosses et peuvent pulvériser divers détergents pour nettoyer diverses taches.
+Pour maintenir l’état de propreté des colonies, on utilise principalement les robots d’entretiens, que les solaires appellent souvent cleanerbots. Ressemblant à de gros scarabées d’une vingtaine de centimètres de long, ils sont pourvus d’un système de ramassage et leur abdomen est intégralement réservé au stockage des déchets ramassés avant qu’ils ne soient jetés au recycleur. Ils possèdent aussi des brosses et peuvent pulvériser divers détergents pour nettoyer diverses taches.
 
 Les robots d’entretien sont généralement épaulés par des spiderbots qui leur servent d’éclaireur. Ceux-ci sont aussi capables de rapporter les déchets les plus isolés. De plus, si un déchet ne peut pas être ramassé par les robots d’entretien, ceux-ci appellent automatiquement le service de maintenance pour s’en charger. En condition normale, ceci n’arrive que de façon exceptionnelle.
 
@@ -140,7 +140,7 @@ Il est en revanche notable que ces robots servent souvent d’enveloppe pour des
 
 ## Robots patrouilleurs
 
-La sécurité est un domaine qui englobe les actions de police, la lutte contre les incendies et autres dangers, ainsi que le sauvetage. Pour effectuer ces tâches, les corporations ont choisi d’utiliser des robots humanoïde et polyvalents. Toutefois, même si l’interaction sociale reste importante, les robots patrouilleurs sont très différents des androïdes syntha et affichent leur nature cybernétique ostensiblement pour être distingués des agents sentients. Ils portent quand même l’uniforme de leur service de sécurité pour être facilement identifiables.
+La sécurité est un domaine qui englobe les actions de police, la lutte contre les incendies et autres dangers, ainsi que le sauvetage. Pour effectuer ces tâches, les corporations ont choisi d’utiliser des robots humanoïdes et polyvalents. Toutefois, même si l’interaction sociale reste importante, les robots patrouilleurs sont très différents des androïdes syntha et affichent leur nature cybernétique ostensiblement pour être distingués des agents sentients. Ils portent quand même l’uniforme de leur service de sécurité pour être facilement identifiables.
 
 L’équipement standard des robots patrouilleurs des colonies varie en fonction de leur mission. Ceux envoyés sur des missions de maintien de l’ordre emportent une arme shock, une tenue de protection légère et un logiciel de sociabilité spécialisé dans la désescalade. Ceux missionnés pour une situation d’urgence, comme un incendie, sont équipés d’outils spécialisés comme des extincteurs, des kits médicaux, des combinaisons de protection spécialisées, etc. Comme leur profil de mission peut être modifié à la volée, leur équipement n’est pas intégré, ce qui leur permet aussi d’utiliser du matériel plus standard.
 
@@ -155,9 +155,9 @@ En dépit des efforts des services de sécurité respectifs, des robots patrouil
 
 Le déplacement en gravité faible ou nulle ne pose pas de véritable problème pour la plupart des robots, très largement équipés de dispositifs gecko. En revanche, ces environnements permettent d’autres modes de déplacement bien plus intéressant. C’est dans le but d’exploiter ces possibilités que les aerogravs ont été conçus.
 
-Aussi appelé hoverbots, bien que cette appellation soit tout aussi erronée que l’autre, ces robots sont capables de manœuvrer sur six axes. Disposant de plusieurs micro-réacteurs capables de les propulser dans n’importe quelle direction, ces robots sont parfaitement adaptés aux patrouilles et interventions en apesanteur et faible pesanteur comme celles à la surface des plus petites lunes. En revanche, il est inutile de leur chercher une utilité dans des environnements dont la pesanteur atteint celle des lunes galiléennes ou de titan, leurs réacteurs devenant très nettement insuffisants.
+Aussi appelé hoverbots, bien que cette appellation soit tout aussi erronée que l’autre, ces robots sont capables de manœuvrer sur six axes. Disposant de plusieurs microréacteurs capables de les propulser dans n’importe quelle direction, ces robots sont parfaitement adaptés aux patrouilles et interventions en apesanteur et faible pesanteur comme celles à la surface des plus petites lunes. En revanche, il est inutile de leur chercher une utilité dans des environnements dont la pesanteur atteint celle des lunes galiléennes ou de titan, leurs réacteurs devenant très nettement insuffisants.
 
-Que ce soit pour des usages civils ou militaires, ces robots sont principalement utilisé pour des patrouilles extra-véhiculaire, même si plusieurs installations spatiales peuvent en faire usage dans les zones de maintenance dépourvues de gravité artificielle.
+Que ce soit pour des usages civils ou militaires, ces robots sont principalement utilisés pour des patrouilles extravéhiculaire, même si plusieurs installations spatiales peuvent en faire usage dans les zones de maintenance dépourvues de gravité artificielle.
 
 >> ### Aerogravs
 >> * Accès : déployés par les services de sécurité et techniques des colonies dans les installations spatiales ;

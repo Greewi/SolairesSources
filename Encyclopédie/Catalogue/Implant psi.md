@@ -17,7 +17,7 @@ Certains personnages, les psions, possèdent un implant très particulier : l�
 
 Les pouvoirs de la biologie affectent la vie organique et hyper hybride.
 
->> Seuls les parties organiques ou hyper-hybrides d’un être peuvent être affectées par ces pouvoirs. Les parties purement cybernétiques ne sont pas affectées et les implants cybernétiques d’un corps organique sont même considérés comme des corps étrangers par ces pouvoirs.
+>> Seules les parties organiques ou hyper-hybrides d’un être peuvent être affectées par ces pouvoirs. Les parties purement cybernétiques ne sont pas affectées et les implants cybernétiques d’un corps organique sont même considérés comme des corps étrangers par ces pouvoirs.
 
 Capacités :
 * **Percevoir les formes de vie et lire leurs variables vitales**.
@@ -49,7 +49,7 @@ Traits psychologiques : *Impulsif, Vif, Téméraire, Agressif*.
 
 ## Pouvoirs : Espace
 
-Les pouvoirs de l’espace sont reliés à la position des objets mais aussi à la déformation de l’espace temps.
+Les pouvoirs de l’espace sont reliés à la position des objets mais aussi à la déformation de l’espace-temps.
 
 Capacités :
 * **Percevoir la position des objets**.

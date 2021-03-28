@@ -69,7 +69,7 @@ En plus de son pseudonyme, votre personnage possède habituellement un **nom adm
 
 Choisissez le **pronom** associé à votre personnage. Généralement relié au genre ou à l’identité de genre, ce pronom est celui utilisé par les autres pour parler de lui. Si les corps administratifs privilégient le « they » singulier et ses variantes (iel est ce qui se rapproche le plus d’un pronom de genre neutre pour désigner une personne en français), chaque solaire peut afficher le pronom qu’ils préfèrent qu’on utilise pour eux parmi leurs tags de réalité augmentée. Les choix les plus courants restant « they » (iel), « she » (elle) et « he » (il).
 
-Choisissez la **nature de l’esprit** de votre personnage. Il s’agit du moteur de son intelligence, de sa conscience de sa capacité à percevoir et ressentir, bref d’être sentient. C’est typiquement ce qui le distingue d’une simple brique ou qu’un automate. Nous vous conseillons de choisir cette nature d’esprit parmi les suivantes : Intelligence naturelle, Intelligence provoluée, Intelligence Artificielle Synchro, Intelligence Artificielle Wolfa, Intelligence Artificielle de Ley-Wan. Notez que les deux premières peuvent être supervisée (pour améliorer leurs capacités), émulée (pour être intégrée dans des cerveaux cybernétiques ou hyper-hybrides) ou même infomorphisée (pour être transformée en être de pur information vivant sur le réseau). Vous trouverez plus de détails dans le chapitre *Intelligences*.
+Choisissez la **nature de l’esprit** de votre personnage. Il s’agit du moteur de son intelligence, de sa conscience de sa capacité à percevoir et ressentir, bref d’être sentient. C’est typiquement ce qui le distingue d’une simple brique ou qu’un automate. Nous vous conseillons de choisir cette nature d’esprit parmi les suivantes : Intelligence naturelle, Intelligence provoluée, Intelligence Artificielle Synchro, Intelligence Artificielle Wolfa, Intelligence Artificielle de Ley-Wan. Notez que les deux premières peuvent être supervisée (pour améliorer leurs capacités), émulée (pour être intégrée dans des cerveaux cybernétiques ou hyper-hybrides) ou même infomorphisée (pour être transformée en être de pures informations vivant sur le réseau). Vous trouverez plus de détails dans le chapitre *Intelligences*.
 
 Choisissez ensuite le type de **l’enveloppe usuelle** de votre personnage. L’enveloppe est le corps du personnage et son interface avec le monde physique. Nous vous conseillons de le choisir parmi les suivantes : Biologique, Provolué, Réplicant, Chimère, Hyper-Hybride, Cybernétique ou Infomorphe. Notez que les enveloppes Biologique, Provoluée, Réplicante et Chimères peuvent être Biomodifiée (par des modifications organiques comme la reprogrammation génétique ou la greffe) ou Cybernétisée (par l’ajout d’implant cybernétique). Vous trouverez plus de détails dans le chapitre *Enveloppes*.
 
@@ -104,7 +104,7 @@ Décrivez ensuite son comportement, c’est-à-dire sa psychologie. Remplissez l
 
 Résumez l’histoire de votre personnage. N’hésitez pas à y mettre en valeur les métiers et relations que votre personnage a pu pratiquer ou connaître. Pour vous aider, vous pouvez essayer de répondre aux questions suivantes :
 * Commencez par sa naissance ou sa création. Dans quel contexte est-il né ? Avait-il un but à sa création ?
-* Y a-t-il eu des événements particuliers qui ont marqué son enfance ou la période ou il était au service de ses créateurs ?
+* Y a-t-il eu des événements particuliers qui ont marqué son enfance ou la période où il était au service de ses créateurs ?
 * A-t-il eu besoin de prendre son indépendance ? A-t-il accédé à la sentience au cours de sa vie ?
 * Une fois indépendant ou adulte, qu’a-t-il fait de sa vie ?
 * A-t-il connu la guerre des colonies ? Comment l’a-t-il affecté ? Qu’est-il devenu après ?
@@ -127,7 +127,7 @@ Par exemple, en créant le personnage de Feyn, vous êtes en train d’évaluer 
 
 Voici les catégories et leurs échelles d’évaluation.
 
-**Les traits (T)** réprésentent les points particuliers du personnage, physiques comme mentaux. Pour les évaluer, utilisez la correspondance suivante :
+**Les traits (T)** représentent les points particuliers du personnage, physiques comme mentaux. Pour les évaluer, utilisez la correspondance suivante :
 * **Insignifiant (0)** : une particularité qui n’a aucun impact pour le personnage et ses actions.
 * **Léger (1)** : une particularité qui ne se remarque pas nécessairement et qui n’a pas un impact majeur sur la vie du personnage.
 * **Important (2)** : une particularité qui est difficile à manquer mais qui ne conditionne pas pour autant la vie du personnage.

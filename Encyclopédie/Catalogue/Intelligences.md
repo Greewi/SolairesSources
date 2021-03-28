@@ -20,7 +20,7 @@ Les deux premières catégories (Intelligences naturelles et provoluées), peuve
 
 ## Sentience
 
-Dans solaires, la sentience est une propriété émergente dont la définition a évolué par rapport à celle du début du siècle. Légalement, les corporations se réfèrent au traité des Solaires qui défini sommairement la sentience comme l’ensemble des traits suivants :
+Dans solaires, la sentience est une propriété émergente dont la définition a évolué par rapport à celle du début du siècle. Légalement, les corporations se réfèrent au traité des Solaires qui définit sommairement la sentience comme l’ensemble des traits suivants :
 * **Conscience de soi** : l’être a conscience de lui et peut s’identifier.
 * **Conscience de son environnement** : l’être à conscience de son environnement et le distingue de lui-même. Il est aussi conscient de sa capacité à influer sur cet environnement.
 * **Conscience des autres** : l’être est conscient de l’existence des autres êtres sentients qui l’entourent.
@@ -69,7 +69,7 @@ Les intelligences naturelles ont besoin d’un **cerveau organique** pour être 
 
 L’émulation consiste à simuler un substrat organique dans un cerveau cybernétique pour pouvoir y instancier une intelligence naturelle ou provoluée. L’opération, entièrement réversible est relativement ancienne et était déjà utilisée dans l’intégration des premiers cyborgs absolus.
 
-L’émulation nécessite de numériser intégralement l’esprit de la personne pour ensuite l’instancier sur le nouveau substrat. Compte tenu que le transfert est une copie de donnée associé à un « arrêt » de l’original, les premiers cyborgs absolus intégrés sont issus de personnes dont l’enveloppe était trop endommagée pour être maintenue en vie. Avec le temps, de plus en plus de solaires font le choix d’abandonner leur ancienne enveloppe pour intégrer ces enveloppes plus performantes en dépit des considérations philosophiques. Légalement, les autorités des colonies autorise cet acte (et de nombreux autres) du moment qu’il est le fruit d’un choix éclairé, mais considèrent malgré tout qu’il s’agit d’un suicide avec transmission de l’identité et des privilèges.
+L’émulation nécessite de numériser intégralement l’esprit de la personne pour ensuite l’instancier sur le nouveau substrat. Compte tenu que le transfert est une copie de donnée associé à un « arrêt » de l’original, les premiers cyborgs absolus intégrés sont issus de personnes dont l’enveloppe était trop endommagée pour être maintenue en vie. Avec le temps, de plus en plus de solaires font le choix d’abandonner leur ancienne enveloppe pour intégrer ces enveloppes plus performantes en dépit des considérations philosophiques. Légalement, les autorités des colonies autorisent cet acte (et de nombreux autres) du moment qu’il est le fruit d’un choix éclairé, mais considèrent malgré tout qu’il s’agit d’un suicide avec transmission de l’identité et des privilèges.
 
 Les intelligences émulées peuvent être instanciées sur **un cerveau cybernétique ou hyper-hybride**. Cette modification est **facilement réversible**, même si elle nécessite la désactivation de l’instance émulée.
 
@@ -107,7 +107,7 @@ Les intelligences artificielles (IA) sont très présentes dans l’univers de S
 
 Il existe plusieurs catégories d’IA :
 * Les IA restreintes : qui ont été conçues pour réaliser une tâche spécifiquement avec de très maigres capacités d’adaptation et sans la possibilité d’exécuter une autre tâche sans un nouvel apprentissage. Bien que des IA restreintes spécifiquement entraînées aient passé le test de Turing par le passé, elles sont toutes non-sentientes.
-* Les IA générales non-sentientes : conçues pour réaliser des tâches plus générales et s’adapter en fonction du contexte sans y avoir été spécifiquement préparée, ces IA sont très puissantes. Non-sentientes, elles ne définissent pas leurs propres objectifs elle-mêmes et restent des outils.
+* Les IA générales non-sentientes : conçues pour réaliser des tâches plus générales et s’adapter en fonction du contexte sans y avoir été spécifiquement préparée, ces IA sont très puissantes. Non-sentientes, elles ne définissent pas leurs propres objectifs elles-mêmes et restent des outils.
 * Les IA sentientes : disposant de tous les traits de la sentience, ces IA générales sont considérées comme des personnes et des citoyennes.
 
 Nous ne traiterons ici que de la dernière catégorie, les IA non-sentientes ne font pas des personnages joueurs intéressants et nous les déconseillons fortement en tant que tel.
@@ -131,7 +131,7 @@ Il existe de nombreux modèles d’IA, mais il n’en existe que trois qui puiss
 
 ## IA Synchro
 
-Historiquement, la première famille d’intelligence artificielle générale sont le type Synchro. Synchro est la première intelligence artificielle générale de l’histoire de l’humanité. Hiartech, la société qui l’a créé s’en est servi pour sa gestion ce qui lui a, semble-t-il, donné un avantage significatif. Synchro elle-même n’était pas sentiente : la première IA sentiente est Leena, qui aura joué, malgré elle, un rôle important dans l’initialisation du conflit entre Mars et l’ONU.
+Historiquement, la première famille d’intelligence artificielle générale est le type Synchro. Synchro est la première intelligence artificielle générale de l’histoire de l’humanité. Hiartech, la société qui l’a créé s’en est servi pour sa gestion ce qui lui a, semble-t-il, donné un avantage significatif. Synchro elle-même n’était pas sentiente : la première IA sentiente est Leena, qui aura joué, malgré elle, un rôle important dans l’initialisation du conflit entre Mars et l’ONU.
 
 Les intelligences artificielles Synchro sont encore massivement utilisées dans les colonies car elles possèdent les meilleures capacités de prévision et de structuration. Par ailleurs, leur stabilité est telle qu’a moins de les concevoir dans ce but, elles ne dérivent pas vers la sentience.
 
@@ -155,7 +155,7 @@ La dernière famille découverte, les IA de Ley-Wan, est le résultat des recher
 
 La preuve ayant été fournie, ce modèle d’IA sera très fortement employé notamment pour piloter des corps de réplicants. Avec la découverte de l’implant psi, ce type d’IA devient l’un des trois piliers de la combinaison implant psi/réplicant/Ley-Wan qui reste le meilleur moyen d’accéder à cette technologie. Les IA de Ley-Wan se distingue principalement par le fait qu’il s’agit du seul type d’IA générale implémentable sur un substrat organique. C’est aussi le seul type d’IA qui ne puisse pas être implémenté sous une forme informorphe ni sur un substrat cybernétique sans émulation.
 
-En revanche, il a été démontré qu’elles sont isomorphes avec les IA Wolfa ce qui signifie qu’il est possible de convertir un de ces deux modèles vers l’autre sans aucune perte et inversement. C’est pourquoi les IA de Ley-Wan possèdent des capacités proches des IA Wolfa, notamment sur les aspects d’innovation, de recherche et d’introspection. Ce dernier point est à lui-seul la raison pour laquelle ces IA sont capables de maîtriser l’implant psi en quelques mois quand plusieurs années sont à peine suffisante pour un esprit humain.
+En revanche, il a été démontré qu’elles sont isomorphes avec les IA Wolfa ce qui signifie qu’il est possible de convertir un de ces deux modèles vers l’autre sans aucune perte et inversement. C’est pourquoi les IA de Ley-Wan possèdent des capacités proches des IA Wolfa, notamment sur les aspects d’innovation, de recherche et d’introspection. Ce dernier point est à lui-seul la raison pour laquelle ces IA sont capables de maîtriser l’implant psi en quelques mois quand plusieurs années sont à peine suffisantes pour un esprit humain.
 
 Les IA de Ley-Wan sont malheureusement très sensibles à la dérive imposée par la nature vivante de leur substrat et, à moins d’une maintenance régulière, elles finissent systématiquement par devenir sentientes et ce bien plus rapidement que les IA Wolfa.
 

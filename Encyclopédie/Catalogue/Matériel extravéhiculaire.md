@@ -6,9 +6,9 @@
 
 ## Combinaisons spatiales
 
-L’espace est intrinsèquement hostile à la plupart des êtres organiques et cybernétiques. Aussi les combinaisons spatiales sont indispensables pour effectuer une sortie extra-véhiculaire ou opérer dans une installation dépressurisée.
+L’espace est intrinsèquement hostile à la plupart des êtres organiques et cybernétiques. Aussi les combinaisons spatiales sont indispensables pour effectuer une sortie extravéhiculaire ou opérer dans une installation dépressurisée.
 
-Les modèles pour les opérations internes sont très légers et offrent une mobilité presque équivalente à des vêtements très épais. L’isolation reste légère et ne permet pas à un spationaute de rester exposer au rayonnement solaire bien longtemps à l’intérieur de l’orbite martienne. Ils n’offrent pas non plus de protection réelle aux environnements de surface en particulier contre les terrains gelés de la plupart des lunes jovienne et saturnienne, ni à l’abrasion de la régolithe.
+Les modèles pour les opérations internes sont très légers et offrent une mobilité presque équivalente à des vêtements très épais. L’isolation reste légère et ne permet pas à un spationaute de rester exposer au rayonnement solaire bien longtemps à l’intérieur de l’orbite martienne. Ils n’offrent pas non plus de protection réelle aux environnements de surface en particulier contre les terrains gelés de la plupart des lunes jovienne et saturnienne, ni à l’abrasion du régolithe.
 
 Les combinaisons extravéhiculaires sont beaucoup plus imposantes et la plupart sont dédiées pour leur environnement d’usage. Ainsi les combinaisons spatiales utilisées pour travailler en orbite terrestre sont particulièrement adaptées pour les alternances jour/nuit lors des révolutions orbitales qui imposent des variations de températures très importantes. De leur côté, les combinaisons de surfaces utilisées par les agents à la surface de Mars ou de Titan sont plus adaptées à leur atmosphère respective et aux terrains rocailleux. Les combinaisons pour évoluer à la surface des lunes glacées et sans atmosphère ont été très consciencieusement renforcées pour résister au régolite et aux éclats tranchants qui parsèment ces surfaces accidentées.
 
@@ -30,18 +30,18 @@ Cette adhérence fonctionne à volonté, aussi bien dans le vide que sous l’ea
 >> * Légalité : aucune restriction ;
 >> * Prix : négligeable.
 
-## Jet-packs
+## Jetpacks
 
 Se déplacer en apesanteur demande de pouvoir se raccrocher à quelque chose et c’est d’ailleurs la raison pour laquelle les stations spatiales et la coque des vaisseaux sont couvertes de rambardes et poignées.
 
-Si un astronaute se retrouve sans prise, il dérivera jusqu’à ce qu’il heurte quelque chose et l’espace est particulièrement vide… Pour palier à ce problème, des dispositifs de propulsions qui exploitent les forces de réaction, permettent de se déplacer. Si à l’échelle d’un vaisseau on parle de réacteur et de système de contrôle par réaction, pour spationaute, on se contente d’appeler ces appareils des jet-packs.
+Si un astronaute se retrouve sans prise, il dérivera jusqu’à ce qu’il heurte quelque chose et l’espace est particulièrement vide… Pour pallier à ce problème, des dispositifs de propulsions qui exploitent les forces de réaction, permettent de se déplacer. Si à l’échelle d’un vaisseau on parle de réacteur et de système de contrôle par réaction, pour spationaute, on se contente d’appeler ces appareils des jetpacks.
 
-Grossièrement, il existe deux sortes de jet-packs : les dispositifs de sécurité qui utilisent des gaz comprimés avec une très faible autonomie, et les jet-packs des commandos spatiaux avec leurs propulseurs ioniques et une autonomie conçue pour tenir une mission d’assaut.
+Grossièrement, il existe deux sortes de jetpacks : les dispositifs de sécurité qui utilisent des gaz comprimés avec une très faible autonomie, et les jetpacks des commandos spatiaux avec leurs propulseurs ioniques et une autonomie conçue pour tenir une mission d’assaut.
 
 Ces deux modèles restent des appareils encombrants comportant des réservoirs et des tuyères orientables qui éjectent des gaz ou du plasma pour permettre la propulsion. La manœuvrabilité est habituellement très mauvaise, même pour les modèles des commandos d’assaut, mais les modèles les plus avancées disposent d’une interface assistée par une IA pour simplifier leur utilisation.
 
->> ### Jet-packs
->> * Accès : modèles de sécurité sur la plupart des combinaisons spatiale extravéhiculaire, modèles lourd sur les armures des commandos spatiaux ;
+>> ### Jetpacks
+>> * Accès : modèles de sécurité sur la plupart des combinaisons spatiale extravéhiculaire, modèles lourds sur les armures des commandos spatiaux ;
 >> * Légalité : usage en intérieur interdit ;
 >> * Prix : important pour un particulier, négligeable pour une société ou une corporation.
 
@@ -65,7 +65,7 @@ Lorsqu’il s’agit d’inspecter une épave ou un potentiel site où installer
 Les robots d’inspections sont des drones dotés de mini propulseurs ioniques qui leur permettent d’évoluer dans toutes les directions. Ils embarquent des caméras et des appareils de mesures pour numériser et analyser les différents sites rapidement. Agiles, ces robots légers sont aussi très faciles à produire et entièrement sacrifiable. Des variantes de loisir sont parfois utilisés dans les grands dômes des colonies martiennes et titanes, mais les autorités voient d’un assez mauvais œil cet usage détourné.
 
 >> ### Robot d’inspection
->> * Accès : standards dans tous les vaisseaux et installations spatiales, modèles de loisir en libre service dans certaines colonies ;
+>> * Accès : standards dans tous les vaisseaux et installations spatiales, modèles de loisir en libre-service dans certaines colonies ;
 >> * Légalité : accréditation technique pour leur opération, modèles de loisir soumis à une accréditation spécifique ;
 >> * Prix : négligeable.
 

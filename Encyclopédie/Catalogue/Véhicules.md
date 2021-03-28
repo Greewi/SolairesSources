@@ -17,7 +17,7 @@ Les mechas ont un fonctionnement légèrement différent des exosquelettes : al
 >> * Légalité : accréditation technique requise pour l’opération ;
 >> * Prix : stratégique pour un particulier, négligeable pour une corporation ou une société.
 
->> ### Exosquelette d’opération extra-véhiculaire
+>> ### Exosquelette d’opération extravéhiculaire
 >> * Accès : disponibles dans les chantiers spatiaux, chantiers de colonies et vaisseaux d’intervention spéciaux ;
 >> * Légalité : accréditation technique requise pour l’opération ;
 >> * Prix : stratégique pour un particulier, important pour une société, négligeable pour une corporation.
@@ -90,9 +90,9 @@ Les militaires les utilisent aussi de façon intensive. De nombreux modèles pos
 
 Les chasseurs sont les plus petits appareils spatiaux de combat après les torpilles. Non pilotés et disposant d’une faible autonomie, ces engins sont capables de manœuvres exigeant des accélérations bien supérieures à ce que la plupart des solaires peuvent encaisser. Pilotés par des IAs dédiées, ils sont aussi capables de réactions surhumaine.
 
-Le rôle des chasseurs spatiaux n’est pas d’attaquer directement l’adversaire : leur taille et leur manœuvrabilité les rend plus simples à toucher que les torpilles et les canons de défense de pointe de la plupart des vaisseaux les déchiquetterait très rapidement, de plus leur armement limité reste insuffisant pour percer le blindage des vaisseaux les plus lourdement protégés. Les chasseurs, dans la logique martienne, ont un rôle de soutien et de protection. Formant des essaims, une partie de leur rôle est d’avancer les cannons de défense de pointe vers le front pour protéger la flotte des torpilles mais aussi de servir de point d’observation avancé. Ils sont aussi très utiles pour repérer et détruire les mines spatiales sans prendre de risque pour les vaisseaux habités.
+Le rôle des chasseurs spatiaux n’est pas d’attaquer directement l’adversaire : leur taille et leur manœuvrabilité les rend plus simples à toucher que les torpilles et les canons de défense de pointe de la plupart des vaisseaux les déchiquetterait très rapidement, de plus leur armement limité reste insuffisant pour percer le blindage des vaisseaux les plus lourdement protégés. Les chasseurs, dans la logique martienne, ont un rôle de soutien et de protection. Formant des essaims, une partie de leur rôle est d’avancer les canons de défense de pointe vers le front pour protéger la flotte des torpilles mais aussi de servir de point d’observation avancé. Ils sont aussi très utiles pour repérer et détruire les mines spatiales sans prendre de risque pour les vaisseaux habités.
 
-Dans les engagements plus réduits, notamment lorsqu’il n’y a pas de vaisseaux capitaux, les chasseurs peuvent être utilisés plus offensivement. La portée des canons de pointe de défense n’est pas lié à la puissance de feu (les munitions ne ralentissent pas dans l’espace), mais à leur précision or, les chasseurs étant très maniables et petits, ils sont moins susceptibles d’être touchés qu’un vaisseau plus large à la même portée d’engagement.
+Dans les engagements plus réduits, notamment lorsqu’il n’y a pas de vaisseaux capitaux, les chasseurs peuvent être utilisés plus offensivement. La portée des canons de pointe de défense n’est pas liée à la puissance de feu (les munitions ne ralentissent pas dans l’espace), mais à leur précision or, les chasseurs étant très maniables et petits, ils sont moins susceptibles d’être touchés qu’un vaisseau plus large à la même portée d’engagement.
 
 Les flottes de certains groupes, notamment Mars et les Soleils, emploient les chasseurs massivement en leur dédiant des vaisseaux de ligne complet, les porte-nef. Ces vaisseaux sont capables de déployer plusieurs centaines de chasseurs en quelques minutes, capable de couvrir une flotte entière.
 

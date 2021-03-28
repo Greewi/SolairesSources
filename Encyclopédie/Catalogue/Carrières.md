@@ -22,13 +22,13 @@ Les astronautes sont des opérateurs dans le domaine spatial très lourdement en
 
 Aspects : Espace.
 
-Exemples d’actions typiques : Effectuer une sortie spatiale, Garder son sang froid, Opérer en 0 g, etc.
+Exemples d’actions typiques : Effectuer une sortie spatiale, Garder son sang-froid, Opérer en 0 g, etc.
 
-Matériel courant : Combinaison spatiale, jet-pack, multitool, logiciels de maintenance, etc.
+Matériel courant : Combinaison spatiale, jet-pack, multi-tool, logiciels de maintenance, etc.
 
 ## Commando spatial
 
-Les commandos spatiaux sont des soldats formés et entraînés pour les combats spatiaux, que ce soit à l’intérieur d’une station, lors de l’abordage d’un vaisseau ou dans le vide spatial. L’environnement extra-véhiculaire et l’absence de gravité remettent en question les méthodes conventionnelles des infanteries régulières. Lors de leurs missions, ces agents savent que l’espace peut rapidement devenir plus dangereux que l’ennemi même.
+Les commandos spatiaux sont des soldats formés et entraînés pour les combats spatiaux, que ce soit à l’intérieur d’une station, lors de l’abordage d’un vaisseau ou dans le vide spatial. L’environnement extravéhiculaire et l’absence de gravité remettent en question les méthodes conventionnelles des infanteries régulières. Lors de leurs missions, ces agents savent que l’espace peut rapidement devenir plus dangereux que l’ennemi même.
 
 Aspects : Espace, Combat.
 
@@ -54,7 +54,7 @@ Aspects : Technologie.
 
 Exemples d’actions typiques : Réparer du matériel, Installer une modification, Piloter un robot de maintenance, etc.
 
-Matériel courant : multitool, robots de maintenance, logiciels de maintenance, etc.
+Matériel courant : multi-tool, robots de maintenance, logiciels de maintenance, etc.
 
 ## Cyber-Samouraï
 
@@ -108,7 +108,7 @@ Matériel courant : logiciel de reconstitution, scanner Wolfa portatif, multi-t
 
 ## Espion
 
-Les espions sont des agents de l’ombre, spécialistes des opérations furtives et de l’infiltration. Un bon espion, c’est celui qui a opéré sans l’ennemi ne l’apprenne. Leurs missions les conduits souvent à voler des informations, détourner des ressources ennemies, désinformer, saboter, etc. Que ce soit à travers l’usage de personna, d’ingénierie sociale ou de furtivité, ils sont capables d’utiliser de très nombreuses approches pour accomplir leur missions.
+Les espions sont des agents de l’ombre, spécialistes des opérations furtives et de l’infiltration. Un bon espion, c’est celui qui a opéré sans l’ennemi ne l’apprenne. Leurs missions les conduits souvent à voler des informations, détourner des ressources ennemies, désinformer, saboter, etc. Que ce soit à travers l’usage de personna, d’ingénierie sociale ou de furtivité, ils sont capables d’utiliser de très nombreuses approches pour accomplir leurs missions.
 
 Aspects : Infiltration.
 
@@ -168,13 +168,13 @@ Matériel courant : textes de lois et historique légal des colonies.
 
 ## Justicier
 
-Les justiciers sont des enquêteurs indépendants et les défenseurs engagés de leurs clients. N’hésitant par à prendre part directement aux combats pour défendre leurs idéaux, ils ont une approche très directe concernant leurs affaires. Ils opèrent en marge des forces de sécurités régulières et s’ils opèrent généralement en solitaire, ils reçoivent parfois leurs missions des corporations qui tentent de canaliser leur besoin d’action en profitant de leurs capacités souvent atypiques. D’autres trouvent leurs sources d’aventure par des moyens moins officiels, principalement grâce à des alliés mieux renseignés.
+Les justiciers sont des enquêteurs indépendants et les défenseurs engagés de leurs clients. N’hésitant pas à prendre part directement aux combats pour défendre leurs idéaux, ils ont une approche très directe concernant leurs affaires. Ils opèrent en marge des forces de sécurités régulières et s’ils opèrent généralement en solitaire, ils reçoivent parfois leurs missions des corporations qui tentent de canaliser leur besoin d’action en profitant de leurs capacités souvent atypiques. D’autres trouvent leurs sources d’aventure par des moyens moins officiels, principalement grâce à des alliés mieux renseignés.
 
 Aspects : Combat, Enquête, Infiltration.
 
 Exemples d’actions typiques : Se battre, Interroger un suspect, S’introduire dans un domicile, Échapper aux forces de sécurité, etc.
 
-Matériel courant : armes shock, armure légère, logiciel de reconstitution, décodeur, etc.
+Matériel courant : armes shocks, armure légère, logiciel de reconstitution, décodeur, etc.
 
 ## Hygiéniste
 
@@ -184,7 +184,7 @@ Aspects : Technologie, Négociation.
 
 Exemples d’actions typiques : Diagnostiquer un patient, Prédire un risque sanitaire, Piloter un robot médical, etc.
 
-Matériel courant : robots médical, station médicale, scanner wolfa, synthétiseur, medikit, etc.
+Matériel courant : robots médical, station médicale, scanner Wolfa, synthétiseur, médikit, etc.
 
 ## Medic de combat
 
@@ -194,7 +194,7 @@ Aspects : Combat, Technologie.
 
 Exemples d’actions typiques : Diagnostiquer un patient, Apporter des soins, Réparer une prothèse, Remplacer un implant, etc.
 
-Matériel courant : medibot, medikit, multitool, fusil pulseur, armure légère, etc.
+Matériel courant : médibot, médikit, multi-tool, fusil pulseur, armure légère, etc.
 
 ## Mercenaire
 
@@ -278,7 +278,7 @@ Matériel courant : un beau costume, lecteur d’intention, etc.
 
 ## Psion
 
-Les psions sont simplement des solaires possédant l’implant psi. Cet implant leur octroie des capacités surnaturelles encore inexpliquées qui font fie de certaines lois de la physique. Ainsi, en fonction de la nature de l’implant, ils peuvent déplacer des objets, se soustraire à la perception des autres, projeter des éclairs, etc.
+Les psions sont simplement des solaires possédant l’implant psi. Cet implant leur octroie des capacités surnaturelles encore inexpliquées qui font fi de certaines lois de la physique. Ainsi, en fonction de la nature de l’implant, ils peuvent déplacer des objets, se soustraire à la perception des autres, projeter des éclairs, etc.
 
 Aspects : Varie en fonction de l’ensemble de pouvoir.
 
@@ -318,7 +318,7 @@ Matériel courant : un beau costume, lecteur d’intention, etc.
 
 ## Saboteur
 
-Les saboteurs sont des agents furtifs spécialisés dans la destruction et la neutralisation du matériel adverse. Utilisants des approches furtives et un peu d’ingenierie sociale pour atteindre leurs objectifs, ils possèdent des connaissances très avancées sur le fonctionnement des appareils et plus particulièrement sur les moyens de les endommager ou de les détruire. Bien sûr, au besoin il reste les explosifs. Évidemment, les corporations ont beaucoup eu besoin d’eux au cours de la guerre des colonies et on pourrait imaginer qu’ils ont cessé leurs activités à la fin, mais force est de constater qu’il semble rester une demande.
+Les saboteurs sont des agents furtifs spécialisés dans la destruction et la neutralisation du matériel adverse. Utilisant des approches furtives et un peu d’ingénierie sociale pour atteindre leurs objectifs, ils possèdent des connaissances très avancées sur le fonctionnement des appareils et plus particulièrement sur les moyens de les endommager ou de les détruire. Bien sûr, au besoin il reste les explosifs. Évidemment, les corporations ont beaucoup eu besoin d’eux au cours de la guerre des colonies et on pourrait imaginer qu’ils ont cessé leurs activités à la fin, mais force est de constater qu’il semble rester une demande.
 
 Aspects : Infiltration, Technologie.
 
@@ -334,11 +334,11 @@ Aspects : Espace, Négociation.
 
 Exemples d’actions typiques : évoluer dans un environnement accidenté, sécuriser un blessé, assister une victime, etc.
 
-Matériel courant : médikit, multitool, robot d’inspection, médibot, etc.
+Matériel courant : médikit, multi-tool, robot d’inspection, médibot, etc.
 
 ## Solar Wardner
 
-Les Solar Wardners sont des gardiens de la paix au service des colonies. Leaders d’exception, ils s’entourent généralement d’équipes polyvalentes et font faces aux dangers qui menacent les colonies. Être un Solar Wardner est surtout un titre associé à un important carnet de contact et un poid non négligeable dans toute négociation. Tous les Solar Wardners brillent par leurs autres carrières. Leurs autres compétences sont même un critère de sélection. Les corporations évitent tant que possible d’avoir affaire à eux, mais ceux-ci n’ont pas besoin d’être appelé pour opérer, parfois au grand déplaisir des corporations.
+Les Solar Wardners sont des gardiens de la paix au service des colonies. Leaders d’exception, ils s’entourent généralement d’équipes polyvalentes et font faces aux dangers qui menacent les colonies. Être un Solar Wardner est surtout un titre associé à un important carnet de contact et un poids non négligeable dans toute négociation. Tous les Solar Wardners brillent par leurs autres carrières. Leurs autres compétences sont même un critère de sélection. Les corporations évitent tant que possible d’avoir affaire à eux, mais ceux-ci n’ont pas besoin d’être appelé pour opérer, parfois au grand déplaisir des corporations.
 
 Aspects : Négociations, Relations.
 
@@ -358,7 +358,7 @@ Matériel courant : Armure lourde, fusil pulseur, armes blanches, etc.
 
 ## Superviseur d’opération de sécurité
 
-Les superviseurs d’opération de sécurité, surnomés « anges », sont des commandants qui dirigent à distance des équipes de sécurité, contrôlant notamment les robots de sécurité et de sauvetage. Ils sont en contact direct avec les agents sur le terrain qu’il s’agisse de pacificateurs ou de sauveteurs. Les forces de sécurités des colonies diposent de nombreuses unités spécialisées où servent ces agents, bien que les plus petites équipes disposent de plus d’autonomie.
+Les superviseurs d’opération de sécurité, surnommés « anges », sont des commandants qui dirigent à distance des équipes de sécurité, contrôlant notamment les robots de sécurité et de sauvetage. Ils sont en contact direct avec les agents sur le terrain qu’il s’agisse de pacificateurs ou de sauveteurs. Les forces de sécurités des colonies disposent de nombreuses unités spécialisées où servent ces agents, bien que les plus petites équipes disposent de plus d’autonomie.
 
 Aspects : Négociation, Relation.
 
@@ -368,7 +368,7 @@ Matériel courant : logiciels de reconstitution, logiciels prédictifs, logicie
 
 ## Technophile
 
-Les technophiles sont des passionnés de technologie passent leur temps à découvrir, disséquer et inventer de nouveaux appareils. Ils sont persuadés que la maîtrise de la technologie leur permettra de résoudre les problèmes qu’ils rencontreront. Leurs connaissances débordent généralement du seul domaine technologique et couvre aussi les sciences. Pour leurs propres développement, les corporations leur préfèrent les chercheurs, mais les découvertes qu’ils peuvent apporter justifient souvent de les laisser en activité.
+Les technophiles sont des passionnés de technologie passent leur temps à découvrir, disséquer et inventer de nouveaux appareils. Ils sont persuadés que la maîtrise de la technologie leur permettra de résoudre les problèmes qu’ils rencontreront. Leurs connaissances débordent généralement du seul domaine technologique et couvre aussi les sciences. Pour leurs propres développements, les corporations leur préfèrent les chercheurs, mais les découvertes qu’ils peuvent apporter justifient souvent de les laisser en activité.
 
 Aspects : Technologie.
 

@@ -6,7 +6,7 @@
 
 SolNet et la matrice sont le grand réseau informatique qui relie les colonies et les solaires. Sur ce réseau, vivent notamment les infomorphes : les IA et les éthérés. Ceux-ci sont des êtres réduits à de simples flux de données et disposant d’instances exécutées sur les serveurs et autres appareils du réseau SolNet. Il s’agit sans doute des êtres de Solaires les plus exotiques pour un habitant du début du siècle. Voici une description de ce formidable réseau, de ses particularités et des infomorphes.
 
->> Ce chapitre offre des informations relativement détaillées sur le fonctionnement de SolNet, de la matrice et sur les infomorphes. Pour autant ces informations ne doivent pas être systématiquement utilisées en jeu sous peine d’apporter une complexité inutile au récit. De façon générale, n’essayez pas de simuler le fonctionnement exact de tout ceci et préférez vous en tenir aux intentions des personnages et aux conséquences des actions.
+>> Ce chapitre offre des informations relativement détaillées sur le fonctionnement de SolNet, de la matrice et sur les infomorphes. Pour autant ces informations ne doivent pas être systématiquement utilisées en jeu sous peine d’apporter une complexité inutile au récit. De façon générale, n’essayez pas de simuler le fonctionnement exact de tout ceci et tenez-vous en plutôt aux intentions des personnages et aux conséquences des actions.
 
 ## SolNet
 

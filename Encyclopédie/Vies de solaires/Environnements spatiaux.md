@@ -20,7 +20,7 @@ C’est aussi un environnement étrange qui défie nombre d’intuitions.
 
 En orbite, ou loin de tout astre, la gravité semble disparaître et les choses paraissent flotter dans le vide. Si quelque chose reçoit une impulsion, elle ne s’arrêtera jamais. Sans poids, de nombreuses choses simples à faire deviennent impossibles et beaucoup deviennent terriblement difficiles ou inefficaces : frapper, visser, enfoncer, tirer…
 
-Mais en l’absence de poids certaines choses incroyables sur Terre deviennent aussi possibles. Un humain seul peut déplacer un container d’une demi-tonne, parcourir des dizaines de mètres d’une petite impulsion, laisser sa poche d’eau en lévitation juste à côté de lui le temps de s’essuyer la bouche…
+Mais en l’absence de poids certaines choses incroyables sur Terre deviennent aussi possibles. Un humain seul peut déplacer un container d’une demi tonne, parcourir des dizaines de mètres d’une petite impulsion, laisser sa poche d’eau en lévitation juste à côté de lui le temps de s’essuyer la bouche…
 
 Même la lumière parait étrange et surréelle. Seul le soleil apporte de la lumière formant des ombres dures. Le reste du ciel semble noir et les étoiles sont difficiles à observer tant la nôtre irradie de lumière.
 
@@ -50,9 +50,9 @@ C’est aussi là que le principe d’action-réaction devient le plus évident.
 
 Et lorsque vous vous trouvez dans une installation ou un vaisseau qui effectue une manœuvre, subitement l’accélération de l’appareil se retrouve transformée en une sorte de gravité artificiel pour tout ce qui se trouve dedans, transformant ce tournevis flottant innocemment en un projectile mortel. Accessoirement, les passagers, s’ils ne parviennent pas à s’attacher, risquent eux aussi de devenir de tel projectiles, ou tout du moins d’effectuer une chute vers ce « bas » nouvellement créé.
 
-La situation est différente au sol. Même si aucune autre monde avec une surface solide possède une gravité équivalente à celle de la Terre ou de Vénus, ils en possèdent bien une. Celle-ci plus faible, modifie plusieurs choses :
+La situation est différente au sol. Même si aucun autre monde avec une surface solide possède une gravité équivalente à celle de la Terre ou de Vénus, ils en possèdent bien une. Celle-ci plus faible, modifie plusieurs choses :
 * Le poids des objets est proportionnel à la gravité. Par exemple, une masse de 100 kg n’en pèse que 37 sur mars ou 16 sur Callisto. Ceci fait qu’il est plus simple de transporter du matériel lourd dans les colonies. C’est en revanche un facteur de perte musculaire pour les organiques non modifiés.
-* La hauteur d’un saut est divisé par la valeur de la gravité. Ainsi avec une gravité martienne (0.38 g), il est possible de sauter 2.7 fois plus haut.
+* La hauteur d’un saut est divisée par la valeur de la gravité. Ainsi avec une gravité martienne (0.38 g), il est possible de sauter 2.7 fois plus haut.
 * De la même façon, lors d’une chute, le choc à l’arrivée est proportionnel à la gravité, ce qui signifie qu’une chute d’une certaine hauteur sur un astre doit être multipliée par la gravité pour obtenir son équivalent sur la Terre. Ainsi, une chute de 5 mètres sur Mars correspond à une chute d’un peu moins de deux mètres sur Terre.
 * En revanche, la marche est plus difficile et plus lente à mesure que la gravité décline et en dessous de 10-15 % il n’est plus véritablement possible de marcher sans assistance. Toutes les colonies sur les astres les moins massifs (Mimas, Titania et prochainement Triton) proposent une architecture proche de celles des stations orbitales avec des volumes réduits et des rambardes pour assister les déplacements.
 
@@ -76,7 +76,7 @@ La situation est différente au sol. Même si aucune autre monde avec une surfac
 
 ## Faire une sortie
 
->> Lorsqu’un personnage effectue une sortie hors de l’enceinte d’une colonie, d’une station ou d’un véhicule, nous appelons l’opération une **activité extra-véhiculaire**, généralement abrégé par **EVA** (Extra Vehicular Activity).
+>> Lorsqu’un personnage effectue une sortie hors de l’enceinte d’une colonie, d’une station ou d’un véhicule, nous appelons l’opération une **activité extravéhiculaire**, généralement abrégé par **EVA** (Extra Vehicular Activity).
 
 Dans les conditions que nous avons vues, sortir de l’enceinte d’une colonie ou d’une base ne se fait pas sans préparation et des connaissances appropriées. Même si pratiquement tous les solaires ont une formation aux situations d’urgences, rares sont ceux qui affrontent volontairement l’espace.
 
@@ -88,21 +88,21 @@ La planification de l’opération consiste principalement à récupérer les in
 
 De son côté, la préparation de la combinaison demande de vérifier le fonctionnement de tous ses systèmes : la charge des batteries, l’état des filtres, le niveau des réserves d’air, le bon fonctionnement du système de climatisation, du système de ventilation, du système de communication, du remplissage la gourde, de la bonne mise de la couche, de l’ajustement de la combinaison et, bien sûr, de son étanchéité. Les outils externes doivent aussi être révisés, notamment les sangles, le jet pack d’urgence, les éclairages et bien sûr les outils pour la mission. Une fois dehors, une batterie déchargée aura des conséquences bien plus désagréables que la simple frustration de ne pas avoir accès à SolNet.
 
-Une fois les préparatifs terminés, l’opération en elle-même peut commencer. Il est intéressant de noter qu’il est déjà arrivé qu’une équipe de civils non formés aient à effectuer une opération extra-véhiculaire. Guidé par une équipe distante de spécialistes, ces opérations se sont pour la plupart bien déroulée, mais l’histoire démontre clairement qu’au moindre problème la panique peut remettre complètement la sécurité des opérateurs. De façon générale, envoyer un agent non formé dehors reste et restera un acte désespéré.
+Une fois les préparatifs terminés, l’opération en elle-même peut commencer. Il est intéressant de noter qu’il est déjà arrivé qu’une équipe de civils non formés aient à effectuer une opération extravéhiculaire. Guidé par une équipe distante de spécialistes, ces opérations se sont pour la plupart bien déroulée, mais l’histoire démontre clairement qu’au moindre problème la panique peut remettre complètement la sécurité des opérateurs. De façon générale, envoyer un agent non formé dehors reste et restera un acte désespéré.
 
 C’est principalement dans les situations imprévues, que l’entraînement des astronautes fait la différence entre succès et décès.
 
-## Enveloppes extra-véhiculaires
+## Enveloppes extravéhiculaires
 
 Comme vous l’avez vu, l’emploi d’une combinaison spatiale est contraignant d’un point de vue préparation. Elles posent aussi problèmes pendant l’exécution des opérations. Destinées à isoler l’astronaute de l’environnement spatial, elles sont massives et limitent les mouvements, réduisant considérablement l’agilité et la précision. Et encore, les combinaisons spatiales ne sont plus handicapantes que celles du début du siècle qui rendaient de nombreuses actions simplement impossibles.
 
-Pour ces raisons certains astronautes préfèrent employer des enveloppes capables d’endurer l’environnement spatial sans protection, des enveloppes extra-véhiculaires. Ces corps robotiques sont lourdement blindés contre les radiations et possèdent théoriquement une autonomie bien supérieure à celle des combinaisons spatiales. Malgré tout ces enveloppes doivent quand même être préparée : une défaillance à l’extérieur aura toujours des conséquences potentiellement graves.
+Pour ces raisons certains astronautes préfèrent employer des enveloppes capables d’endurer l’environnement spatial sans protection, des enveloppes extravéhiculaires. Ces corps robotiques sont lourdement blindés contre les radiations et possèdent théoriquement une autonomie bien supérieure à celle des combinaisons spatiales. Malgré tout, ces enveloppes doivent quand même être préparée : une défaillance à l’extérieur aura toujours des conséquences potentiellement graves.
 
-Très utilisées par des agents non sentients pour la maintenance et la construction spatiale, ces enveloppes restent peu employées par les astronautes eux-mêmes. Le temps de préparation d’une combinaison reste équivalent à la préparation d’une enveloppe extra-véhiculaire et le transfert reste une source pour le mal de l’embodiement qui ajoute un risque de complication supplémentaire. L’entraînement et l’assistance dont bénéficient les astronautes restent très largement suffisants pour accomplir les tâches qui leur sont attribuées.
+Très utilisées par des agents non sentients pour la maintenance et la construction spatiale, ces enveloppes restent peu employées par les astronautes eux-mêmes. Le temps de préparation d’une combinaison reste équivalent à la préparation d’une enveloppe extravéhiculaire et le transfert reste une source pour le mal de l’embodiement qui ajoute un risque de complication supplémentaire. L’entraînement et l’assistance dont bénéficient les astronautes restent très largement suffisants pour accomplir les tâches qui leur sont attribuées.
 
 Et puis, la grande majorité des astronautes choisissent ce métier pour l’aventure qu’il représente.
 
->> Effectuer une sortie avec une enveloppe robotique n’est pas un critère suffisant pour assurer sa survie le temps de l’opération. Les enveloppes extravéhiculaires possèdent un matériel et des composants spécialement étudiés pour survivre au vide, aux radiations et aux différences de températures qu’impose l’environnement spatial. La plupart des robots d’intérieurs cessent de fonctionner en quelques minutes voir secondes s’ils sont sortis de l’enceinte protectrice des installations.
+>> Effectuer une sortie avec une enveloppe robotique n’est pas un critère suffisant pour assurer sa survie le temps de l’opération. Les enveloppes extravéhiculaires possèdent un matériel et des composants spécialement étudiés pour survivre au vide, aux radiations et aux différences de températures qu’impose l’environnement spatial. La plupart des robots d’intérieurs cessent de fonctionner en quelques minutes voire secondes s’ils sont sortis de l’enceinte protectrice des installations.
 
 ## Les dangers de l’espace
 
@@ -118,7 +118,7 @@ L’espace comporte de nombreux dangers, certains mortels en quelques dizaines d
 
 Dehors, le danger que représente l’espace est souvent amplifié par les actions des solaires eux-mêmes. Les actions périlleuses entraînent des conséquences pires encore. Si une déchirure de votre combinaison peut provoquer la mort en quelques dizaines de secondes, imaginez le résultat lorsque votre rover fait une embardée ou que vous ouvrez votre sas trop tôt. Et ne parlons pas d’un affrontement : une fusillade à l’extérieur sera toujours brève et meurtrière (et la provenance des tirs est encore plus difficile à déterminer sans le son).
 
-Même sans faire de sortie extra-véhiculaire, l’espace peut encore représenter un grand danger. Dans les colonies l’espace se manifeste à deux moments : lorsqu’on s’aventure hors de l’enceinte des colonies, stations et vaisseaux ; et lorsque l’espace s’invite à l’intérieur de ces installations.
+Même sans faire de sortie extravéhiculaire, l’espace peut encore représenter un grand danger. Dans les colonies l’espace se manifeste à deux moments : lorsqu’on s’aventure hors de l’enceinte des colonies, stations et vaisseaux ; et lorsque l’espace s’invite à l’intérieur de ces installations.
 
 Dans ce dernier cas, la défaillance de la stabilisation atmosphérique est souvent la première cause de danger, associée à la pollution de l’atmosphère, souvent consécutif à un incendie ou la fuite d’un réservoir. La régulation thermique arrive ensuite : un dysfonctionnement du système de dissipation thermique en pleine accélération sur un vol interplanétaire peut provoquer des dégâts impressionnants qu’il faut gérer urgemment. Vient la redoutable fuite du confinement atmosphérique, à savoir un trou dans les cloisons imperméables qui laisse l’air s’échapper, que ce soit le résultat d’un débris ou d’une activité interne à base de projectiles à haute vitesse.
 
