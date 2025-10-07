@@ -18,7 +18,7 @@ Joueur :
 * Tente de résoudre les situations dans lesquelles son personnage est pris par l'intermédiaire de son personnage.
 
 Meneuse :
-* Décrit les situations où sont les personnages et les événements qui se produisent dans la fiction ;
+* Décrit les situations dans laquelle sont les personnages et les événements qui se produisent dans la fiction ;
 * Fait évoluer la fiction en fonction des actions des personnages ;
 * Assure la cohérence de l'histoire ;
 * Arbitre la partie.
@@ -39,7 +39,7 @@ La meneuse de son côté aura besoin :
 >
 > Les jeux de rôles utilisent de nombreux types de dés. Si on exclut certains dés spécifiques à certains jeux, ces dés sont tous des polyèdres dont les faces sont numérotées (cette numérotation est souvent faite avec des points sur les dés à six faces). On utilise couramment des dés à 4, 6, 8, 10, 12 et 20 faces (et une combinaison de deux dés à 10 faces pour simuler un dé à 100 faces).
 >
-> Par commodité, les rôlistes utilisent l'abréviation XDY, où X est le nombre de dés à lancer et Y le nombre de face des dés. Ainsi 3D6 veut dire trois dés à six faces.
+> Par commodité, les rôlistes utilisent l'abréviation `XDY`, où `X` est le nombre de dés à lancer et `Y` le nombre de face des dés. Ainsi `3D6` veut dire trois dés à six faces.
 
 ### Le tour de jeu
 
@@ -82,7 +82,7 @@ Informations descriptives :
 * Affiliation : l'affiliation de votre personnage (nationalité, appartenance à une corporation, etc.).
 * Modèle d'origine : le modèle dont est originaire votre personnage (humain, nevian, sprite, etc.).
 * Type d'esprit : le type de l'esprit de votre personnage (humain, humain supervisé, IA Wolfa, IA de Ley-Wan, etc.)
-* Enveloppe : l'enveloppe actuelle de votre personnage (cyborg, cyborg absolué, éthéré, chimère, etc.).
+* Enveloppe : l'enveloppe actuelle de votre personnage (cyborg, cyborg absolu, éthéré, chimère, etc.).
 * Professions : les professions mises en avant de votre personnage.
 * Motivation : ce qui pousse ou entraîne votre personnage à rejoindre et rester dans le groupe et à vivre ces aventures.
 
@@ -103,11 +103,11 @@ Informations descriptives :
 * 4, Expert/maître : votre personnage est l’un des meilleurs de sa génération.
 
 Modifications : représente les modifications cybernétiques (cyberware), organiques (wetware) ou hyper-hybride de l'enveloppe du personnage.
-* 0, Banal : une modification sans importance.
-* 1, Gadget : une modification simple que le grand nombre possède.
-* 2, Entrée de gamme : une modification de qualité moyenne qui reste simple d'accès.
-* 3, État de l'art : une modification à la pointe de la technologie, utilisée par les professionnels.
-* 4, Prochaine génération : une modification prototype qui surclasse celles en service.
+* 0, Banale : une modification sans importance.
+* 1, Légère : une modification dont l'impact est relativement subtile.
+* 2, Significative : une modification qui améliore considérablement les capacités du personnage.
+* 3, Importante : une modification qui permet d'accomplir des actions surhumaines.
+* 4, Ultime : une modification qui rend des domaines complètement triviaux.
 
 Équipement : représente le matériel notable de votre personnage.
 * 0, Banal : du matériel sans importance.
@@ -129,6 +129,45 @@ Relations : représentent les contacts, les alliés et autres liens sociaux du p
 * 2, Favorable : la relation aidera le personnage tant que ça ne lui coûte rien.
 * 3, Allié : la relation aidera le personnage tant que ça ne la met pas en péril.
 * 4, Dévoué : la relation est prête à se mettre en péril pour le personnage.
+
+### Création d'un groupe de personnage
+
+Comme un personnage, un groupe dispose d'éléments et d'informations descriptives.
+
+Informations descriptives du groupe :
+* Nature : la nature du groupe (par exemple : Équipe de sécurité martienne, Équipage d'un vaisseau de récupération, Groupe d'indépendants du réseau sentinelle, etc.)
+* Motivation : pourquoi le groupe fait ce qu'il fait (par exemple : suivre les ordres hiérarchiques, se faire un nom, etc.)
+* Rôles : les rôles au sein du groupe (par exemple : face, decker, combattant, enquêteur, etc.)
+* Missions courantes : des exemples du type de mission ou d'aventure que ce groupe peut être amené à remplir.
+
+Éléments du groupe :
+* Équipement : le matériel commun du groupe.
+* Relations : les relations (souvent hiérarchiques) du groupe.
+* Réputation : la réputation du groupe auprès de certaines communautés.
+
+Échelle de réputation (P) :
+* 0, Inconnue : le groupe est connu de personne.
+* 1, Naissante : le groupe est connu de quelques personnes.
+* 2, Connus : le groupe est connu de quelques groupes.
+* 3, Célèbres : le groupe est très connu dans des secteurs spécialisés.
+* 4, Légendaire : le groupe est connu de la grande majorité du grand public.
+
+Exemple de groupe - Équipe des forces de sécurité martienne :
+* Nature : Équipe des forces de sécurité martienne.
+* Motivation : suit les ordres de la hiérarchie.
+* Rôles : Pacificateur, Decker, Sauveteur.
+* Missions courantes : enquête de police, désescalade, sauvetage, maintien de l'ordre, arrestation, etc.
+* Équipement : matériel de la sécurité civile, y compris de l'armement léger ou du matériel d'écoute.
+* Relation de départ : Forces de sécurité martienne (R, 3), Mars (R, 1)
+* Réputation : Forces de sécurité martienne (P, 2), Milieu du crime (P, 1), Mars (P, 1)
+
+TODO - autres exemples de groupe :
+* Équipe d'un Solar Wardner
+* Équipe de mercenaires indépendants
+* Équipe de mercenaires de Sanya
+* Équipe du réseau sentinelle
+* Talents indépendants
+* Équipage d'un vaisseau de récupération
 
 ### Création des personnages
 
@@ -175,11 +214,11 @@ Quelques considérations pour utiliser les états dans Solaires :
 * Dans le même temps, les personnages qui optent pour une approche prudente et prennent leurs précautions avant d'agir devraient recevoir des états moins graves que ceux qui jouent le tout pour le tout.
 
 Voici une liste d'état pour aider à avoir une meilleure idée de ce qu'ils représentent. Notez-bien que cette liste contient des exemples et qu'elle n'est pas du tout exhaustive :
-* **Nauséeux (1)** : le personnage a la nausée après avoir été éjecté de réalité virtuelle ou à cause d’un changement de gravité ;
+* **Nauséeux (1)** : le personnage ressent de la nausée après avoir été éjecté de réalité virtuelle ou à cause d’un changement de gravité ;
 * **Contusionné (1)** : le personnage a reçu une petite contusion à la suite d'un coup.
 * **Blessé (2)** : le personnage a été blessé, il est préférable d'indiquer où ;
 * **Désorienté (2)** : le personnage est désorienté spatialement ;
-* **Mal de l'embodiement léger (2)** : le personnage n’est pas acclimaté à sa nouvelle enveloppe ;
+* **Mal de l'embodiment léger (2)** : le personnage n’est pas acclimaté à sa nouvelle enveloppe ;
 * **Endommagé (2)** : l’enveloppe du personnage a été endommagé ;
 * **Isolé (2)** : le personnage est isolé et ne peut pas communiquer avec les autres, notamment s’il est victime d’un brouillage ;
 * **Malade (2)** : le personnage a contracté une maladie ;
@@ -188,7 +227,7 @@ Voici une liste d'état pour aider à avoir une meilleure idée de ce qu'ils rep
 * **À la dérive (3)** : le personnage dérive dans l’espace ou dans une section en zéro-g sans la possibilité de se raccrocher à quelque chose ;
 * **Paniqué (3)** : le personnage a perdu son sang-froid et cède à la panique ;
 * **Inconscient (4)** : le personnage a perdu conscience ;
-* **Mal de l'embodiement total (4)** : le personnage souffre d'un mal de l'embodiement tel qu'il ne peut plus rien faire.
+* **Mal de l'embodiment total (4)** : le personnage souffre d'un mal de l'embodiment tel qu'il ne peut plus rien faire.
 
 ## Résolution des actions
 
@@ -255,7 +294,7 @@ Réussites :
 
 Échecs :
 * **Désastre (triple)** : l'action réussit avec un effet négatif supplémentaire.
-* **Échec ordinaire (ni triple, ni double)** : l'action échoue normalement.
+* **Échec ordinaire (ni triple, ni double)** : l'action échoue simplement.
 * **Échec de justesse (double)** : l'action échoue avec une contrepartie positive.
 
 Notes :
@@ -268,7 +307,7 @@ Notes :
 Action en soutien :
 * Action entreprise pour aider un autre agent effectuant une action.
 * L'action doit être appropriée et clairement définie (pas juste "je l'aide").
-* Résolue normalement.
+* Résolue comme les autres actions.
 * Si réussie, donne un bonus à l'action soutenue (-1 difficulté si aide significative, -2 si l'aide est considérable).
 * Ne peut pas rendre possible certaines actions qui étaient impossibles.
 
@@ -307,75 +346,3 @@ Voici quelques exemples de ces questions :
 Si la meneuse connait déjà la réponse parce qu'elle l'a déjà déterminé ou parce que l'une des possibilités causerait une incohérence, elle donne cette réponse. Sinon, la meneuse peut demander au joueur d'effectuer un Jet de chance pour déterminer la réponse.
 
 Pour effectuer un jet de chance, le joueur lance un 1D6. S'il fait 4 ou plus, la réponse est celle qui est le plus favorable pour le joueur, sinon c'est l'autre.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-## Changements du système
-
-Passer au Système Féerie V6 :
-* Refonte des informations descriptives.
-* Remplacement des traits et traits de personnalités par les qualités.
-
-Retoucher la création de personnage :
-* Refonte de la création de groupe et des rôles
-* Modification et complétion du livret des lifepath.
-
-
-
-### Création
-
-Remettre l'accent sur la création/choix du groupe :
-* Plutôt que d'avoir des rôles génériques à l'échelle de tout le jeu, les rôles seront définis par le groupe et les missions auxquelles il est préparé. Par exemple, pas besoin d'un rôle Enquête, Négociation ou Espace dans un groupe de mercenaire de Sanya.
-* Fournir des templates de groupe (exemple : Mercenaires au service des corporations, Équipe d'un Solar Wardner, Talents indépendants, Équipage de récupérateur, etc.).
-* Identifier et caractériser les communs d'un groupe (matériel, renommée, adminisitration, etc.).
-
-Création des personnages via le lifepath :
-* Concept initial vu comme un contrat (ex. Mon personnage sera la face du groupe)
-* Fournir plusieurs points d'entrée : par exemple, ancien terrien, ancien colon, jeune solaires, etc.
-
-Personnages qui doivent être possible pour le MVP :
-* Nature : transhumain/artificiels
-* Origine : terrien/colonie
-* Expérience : expérimenté/inexpérimenté
-* Période de naissance : âge d'or des corporations/réveil des nations/guerre des colonies/âge des solaires
-
-
-
-
-
-Personnages :
-* Via lifepath
-* Point de départ standard : pour les humains, la naissance ; pour les artificiels, choix du modèle puis initialisation.
-* Points de départs spécifiques (pour des demandes particulières) possibles.
-
-
-
-
-
