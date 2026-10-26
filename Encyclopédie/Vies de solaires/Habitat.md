@@ -55,7 +55,7 @@ L’énergie nucléaire est finalement la seule solution. La fission de l’uran
 
 À cinq unités astronomiques du soleil, au niveau de Jupiter, la lumière reçue ne représente que 4 % l’ensoleillement reçu sur Terre. Saturne, Uranus et Neptune n’en reçoivent pour ainsi dire qu’une portion qui paraîtrait négligeable pour un terrien.
 
-Les colonies emploient donc majoritairement un éclairage artificiel. Pour des raisons de sécurité seules des sources lumineuses froides sont utilisées et les diodes électroluminescentes organiques dominent ce secteur.
+Les colonies emploient donc majoritairement un éclairage artificiel. Pour des raisons de sécurité seules des sources lumineuses ne dégageant pas de chaleur sont utilisées et les diodes électroluminescentes organiques dominent ce secteur.
 
 ## Nettoyage de l’habitat
 

@@ -70,11 +70,11 @@ De toute évidence, dans l’environnement des colonies, extrêmement dépendant
 
 Dans les conflits armés, le contrôle de l’information est très important : reliés entre eux par des connexions cryptées, les combattants sont constamment informés de la situation de leurs alliés et de la position de tous les adversaires qu’ils ont repérés. En plus de ces informations, la réalité augmentée leur permet aussi de voir les indications de leur commandement.
 
-Pour réduire ces avantages, il est possible d’employer des brouilleurs. Ces appareils surchargent les ondes radios et interfèrent avec les communications de l’adversaire tout en épargnant une très mince bande de fréquence pour les communications de leur utilisateur. Évidemment, le camp d’en face risque probablement de faire la même chose.
+Pour réduire ces avantages, il est possible d’employer des brouilleurs. Ces appareils remplissent les canaux radio de bruit blanc, interférant avec toutes les communications. Elles épargnent généralement une très mince bande de fréquence, changeant avec le temps, pour permettre aux alliés de communiquer. Évidemment, le camp d’en face risque probablement de faire la même chose.
 
 Les brouilleurs émettant de puissants signaux pour effectuer leur brouillage sont aussi très facilement localisables. En dehors d’applications particulières, ils sont pratiquement toujours utilisés sous la forme de grenades de brouillage, associés à d’autres dispositifs pour mieux isoler les combattants adverses : émission de bruit coloré pour empêcher les communications verbales et flashs de lumières blanche pour aveugler les agents ennemis.
 
-Entièrement réutilisable et rechargeables, ces grenades sont très utilisées dans les colonies, notamment par les forces de sécurités lors des opérations tactiques.
+Entièrement réutilisables et rechargeables, ces grenades sont très utilisées dans les colonies, notamment par les forces de sécurités lors des opérations tactiques.
 
 >> ### Brouilleur
 >> * Accès : en vente auprès des forces de sécurité dans les colonies ;
@@ -83,14 +83,14 @@ Entièrement réutilisable et rechargeables, ces grenades sont très utilisées 
 
 >> ### Grenade de brouillage
 >> * Accès : en vente auprès des forces de sécurité dans les colonies ;
->> * Légalité : Accréditation de sécurité requise pour la possession et l’opération ;
->> * Prix : Négligeable.
+>> * Légalité : accréditation de sécurité requise pour la possession et l’opération ;
+>> * Prix : négligeable.
 
 ## Lames actives
 
-Les lames actives, souvent appelées « lames à mono-filament » ou « lames mono-moléculaire » en référence à des armes de la science-fiction de la fin du XXe et du début du XXIe, sont des lames aiguisées à la perfection. Leur fil est en permanence entretenu par un nano-assembleur intégré. Un revêtement nano-structuré améliore considérablement la progression de ces armes dans les matériaux qu’elles découpent. Ainsi, les lames actives sont capables de traverser la plupart des protections personnelles et même de découper la plupart des métaux.
+Les lames actives, souvent appelées « lames à monofilament » ou « lames monomoléculaires » en référence à des armes de la science-fiction de la fin du XXe et du début du XXIe, sont des lames aiguisées à la perfection. Leur fil est en permanence entretenu par un nano-assembleur intégré. Un revêtement nano-structuré améliore considérablement la progression de ces armes dans les matériaux qu’elles découpent. Ainsi, les lames actives sont capables de traverser la plupart des protections personnelles et même de découper la plupart des métaux.
 
-Malgré leur efficacité, ces armes restent minoritaires et la plupart des forces armées et le personnel de sécurité leur préfèrent les armes balistiques comme les pulseurs ou les armes shocks. Seuls les cyber-samouraïs en ont fait leurs armes principales. L’environnement clos et les courtes distances dans les installations des colonies, donnent à ces combattants lourdement augmentés un avantage significatif.
+Malgré leur efficacité, ces armes restent minoritaires et la plupart des forces armées et le personnel de sécurité leur préfèrent les armes balistiques comme les pulseurs ou les armes shocks. Seuls les cybersamouraïs en ont fait leurs armes principales. L’environnement clos et les courtes distances dans les installations des colonies, donnent à ces combattants lourdement augmentés un avantage significatif.
 
 Ces armes, convenablement employées, ont aussi bien moins de chance de provoquer une dépressurisation ou des dégâts structurels qu’une rafale de pulseur.
 
@@ -129,9 +129,9 @@ Beaucoup de ces armures sont naturellement prévues pour les sorties extravéhic
 
 La course entre l’armement et les protections a très largement tourné à la faveur du premier. La puissance actuelle des armes est telle que la plupart des protections sont devenues obsolètes. Lors des affrontements impliquant des pulseurs lourds, la stratégie consistant à essayer d’arrêter les projectiles n’est simplement plus viable et empiler des couches de blindage n’est pas une solution.
 
-Les blindages intelligents ont changé le paradigme en anticipant les caractéristiques d’un projectile et en s’y adaptant : si le projectile n’a pas assez d’énergie pour franchir le blindage, celui-ci va simplement l’arrêter. Si la puissance de l’arme est trop grande, le blindage ne cherche plus à stopper la munition mais essaie de la dévier sur une trajectoire qui causera le moins de dégâts possible, évitant de préférence les organes vitaux. Il essaiera aussi d’absorber au maximum l’effet de choc tout en s’assurant que la munition ne restera pas dans le corps de son porteur.
+Les blindages intelligents ont changé le paradigme en anticipant les caractéristiques d’un projectile et en s’y adaptant : si le projectile n’a pas assez d’énergie pour franchir le blindage, celui-ci va simplement l’arrêter. Si la puissance de l’arme est trop grande, le blindage ne cherche plus à stopper la munition, mais essaie de la dévier sur une trajectoire qui causera le moins de dégâts possible, évitant de préférence les organes vitaux. Il essaiera aussi d’absorber au maximum l’effet de choc tout en s’assurant que la munition ne restera pas dans le corps de son porteur.
 
-Ainsi, les blindages intelligents augmentent significativement les chances de survie d’une enveloppe organique et sont utilisés dans la plupart des armures qu’elles soient légères ou lourdes. Les blindages des vaisseaux spatiaux utilisent le même procédé pour réduire l’impact d’une micro-météorite ou de tout autre projectile.
+Ainsi, les blindages intelligents augmentent significativement les chances de survie d’une enveloppe organique et sont utilisés dans la plupart des armures qu’elles soient légères ou lourdes. Les blindages des vaisseaux spatiaux utilisent le même procédé pour réduire l’impact d’une micrométéorite ou de tout autre projectile.
 
 >> ### Blindages intelligents
 >> * Accès : inclus dans la plupart des armures modernes et les panneaux de protection de la plupart des vaisseaux spatiaux ;

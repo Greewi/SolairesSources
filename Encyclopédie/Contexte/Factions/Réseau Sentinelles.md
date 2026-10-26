@@ -1,6 +1,6 @@
 # Le réseau Sentinelles
 
-Le réseau Sentinelles est un réseau informel dont le nom lui-même a été donné par des personnes externes. Ce réseau se manifeste à travers des messages anonymes envoyés à des solaires de tout bord. Ces messages ne contiennent généralement que des noms, des lieux ou des dates et comptent sur la curiosité ou le désire d’agir de leur destinataire.
+Le réseau Sentinelles est un réseau informel dont le nom lui-même a été donné par des personnes externes. Ce réseau se manifeste à travers des messages anonymes envoyés à des solaires de tout bord. Ces messages ne contiennent généralement que des noms, des lieux ou des dates et comptent sur la curiosité ou le désir d’agir de leur destinataire.
 
 >> ### Le réseau Sentinelles
 >>

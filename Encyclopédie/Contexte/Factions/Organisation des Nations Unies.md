@@ -10,12 +10,12 @@ Historiquement constituée pour éviter les guerres sur Terre, mission dont la r
 >>
 >> * **Type** : Organisation mondiale terrienne
 >> * **Objet** : Maintien de la paix et de la sécurité sur Terre
->> * **Premier** secrétaire : Nemja Mahut, Grégoire de Montergny (mi-2237)
+>> * **Premier secrétaire** : Nemja Mahut, Grégoire de Montergny (début-2237)
 >> * **Fondation** : 1945
 >> * **Siège** : New-York
 >> * **Puissance** : Moyenne puissance
 
-Organisation destinée au maintien de la paix, l’ONU se voit renforcée au fil du temps pour lutter contre les corporations. Peu après la seconde vague de fondation de ces supergroupes, l’Organisation de Régulation des Super-Économies (ORSE) est constituée sur décision du conseil de sécurité. À partir de ce moment, les nations unies deviennent capables de bloquer la formation de nouvelle corporation, sans, pour autant, pouvoir démanteler celles en place. Cette mesure met durablement fin à la genèse des corporations.
+Organisation destinée au maintien de la paix, l’ONU se voit renforcée au fil du temps pour lutter contre les corporations. Peu après la seconde vague de fondation de ces super groupes, l’Organisation de Régulation des Super-Économies (ORSE) est constituée sur décision du conseil de sécurité. À partir de ce moment, les nations unies deviennent capables de bloquer la formation de nouvelle corporation, sans, pour autant, pouvoir démanteler celles en place. Cette mesure met durablement fin à la genèse des corporations.
 
 Son pouvoir est encore renforcé lorsque les corporations mettent au point les nanorobots auto-réplicatifs. Les nations prennent alors peur et accordent à l’ONU le droit de mener des opérations militaires contre les corporations à sa propre initiative, avec les troupes prêtées par les États membres. Cette mesure, supposée dissuasive, ne se servira que bien plus tard.
 
@@ -31,4 +31,4 @@ Les premières batailles, sur Terre, sont emportées haut la main et l’ONU bal
 
 Depuis la signature du Traité des Colonies, le seul territoire spatial que contrôle effectivement l’ONU est le système planétaire de la Terre, encore qu’à la surface de la planète bleue son autorité s’efface face à celles des nations. Seule Sol6 est restée sous contrôle Terrien. La corporation conserve la gestion de ses colonies, sur la Lune et Mercure, mais il s’agit officiellement de protectorats de l’ONU bénéficiant de la surveillance constante du programme des Nations Unies pour les établissements humains. L’organisation a aussi hérité des anciennes colonies lunaires des corporations et leur gestion reste un poids logistique.
 
-L’ONU, défaite, est remise en cause sur Terre. L’issue de la guerre, mais aussi son coût, aussi bien en terme matériel qu’humain, remettent en question les pouvoirs qui ont été conférés aux nations unies. De nombreuses voix souhaitent un remaniement complet de l’organisation, mais nombreux craignent que son affaiblissement provoque de nouvelle guerre à la surface de la planète bleue.
+L’ONU, défaite, est remise en cause sur Terre. L’issue de la guerre, mais aussi son coût, aussi bien en terme matériel qu’humain, remettent en question les pouvoirs qui ont été conférés aux nations unies. De nombreuses voix souhaitent un remaniement complet de l’organisation, mais nombreux craignent que son affaiblissement provoque de nouvelles guerres à la surface de la planète bleue.

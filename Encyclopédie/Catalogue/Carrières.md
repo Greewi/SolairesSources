@@ -26,6 +26,9 @@ Exemples d’actions typiques : Effectuer une sortie spatiale, Garder son sang-
 
 Matériel courant : Combinaison spatiale, jet-pack, multi-tool, logiciels de maintenance, etc.
 
+<!-- ## Commandant militaire -->
+<!-- TODO V5 A été gradé et a commandé des troupes sur le terrain -->
+
 ## Commando spatial
 
 Les commandos spatiaux sont des soldats formés et entraînés pour les combats spatiaux, que ce soit à l’intérieur d’une station, lors de l’abordage d’un vaisseau ou dans le vide spatial. L’environnement extravéhiculaire et l’absence de gravité remettent en question les méthodes conventionnelles des infanteries régulières. Lors de leurs missions, ces agents savent que l’espace peut rapidement devenir plus dangereux que l’ennemi même.
@@ -46,9 +49,9 @@ Exemples d’actions typiques : Camoufler du matériel, Corrompre un agent, Éc
 
 Matériel courant : décodeur, combinaison de camouflage thermo-optique, lecteur d’intention, etc.
 
-## Cyber-Mécanicien
+## Cybermécanicien
 
-Les cyber-mécaniciens sont des spécialistes de la technologie, amenés à devoir réparer ou modifier un très vaste panel de matériels, véhicules et installations. Certains sont parfois amenés à effectuer quelques sabotages. La maintenance de base est assurée par les spiderbots et les monkeybots, mais lorsqu’ils ne sont plus suffisants, ce sont les cyber-mécaniciens qui sont envoyés.
+Les cybermécaniciens sont des spécialistes de la technologie, amenés à devoir réparer ou modifier un très vaste panel de matériels, véhicules et installations. Certains sont parfois amenés à effectuer quelques sabotages. La maintenance de base est assurée par les spiderbots et les monkeybots, mais lorsqu’ils ne sont plus suffisants, ce sont les cybermécaniciens qui sont envoyés.
 
 Aspects : Technologie.
 
@@ -88,7 +91,7 @@ Matériel courant : logiciel de reconstitution, scanner Wolfa portatif, etc.
 
 ## Diplomate
 
-Les diplomates sont des négociateurs qui se voient confier la responsabilité des échanges diplomatie dans les colonies. Adepte des négociations et tractations de haute portée entre les corporations et l’ONU, ils disposent aussi de réseaux de contacts très étendus. Ils sont aussi beaucoup amenés à voyager, car les corporations les envoient à travers tout le système solaire pour les représenter.
+Les diplomates sont des négociateurs qui se voient confier la responsabilité des échanges diplomatique dans les colonies. Adepte des négociations et tractations de haute portée entre les corporations et l’ONU, ils disposent aussi de réseaux de contacts très étendus. Ils sont aussi beaucoup amenés à voyager, car les corporations les envoient à travers tout le système solaire pour les représenter.
 
 Aspects : Négociations, Relations.
 
@@ -118,7 +121,7 @@ Matériel courant : combinaison de camouflage thermo-optique, décodeur, person
 
 ## Fixeur
 
-Les fixeurs sont des agents qui possèdent un réseau impressionnant et se spécialisent dans la résolution des problèmes. Ils sont une source d’information et de contacts presque illimité. Quelque-soit votre problème, soit ils savent comment le résoudre, soit ils connaissent quelqu’un qui le peut. Les agents des corporations font souvent appel à ces informateurs, notamment lorsque la situation commence à leur échapper.
+Les fixeurs sont des agents qui possèdent un réseau impressionnant et se spécialisent dans la résolution des problèmes. Ils sont une source d’information et de contacts presque illimitée. Quelque-soit votre problème, soit ils savent comment le résoudre, soit ils connaissent quelqu’un qui le peut. Les agents des corporations font souvent appel à ces informateurs, notamment lorsque la situation commence à leur échapper.
 
 Aspects : Relations, Technologie.
 
@@ -128,7 +131,7 @@ Matériel courant : scanner Wolfa, lecteur d’intention, décodeur, divers mat
 
 ## Hacker
 
-Les hackers sont des bricoleurs qui adorent détourner la technologie et l’informatique pour la mettre au service du plus grand nombre. Certains aiment aussi en éprouver les limites et sont souvent employés par les corporations pour faire l’audit des nouveaux systèmes. Ils sont souvent mal vu par les services de sécurités car leurs expérimentations flirtent allègrement avec le risque.
+Les hackers sont des bricoleurs qui adorent détourner la technologie et l’informatique pour la mettre au service du plus grand nombre. Certains aiment aussi en éprouver les limites et sont souvent employés par les corporations pour faire l’audit des nouveaux systèmes. Ils sont souvent mal vus par les services de sécurités, car leurs expérimentations s'avèrent assez souvent dangereuses.
 
 Aspects : Informatique, Technologie.
 
@@ -145,6 +148,12 @@ Aspects : Espace, Infiltration.
 Exemples d’actions typiques : Faire une sortie spatiale, Forcer une sécurité, Se faire passer pour quelqu’un d’autre, S’infiltrer furtivement, etc.
 
 Matériel courant : combinaison spatiale, camouflage thermo-optique, gant-gecko, décodeur, etc.
+
+## Ingénieur social
+
+Les ingénieurs sociaux sont des experts pour comprendre et exploiter les faiblesses sociales qu'il s'agisse d'accéder à des lieux interdits au public, d'obtenir des informations ou au contraire de contrer de telles attaques. Le travail leur demande de rechercher et d'exploiter toutes les informations publiques sur leurs cibles. La plupart des sociétés emploient de tels individus pour couvrir leurs faiblesses dans ce domaine et prévenir des intrusions ou des accès non autorisés.
+
+Aspects : Négociation, Enquête
 
 ## Interrogateur
 
@@ -248,7 +257,7 @@ Matériel courant : véhicules, combinaison spatiale, multi-tool, etc.
 
 ## Idole
 
-Les idoles sont des artistes iconiques adulés par de grandes communautés de fans. Ils sont souvent connus à travers tout le système solaire et bénéficient de réseaux de relations qui peuvent parfois même rendre des diplomates envieux. Souvent spécialisés, leur expertise couvre de nombreux domaines tels que les stims, les jeux virtuels, la musique, la danse, la vulgarisation, etc. Les corporations mettent allègrement en avant ceux qui développent les aspects qu’elles souhaitent promouvoir dans sa population.
+Les idoles sont des artistes iconiques adulés par de grandes communautés de fans. Ils sont souvent connus à travers tout le système solaire et bénéficient de réseaux de relations qui peuvent parfois même rendre des diplomates envieux. Souvent spécialisés, leur expertise couvre de nombreux domaines tels que les stims, les jeux virtuels, la musique, la danse, la vulgarisation, etc. Les corporations mettent volontier en avant ceux qui développent les aspects qu’elles souhaitent promouvoir dans sa population.
 
 Aspects : Relations.
 
@@ -268,7 +277,7 @@ Matériel courant : lecteur d’intention, logiciel de reconstitution, décodeu
 
 ## Procureur
 
-Les procureurs sont de brillants orateurs et experts des lois qui défendent leurs clients lors des procès. Dans les démarches judiciaires, tout solaire a en effet le droit d’être assisté d’un avocat et les corporations s’assurent que ce doit soit respecté. Parfois, il arrive aussi qu’ils soient appelés pour affronter les administrations les plus tordues, notamment celle relatives avec la Terre, en particulier pour les récents arrivants.
+Les procureurs sont de brillants orateurs et experts des lois qui défendent leurs clients lors des procès. Dans les démarches judiciaires, tout solaire a en effet le droit d’être assisté d’un avocat et les corporations s’assurent que ça soit respecté. Parfois, il arrive aussi qu’ils soient appelés pour affronter les administrations les plus tordues, comme celles en place sur Terre qui impactent les nouveaux arrivants.
 
 Aspects : Négociation.
 
@@ -288,7 +297,7 @@ Matériel courant : implant psi.
 
 ## Recruteur clandestin
 
-Les recruteurs clandestins sont des agents spécialisés dans la construction de réseau de résistance et terroristes. Capables de travailler seuls, ils savent recruter les bonnes personnes et les convaincre d’agir. La logistique ne leur fait pas non plus peur et ils savent profiter des réseaux de marché noirs qui existent, quand ils n’en sont pas directement à l’origine. Agissant sur le territoire adverse, ils savent se construire une couverture et peuvent opérer en toute discrétion. Ces agents ont été très employés durant la guerre des colonies pour préparer la reprise des colonies envahies par l’ONU.
+Les recruteurs clandestins sont des agents spécialisés dans la construction de réseaux de résistance ou terroristes. Capables de travailler seuls, ils savent recruter les bonnes personnes et les convaincre d’agir. La logistique ne leur fait pas non plus peur et ils savent profiter des réseaux de marché noirs qui existent, quand ils n’en sont pas directement à l’origine. Agissant sur le territoire adverse, ils savent se construire une couverture et peuvent opérer en toute discrétion. Ces agents ont été très employés durant la guerre des colonies pour préparer la reprise des colonies envahies par l’ONU.
 
 Aspects : Relation, Négociation, Infiltration.
 
@@ -298,7 +307,7 @@ Matériel courant : logiciel de lecture d’intention, logiciels de cryptograph
 
 ## Récupérateur spatial
 
-Les récupérateurs spatiaux sont des spécialistes polyvalents de la récupération, parfois surnommés « ferrailleurs ». Travaillant principalement dans l’espace, ils récupèrent les débris qui encombrent les orbites et les livrent aux installations orbitales pour recyclage. Parfois confrontés à d’anciennes technologies datant de la guerre, leurs opérations sont parmi les plus dangereuses laissées à des êtres sentients. Ils assistent aussi les vaisseaux en perdition et accourent à l’aide lorsqu’un vaisseau ou une installation est victime d’un incident. La sûreté spatiale des corporations repose significativement sur les épaules de ces véritables anges gardiens.
+Les récupérateurs spatiaux sont des spécialistes polyvalents de la récupération, parfois surnommés « ferrailleurs ». Travaillant principalement dans l’espace, ils récupèrent les débris qui encombrent les orbites et les livrent aux installations orbitales pour recyclage. Parfois confrontés à d’anciennes technologies datant de la guerre, leurs opérations sont parmi les plus dangereuses laissées à des êtres sentients. Ils assistent aussi les vaisseaux en perdition et viennent en aide aux vaisseaux et installations victimes d’un incident. La sûreté spatiale des corporations repose significativement sur les épaules de ces véritables anges gardiens.
 
 Aspects : Espace, Technologie.
 
@@ -368,7 +377,7 @@ Matériel courant : logiciels de reconstitution, logiciels prédictifs, logicie
 
 ## Technophile
 
-Les technophiles sont des passionnés de technologie passent leur temps à découvrir, disséquer et inventer de nouveaux appareils. Ils sont persuadés que la maîtrise de la technologie leur permettra de résoudre les problèmes qu’ils rencontreront. Leurs connaissances débordent généralement du seul domaine technologique et couvre aussi les sciences. Pour leurs propres développements, les corporations leur préfèrent les chercheurs, mais les découvertes qu’ils peuvent apporter justifient souvent de les laisser en activité.
+Les technophiles sont des passionnés de technologie qui passent leur temps à découvrir, disséquer et inventer de nouveaux appareils. Ils sont persuadés que la maîtrise de la technologie leur permettra de résoudre les problèmes qu’ils rencontreront. Leurs connaissances débordent généralement du seul domaine technologique et couvrent aussi les sciences. Pour leurs propres développements, les corporations leur préfèrent les chercheurs, mais les découvertes qu’ils peuvent apporter justifient de les laisser en activité.
 
 Aspects : Technologie.
 

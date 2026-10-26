@@ -14,7 +14,7 @@ Bien que les premiers astronautes s’en accommodaient, ils préféraient toutef
 
 L’invention des constructeurs universels a changé la donne en permettant de produire pratiquement tout ce qui est imaginable. Inévitablement, les solaires appliquèrent le procédé à la nourriture et des versions spécialisées de ces systèmes de production ont vu le jour : les synthétiseurs domestiques.
 
-Utilisant des composés organiques partiellement assemblés et, inévitablement, de l’eau, ces appareils ressemblent aux fours domestiques du début du siècle, la vitre transparente en moins. Les synthétiseurs procèdent en assemblant les composés et l’eau pour reproduite la structure moléculaire du plat demandé en employant des milliards de nanorobots.
+Utilisant des composés organiques partiellement assemblés et, inévitablement, de l’eau, ces appareils ressemblent aux fours domestiques post effondrement, la vitre transparente en moins. Les synthétiseurs procèdent en assemblant les composés et l’eau pour reproduire la structure moléculaire du plat demandé en employant des milliards de nanorobots.
 
 La nourriture ainsi produite est indistinguable de la version fraîche qu’elle reproduit. Pour des raisons pratiques et de sécurité, tous les liquides sont présentés dans de petites poches pourvues d’une paille. Il est en effet inenvisageable d’utiliser des verres ou des bols lorsque la gravité est insuffisante pour plaquer le liquide au fond.
 

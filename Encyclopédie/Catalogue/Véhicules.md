@@ -116,7 +116,7 @@ Bien que souvent relativement spécialisées, les corvettes restent des vaisseau
 
 ## Frégates
 
-Généralement plus grandes que les corvettes, les frégates sont des vaisseaux militaires spécialisés, conçus spécifiquement pour fonctionner au sein d’une flotte à une position précise. Ces vaisseaux, qui emportent généralement un arsenal important sont totalement optimisés pour leur fonction dans la formation. Ils sont aussi équipés d’un générateur à fusion pour pouvoir suivre les bâtiments capitaux lors des missions de longue durée.
+Généralement plus grandes que les corvettes, les frégates sont des vaisseaux militaires spécialisés, conçus spécifiquement pour fonctionner au sein d’une flotte à une position précise. Ces vaisseaux, qui emportent généralement un arsenal important, sont totalement optimisés pour leur fonction dans la formation. Ils sont aussi équipés d’un générateur à fusion pour pouvoir suivre les bâtiments capitaux lors des missions de longue durée.
 
 Il existe des frégates pour pratiquement tous les rôles : canonnières, défense de pointe mobile, vaisseaux d’observations, barges de ravitaillement, porte-drone, etc.
 

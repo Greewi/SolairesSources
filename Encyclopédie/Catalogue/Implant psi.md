@@ -4,7 +4,7 @@
 >
 > Nora « Pelican », Présidente de Suan
 
-Certains personnages, les psions, possèdent un implant très particulier : l’implant psi. Celui-ci octroie des pouvoirs formidables et encore considérés comme surnaturels. S’il n’existe qu’un seul type d’implant psi, chaque psion n’a accès qu’à l’un des six ensembles de pouvoirs recensés et, ce, en fonction de son caractère. Vous trouverez ici une description de ces ensembles de pouvoirs.
+Certains personnages, les psions, possèdent un implant très particulier : l’implant psi. Celui-ci octroie des pouvoirs formidables qui encore considérés comme surnaturels. S’il n’existe qu’un seul type d’implant psi, chaque psion n’a accès qu’à l’un des six ensembles de pouvoirs recensés et, ce, en fonction de son caractère. Vous trouverez ici une description de ces ensembles de pouvoirs.
 
 >> Pour une description de l’implant psi, des psions et des règles qui les régissent, voyez le chapitre *Psions* du livre *Vie de solaire*.
 

@@ -8,30 +8,30 @@
 
 ## De véritables cités
 
-Lorsque HIARTech a établi sa première colonie, vivre dans l’espace était un véritable défi. Depuis, l’établissement de l’Homme dans l’espace s’est considérablement simplifié ; même si le danger existe toujours. Ainsi, les colonies parsèment le système solaire, de Mercure à Triton, et sont autant de refuges pour la vie extraterrestre.
+Lorsque HIARTech a établi sa première colonie, vivre dans l’espace était un véritable défi. Depuis, l’établissement de l’Homme dans l’espace s’est considérablement simplifié ; même si le danger existe toujours. Ainsi, les colonies parsèment le système solaire, de Mercure à Triton, et ils sont autant de refuges pour la vie extraterrestre.
 
-Ce qu’il faut toutefois bien comprendre, c’est que les colonies sont de véritables cités. En fait, le terme « colonie » correspond désormais à « cité extraterrestre » : la notion de tutelle relatif à ce terme n’y a plus cours.
+Ce qu’il faut toutefois bien comprendre, c’est que les colonies sont de véritables cités. En fait, le terme « colonie » correspond désormais à « cité extraterrestre » et a perdu la notion de tutelle qui y était attaché.
 
-Contrairement à une idée reçue, provenant notamment de la victoire des colonies sur la Terre, les habitants de ces cités ne sont pas si nombreux : la population sentiente recensée des colonies n’excède pas les deux millions et demi d'individus. Une cité abrite en moyenne 45 000 habitants et près de 125 colonies jalonnent le système solaire.
+Contrairement à une idée reçue, provenant notamment de la victoire des colonies sur la Terre, les habitants de ces cités ne sont pas si nombreux : la population sentiente recensée des colonies n’excède pas les deux millions et demi d'individus. Une cité abrite en moyenne 20 000 habitants et près de 125 colonies jalonnent le système solaire.
 
 ## Principaux types architecturaux
 
-Parmi les colonies, il n’existe que peu de copies. Certes, on retrouve de nombreux points communs dans l’architecture des colonies conçues par la même corporation, mais au final, chaque cité, ou presque, reste unique.
+Parmi les colonies, il n’existe que peu de copies. Certes, on retrouve de nombreux points communs dans l’architecture des colonies conçues par la même corporation, mais finalement, chaque cité, ou presque, reste unique.
 
 Il existe quand même trois grandes catégories architecturales de colonies :
 * **Les arcologies** : les colonies qui adoptent ce type architectural sont constituées d’une unique structure. Il s’agit de véritables cités à l’intérieur d’un seul et même bâtiment de plus de 300 mètres de haut. Il n’est pas rare que de telles installations soient enterrées.
-* **Les cités dômes** : véritables cités à l’image de celles de la Terre, abritées sous de gigantesques dômes pouvant atteindre un diamètre de 300 mètres. Ces colonies sont souvent composées de nombreux dômes organisés en grappes et reliés par un réseau de transport urbain dense. Du fait de leur vulnérabilité, ces colonies ne sont bâties que sur les astres pourvus d’une atmosphère suffisamment dense pour éliminer la menace que représentent les micro-météorites. Plus concrètement, on en trouve surtout sur Mars et Titan.
+* **Les cités dômes** : véritables cités à l’image de celles de la Terre, abritées sous de gigantesques dômes pouvant atteindre un diamètre de 300 mètres. Ces colonies sont souvent composées de nombreux dômes organisés en grappes et reliés par un réseau de transport urbain dense. Du fait de leur vulnérabilité, ces colonies ne sont bâties que sur les astres pourvus d’une atmosphère suffisamment dense pour éliminer la menace que représentent les micrométéorites. Plus concrètement, on en trouve surtout sur Mars et Titan.
 * **Les installations modulaires** : reliquats des premières installations, les cités modulaires sont composées de nombreux petits bâtiments reliés par des coursives. Inefficaces en termes d’utilisation de l’espace et souvent plus vétustes, ces installations ne sont plus utilisées pour abriter les populations depuis longtemps. Seules les installations industrielles en font encore usage.
 
 Même si avec leur aspect monolithique, les stations et vaisseaux spatiaux peuvent faire penser aux arcologies, il est plus simple de les distinguer et nous les décrirons donc séparément.
 
 ## Architecture urbaine
 
-Vivre dans un espace clos peut poser un problème pour de nombreuses personnes. Heureusement, les architectes des colonies ont toujours pris ce problème en compte, et ce dès les prototypes construits sur Terre par HIARTech.
+Vivre dans un espace clos peut poser un problème pour de nombreuses personnes. Heureusement, les architectes des colonies ont toujours pris ce problème en compte, et ce, dès les prototypes construits sur Terre par HIARTech.
 
 Évidemment, les colonies dômes résolvent naturellement ce problème. L’espace contenu dans ces bulles étant précieux, il est souvent occupé par de grandes tours qui montent jusqu’à la limite du dôme. De nombreuses colonies disposent, pour les bénéfices psychologiques, de dômes plus « ouverts » comportant des environnements forestiers, champêtres ou plus simplement des parcs.
 
-Si les cités dômes résolvent efficacement le problème, les arcologies ne sont pas en reste. L’intérieur de ces monstres n’est pas constitué d’habitations étriqués reliées par un labyrinthe de coursives insalubres. Ce sont de véritables rues qui découpent l’espace intérieur de ces cités. Hautes de plusieurs étages, suffisamment larges pour accueillir les terrasses des restaurants, ces artères bénéficient souvent d’une architecture recherchée. Pour couronner le tout, les plafonds de ces rues sont souvent équipés d’un ciel holographique.
+Si les cités dômes résolvent efficacement le problème, les arcologies ne sont pas en reste. L’intérieur de ces monstres n’est pas constitué d’habitations étriquées reliées par un labyrinthe de coursives insalubres. Ce sont de véritables rues qui découpent l’espace intérieur de ces cités. Hautes de plusieurs étages, suffisamment larges pour accueillir les terrasses des restaurants, ces artères bénéficient souvent d’une architecture recherchée. Pour couronner le tout, les plafonds de ces rues sont souvent équipés d’un ciel holographique.
 
 Restent les installations modulaires. Ces dernières peuvent parfois utiliser les méthodes des arcologies, mais en général, elles ne sont tout simplement pas conçues pour abriter une population à temps plein.
 
@@ -65,7 +65,7 @@ Pour les trajets plus longs, orbitaux ou suborbitaux, des lignes de navettes ass
 
 Pour assurer leur fonctionnement et la survie de ses habitants, les colonies ont besoin d’un apport constant de matériaux et d’énergie. Ce ravitaillement continuel est normalement assuré par la production locale. Les colonies au sol trouvent facilement ce dont elles ont besoin dans leur environnement proche et elles sont souvent reliées directement aux installations minières et de récupération.
 
-Paradoxalement, ces installations ne représentent qu’une très faible partie des emplois occupés dans une colonie. Leur automatisation extrême les rend pratiquement autonomes, et nombre d’entre elles sont intégralement supervisées par des IA.
+Paradoxalement, ces installations ne représentent qu’une très faible partie des emplois occupés dans une colonie. Leur automatisation extrême les rend pratiquement autonomes et nombre d’entre elles sont intégralement supervisées par des IA.
 
 Ce qui est ainsi récolté est raffiné pour être ensuite utilisé dans les constructeurs universels. Une partie de l’hydrogène récolté est stocké pour approvisionner les réacteurs à fusion et donc la cité en énergie.
 
@@ -76,9 +76,9 @@ Quelques installations particulièrement isolées, comme les stations en orbite 
 Pour pouvoir être autonome, les cités disposent toutes de services essentiels :
 * **Infirmeries** : éléments vitaux, au sens propre, des colonies. Ces installations disposent de l’équipement nécessaire pour maintenir la population en bonne santé. Il est utile de noter qu’elles sont aussi équipées pour s’occuper des solaires non organiques. Ces services sont parfois mis en relation directe avec les services d’ingénierie et de maintenance de la colonie.
 * **Centres de production** : avec l’isolement relatif des cités, il est impératif que toutes soient capables de produire leur énergie et les matériaux nécessaires à leur entretien et à la vie des citoyens. Ceci a été considérablement été rendu plus aisé avec les constructeurs universels et les générateurs à fusions.
-* **Spatioports** : cet élément clef pour les échanges est la principale zone d’échange avec l’extérieur mais aussi du point d’évacuation le plus approprié. On trouve généralement des rampes de lancement pour envoyer des navettes en orbite ou rallier d’autres colonies via un vol suborbital, mais aussi des catapultes électromagnétiques servant à envoyer du matériel ou des ressources en orbite.
+* **Spatioports** : cet élément clef pour les échanges est la principale zone d’échange avec l’extérieur, mais aussi du point d’évacuation le plus approprié. On trouve généralement des rampes de lancement pour envoyer des navettes en orbite ou rallier d’autres colonies via un vol suborbital, mais aussi des catapultes électromagnétiques servant à envoyer du matériel ou des ressources en orbite.
 * **Nœuds de communication** : la communication est l’un des piliers de la société des solaires. Ces centres occupent donc une place importante dans la vie des colonies en étant le nœud principal de toutes les communications à longue portée. Ce sont par ailleurs ces mêmes centres qui sont chargés de la transmission des données lors de toute téléportation par téléversement.
-* **Centre de sécurité** : regroupant les différents services d’urgence qui peuvent exister sur une colonie, ils disposent du matériel nécessaire pour faire face à tout type de crise, que ce soit un incendie, une dépressurisation, une épidémie, un accident, une attaque militaire, etc. Évidemment ces services sont dirigés par la hiérarchie « militaire » de la cité.
+* **Centre de sécurité** : regroupant les différents services d’urgences qui peuvent exister sur une colonie, ils disposent du matériel nécessaire pour faire face à tout type de crise, que ce soit un incendie, une dépressurisation, une épidémie, un accident, une attaque militaire, etc. Évidemment ces services sont dirigés par la hiérarchie « militaire » de la cité.
 
 Sans surprise l’accès à ces services demandent généralement une autorisation spéciale.
 
@@ -88,7 +88,7 @@ En plus de ces services vitaux, il faut noter que les colonies disposent aussi d
 
 L’organisation politique des colonies est proche de celles de cités-états. Ceci est principalement dû au relatif isolement de ces villes.
 
-Toujours est-il que ces cités appartiennent à une corporation qui a potentiellement tout pouvoir dessus, y compris celui de la démanteler. En revanche, la notion de territoire n’existe pas, en dehors de l’exception martienne. Les corporations possèdent les installations mais pas le terrain. Il est donc courant de voir des colonies de deux corporations différentes, voir rivales, se côtoyer.
+Toujours est-il que ces cités appartiennent à une corporation qui a potentiellement tout pouvoir dessus, y compris celui de la démanteler. En revanche, la notion de territoire n’existe pas, en dehors de l’exception martienne. Les corporations possèdent les installations, mais pas le terrain. Il est donc courant de voir des colonies de deux corporations différentes, voir rivales, se côtoyer.
 
 L’organisation interne aux colonies est souvent le même : un maire, épaulé par des conseillers pour les affaires courantes, associé à un service de sécurité dirigé par un chef de la sécurité pour l’aspect plus « militaire » des choses. Ces deux hiérarchies sont d’égal niveau et sont directement placées sous les directives de la corporation.
 
@@ -96,7 +96,7 @@ On retrouve cette dualité civile/militaire dans la plupart des institutions et 
 
 ## Loi des colonies
 
-En matière de réglementations et de lois, le système des colonies est simple : les lois spécifiques des colonies prévalent sur les lois de la corporation. Toutefois pour éviter toute mauvaise surprise, les lois qui diffèrent des normes de la corporation doivent être transmises aux visiteurs avant leur arrivée. Le débarquement ne leur est alors autorisé que s’ils acceptent ces lois. Notez que les corporations peuvent, et n’hésitent pas à faire, modifier les lois d’une cité en cas d’abus.
+En matière de réglementations et de lois, le système des colonies est simple : les lois spécifiques des colonies prévalent sur les lois de la corporation. Toutefois, pour éviter toute mauvaise surprise, les lois qui diffèrent des normes de la corporation doivent être transmises aux visiteurs avant leur arrivée. Le débarquement ne leur est alors autorisé que s’ils acceptent ces lois. Notez que les corporations peuvent, et n’hésitent pas à faire, modifier les lois d’une cité en cas d’abus.
 
 Les lois, toujours formulées de façon restrictive, sont appliquées par le biais de jugements devant une cour mixte dépendant à la fois de la hiérarchie civile et de la hiérarchie militaire. Cette cour décide donc s’il y a infraction, ou non, ainsi que de l’éventuelle peine. Il reste possible dans certains cas exceptionnels, notamment si les faits impliquent plusieurs colonies, que le jugement soit prononcé directement par une corporation.
 
@@ -104,7 +104,7 @@ Après vérification de la validité du jugement, c’est la corporation elle-m�
 
 Il est à noter que la peine de suppression, c’est-à-dire la peine de mort, n’existe pas : selon le traité des solaires (qui a un rôle de constitution pour l’ensemble des corporations) aucune peine ne doit être irréversible. En revanche, on a déjà vu des cas exceptionnels pouvant conduire au retrait d’un implant psi (avec interdiction de s’en procurer un nouveau) ou à la mise en stase permanente.
 
-C’est un point important à prendre en considération : dans les colonies, les peines n’ont pas un but punitif comme elles l’ont sur Terre : la décision de la justice a toujours pour objectif de réparer au mieux les dégâts causés et de s’assurer que le problème ne se reproduira pas. Ainsi les peines de prisons, telles que les pratiquement les terriens, n’existent plus dans les colonies, car elles sont considérées comme inutiles voire contre-productives.
+C’est un point important à prendre en considération : dans les colonies, les peines n’ont pas un but punitif comme elles l’ont sur Terre : la décision de la justice a toujours pour objectif de réparer au mieux les dégâts causés et de s’assurer que le problème ne se reproduira pas. Ainsi les peines de prisons, telles que les pratiquement les terriens, n’existent plus dans les colonies, car elles sont considérées comme inutiles, voire contre-productives.
 
 Les peines habituellement prononcées sont :
 * **Réparation** : le coupable doit réparer les dégâts, encadré par un surveillant. Il s’agit souvent d’effectuer des travaux ou de fournir du matériel. Une telle peine n’est effective que si les réparations sont possibles.

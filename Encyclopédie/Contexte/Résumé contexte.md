@@ -4,7 +4,7 @@
 >
 > Sœur Maxence, ancienne méthodique
 
-Les événements de *Solaires* prennent place vers le début du vingt-troisième siècle dans notre système solaire. Pourtant autant, ce monde est difficilement comparable à ce que nous connaissons. Avant de plonger dans les détails, voici un résumé du contexte qui sera développé dans les chapitres suivants.
+Les événements de *Solaires* prennent place vers le début du vingt-troisième siècle dans notre système solaire. Pour autant, ce monde est difficilement comparable à ce que nous connaissons. Avant de plonger dans les détails, voici un résumé du contexte qui sera développé dans les chapitres suivants.
 
 ## Le schisme
 
@@ -14,14 +14,12 @@ Le conflit s’envenima à la suite de plusieurs affaires et l’inévitable eu 
 
 Certains observateurs de cette époque considèrent cette guerre comme le cri d’agonie d’une humanité sur le point d’être remplacée par ses enfants.
 
-La guerre fut gagnée par les corporations et le traité signé entre les deux camps porta le nom de la guerre : le traité des colonies. Ce dernier imposa les grandes règles qui régissent encore les relations entre la Terre et les Colonies :
+La guerre fut gagnée par les corporations ; et le traité de paix signé entre les deux camps porta le nom de la guerre : le traité des colonies. Ce dernier imposa les grandes règles qui régissent encore les relations entre la Terre et les Colonies :
 * les corporations ayant signé le traité (toutes sauf Sol6) sont reconnues comme des nations à part entière par l’ONU, même si elles n’y siègent pas ;
-* l’ONU et les nations de la Terre ne peuvent plus envoyer de flotte armée en direction des colonies, à l’exceptions de celles de Sol6 ;
-* les corporations n’ont plus le droit d’envoyer de forces armées en direction de la Terre et des colonies de Sol6 ;
-* les lois établies par la Terre ne prévalent que sur Terre et dans les colonies de Sol6 ;
-* les lois établies par les Colonies ne prévalent que dans les colonies (en dehors de celles de Sol6) ;
-* aucune nation ou organisation issue de la Terre ne peut ingérer dans les choix des colonies ;
-* aucune nation ou organisation issue des colonies ne peut ingérer dans les choix de la Terre.
+* le territoire sous l’autorité de l’ONU (ou un de ses membres) est composé exclusivement de la Terre, de la Lune et des autres colonies de Sol6 et est appelé territoire terrien ;
+* l’ONU et les nations de la Terre ne peuvent plus envoyer de flotte armée en direction des corporations et les corporations n’ont plus le droit d’envoyer de forces armées en direction du territoire terrien ;
+* les lois établies par la Terre ne prévalent que sur le territoire terrien et les lois établies par les Colonies ne prévalent que dans leurs colonies ;
+* aucune organisation issue de la Terre ou nation de la Terre ne peut ingérer dans les choix des colonies et aucune organisation issue des colonies ou corporation ne peut ingérer dans les choix de la Terre.
 
 C’est ainsi que le grand schisme entre les colonies et la Terre fut définitivement établi.
 
@@ -62,7 +60,7 @@ Les principaux acteurs :
 * **Suan** : Suan est surtout présente dans le système Saturnien où elle fut la première corporation à s’installer ; elle a commencé à rebâtir ses colonies joviennes perdues durant la guerre.
 * **Aesir** : issue de la scission de Vranberg-Lytan, Aesir est une corporation militaire qui s’est donné pour but de régler le problème de la Terre. Elle n’a pas souvent la confiance des autres corporations.
 * **Urania** : seconde corporation issue de la scission de Vranberg-Lytan, Urania commence la colonisation d’Uranus et de Neptune avec le soutien direct de Mars.
-* **Cérès** : fédération des colonies de la planète mineur Cérès, cette petite nation est un acteur important de la ceinture d’astéroïde.
+* **Cérès** : fédération des colonies de la planète mineure Cérès, cette petite nation est un acteur important de la ceinture d’astéroïde.
 
 Les acteurs secondaires :
 * **Les Solar Wardners** : les Solar Wardners sont un corps d’élite indépendant œuvrant pour la stabilité de la civilisation des Solaires et jouissant d’une juridiction dans la totalité des colonies.
@@ -78,7 +76,7 @@ Les acteurs secondaires :
 Le système solaire est extrêmement vaste et contient un très grand nombre d’astres. Les plus importants sont les planètes et lunes dont plusieurs ont été colonisés :
 * **Mercure** : faiblement colonisée, cette planète est la plus proche du soleil. Ses colonies sont abritées dans les cratères des pôles nord et sud.
 * **Vénus** : cette planète invivable n’est simplement pas colonisée. Son atmosphère épaisse et un effet de serre démentiel rendent même de simples missions d’exploration robotiques difficiles.
-* **La Terre** : parler de colonisation pour la Terre n’a pas de sens. Elle reste un patchwork de nation vaguement liées par l’ONU. En revanche, la Lune est le premier astre à avoir été colonisé.
+* **La Terre** : parler de colonisation pour la Terre n’a pas de sens. Elle reste un patchwork de nations vaguement liées par l’ONU. En revanche, la Lune est le premier astre à avoir été colonisé.
 * **Mars** : quatrième planète du système solaire, la planète rouge est sans doute l’astre le plus colonisé.
 * **Cérès** : cette planète mineure orbite dans la ceinture principale. Elle porte quelques colonies qui servent de relais pour la plupart des opérations dans la ceinture.
 * **Jupiter** : cette géante gazeuse est la plus grande planète du système solaire. Elle n’est évidemment pas directement colonisée, mais trois de ses principales lunes portent des colonies : Europe, Ganymède et Callisto. Volcanique et en interaction avec le champ magnétique de la planète, Io ne porte que quelques avant-postes.
@@ -86,7 +84,7 @@ Le système solaire est extrêmement vaste et contient un très grand nombre d�
 * **Uranus** : bien plus éloignée du soleil cette géante gazeuse ne possède pas de lune aussi grande que celles de Jupiter ou Saturne. Toutefois, une colonie a été établie sur Titania et les efforts d’Urania se poursuivent dans ce système planétaire.
 * **Neptune** : cette géante gazeuse est la plus lointaine de toutes les planètes. Malgré son isolement, une colonie est en cours de construction par Urania sur Triton, la plus grande de ses lunes.
 
-En plus de ces astres, d’autres planètes mineures, astéroïdes et comètes circulent dans le système solaire. En dehors des colonies indiquées plus haut, de nombreux avant-postes ont été établis en de nombreux endroit du système solaire, que ce soit pour l’extraction de ressources, la recherche, la construction d’une colonie, la surveillance ou d’autres activités. Malgré tout, l’espace et la surface de tous ces astres restent vides en pratique. Au mieux, ce sont des centaines de kilomètres qui séparent les colonies d’une même lune ou planète. Et pour aller de l’un à l’autre de ces astres, ce sont des semaines, voire des mois de vol qu’il faut prévoir.
+En plus de ces astres, d’autres planètes mineures, astéroïdes et comètes circulent dans le système solaire. En dehors des colonies indiquées plus haut, de nombreux avant-postes ont été établis en de nombreux endroits du système solaire, que ce soit pour l’extraction de ressources, la recherche, la construction d’une colonie, la surveillance ou d’autres activités. Malgré tout, l’espace et la surface de tous ces astres restent vides en pratique. Au mieux, ce sont des centaines de kilomètres qui séparent les colonies d’une même lune ou planète. Et pour aller de l’un à l’autre de ces astres, ce sont des semaines, voire des mois de vol qu’il faut prévoir.
 
 ## Le contexte scientifique et technologique
 
@@ -100,7 +98,7 @@ Pour vous aider à comprendre les plus marquants de ces changements voici quelqu
 * **Colonie** : de véritables cités, hermétiquement closes, ont été établies sur la Lune, Mars et des tas d’autres astres de notre système solaire.
 * **Constructeur universel** : tout ce qui est produit dans les colonies est fabriqué par des constructeurs universels qui assemblent la matière atome par atome avec des milliards de nanorobots.
 * **Économie de l’abondance** : Les colonies bénéficient de l’économie de l’abondance. Fini le travail obligatoire, des millions de robots non sentients sont là pour vous.
-* **Voyage spatiaux** : aller d’une planète à une autre prend entre quelques jours et quelques semaines de vol.
+* **Voyages spatiaux** : aller d’une planète à une autre prend entre quelques jours et quelques semaines de vol.
 * **Téléversement** : il est possible de voyager à la vitesse de la lumière via le téléversement et de plus en plus de personne le font.
 * **Enveloppe** : augmenter son corps, le faire modifier ou même en changer complètement est presque devenu une routine pour certain.
 * **Sauvegarde** : la mort a été vaincue et tant qu’une copie de votre motif existe quelque part, on peut vous ramener à la vie.

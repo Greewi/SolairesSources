@@ -47,11 +47,11 @@ Les enveloppes provoluées sont les moins courantes de toutes et ne comptent que
 
 Les enveloppes provoluées disposent d’un **cerveau organique** et peuvent être modifiée via la **biomodification** et la **cybernétisation**.
 
->> Comme pour les enveloppes biologiques, nous déconseillons d’utiliser un provolué comme personnage. Notez d’ailleurs que les provolués ne sont pas des animaux anthropomorphes. Rassurez-vous pour créer ces derniers, les chimères et, dans une moindre mesure, les hyper-hybrides seront bien plus adaptés. Les chimères sont même pratiquement faites pour.
+>> Comme pour les enveloppes biologiques, nous déconseillons d’utiliser un provolué comme personnage. Notez d’ailleurs que les provolués ne sont pas des animaux anthropomorphes. Si vous souhaitez en créer un, regardez plutôt du côté des chimères, et, dans une moindre mesure, des hyper-hybrides.
 
 ## Enveloppes réplicantes
 
-Ces enveloppes organiques entièrement artificielles reproduisent des espèces existantes, très majoritairement l’humain. Toutefois, comme l’intégralité des traits de l’être sont disponibles à la conception, les concepteurs de ces enveloppes en profitent pour y intégrer de nombreuses optimisations et bio-modifications.
+Ces enveloppes organiques entièrement artificielles reproduisent des espèces existantes, très majoritairement l’humain. Toutefois, comme l’intégralité des traits de l’être sont disponibles à la conception, les concepteurs de ces enveloppes en profitent pour y intégrer de nombreuses optimisations et biomodifications.
 
 Ainsi, la plupart des réplicants disposent de capacités bien meilleures que celles d’un humain biologique, même dans une excellente condition physique. Avec la familiarité apparente de ces enveloppes de nombreux solaires choisissent ce type d’enveloppe lorsqu’ils doivent abandonner leur précédente.
 
@@ -65,7 +65,7 @@ Comme les réplicants, les chimères sont des enveloppes organiques entièrement
 
 Curieusement, les chimères sont plus nombreuses que les réplicants. Certes on y trouve une part de psions, mais leur nombre vient notamment d’une communauté importante de « furries ». En effet, s’il existe bien une population que la métamorphose a directement aidée, c’est probablement celle-là.
 
-Comme les réplicants, les capacités des chimères peuvent bénéficier des meilleures bio-modifications, mais celles-ci restent inférieures à leur équivalent cybernétique. Aussi de nombreuses chimères sont aussi améliorées par la cybernétique. Toutefois, à cause de leur aspect singulier, ces dernières restent appelées « Chimères » bien qu’elles devraient normalement être classées parmi les cyborgs.
+Comme les réplicants, les capacités des chimères peuvent bénéficier des meilleures biomodifications, mais celles-ci restent inférieures à leur équivalent cybernétique. Aussi de nombreuses chimères sont aussi améliorées par la cybernétique. Toutefois, à cause de leur aspect singulier, ces dernières restent appelées « Chimères » bien qu’elles devraient normalement être classées parmi les cyborgs.
 
 Les chimères disposent d’un **cerveau organique** et peuvent être modifiée via la **biomodification** et la **cybernétisation**.
 

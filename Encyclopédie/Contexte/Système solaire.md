@@ -12,11 +12,11 @@ Après quelques informations générales sur le système solaire, vous trouverez
 
 Initialement, le système solaire s’est formé lorsque son nuage de gaz primordiaux s’est retrouvé comprimé par la supernova d’une étoile inconnue aujourd’hui disparue. Entraîné par la force de gravité, ce nuage de gaz s’est alors mis en rotation et aplati. S’effondrant progressivement, la température et la densité en son centre ont augmenté jusqu’à atteindre les conditions suffisantes pour commencer des réactions de fusion nucléaire : notre soleil naissait.
 
-Tout le disque ne s’est pas effondré dans le soleil : la pression de radiation provoqué par l’irradiante lumière du soleil et ses vents chargés ont conduit la matière du nuage originel à s’agréger pour former différents corps en orbite autour de l’étoile naissante. Pendant une longue période, nombre de ces corps en orbite s’écrasèrent les uns sur les autres, fusionnant ou se pulvérisant. Certains ont même rejoint l’étoile en s’écrasant dessus et d’autres ont été éjectés hors du système stellaire. C’est ainsi que, durant une ère d’apocalypse, les planètes sont nées.
+Tout le disque ne s’est pas effondré dans le soleil : la pression de radiation provoquée par l’irradiante lumière du soleil et ses vents chargés ont conduit la matière du nuage originel à s’agréger pour former différents corps en orbite autour de l’étoile naissante. Pendant une longue période, nombre de ces corps en orbite se sont écrasés les uns sur les autres, fusionnant ou se pulvérisant. Certains ont même rejoint l’étoile en s’écrasant dessus et d’autres ont été éjectés hors du système stellaire. C’est ainsi que, durant une ère d’apocalypse, les planètes sont nées.
 
 Toutefois, ce grand bombardement n’a pas immédiatement cessé et les planètes ont continué à recevoir comètes, astéroïdes et météorites. De nombreux corps ont été capturés par les plus massifs des astres pour donner des lunes. Et, de la même manière que les planètes, d’autres grandes lunes se sont formées par agrégation. Quelques-unes ont été le fruit de collisions apocalyptiques, ainsi notre Lune est-elle probablement le résultat de la collision de la Terre avec une autre protoplanète qu’on a nommé Théia.
 
-Le système solaire porte encore les marques de jeunesse comme en témoignent les nombreux cratères d’impacts qui recouvrent la surface de la plupart des astres. Si le grand bombardement s’est terminé, l’histoire de notre système solaire n’est pas terminée. Notre soleil a atteint la moitié de sa vie et d’autres changements cataclysmiques sont prédits. Mais la suite est une autre histoire que nous ne vivrons probablement pas.
+Le système solaire porte encore les marques de jeunesse comme en témoignent les nombreux cratères d’impacts qui recouvrent la surface de la plupart des astres. Si le grand bombardement s’est terminé, l’histoire de notre système solaire n’est pas finie. Notre soleil a atteint la moitié de sa vie et d’autres changements cataclysmiques ont été prédits. Mais la suite est une autre histoire que nous ne vivrons probablement pas.
 
 ## Corps du système solaire
 
@@ -47,7 +47,7 @@ Tous ces corps n’orbitent pas Sol à la même vitesse et au fil du temps, leur
 
 >> ### Les échelles et l’imagination
 >>
->> Le système solaire n’est qu’un point dans la galaxie, elle-même un point dans le groupe local, lui-même un point dans le superamas de la Vierge, lui-même un point de Laniakea, lui-même un point dans l’univers observable. Pourtant ses dimensions sont tellement gigantesques qu’il nous est impossible d’en apprécier les dimensions.
+>> Le système solaire n’est qu’un point dans la galaxie, elle-même un point dans le groupe local, lui-même un point dans le superamas de la Vierge, lui-même un point de Laniakea, lui-même un point dans l’univers observable. Pourtant, ses dimensions sont tellement gigantesques qu’il nous est impossible d’en apprécier les dimensions.
 >>
 >> Pour mesurer les distances dans le système solaire nous emploieront principalement la seconde lumière (abrégé par « sl »). Une seconde lumière est la distance que parcourt, dans le vide, la lumière en une seconde (soit une distance de 299 792 km).
 >>
@@ -55,7 +55,7 @@ Tous ces corps n’orbitent pas Sol à la même vitesse et au fil du temps, leur
 
 >> ### À propos des propriétés des astres
 >>
->> Vous trouverez de nombreuses informations données pour les différents astres. Ces informations sont issues pour la plupart de données scientifiques réelles, mais certains termes ont été modifiés pour être plus compréhensibles. Voici quelques explications sur ce que informations signifient :
+>> Vous trouverez de nombreuses informations données pour les différents astres. Ces informations sont issues pour la plupart de données scientifiques réelles, mais certains termes ont été modifiés pour être plus compréhensibles. Voici quelques explications sur ce que ces informations signifient :
 >> * Le type des planètes et lunes est une classification arbitraire pour Solaires. Notamment, il n’existe pas de catégorie « Lune mineure » en réalité. Notez que les géantes gazeuses ne possèdent pas de surface solide et qu’il n’est pas possible de s’y poser : au mieux, il est possible de faire un plongeon mortel dans son atmosphère.
 >> * Les rayons donnés sont approximatifs, les planètes et lunes n’étant pas des sphères parfaites.
 >> * La gravité indiquée est celle de la surface comparée à celle de la Terre. Si on prend le cas de Mars, qui possède une gravité à la surface de 0.38 g, un objet de 100 kg y pèse aussi lourd qu’un objet de 38 kg sur Terre.
@@ -78,7 +78,7 @@ Tous ces corps n’orbitent pas Sol à la même vitesse et au fil du temps, leur
 
 Mercure est la planète la plus proche du soleil. Sa proximité avec le soleil, sa lente rotation et l’absence d’atmosphère font de sa surface un endroit particulièrement dangereux. Toutefois, plusieurs cratères aux pôles bénéficient d’une obscurité permanente, abaissant considérablement la température jusqu’à −180° Celsius (comparé aux 430° Celsius de la surface exposée à l’équateur) et préservant une réserve de glace d’eau dans leur fond.
 
-La colonisation de Mercure est relativement récente et les quelques colonies de Mercure sont abrités au fond de ces fameux cratères polaires : les trois premières au nord et la plus récente au sud. Par convention, ces cités portent le nom de leur cratère de résidence qui ont été nommés eux-mêmes en référence à des poètes, peintres, écrivains et autres artistes.
+La colonisation de Mercure est relativement récente et les quelques colonies de Mercure sont abrités au fond de ces fameux cratères polaires : les trois premières au nord et la plus récente au sud. Par convention, ces cités portent le nom de leur cratère de résidence qui ont été nommés eux-mêmes en références à des poètes, peintres, écrivains et autres artistes.
 
 >> Colonies de Mercure : Kandinsky (Sol6, 2217), Tolkien (Sol6, 2225), Tryggvadottir (Sol6, 2231), Chao Meng-Fu (Sol6, 2236).
 
@@ -167,7 +167,7 @@ Mars possède deux petites lunes, des astéroïdes capturés : Phobos et Déimo
 
 Le plus gros objet de la ceinture principale, Cérès est aussi la seule planète naine à l’intérieur de l’orbite de Jupiter. Sa surface couverte de cratère est relativement monotone même si des dépôts brillants de sels au fond de certains cratères apportent une touche singulière.
 
-Si cette planète naine a été colonisée c’est principalement pour sa proximité relative avec de nombreux autres astéroïdes. Sa faible gravité peut sembler presque dérisoire, mais elle offre le minimum nécessaire pour l’établissement de colonies autonomes capables de soutenir les activités des corporations dans cette région du système solaire. Si la majorité des colonies de Cérès ont été établies par Sol6, celles-ci ont finalement réussi à gagner leur indépendance durant la guerre des colonies. Aujourd’hui, les colonies de Cérès forment une petite nation indépendante qui porte le nom de la planète mineure.
+Si cette planète naine a été colonisée, c’est principalement pour sa proximité relative avec de nombreux autres astéroïdes. Sa faible gravité peut sembler presque dérisoire, mais elle offre le minimum nécessaire pour l’établissement de colonies autonomes capables de soutenir les activités des corporations dans cette région du système solaire. Si la majorité des colonies de Cérès ont été établies par Sol6, celles-ci ont finalement réussi à gagner leur indépendance durant la guerre des colonies. Aujourd’hui, les colonies de Cérès forment une petite nation indépendante qui porte le nom de la planète mineure.
 
 >> Colonies de Cérès : Occator (Ceres, 2203), Kirnis (Ceres, 2208), Nawish (Ceres, 2215), Ezinu (Ceres, 2226), Rongo (Ceres, 2228), Asari (Ceres, 2234), Urvara (Ceres, 2234)
 
@@ -192,7 +192,7 @@ Jupiter est la plus grande planète du système solaire. Sa surface parsemée d�
 >> * Rayon orbital : 1,41 sl
 >> * Période : 1 j 18 h 27 min
 
-Io, la première des lunes galiléennes est tiraillée par la gravité de la planète géante et celle des autres lunes galiléennes. Les déformations dues aux forces de marées provoquent un échauffement très important de son intérieur et Io présente un volcanisme très actif. Sa surface ne porte pratiquement aucun cratère d’impact et offre des couleurs ocres allant du jaune au rouge. Les particules projetées par le panache de ses volcans interagissent avec le champ magnétique de la planète produisant d’importants niveaux de radiations dans les orbites croisant celle de la lune. Pour ces raisons, Io ne porte aucune colonie bien qu’on puisse y trouver plusieurs avant-postes.
+Io, la première des lunes galiléennes est tiraillée par la gravité de la planète géante et celle des autres lunes galiléennes. Les déformations dues aux forces de marées provoquent un échauffement très important de son intérieur et Io présente un volcanisme très actif. Sa surface ne porte pratiquement aucun cratère d’impact et offre des couleurs ocre allant du jaune au rouge. Les particules projetées par le panache de ses volcans interagissent avec le champ magnétique de la planète produisant d’importants niveaux de radiations dans les orbites croisant celle de la lune. Pour ces raisons, Io ne porte aucune colonie bien qu’on puisse y trouver plusieurs avant-postes.
 
 >> ### Europe
 >>
@@ -218,7 +218,7 @@ Europe est la seconde lune galiléenne. Sa surface complètement glacée abrite 
 >>
 >> Colonies de Ganymède : Danel (Vranberg-Lytan, 2200), Katline (Suan, 2205), Danel Landing (Waylanders, 2208), Kittu (Vranberg-Lytan, 2209), Lightice (Suan, 2211), Diment (Vranberg-Lytan, 2213), April (Waylanders, 2216), Nah-Hunte (Vranberg-Lytan, 2217), Grayflat (Suan, 2218), Ninlil (Vranberg-Lytan, 2220), Mush (Waylanders, 2221), We-ila (Vranberg-Lytan, 2223), Cisti (Aesir, 2225), Silenad (Suan, 2225), Serapis (Waylanders, 2226), Dendera (Vranberg-Lytan, 2227), Osiris (Aesir, 2228), Everdust (Waylanders, 2228), Anubis (Aesir, 2234), Ruti (Suan, 2234), Nut (Waylanders, 2235), Asima (Waylanders, 2237).
 
-Ganymède est la plus massive et la plus grande des lunes du système solaire. Sa surface semble composée de grandes plaques fracturées dont un tiers semble particulièrement sombre. Comme Europe, Ganymède possède un vaste océan liquide sous sa surface. C’est en revanche la seule lune du système solaire qui possède son propre champ magnétique. Ganymède est la lune du système jovien qui porte le plus grand nombre de colonie. Celles-ci portent les noms des cratères dans lesquelles elles ont été érigées en dehors des exceptions suivantes : Katline et Danel Landing sont situées dans le cratère Danel ; Lightice et April, dans le cratère Kittu, Grayflat et Everdust dans le cratère Diment ; Silenar située dans le cratère Mesh.
+Ganymède est la plus massive et la plus grande des lunes du système solaire. Sa surface semble composée de grandes plaques fracturées dont un tiers semble particulièrement sombre. Comme Europe, Ganymède possède un vaste océan liquide sous sa surface. C’est en revanche la seule lune du système solaire qui possède son propre champ magnétique. Ganymède est la lune du système jovien qui porte le plus grand nombre de colonies. Celles-ci portent les noms des cratères dans lesquelles elles ont été érigées en dehors des exceptions suivantes : Katline et Danel Landing sont situées dans le cratère Danel ; Lightice et April, dans le cratère Kittu, Grayflat et Everdust dans le cratère Diment ; Silenar située dans le cratère Mesh.
 
 >> ### Callisto
 >>
@@ -407,7 +407,7 @@ Obéron est la plus externe et la seconde plus grande lune d’Uranus. Sa surfac
 >> * Jour solaire : 16 h 06 min
 >> * Année sidérale : 164 ans 323 j
 
-Neptune est la huitième et dernière planète du système solaire. Invisible à l’œil nu depuis la Terre, cette géante gazeuse est pourtant la troisième plus grande planète du système. D’une couleur bleu foncé, sa surface est parcourue par des ouragans blancs et de grandes taches sombres qui la rende considérablement plus contrastée qu’Uranus. Comme toutes les autres géantes gazeuses, Neptune est entourée de nombreuses lunes. Seules trois dépassent les cent-cinquante kilomètres de rayon. Ce système ne possède pas encore de colonie active, mais une cité est en cours de construction sur Triton.
+Neptune est la huitième et dernière planète du système solaire. Invisible à l’œil nu depuis la Terre, cette géante gazeuse est pourtant la troisième plus grande planète du système. D’une couleur bleu foncé, sa surface est parcourue par des ouragans blancs et de grandes taches sombres qui la rende considérablement plus contrastée qu’Uranus. Comme toutes les autres géantes gazeuses, Neptune est entourée de nombreuses lunes. Seules trois dépassent cent-cinquante kilomètres de rayon. Ce système ne possède pas encore de colonie active, mais une cité est en cours de construction sur Triton.
 
 >> ### Protée
 >>

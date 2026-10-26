@@ -1,6 +1,6 @@
 # Le matériel extravéhiculaire
 
-> « Sortir ? Ça toujours été notre plus grande appréhension. Même on a des super combinaisons, ça reste tellement dangereux. »
+> « Sortir ? Ça toujours été notre plus grande appréhension. Même si on a des super combinaisons, ça reste tellement dangereux. »
 >
 > Feyn, astronaute.
 

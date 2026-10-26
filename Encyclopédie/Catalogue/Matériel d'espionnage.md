@@ -12,7 +12,7 @@ Ces appareils sont conçus pour sonder, explorer et reconstruire l’architectur
 
 Pour permettre l’exécution de ces logiciels particuliers, la console de décryptage embarque une architecture matérielle dédiée et irremplaçable, utilisant notamment un processeur quantique pourvu de plusieurs milliers de q-bits que l’on ne retrouve généralement pas dans le matériel informatique ordinaire.
 
-Avec une console de décryptage et les bons logiciels, un decker est capable de s’attaquer à la plupart des systèmes informatiques ce qui en fait une arme centrale dans la guerre numérique.
+Avec une console de décryptage et les bons logiciels, un decker est capable de s’attaquer à la plupart des systèmes informatiques ce qui en fait l'arme principale de la guerre numérique.
 
 >> ### Consoles de décryptage
 >> * Accès : matériels réservés aux agents de cybersécurité ;
@@ -36,7 +36,7 @@ Il est toutefois nécessaire d’apporter physiquement ces émetteurs ce qui en 
 
 La plupart des appareils sont verrouillés par des systèmes de sécurité physique pilotés électroniquement et ces derniers attendent un certificat attestant d’une accréditation ou d’un poste particulier. Toutefois, les agents clandestins et le personnel de sécurité ont souvent besoin de contourner ces protections et n’ont pas toujours la possibilité de se procurer les clés nécessaires.
 
-Pour forcer leur passage, ces agents utilisent des kits d’intrusion, également appelé décodeurs. Assistés d’IA spécialisées, ces appareils utilisent des microrobots pour pirater physiquement le circuit, connectant des éléments du circuit pour contourner le système de vérification. L’emploi des kits d’intrusion n’est pas invisible et les nanorobots injectés ne sont pas réutilisables, ni récupérables. Ils peuvent alors servir de preuve de l’intrusion si l’appareil piraté est inspecté.
+Pour forcer leur passage, ces agents utilisent des kits d’intrusion, également appelés décodeurs. Assistés par des IA spécialisées, ces appareils utilisent des microrobots pour pirater physiquement le circuit, connectant des éléments du circuit pour contourner le système de vérification. L’emploi des kits d’intrusion n’est pas invisible et les nanorobots injectés ne sont pas réutilisables, ni récupérables. Ils peuvent alors servir de preuve de l’intrusion si l’appareil piraté est inspecté.
 
 >> ### Kits d’intrusion
 >> * Accès : matériels réservés aux agents de sécurité ;
@@ -60,7 +60,7 @@ La cape d’invisibilité a longtemps été un rêve et si les progrès dans les
 
 Avec les progrès, les plus récentes combinaisons ont intégré les domaines ultraviolets, infrarouge, et même, pour de courtes périodes, le domaine thermique, permettant à leur utilisateur d’échapper à la plupart des systèmes de surveillances.
 
-Le camouflage en lui-même n’est pas parfait et des effets silhouette peuvent être visibles et certaines configurations peuvent aussi causer des artefacts dans le camouflage. De la même façon passer devant une source de lumière, ou de chaleur, très vive, produira une ombre. C’est pourquoi l’utilisateur doit toujours se tenir loin des lampes et essayer de raser les murs, ou les plafonds, et d’éviter les arrières plans trop contrastés.
+Le camouflage en lui-même n’est pas parfait : des effets de silhouette peuvent être visibles et certaines configurations peuvent aussi causer des artefacts dans le camouflage. De la même façon passer devant une source de lumière, ou de chaleur, très vive, produira une ombre. C’est pourquoi l’utilisateur doit toujours se tenir loin des lampes et essayer de raser les murs, ou les plafonds, et d’éviter les arrières plans trop contrastés.
 
 >> ### Combinaisons de camouflage thermo-optique
 >> * Accès : matériels réservés aux agents de sécurité ;

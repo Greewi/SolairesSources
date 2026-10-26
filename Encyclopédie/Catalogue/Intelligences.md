@@ -35,7 +35,7 @@ Les corporations peuvent déclarer un être quasi-sentient s’il répond quand 
 
 La notion de sentience redéfinie replace les animaux dans ce nouveau contexte et afin d’éviter des complications légales (et logistiques), les animaux domestiques et de compagnies sont interdits dans les colonies.
 
->> Note, bien que certains rôlistes vétérans puissent y trouver leur compte, nous vous déconseillons fortement les personnages joueurs non-sentients ou quasi-sentients.
+>> Note : bien que certains rôlistes vétérans puissent y trouver leur compte, nous vous déconseillons fortement les personnages joueurs non-sentients ou quasi-sentients.
 
 ## Intelligences naturelles, humains
 
@@ -153,7 +153,7 @@ Les IA Wolfa ne peuvent être instanciées que dans des **cerveaux cybernétique
 
 La dernière famille découverte, les IA de Ley-Wan, est le résultat des recherches sur le couplage de l’intelligence artificielle et des contraintes des réseaux de neurones biologiques. Le créateur de cette nouvelle famille, Ley-Wan, a mis au point un premier prototype non-sentient. Ce prototype n’aura pas le destin prestigieux des premiers des autres familles car son réseau biologique sera détruit lors des expérimentations.
 
-La preuve ayant été fournie, ce modèle d’IA sera très fortement employé notamment pour piloter des corps de réplicants. Avec la découverte de l’implant psi, ce type d’IA devient l’un des trois piliers de la combinaison implant psi/réplicant/Ley-Wan qui reste le meilleur moyen d’accéder à cette technologie. Les IA de Ley-Wan se distingue principalement par le fait qu’il s’agit du seul type d’IA générale implémentable sur un substrat organique. C’est aussi le seul type d’IA qui ne puisse pas être implémenté sous une forme informorphe ni sur un substrat cybernétique sans émulation.
+La preuve ayant été fournie, ce modèle d’IA sera très fortement employé notamment pour piloter des corps de réplicants. Avec la découverte de l’implant psi, ce type d’IA devient l’un des trois piliers de la combinaison implant psi/réplicant/Ley-Wan qui reste le meilleur moyen d’accéder à cette technologie. Les IA de Ley-Wan se distinguent principalement par le fait qu’il s’agit du seul type d’IA générale implémentable sur un substrat organique. C’est aussi le seul type d’IA qui ne puisse pas être implémenté sous une forme informorphe ni sur un substrat cybernétique sans émulation.
 
 En revanche, il a été démontré qu’elles sont isomorphes avec les IA Wolfa ce qui signifie qu’il est possible de convertir un de ces deux modèles vers l’autre sans aucune perte et inversement. C’est pourquoi les IA de Ley-Wan possèdent des capacités proches des IA Wolfa, notamment sur les aspects d’innovation, de recherche et d’introspection. Ce dernier point est à lui-seul la raison pour laquelle ces IA sont capables de maîtriser l’implant psi en quelques mois quand plusieurs années sont à peine suffisantes pour un esprit humain.
 

@@ -1,12 +1,8 @@
 # Les environnements spatiaux
 
-> *« C’est dangereux dehors ? »*
+> *« C’est dangereux dehors ? »* - *« Toujours Idle, c’est toujours dangereux. »*
 >
-> Idle, assistante hyper hybride
->
-> *« Toujours Idle, c’est toujours dangereux. »*
->
-> Feyn, astronaute
+> Idle, assistante hyper hybride, et Feyn, astronaute
 
 Dans les colonies, l’espace et les environnements extraterrestres sont omniprésents. Plus d’une aventure mènera les personnages hors de l’enceinte protectrice des colonies que ce soit à la surface d’une lune glacée ou dans le vide interplanétaire.
 
@@ -20,13 +16,13 @@ C’est aussi un environnement étrange qui défie nombre d’intuitions.
 
 En orbite, ou loin de tout astre, la gravité semble disparaître et les choses paraissent flotter dans le vide. Si quelque chose reçoit une impulsion, elle ne s’arrêtera jamais. Sans poids, de nombreuses choses simples à faire deviennent impossibles et beaucoup deviennent terriblement difficiles ou inefficaces : frapper, visser, enfoncer, tirer…
 
-Mais en l’absence de poids certaines choses incroyables sur Terre deviennent aussi possibles. Un humain seul peut déplacer un container d’une demi tonne, parcourir des dizaines de mètres d’une petite impulsion, laisser sa poche d’eau en lévitation juste à côté de lui le temps de s’essuyer la bouche…
+Mais en l’absence de poids certaines choses incroyables sur Terre deviennent aussi possibles. Un humain seul peut déplacer un conteneur d’une demi tonne, parcourir des dizaines de mètres d’une petite impulsion, laisser sa poche d’eau en lévitation juste à côté de lui le temps de s’essuyer la bouche…
 
 Même la lumière parait étrange et surréelle. Seul le soleil apporte de la lumière formant des ombres dures. Le reste du ciel semble noir et les étoiles sont difficiles à observer tant la nôtre irradie de lumière.
 
 L’espace est un environnement exotique, fascinant et terrifiant. Et c’est là que les solaires ont installé leurs villes.
 
->> Dans solaires, les personnages ne sont jamais loin de l’espace. Dans une colonie, passé l’enceinte, c’est l’environnement hostile de la planète ou lune qui les attends. Dans une station orbitale, ou un vaisseau, le vide spatial n’est séparé d’eux que par quelques millimètres de matériaux. C’est quelque chose à garder en tête avant de faire quelque chose de stupide.
+>> Dans solaires, les personnages ne sont jamais loin de l’espace. Dans une colonie, passé l’enceinte, c’est l’environnement hostile de la planète ou lune qui les attends. Dans une station orbitale ou un vaisseau, le vide spatial n’est séparé d’eux que par quelques millimètres de matériaux. C’est quelque chose à garder en tête avant de faire quelque chose de stupide.
 
 ## À la surface des autres mondes
 
@@ -36,7 +32,7 @@ En dehors des géantes gazeuses, seuls 4 astres ont une atmosphère significativ
 
 La surface de tous les autres astres est soit directement exposée à l’espace, soit entourée d’une exosphère. Ces dernières sont des atmosphères si ténues que les molécules les composants n’entre que rarement en collision entre elles. Le son ne s’y propage pas et les météores y passent à des vitesses orbitales, impunies. Pour des considérations pratiques, il est possible d’ignorer les exosphères comme si elles n’existaient pas.
 
-Passé la fournaise de la surface exposée de Mercure, l’enfer de Venus et la confortable Terre, toutes les autres planètes et lunes du système solaire n’offrent que des déserts glacés. Même la surface de Io qui dispose d’un volcanisme très actif est bien en dessous de zéro degré Celsius en dehors des épanchements de lave. Ainsi, à part pour titan, qui possède des mers de méthane liquide, les surfaces stériles de ces astres ne sont composées que de roches et de glaces.
+Passé la fournaise de la surface exposée de Mercure, l’enfer de Venus et la confortable Terre, toutes les autres planètes et lunes du système solaire n’offrent que des déserts glacés. Même la surface d'Io qui dispose d’un volcanisme très actif est bien en dessous de zéro degré Celsius en dehors des épanchements de lave. Ainsi, à part pour titan, qui possède des mers de méthane liquide, les surfaces stériles de ces astres ne sont composées que de roches et de glaces.
 
 Et de poussières… Et les mondes sans atmosphère en sont couverts d’une variété qui n’a jamais connu l’érosion et qui se constitue de microscopiques éclats tranchants. Cette poussière recouvre tout et s’accroche rapidement aux combinaisons et outils. Lorsqu’un astronaute rentre de mission, il doit procéder à un nettoyage complet de son équipement avant de pouvoir sortir de sa combinaison.
 
@@ -46,9 +42,9 @@ Que ce soit en orbite où loin de tout astre, l’absence de gravité perçue es
 
 Comme il n’y existe pas de force pour tout plaquer au sol, les objets qui ne sont pas attachés dérivent, les câbles serpentent à la moindre perturbation et la notion de haut et de bas devient purement arbitraire. Une installation modeste peut rapidement devenir un labyrinthe dans lequel on peut facilement se perdre.
 
-C’est aussi là que le principe d’action-réaction devient le plus évident. Donnez une impulsion à un objet et vous-même subissez une poussée dans le sens opposé. Essayez de fermer une écoutille en vous servant de votre poids et vous vous projetterez en arrière. Pour visser quelque chose cramponnez-vous à l’élément fixe ou c’est vous qui tournerez autour du tournevis. Inutile de vous dire qu’un marteau n’est pas aussi simple à employer.
+C’est aussi là que le principe d’action-réaction devient le plus évident. Donnez une impulsion à un objet et vous-même subissez une poussée dans le sens opposé. Essayez de fermer une écoutille en vous servant de votre poids et vous vous projetterez en arrière. Pour visser quelque chose, cramponnez-vous à l’élément fixe ou c’est vous qui tournerez autour du tournevis. Inutile de vous dire qu’un marteau n’est pas aussi simple à employer.
 
-Et lorsque vous vous trouvez dans une installation ou un vaisseau qui effectue une manœuvre, subitement l’accélération de l’appareil se retrouve transformée en une sorte de gravité artificiel pour tout ce qui se trouve dedans, transformant ce tournevis flottant innocemment en un projectile mortel. Accessoirement, les passagers, s’ils ne parviennent pas à s’attacher, risquent eux aussi de devenir de tel projectiles, ou tout du moins d’effectuer une chute vers ce « bas » nouvellement créé.
+Et lorsque vous vous trouvez dans une installation ou un vaisseau qui effectue une manœuvre, subitement l’accélération de l’appareil se retrouve transformée en une sorte de gravité artificielle pour tout ce qui se trouve dedans, transformant ce tournevis flottant innocemment en un projectile mortel. Accessoirement, les passagers, s’ils ne parviennent pas à s’attacher, risquent eux-aussi de devenir de tels projectiles, ou tout du moins d’effectuer une chute vers ce « bas » nouvellement créé.
 
 La situation est différente au sol. Même si aucun autre monde avec une surface solide possède une gravité équivalente à celle de la Terre ou de Vénus, ils en possèdent bien une. Celle-ci plus faible, modifie plusieurs choses :
 * Le poids des objets est proportionnel à la gravité. Par exemple, une masse de 100 kg n’en pèse que 37 sur mars ou 16 sur Callisto. Ceci fait qu’il est plus simple de transporter du matériel lourd dans les colonies. C’est en revanche un facteur de perte musculaire pour les organiques non modifiés.
@@ -61,6 +57,7 @@ La situation est différente au sol. Même si aucun autre monde avec une surface
 >> * **Terre** : 1 g (poids relatif : 100 %, hauteur de saut : ×1)
 >> * **Lune (Terre)** : 0,17 g (poids relatif : 17 %, hauteur de saut : ×5,9)
 >> * **Mars** : 0,38 g (poids relatif : 38 %, hauteur de saut : ×2,7)
+<!-- TODO : Ceres -->
 >> * **Io (Jupiter)** : 0,18 g (poids relatif : 18 %, hauteur de saut : ×5,5)
 >> * **Europe (Jupiter)** : 0,13 g (poids relatif : 13 %, hauteur de saut : ×7,7)
 >> * **Ganymède (Jupiter)** : 0,15 g (poids relatif : 15 %, hauteur de saut : ×6,6)
@@ -90,7 +87,7 @@ De son côté, la préparation de la combinaison demande de vérifier le fonctio
 
 Une fois les préparatifs terminés, l’opération en elle-même peut commencer. Il est intéressant de noter qu’il est déjà arrivé qu’une équipe de civils non formés aient à effectuer une opération extravéhiculaire. Guidé par une équipe distante de spécialistes, ces opérations se sont pour la plupart bien déroulée, mais l’histoire démontre clairement qu’au moindre problème la panique peut remettre complètement la sécurité des opérateurs. De façon générale, envoyer un agent non formé dehors reste et restera un acte désespéré.
 
-C’est principalement dans les situations imprévues, que l’entraînement des astronautes fait la différence entre succès et décès.
+C’est principalement dans les situations imprévues que l’entraînement des astronautes fait la différence entre succès et décès.
 
 ## Enveloppes extravéhiculaires
 
@@ -98,11 +95,11 @@ Comme vous l’avez vu, l’emploi d’une combinaison spatiale est contraignant
 
 Pour ces raisons certains astronautes préfèrent employer des enveloppes capables d’endurer l’environnement spatial sans protection, des enveloppes extravéhiculaires. Ces corps robotiques sont lourdement blindés contre les radiations et possèdent théoriquement une autonomie bien supérieure à celle des combinaisons spatiales. Malgré tout, ces enveloppes doivent quand même être préparée : une défaillance à l’extérieur aura toujours des conséquences potentiellement graves.
 
-Très utilisées par des agents non sentients pour la maintenance et la construction spatiale, ces enveloppes restent peu employées par les astronautes eux-mêmes. Le temps de préparation d’une combinaison reste équivalent à la préparation d’une enveloppe extravéhiculaire et le transfert reste une source pour le mal de l’embodiement qui ajoute un risque de complication supplémentaire. L’entraînement et l’assistance dont bénéficient les astronautes restent très largement suffisants pour accomplir les tâches qui leur sont attribuées.
+Très utilisées par des agents non sentients pour la maintenance et la construction spatiale, ces enveloppes restent peu employées par les astronautes eux-mêmes. Le temps de préparation d’une combinaison reste équivalent à la préparation d’une enveloppe extravéhiculaire et le transfert reste une source pour le mal de l’incarnation qui ajoute un risque de complication supplémentaire. L’entraînement et l’assistance dont bénéficient les astronautes restent très largement suffisants pour accomplir les tâches qui leur sont attribuées.
 
 Et puis, la grande majorité des astronautes choisissent ce métier pour l’aventure qu’il représente.
 
->> Effectuer une sortie avec une enveloppe robotique n’est pas un critère suffisant pour assurer sa survie le temps de l’opération. Les enveloppes extravéhiculaires possèdent un matériel et des composants spécialement étudiés pour survivre au vide, aux radiations et aux différences de températures qu’impose l’environnement spatial. La plupart des robots d’intérieurs cessent de fonctionner en quelques minutes voire secondes s’ils sont sortis de l’enceinte protectrice des installations.
+>> Effectuer une sortie avec une enveloppe robotique n’est pas un critère suffisant pour assurer sa survie le temps de l’opération. Les enveloppes extravéhiculaires possèdent un matériel et des composants spécialement étudiés pour survivre au vide, aux radiations et aux différences de températures qu’impose l’environnement spatial. La plupart des robots d’intérieurs cessent de fonctionner en quelques minutes, voire secondes s’ils sont sortis de l’enceinte protectrice des installations.
 
 ## Les dangers de l’espace
 
@@ -122,8 +119,8 @@ Même sans faire de sortie extravéhiculaire, l’espace peut encore représente
 
 Dans ce dernier cas, la défaillance de la stabilisation atmosphérique est souvent la première cause de danger, associée à la pollution de l’atmosphère, souvent consécutif à un incendie ou la fuite d’un réservoir. La régulation thermique arrive ensuite : un dysfonctionnement du système de dissipation thermique en pleine accélération sur un vol interplanétaire peut provoquer des dégâts impressionnants qu’il faut gérer urgemment. Vient la redoutable fuite du confinement atmosphérique, à savoir un trou dans les cloisons imperméables qui laisse l’air s’échapper, que ce soit le résultat d’un débris ou d’une activité interne à base de projectiles à haute vitesse.
 
-Beaucoup de ces incidents sont aggravés par la propension de l’humain à la panique. Un mouvement de foule peut augmenter le nombre de victime et plus d’un agent s’est déjà lancé dans une salle remplie de fumées irrespirables, armé d’un simple extincteur sans s’être équipé d’un respirateur au préalable. Une grande partie de l’entraînement des astronautes vise justement à mitiger les effets de la panique.
+Beaucoup de ces incidents sont aggravés par la propension de l’humain à la panique. Un mouvement de foule peut augmenter le nombre de victimes et plus d’un agent s’est déjà lancé dans une salle remplie de fumées irrespirables, armé d’un simple extincteur sans s’être équipé d’un respirateur au préalable. Une grande partie de l’entraînement des astronautes vise justement à mitiger les effets de la panique.
 
-Enfin, l’espace est aussi un facteur d’isolement. Les installations orbitales sont situées à des centaines de kilomètres les unes des autres ; un vaisseau interplanétaire sera à des centaines de millions de kilomètre des secours ; même les colonies peuvent être séparées par des centaines ou des milliers de kilomètres. Dans les pires cas, les messages peuvent mettre des dizaines de minutes pour arriver. Dans ces conditions, les agents pris dans un incident ne peuvent véritablement compter que sur eux.
+Enfin, l’espace est aussi un facteur d’isolement. Les installations orbitales sont situées à des centaines de kilomètres les unes des autres ; un vaisseau interplanétaire sera à des centaines de millions de kilomètres des secours ; même les colonies peuvent être séparées par des centaines ou des milliers de kilomètres. Dans les pires cas, les messages peuvent mettre des dizaines de minutes pour arriver. Dans ces conditions, les agents pris dans un incident ne peuvent véritablement compter que sur eux.
 
 >> Il n’est pas toujours nécessaire qu’une catastrophe se produise pour rappeler le danger de l’espace. Un débris peut très bien heurter la coque sans provoquer de dégâts significatifs. C’est même quelque chose d’assez courant sur les orbites chargées des planètes et lunes colonisées. Et c’est aussi pour ça que les installations et vaisseaux possèdent un blindage. En revanche, lorsque cela se produit, ceux présents dans le module entendent l’impact résonner à travers toute la structure…

@@ -25,7 +25,7 @@ Tirant, son inspiration de nombreuses œuvres de science-fiction comme celles de
 Plus précisément, nous nous intéressons à cinq thèmes forts :
 * **Le transhumanisme** ou la transformation de l'humain par la technologie. Dans Solaires, vous incarnerez ces enfants de l'humanité, que ce soit d'anciens humains transformés ou de tout nouveaux êtres ;
 * **Le progrès technologique** et ses conséquences, au-delà des seules implications du transhumanisme. On s'y intéresse principalement à l'éthique et aux limites que l'on peut vouloir imposer ;
-* **La colonisation spatiale**, surtout présente dans le décor du jeu. Il ne faut jamais oublier que l'espace est un environnement intrinsèquement dangereux et qu'il suffit de quelques fractions de secondes pour produire un drame dans un décor ou l'inconnu le dispute à l'inimaginable ;
+* **La colonisation spatiale**, surtout présente dans le décor du jeu. Il ne faut jamais oublier que l'espace est un environnement intrinsèquement dangereux et qu'il suffit de quelques fractions de secondes pour produire un drame dans un décor ou l'inconnu se dispute à l'inimaginable ;
 * **L'héroïsme** et les choix qu'il impose. Nous ne souhaitons pas ici dépeindre un univers cyberpunk qui s'enlise dans une routine malsaine dominé par la finance et où finalement les protagonistes ne sont que des anti-héros tentant d'y survivre. Dans Solaires, les personnages sont confrontés à des choix difficiles et ont les moyens d'avoir un impact à grande échelle ;
 * **Le paradoxe de Fermi**. Dans un univers où les solaires sont sur le point de débuter la colonisation de l'univers, l'absence de toute forme de vie intelligente extraterrestre continue d'alimenter nombre de spéculations.
 
@@ -63,7 +63,7 @@ De nombreux films ensuite, dont *Blade Runner* (Ridley Scott), *Moon* (Duncan Jo
 
 Dans une bien moindre mesure nous avons aussi été inspirés par plusieurs œuvres du genre du super-héros, notamment la série des *X-Men* (Bryan Singer, puis Brett Ratner), la récente trilogie de *Batman* (Christopher Nolan), les *Iron Man* (Jon Favreau), etc.
 
-Enfin, les jeux vidéo ont été aussi une très grande source d'inspiration. En premier lieu, la série des *Deus Ex* (Même le second ! Par Eidos Interactive), mais aussi *System Shock II* (Looking Glass Studios et Irrational Games), *Mass effect* et *Mass effect 2* (BioWare), *Eve Online* (Crowd Control Productions), *Syndicate* (Bullfrog Games), *Freelancer* (Digital Anvil), *Elite Dangerous* (Frontier Developments).
+Enfin, les jeux vidéo ont été aussi une très grande source d'inspiration. En premier lieu, la série des *Deus Ex* (Même le second ! Par Eidos Interactive), mais aussi *System Shock II* (Looking Glass Studios et Irrational Games), *Mass effect* et *Mass effect 2* (BioWare), *Eve Online* (Crowd Control Productions), *Syndicate* (Bullfrog Games), *Freelancer* (Digital Anvil), *Elite Dangerous* (Frontier Developments), *Kerbal Space Program* (Squad), etc.
 
 Mais s'arrêter là, ce serait ignorer l'importance de la recherche et des sciences dans le monde réel. Nous devons aussi louer la NASA, l'ESA, les transhumanistes… Car même s'ils traitent de notre vrai monde, ils ont eu, sans doute aucun, un impact majeur sur ce qu'est devenu *Solaires*. Et puis l'un des auteurs de *Solaires* pourrait facilement être classé parmi les physics nerds…
 
@@ -71,7 +71,7 @@ Concernant, le système de règle, là aussi nous avons tiré notre inspiration 
 
 ## Remerciements
 
-*Solaires* est le fruit de plus de quatorze ans de travail qui a commencé en novembre 2006. Pour autant, je n'ai pas été seul dans cette aventure et je ne saurais jamais trop remercier Morvan : dont les conseils, le soutien, les innombrables corrections et les connaissances scientifiques auront été indispensables.
+*Solaires* est le fruit de plus de vingt ans de travail qui a commencé en novembre 2006. Pour autant, je n'ai pas été seul dans cette aventure et je ne saurais jamais trop remercier Morvan : dont les conseils, le soutien, les innombrables corrections et les connaissances scientifiques auront été indispensables.
 
 J'adresse aussi un grand merci à tous les joueurs et meneurs qui, au cours de cette décennie allongée, sont l'une des principales raisons de mon obstination sur ce projet.
 

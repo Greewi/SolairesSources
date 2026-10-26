@@ -1,6 +1,6 @@
 # La guerre
 
-> « J’ai été conçue pour mettre fin à la guerre. Pas à l’humanité, même si ce problème terrien doit être résolu. »
+> « J’ai été conçue pour mettre fin à la guerre. Pas à l’humanité, même si le problème terrien doit être résolu. »
 >
 > Marth « Iron Lady », leader d’Aesir
 
@@ -64,7 +64,7 @@ En apesanteur, les affrontements prennent une autre dimension, littéralement un
 
 Les effets de la physique sont aussi différents : le recul des armes n’est plus compensé passivement par le poids et la portée pratique des armes de jet est illimitée. Que ce soit en intérieur ou en extérieur, il est toujours nécessaire de s’accrocher à quelque chose sous peine de dériver à la première rafale et si les jet-packs peuvent mitiger ce problème, la maniabilité de ceux-ci fait des imprudents des cibles faciles. En apesanteur, les grenades deviennent aussi des armes extrêmement utiles et un bon lanceur peut les faire rebondir sur les différentes surfaces et atteindre des zones couvertes autrement inaccessibles sans se mettre en danger.
 
-Comme pour tout autre affrontement dans les colonies, les dégâts occasionnés au matériel de l’installation, voire à l’installation elle-même, ont des répercussions tout aussi dangereuses, si ce n’est qu’à l’extérieur un combattant pris dans une explosion n’est pas mis au sol : il dérivera en rotation sur lui-même jusqu’à ce que quelque chose l’en arrête, possiblement par un vaisseau de nettoyage orbital quelques mois plus tard.
+Comme pour tout autre affrontement dans les colonies, les dégâts occasionnés au matériel de l’installation, voire à l’installation elle-même, ont des répercussions tout aussi dangereuses, si ce n’est qu’à l’extérieur un combattant pris dans une explosion n’est pas mis au sol : il dérivera en rotation sur lui-même jusqu’à ce que quelque chose l’en arrête, possiblement un vaisseau de nettoyage orbital quelques mois plus tard.
 
 ## Batailles spatiales
 
@@ -108,4 +108,4 @@ Nous avons beaucoup traité de la guerre conventionnelle, mais il existe une aut
 
 Cette guerre est menée par les services secrets, les services d’espionnage industriel des plus grandes sociétés et les groupes de mercenaires. Leurs opérations prennent la forme de l’espionnage industriel, de sabotages, d’enlèvements, d’assassinats et d’autres opérations clandestines. Officiellement dénoncées par les corporations, ces opérations sont traitées comme du terrorisme. Malgré tout, les corporations prennent elles-mêmes part à cette guerre invisible de façon occasionnelle.
 
-Les enjeux restent toutefois limités et les acteurs impliqués font de leur mieux pour limiter les dégâts collatéraux et éviter de se retrouver sous le projecteur des autorités. Il n’est donc pas surprenant d’apprendre que la plupart des solaires considèrent ces actions comme rares et anecdotiques. Seules les plus graves des incidents sont ouvertement commentés et des dizaines d’incidents passent sous le radar du grand public.
+Les enjeux restent toutefois limités et les acteurs impliqués font de leur mieux pour limiter les dégâts collatéraux et éviter de se retrouver sous le projecteur des autorités. Il n’est donc pas surprenant d’apprendre que la plupart des solaires considèrent ces actions comme rares et anecdotiques. Seules les plus graves des incidents sont ouvertement commentés et plus d'une dizaine d’incidents passent sous le radar du grand public chaque mois.

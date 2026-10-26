@@ -1,12 +1,8 @@
 # Les psions
 
-> *« Comment le sais-tu ? »*
+> *« Comment le sais-tu ? »* - *« Comme ça ! »*
 >
-> Trend, Solar Wardner
->
-> *« Comme ça ! »*
->
-> Nightly, justicière psion
+> Trend, Solar Wardner, et Nightly, justicière psion
 
 Certains personnages, les psions, possèdent un implant très particulier : l’implant psi. Celui-ci octroie des pouvoirs formidables et encore considérés comme surnaturels.
 
@@ -38,14 +34,14 @@ Par précaution, toutes les enveloppes psions sont fichées et surveillées pass
 
 * **2207 – Disparition de l’Hemera** : Un vaisseau de transport de matériel disparaît mystérieusement en plein vol alors qu’il effectuait la liaison Terre-Mars avec ses cinq membres d’équipage. Si la disparition reste relativement discrète à l’époque, HIARTech déploie des moyens importants pour retrouver son vaisseau.
 * **2215 (I) – Récupération de l’Hemera** : le vaisseau disparu depuis huit ans est enfin retrouvé. L’appareil, sur une orbite très inclinée, est récupéré à son passage sur le plan de l’écliptique. Dès les premières investigations, des anomalies sont relevées : le vaisseau est éteint et l’équipage mort, pourtant les réserves du vaisseau sont encore suffisantes et aucune avarie n’est à déplorer. Même le phénomène de décomposition n’a pas commencé. HIARTech rapatrie le vaisseau sur Mars et concentre ses efforts sur le mystère.
-* **2216 (S) – Implant psi** : si la disparition d’Hemera restera un mystère complet, la découverte d’un organite particulier dans les cellules nerveuses de l’un des passagers donnera un nouveau ton à l’affaire. N’ayant pu être fabriqué par le vivant, l’origine synthétique de cet organite ne fait aucun doute. Il faudra un an et de nombreux essais pour comprendre qu’il permet d’octroyer des pouvoirs quasi surnaturels.
+* **2216 (S) – Implant psi** : si la disparition de l’Hemera restera un mystère complet, la découverte d’un organite particulier dans les cellules nerveuses de l’un des passagers donnera un nouveau ton à l’affaire. N’ayant pu être fabriqué par le vivant, l’origine synthétique de cet organite ne fait aucun doute. Il faudra un an et de nombreux essais pour comprendre qu’il permet d’octroyer des pouvoirs quasi surnaturels.
 * **2224 (I) – Lien entre l’esprit et l’implant psi** : s’il était déjà acquis que l’implant psi avait besoin d’un esprit sentient pour fonctionner, une relation plus forte entre l’esprit et l’implant est découverte. Alors qu’on considérait que l’attribution des pouvoirs était aléatoire, les récents essais démontrent que la psyché du psion défini l’ensemble des pouvoirs accessibles.
 * **2231 (G) – Développement de l’implant psi** : avec la nouvelle situation de la guerre, Mars décide de produire un grand nombre d’agents disposant de l’implant pour les employer sur le terrain. Ces spécialistes offrent en effet de nouvelles options tactiques. Par la même occasion, les effectifs des Solar Wardners sont renforcés d’un nombre conséquent de ces psions.
 * **2234 (I) – Recalibration de l’implant psi** : le professeur Dorthown parvient à mettre au point un protocole de recalibration pour permettre de choisir les pouvoirs octroyés par l’implant. Ce protocole nécessite toutefois d’altérer considérablement la façon de penser du psion et est donc peu utilisé.
 
 ## Les ensembles de pouvoir
 
-Il n’existe qu’une seule variété d’implant psi. La moindre modification dans la structure moléculaire de ses composants ou dans son organisation surprime complètement ses capacités. Pour autant, chaque porteur de l’implant n’a accès qu’a un sous-ensemble des pouvoirs recensés et ces sous-ensembles semblent clairement définis et exclusifs. Ainsi, six ensembles ont été découverts et ont été nommés en fonction du thème des pouvoirs qui y sont associés : Biologie, Énergie, Espace, Information, Matière et Méta.
+Il n’existe qu’une seule variété d’implant psi. La moindre modification dans la structure moléculaire de ses composants ou dans son organisation supprime complètement ses capacités. Pour autant, chaque porteur de l’implant n’a accès qu’a un sous-ensemble des pouvoirs recensés et ces sous-ensembles semblent clairement définis et exclusifs. Ainsi, six ensembles ont été découverts et ont été nommés en fonction du thème des pouvoirs qui y sont associés : Biologie, Énergie, Espace, Information, Matière et Méta.
 
 Si ce n’est pas la nature de l’implant qui définit l’ensemble de pouvoir accessible, les recherches ont mis en évidence le lien entre le caractère du psion et ces ensembles de pouvoir. Par exemple, un psion orgueilleux aura très probablement accès à l’ensemble appelé « Matière ». Ainsi, chaque ensemble de pouvoir correspond à un certain nombre de traits de caractères ou comportementaux. Dans le cas où un psion pourrait être éligible à plusieurs ensembles de pouvoir, il semble que seul son trait de caractère le plus prononcé soit pris en comptes.
 

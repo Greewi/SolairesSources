@@ -42,7 +42,7 @@ Comment, au sein d’une pièce bondée, deux espions peuvent-ils s’échanger 
 
 Ces logiciels permettent après une période de calibration commune, de converser de façon rapide et transparente en employant uniquement des petits gestes ne reposant sur aucune convention extérieure. Le protocole est généralement fourni sous la forme d’une clé de cryptage, mais il est aussi possible d’effectuer une synchronisation automatique à proximité lors du briefing de la mission.
 
-La calibration très courte sert principalement à s’assurer que gestes seront correctement reproduits et interprété. Il n’est pas nécessaire de la refaire en cas de changement de protocole.
+La calibration très courte sert principalement à s’assurer que les gestes seront correctement reproduits et interprété. Il n’est pas nécessaire de la refaire en cas de changement de protocole.
 
 >> ### Logiciels de communication informelle
 >> * Accès : en vente libre ;
@@ -148,7 +148,7 @@ Notez qu’il existe des logiciels de pilotage pour tous les types de véhicules
 
 Opérer des attaques informatiques requiert une méthodologie très particulière et surtout une capacité à envoyer des ordres électroniques extrêmement rapidement. Il est aussi nécessaire de connaître des failles de sécurité sur la machine pour pouvoir y effectuer la moindre opération.
 
-Les logiciels de piratages sont spécialement conçus pour remplir ces deux missions. Exploitant des intelligences artificielles fortes spécialisées, ils sont capables d’effectuer de rechercher et de découvrir de nouvelles failles pour pénétrer dans n’importe quel serveur traditionnel. Les systèmes informatiques ont en effet atteint une telle complexité qu’il est devenu très coûteux d’en corriger toutes les failles. Bien plus coûteux que d’employer une glace et ce de plusieurs ordres de grandeur. Contre une glace en revanche, les logiciels de piratage ne sont d’aucune utilité.
+Les logiciels de piratages sont spécialement conçus pour remplir ces deux missions. Exploitant des intelligences artificielles fortes spécialisées, ils sont capables de rechercher et découvrir de nouvelles failles pour pénétrer dans n’importe quel serveur traditionnel. Les systèmes informatiques ont en effet atteint une telle complexité qu’il est devenu très coûteux d’en corriger toutes les failles. Bien plus coûteux que d’employer une glace et ce de plusieurs ordres de grandeur. Contre une glace en revanche, les logiciels de piratage ne sont d’aucune utilité.
 
 Les logiciels de piratages ne peuvent pas être exécutés sur un processeur classique et requièrent un processeur quantique qu’on retrouve dans la plupart des consoles de décryptages et certains cerveaux cybernétiques.
 
@@ -184,7 +184,7 @@ La première méthode est la plus furtive, mais elle ne permet que l’envoi d�
 
 La seconde méthode est la plus offensive et aussi discrète que d’ouvrir le feu dans un commissariat. Le brise-glace ouvre une brèche directement dans la glace pour la neutraliser déclenchant au passage toutes les sécurités qui lui sont attachées : généralement cela prévient le propriétaire du nœud et commande l’extinction du serveur. Si la glace a survécu, elle peut être en mesure de déclencher une contre-attaque si le serveur a été militarisé. En revanche, cette méthode demande un apprentissage très court de l’ordre de quelques secondes.
 
-Certains brise-glaces ont été conçus pour un type de glace très précis, voire celle d’un serveur en particulier. Ils sont souvent considérés comme des logiciels à usage unique : une fois la glace remise de l’attaque, elle aura évolué et sera insensible à ces logiciels dédiés. De façon générale, une fois une glace rétablie, il est nécessaire pour le brise-glace de recommencer la totalité de l’apprentissage.
+Certains brise-glaces ont été conçus pour un type de glace très précis, voire celle d’un serveur en particulier. Ils sont souvent considérés comme des logiciels à usage unique : une fois la glace remise de l’attaque, elle aura évolué et sera insensible à ces logiciels dédiés. De façon générale, une fois une glace rétablie, il est nécessaire tout brise-glace de recommencer la totalité de l’apprentissage.
 
 Comme les logiciels de piratages, les brise-glaces ne peuvent pas être exécutés sur un processeur classique et requièrent un processeur quantique qu’on retrouve dans la plupart des consoles de décryptages et certains cerveaux cybernétiques.
 
