@@ -1,4 +1,3 @@
-----
 # Nevi
 
 La grande tour de verre et d'acier à la façade partiellement végétalisée se dresse devant eux. Mellandro Elmeth, et Fatima Nguyen, agents de l'ONU détachés par la commission de prévention des risques technologiques, traversent l'esplanade.
@@ -27,9 +26,7 @@ Malgré tout, les avocats s'apprêtent à ouvrir le bal des doléances et points
 
 Ne jamais laisser le temps au camp adverse de s'organiser répète-t-elle régulièrement à son collègue… Avec ses méthodes directes et son refus de négocier a priori, elle a acquis la réputation d'être encore moins humaine que les IA que son service traque.
 
-> ***
-
-----
+***
 
 Dans un relatif silence, les deux agents, accompagnés de leur cohorte légale, parviennent au bureau de l'informaticienne. Placé dans un coin discret de l'open-space, son poste bénéficie de l'intimité supplémentaire de plusieurs jardinières accrochées à la cloison séparatrice.
 
@@ -49,7 +46,7 @@ Mellandro l'imite et sort ses propres lunettes et commence la procédure d'insta
 
 Devant eux, dans l'espace virtuel, attend une petite créature au pelage roux, assise dans la corbeille. Un tag RA est attaché à la bête virtuelle : « Nevi ».
 
-> ***
+***
 
 L'un des avocats avait essayé de prévenir le « service de nettoyage » mais il s'était heurté au brouillage mis en place par les onusiens. Comment a-t-il pu négliger le fait que les deux agents ont l'habitude de ce type d'enquête et l'entraînement pour ? Se considérait-il meilleur que les autres types pris la main dans le sac auparavant ?
 
@@ -67,7 +64,7 @@ De retour à leur hôtel après avoir inspecté les serveurs et l'infrastructure
 
 Elle n'a pas tort. Leur visite au cœur de l'infrastructure de Soccodeck leur aura permis de comprendre le fonctionnement de l'application. Chaque créature n'existe effectivement que sur les serveurs de la société, où elles sont générées et animées. Les données visuelles, auditives et interactives sont ensuite envoyées sur les appareils des utilisateurs. Avec l'identifiant de Nevi, il sera possible de retrouver où sont enregistrées ses données, et peut-être même de retrouver des informations sur les circonstances de la mort de sa propriétaire.
 
-> ***
+***
 
 La soirée est déjà bien entamée. De leur chambre, Mellandro observe la cité éclairée de mille feux. Le ciel est baigné dans une aura légèrement orangée qui se reflète sur la couche ininterrompue de nuages. Voulant étudier l'application de Soccodeck avec une approche moins technique, il s'est équipé de son link et observe les alentours à la recherche de ces petites créatures.
 
@@ -115,7 +112,7 @@ D'un petit geste mal assuré, il lui donne. L'être artificielle esquisse alors 
 
 « Et merde ! », lance Fatima.
 
-> ***
+***
 
 Poursuivant leur chimère intangible, ils traversent la grande cité au pas de course. Malgré la vitesse de déplacement limitée de la petite créature, les deux agents peinent à la suivre : il est, en effet, moins grave de passer au travers d'une voiture, ou d'un bus, en étant parfaitement immatériel.
 
@@ -155,7 +152,7 @@ Alors que Mellandro se retourne à son tour plusieurs dizaines des créatures di
 
 La complainte s'arrête peu après.
 
-> ***
+***
 
 Le soleil se lève à peine et la plupart des employés dorment encore lorsque les deux agents débarquent devant le bâtiment de la ferme de calcul principal.
 
@@ -217,7 +214,7 @@ Entre deux convulsions de douleur, la technicienne abattue demande : « Mel'�
 
 Une convulsion la secoue une dernière fois, un peu de sang coule du coin de la lèvre. L'agent étreint sa collègue inanimée.
 
-> ***
+***
 
 Par le courroux des toutes puissantes Nations Unies, Soccodeck ferma. Son matériel informatique fit l'objet d'une destruction systématique, ses dirigeants traduits en justices et contraints à l'oubli.
 
@@ -229,7 +226,7 @@ Le soir de l'assaut de Soccodeck, Mellandro l'avait retrouvé dans la poche gauc
 
 Dans les colonies, pinacles de ces technologies honnies, on trouverait certainement un moyen d'en faire plus qu'un souvenir… Pourquoi pas ? De toute façon, sur Terre, il lui reste trop de mauvais souvenirs. Et ça permettra de sortir Esteban de cette Terre toxique et voir les étoiles…
 
-> **FIN**
+**FIN**
 
 [1] : Réalité augmentée : superposition d'une couche de réalité virtuelle par-dessus la réalité, pour ajouter notamment des informations supplémentaires ou, comme ici, de nouveaux éléments.
 

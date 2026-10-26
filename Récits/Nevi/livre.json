@@ -1,27 +1,23 @@
 {
-    "titre": "Solaires - Nevi",
-    "auteur": "Sylvain « Greewi » Dumazet",
-    "description": "Nouvelle de science-fiction",
+    "title": "Solaires - Nevi",
+    "author": "Sylvain « Greewi » Dumazet",
+    "cover": ["Couverture.png", "Couverture.pdf"],
+    "description": "Roman de science-fiction",
     "structure": [
-        {
-            "source": "Couverture.png",
-            "style": "couverture",
-            "niveau": 1
-        },
         {
             "source": "Introduction.md",
             "style": "recit",
-            "niveau": 1
+            "level": 1
         },
         {
             "source": "0 - Avant propos.md",
             "style": "recit",
-            "niveau": 2
+            "level": 2
         },
         {
             "source": "1 - Nevi.md",
             "style": "recit",
-            "niveau": 2
+            "level": 2
         }
     ]
 }

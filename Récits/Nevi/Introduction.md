@@ -3,8 +3,8 @@
 > Sylvain « Greewi » Dumazet
 > 
 > Version 1.0
->
-> Remerciements spéciaux à Morvan
+
+Remerciements spéciaux à Morvan
 
 *Depuis les premières IA fortes, le suicide d'un développeur d'IA n'est plus anodin : il restera toujours le doute : est-ce que quelque chose se promène dans les coins sombres du réseau ?*
 

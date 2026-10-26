@@ -4,25 +4,30 @@ Voici plusieurs récits, nouvelles, romans, et même un début de BD, illustrant
 
 >> ### Ordre de lecture
 >>
->> Les récits de Solaires ne se suivent pas directement et si des personnages passent de l'un à l'autre, il est possible de les lire dans n'importe quel ordre. Pour autant, certains préféreront les lire dans l'ordre chronologique, d'autres dans l'ordre de lecture. Pour vous aider voici quelques infos.
+>> Les récits de Solaires ne se suivent pas directement et si des personnages passent de l'un à l'autre, il est possible de les lire dans n'importe quel ordre. Pour autant, certains préféreront les lire dans l'ordre chronologique, d'autres dans l'ordre d'écriture. Pour vous aider voici quelques infos.
 >>
 >> Ordre chronologique (date approximative dans l'univers) :
->> * *Nevi* (novembre 2077) ;
->> * *Idle* (septembre-octobre 2091) ;
->> * *Le puits interdit* (février 2093) ;
->> * *Virgile* (avril 2093) ;
->> * *Émergence* (principalement août 2093) ;
->> * *Les invisibles* (septembre 2093) ;
->> * *Nouveaux dieux* (février 2094).
+>> * *Nevi* (novembre 2077, mars 2214) ;
+>> * *Idle* (septembre-octobre 2091, septembre 2236) ;
+>> * *Le puits interdit* (février 2093, février 2237) ;
+>> * *Virgile* (avril 2093, avril 2237) ;
+>> * *Émergence* (principalement août 2093, août 2237) ;
+>> * *Les invisibles* (septembre 2093, septembre 2237) ;
+>> * *La jungle mécanique* (septembre 2237) ;
+>> * *Le dragon de Callisto* (octobre 2237) ;
+>> * *Nouveaux dieux* (février 2094, novembre 2237).
+>> * Note : les dates données correspondent respectivement à celle de la version 4 et de la version 5 de solaires. À terme, les références à la version 4 seront supprimée. <!-- TODO V5 -->
 >> 
->> Ordre d'écriture (date d'écriture) :
+>> Ordre d'écriture (date d'écriture du premier jet) :
 >> * *Le puits interdit* (novembre 2014) ;
 >> * *Nevi* (décembre 2015) ;
 >> * *Idle* (mai 2017) ;
 >> * *Nouveaux dieux* (novembre 2017) ;
 >> * *Virgile* (août 2018) ;
->> * *Émergence* (novembre 2018).
+>> * *Émergence* (novembre 2018) ;
 >> * *Les invisibles* (novembre 2019) ;
+>> * *Le dragon de Callisto (novembre 2021 ?) ;
+>> * *La jungle mécanique* (novembre 2025).
 >>
 >> Dans quel ordre, j'en conseille la lecture ? Je vous propose de commencer par Virgile puis de suivre l'ordre chronologique.
 
@@ -115,6 +120,23 @@ Fichiers :
 * [Format PDF (1.2mo, v1.0)](Récits/solaires_emergence.pdf)
 * [Format EPUB (0.5mo, v1.0)](Récits/solaires_emergence.epub)
 * [Format MOBI (0.5mo, v1.0)](Récits/solaires_emergence.mobi)
+
+## Le dragon de Callisto (Roman)
+
+![ Couverture du roman Le dragon de Callisto](Récits/solaires_le_dragon_de_callisto_150.png)
+
+*De Sylvain "Greewi" Dumazet*
+
+Alors qu’une pilote martienne se retrouve embarquée à contre-cœur dans un inquiétant complot, une enquêtrice du plus prestigieux corps d’investigation s’attaque à une nouvelle affaire. Privées d’autre adversaire, les puissantes colonies des solaires vont devoir faire face à un ennemi venu de l’intérieur.
+
+Ce roman est issu de ma participation au NaNoWriMo 2020, un concours d’écriture qui consiste à écrire un roman de 50 000 mots en un mois, du 1er novembre au 30. Il ne s’agit pas d’une compétition et gagnent tous ceux qui ont atteint le nombre de mots fatidiques. Il s’agit de mon cinquième roman.
+
+Ce roman prend place dans l’univers de *Solaires* et s’inscrit chronologiquement entre les romans *Émergence* et *Nouveaux dieux* (et donc en parallèle de *Les invisibles*). Il n’est toutefois pas nécessaire de lire ces autres textes pour profiter de celui-ci.
+
+Fichiers : 
+* [Format PDF (1.2mo, v1.0)](Récits/solaires_le_dragon_de_callisto.pdf)
+* [Format EPUB (0.5mo, v1.0)](Récits/solaires_le_dragon_de_callisto.epub)
+* [Format MOBI (0.5mo, v1.0)](Récits/solaires_le_dragon_de_callisto.mobi)
 
 ## Les invisibles (Roman)
 
