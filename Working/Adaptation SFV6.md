@@ -103,22 +103,22 @@ Informations descriptives :
 * 4, Expert/maître : votre personnage est l’un des meilleurs de sa génération.
 
 Modifications : représente les modifications cybernétiques (cyberware), organiques (wetware) ou hyper-hybride de l'enveloppe du personnage.
-* 0, Banale : une modification sans importance.
-* 1, Légère : une modification dont l'impact est relativement subtile.
+* 0, Caduque : une modification à peine utilisable ou qui n'apporte aucun bénéfice.
+* 1, Dépassée : une modification qui accuse son âge et qui ne peut plus rivaliser avec le matériel moderne.
 * 2, Significative : une modification qui améliore considérablement les capacités du personnage.
 * 3, Importante : une modification qui permet d'accomplir des actions surhumaines.
 * 4, Ultime : une modification qui rend des domaines complètement triviaux.
 
 Équipement : représente le matériel notable de votre personnage.
-* 0, Banal : du matériel sans importance.
-* 1, Gadget : du matériel simple que le grand nombre possède.
+* 0, Caduque : du matériel à peine utilisable ou qui n'apporte aucun bénéfice.
+* 1, Dépassé : du matériel qui accuse son âge et qui ne peut plus rivaliser avec le matériel moderne.
 * 2, Entrée de gamme : du matériel de qualité moyenne qui reste simple d'accès.
 * 3, État de l'art : du matériel à la pointe de la technologie, utilisé par les professionnels.
 * 4, Prochaine génération : un prototype qui surclasse le matériel similaire qui est en service.
 
 Logiciel : représente les logiciels installés dans l'enveloppe de votre personnage ou qui sont associés à son motif.
-* 0, Banal : un logiciel sans importance.
-* 1, Gadget : un logiciel simple que le grand nombre possède.
+* 0, Caduque : un logiciel à peine utilisable qui n'apporte aucun bénéfice.
+* 1, Dépassé : un logiciel qui accuse son âge et qui ne peut plus rivaliser avec le matériel moderne.
 * 2, Entrée de gamme : un logiciel de qualité moyenne qui reste simple d'accès.
 * 3, État de l'art : un logiciel à la pointe de la technologie, utilisé par les professionnels.
 * 4, Prochaine génération : un prototype de logiciel qui surclasse ceux en service.
@@ -293,7 +293,7 @@ Réussites :
 * **Réussite de justesse (double)** : l'action réussit avec une contrepartie négative.
 
 Échecs :
-* **Désastre (triple)** : l'action réussit avec un effet négatif supplémentaire.
+* **Désastre (triple)** : l'action échoue avec un effet négatif supplémentaire.
 * **Échec ordinaire (ni triple, ni double)** : l'action échoue simplement.
 * **Échec de justesse (double)** : l'action échoue avec une contrepartie positive.
 
